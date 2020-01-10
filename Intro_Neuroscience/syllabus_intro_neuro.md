@@ -29,7 +29,7 @@ The ultimate goal of this course is to give you a chance to enjoy neuroscience.
 
 In practice, it means that by the end of this course, I want you to be able to slowly read a modern neuroscience paper. It won't be easy, as this field is highly specialized, but I want you to reach a point at which you could make it through a paper in a day or two.
 
-And this means that by the end of the course you should:
+And in turn, this means that by the end of the course you should:
 
 * Understand and be able to explain several key neuroscience concepts
 * Get better in navigating, reading, and analyzing science papers
@@ -86,7 +86,7 @@ At the same time, for most assignments, collaboration and team work are heavily 
 
 # Snow policy
 
-During heavy weather classes are tied to the activity of Bard shuttle. If the shuttle is cancelled, the classes are also cancelled. If shuttle service is restored, and we have time to react, the class is typically held. If there is a risk of shuttle cancellation, make sure to frequently check Piazza (or email as a back-up).
+During heavy weather classes are tied to the activity of Bard shuttle. If the shuttle is canceled, the classes are also canceled. If shuttle service is restored, and we have time to react, the class is typically held. If there is a risk of shuttle cancellation, make sure to frequently check Piazza (or email as a back-up).
 
 # Weekly Schedule
 
@@ -177,7 +177,7 @@ Action potential
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s1/chapter02.html
 - http://faculty.washington.edu/chudler/ap.html
 - https://www.youtube.com/watch?v=90cj4NX87Yk
-- Death by coconut: https://drive.google.com/file/d/1wFqm-Uajp_qE4lWZhXGXu-sp0VcMUDYy/view
+- Death by coconut: Hakimian, J., Goldbarg, S. H., Park, C. H., & Kerwin, T. C. (2014). Death by coconut. Circulation: Arrhythmia and Electrophysiology, 7(1), 180-181. [Google Drive Link](https://drive.google.com/file/d/1wFqm-Uajp_qE4lWZhXGXu-sp0VcMUDYy/view)
 - On pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
 - On pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
 - A video on how pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
