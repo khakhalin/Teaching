@@ -4,13 +4,10 @@
 
 ## General info
 
-·     **Instructor:** Arseny Khakhalin; [khakhalin@bard.edu](mailto:khakhalin@bard.edu) 
-
-·     **Class meetings**: ...
-
-·     **Drop-in hours** (aka "office hours"): ...
- If you have a short question, also feel free to just stop by when the door is open! 
- And if you have a long question, let me know, and we can schedule a meeting!
+- **Instructor:** Arseny Khakhalin; [khakhalin@bard.edu](mailto:khakhalin@bard.edu) 
+- **Class meetings**: ___
+- **Drop-in hours** (aka "office hours"): ___
+   If you have a short question, also feel free to just stop by when the door is open!  And if you have a long question, let me know, and we can schedule a meeting!
 
 The main way of communication for this course is the [**Piazza** discussion board](https://piazza.com/). It's a sort of a dedicated forum created specifically for this course (a curious mix between facebook, reddit, quora, and stackexchange). By default it will also send updates to your emails, but I believe you can tune these updates to your liking, in the preferences. 
 
