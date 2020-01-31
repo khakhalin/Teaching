@@ -90,7 +90,7 @@ For the full list of readings, see The Appendix 1 below.
 | 5    | 24, 26     | Predator-prey agent-based. P(extinction). Cost of sexual reproduction. Parameter search (for most commotion): grid based or optimization. |              |
 | 6    | Mar 2, 4   | Allele frequency, gene drift (P allele extinction). Effects of sexual reproduction. |              |
 | 7    | 9, 11      | Selection, and effects of sexual reproduction on allele diversity. Effects of preferential mating. |              |
-| 8    | 16, 18     | TBC: speciation? Genetic algorithms?                         |              |
+| 8    | 16, 18     | TBC: speciation? Genetic algorithms? Come up with a new small project together, as a group? |              |
 | 9    | 23, 25     | SPRING BREAK, no classes                                     |              |
 | 10   | 30, Apr 1  | Network construction and analysis. Random, preferential attachment, small world, degree distribution, centrality. |              |
 | 11   | 6, 8       | Pandemics on a network. Herd immunity.                       |              |
@@ -100,11 +100,15 @@ For the full list of readings, see The Appendix 1 below.
 | 15   | 4, 6       | No classes (Biology Boards Week)                             |              |
 | 16   | 11, 13     | Project Presentations (Completion week officially starts 13) |              |
 
+Ideas for events and assignments that may or may not happen:
+
+* A week when we come up with a model idea all together as a group?
+
 Sample ideas for personal projects:
 
 * Effects of habitat fragmentation
 * 3-species situation (cabbage, rabbits, foxes)
-* Seeking or avoidance behavior for agents
+* Effects of seeking or avoidance behavior in agents
 * Analysis of spatial and temporal waves in population models
 * Evolutionary algorithm or direct optimization for some parameters
 
