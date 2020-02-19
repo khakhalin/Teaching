@@ -81,36 +81,33 @@ During heavy weather classes are tied to the activity of Bard shuttle. If the sh
 
 For the full list of readings, see The Appendix 1 below.
 
-| Week | **Dates**  | Topic                                                        | Reading      |
-| ---- | ---------- | ------------------------------------------------------------ | ------------ |
-| 1    | Jan 27, 29 | Intro. Jupyther. Python basics (all but objects). Numpy, Matplotlib. Incremental development. GitKraken and GitHub. Simple models. | Think Python |
-| 2    | Feb 3, 5   | Logistic growth. Numerical integration. Model parameters, qualitative answers. Chaos. Sensitivity to starting conditions. |              |
-| 3    | 10, 12     | Predator-prey ODEs (Lotka–Volterra).                         |              |
-| 4    | 17, 19     | Agents. Objects. Model for Mark-and-Recapture. Effects of geometry. |              |
-| 5    | 24, 26     | Predator-prey agent-based. P(extinction). Cost of sexual reproduction. Parameter search (for most commotion): grid based or optimization. |              |
-| 6    | Mar 2, 4   | Allele frequency, gene drift (P allele extinction). Effects of sexual reproduction. |              |
-| 7    | 9, 11      | Selection, and effects of sexual reproduction on allele diversity. Effects of preferential mating. |              |
-| 8    | 16, 18     | TBC: speciation? Genetic algorithms? Come up with a new small project together, as a group? |              |
-| 9    | 23, 25     | SPRING BREAK, no classes                                     |              |
-| 10   | 30, Apr 1  | Network construction and analysis. Random, preferential attachment, small world, degree distribution, centrality. |              |
-| 11   | 6, 8       | Pandemics on a network. Herd immunity.                       |              |
-| 12   | 13, 15     | Effects of assortative friendship. Strategic vaccination.    |              |
-| 13   | 20, 22     | tbc                                                          |              |
-| 14   | 29         | No class on 27 (Advising day). 29 is a sproj day. Declare projects (peer-review)? |              |
-| 15   | 4, 6       | No classes (Biology Boards Week)                             |              |
-| 16   | 11, 13     | Project Presentations (Completion week officially starts 13) |              |
-
-Ideas for events and assignments that may or may not happen:
-
-* A week when we come up with a model idea all together as a group?
+| Week | **Dates**  | Topics                                                       |
+| ---- | ---------- | ------------------------------------------------------------ |
+| 1    | Jan 27, 29 | Intro. Jupyther. Python basics (all but objects). Numpy, Matplotlib. Incremental development. GitKraken and GitHub. Simple models. |
+| 2    | Feb 3, 5   | Logistic growth. Numerical integration. Model parameters, qualitative answers. Chaos. Sensitivity to starting conditions. |
+| 3    | 10, 12     | Predator-prey ODEs (Lotka–Volterra).                         |
+| 4    | 17, 19     | Agents. Random money transfer game. More numpy.              |
+| 5    | 24, 26     | Traffic jam model. Objects. Mark-and-Recapture model. Toroidal vs enclosure; square vs elongated. |
+| 6    | Mar 2, 4   | Predator-prey agent-based. P(extinction). Parameter search: grid based or optimization. |
+| 7    | 9, 11      | Allele frequency, gene drift (P allele extinction).          |
+| 8    | 16, 18     | Selection,  sexual reproduction, allele diversity. Effects of preferential mating? Speciation? |
+| 9    | 23, 25     | SPRING BREAK, no classes                                     |
+| 10   | 30, Apr 1  | Network construction and analysis. Random, preferential attachment, small world, degree distribution, centrality. |
+| 11   | 6, 8       | Pandemics on a network. Herd immunity.                       |
+| 12   | 13, 15     | Effects of assortative friendship. Strategic vaccination.    |
+| 13   | 20, 22     | tbc                                                          |
+| 14   | 29         | No class on 27 (Advising day). 29 is a sproj day. Declare projects (peer-review)? |
+| 15   | 4, 6       | No classes (Biology Boards Week)                             |
+| 16   | 11, 13     | Project Presentations (Completion week officially starts 13) |
 
 Sample ideas for personal projects:
 
 * Effects of habitat fragmentation
 * 3-species situation (cabbage, rabbits, foxes)
-* Effects of seeking or avoidance behavior in agents
+* Effects of fancy behaviors (seeking, avoidance) in agents
 * Analysis of spatial and temporal waves in population models
-* Evolutionary algorithm or direct optimization for some parameters
+* Evolutionary algorithms 
+* Direct optimization of some parameter in a complex model
 
 # Appendix 1. Readings
 
@@ -127,57 +124,25 @@ Week 2. Logistic growth. Numerical integration. Model parameters, qualitative an
 Week 3. Predator-prey ODEs (Lotka–Volterra)
 
 * Think Python, chapters on Strings (just in case), Lists, Dictionaries, Tuples
+* A bunch of articles from Wikipedia:
+  * [https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations](https://en.wikipedia.org/wiki/Lotka–Volterra_equations)
+  * https://en.wikipedia.org/wiki/Phase_space
+  * https://en.wikipedia.org/wiki/Phase_portrait
+  * https://en.wikipedia.org/wiki/Dynamical_system
 
-Week 4. Agents. Objects. Model for the Mark-and-Recapture procedure. Effects of enclosure geometry.
+Weeks 4-5. Agents. Random money transfer game. Traffic jams.
 
-* Introduction to the philosophy of agent modeling (TBC, not vetoed yet): http://epubs.surrey.ac.uk/1580/1/fulltext.pdf
-* Think Python, chapters on Classes and objects, Classes and functions, Classes and methods. The rest of the book (3 more chapters) are optinal, but nice to have.
-* Description of the Mark-and-Recapture: https://en.wikipedia.org/wiki/Mark_and_recapture
-  (Feel free to google more math behind it, I'm sure there's more out there)
+* The parable of Polygons: https://ncase.me/polygons/ - it's an interactive simulation, with pieces that you can interact with interspersed with text, which allows its author to introduce different aspects of the stimulation step by step. Read it carefully, go through all exercises.
+* We won't be doing the segregation model (Schelling model) in class, but still think for a few minutes about how you would have modeled it. What would be the structure of your code? What would be the logic?
 
-# Appendix 2. In-class notes and activities
+Week 6. Objects. Model for the Mark-and-Recapture procedure. Effects of enclosure geometry.
 
-Week 1. Intro
+* Description of the Mark-and-Recapture: https://en.wikipedia.org/wiki/Mark_and_recapture .  (Feel free to google more math behind it, I'm sure there's more useful stuff out there!)
+* On agent-based modeling, from "The Nature of Code" by Daniel Shiffman (skip Java code, but get the main motivation)
+  * [Chapter 4, on particle systems](https://natureofcode.com/book/chapter-4-particle-systems/)
+  * [Chapter 6, on autotonomous agents](https://natureofcode.com/book/chapter-6-autonomous-agents/) (he uses steering vehicles as an example)
 
-* Technical concepts
-  * Jupyter, how to work with cells.
-  * Elementary python. Variables, lists. Loops. Conditions. Simple output. 
-  * Markdown
-  * Github and Gitkraken.
-  * Numpy. Vectorized operations. Differences between numpy objects and lists.
-  * Copying by reference and deep copying.
-  * Functions.
-  * Matplotlib.
+* "Think Python" book, chapters on Classes and objects, Classes and functions, Classes and methods. The rest of the book (3 last chapters) are optional, but nice to have.
 
-* Possible simple assignments:
-  * Birthday paradox
-    * First numerically
-    * Then test by sampling, and plot on the same plot
-  * Collatz conjecture: first build some plots, then find longest path under 100 and visualize it
-  * Random walk: betting 1 at a time, starting at 10, probability of outcomes after N bets (build a histogram)
-  * The one with a triangle and moving to corners?
-
-Week 2. Logistic growth. Numerical integration. Model parameters, qualitative answers. Chaos. Sensitivity to starting conditions.
-
-* Idea of numerical integration. Movement of objects: cannonball, visualize, add friction
-* Logistic growth. Try different growth rates. Note changes.
-* Formulate a prediction. 
-* Systematic exploration of parameter space.
-* Bifurcation diagram.
-* Explore sensitivity to starting conditions, for 2-3 different values of alpha.
-
-Week 3. Predator-prey ODEs (Lotka–Volterra).
-
-* Recreate equations from basic principles?
-* Parameterize, visually explore
-* How to quantify behaviors?
-* Explore the parameter landscape
-* Make meaningful predictions
-
-Week 4. Agents. Objects. Catch-release model. Effects of geometry.
-
-* Make the model. Start with a square torus geometry. Plot data over time. Compare final state with the theoretic prediction.
-* Replace square torus with bouncy walls. Can we notice a difference?
-* Change the shape from a square to increasingly elongated. Can we notice a difference? Can we infer something about the shape from the data?
-* ??? Any next steps?
+... *in progress* ...
 
