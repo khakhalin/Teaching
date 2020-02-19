@@ -1,20 +1,19 @@
 # Computational Biology
 
-*Version: Jan 2020*
+*Version: Feb 2020*
 
 ## General info
 
 - **Instructor:** Arseny Khakhalin; [khakhalin@bard.edu](mailto:khakhalin@bard.edu) 
 - **Class meetings**: Mon & Wed, 8:30 - 11:30 am , RKC 200.
 - **Drop-in hours** (aka "office hours"): tbc
-   If you have a short question, you can also just stop by when the door is open.  And if you have a long question, send me an email, and we can schedule a meeting.
+   If you have a short personal question, you can also just stop by when the door is open!  And if you have a longer question, please send me an email, and we can schedule a meeting.
 
 The main way of communication for this course is the [**Piazza** discussion board](https://piazza.com/). It's a sort of a dedicated forum created specifically for this course (a mix between facebook, reddit, quora, and stackexchange). By default it will send you email updates all the time, but you can tune these updates to your liking (receive them immediately / daily / weekly / never, etc).
 
-* All announcements about the course will go on Piazza
-* All materials for the course will be posted on Piazza.
-* If you have general questions about the course, they should be asked on Piazza. For personal questions and updates, please either come to office hours, or use email
-* Homework assignments will be collected on Piazza. Some homework will be post anonymously, some will be open (depending on the nature of the assignment: TBC).
+* All announcements about the course, and all materials will go on Piazza
+* If you have questions about the course, or about anything we do in it, please ask them on Piazza anonymously! :)
+* Homework assignments will also be collected on Piazza. Most homework assignments will be posted openly (as links to your respective GitHubs), due to the nature of our work with the code. Which will involve lots of group work, hopefully!
 
 Instructor will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
 
@@ -27,10 +26,10 @@ In this course, we will learn to model, visualize, and analyze biological proces
 By the end of this course you hopefully will:
 
 * Be able to program in Python, including numpy, and matplotlib
-* Develop some good healthy habits of computational work, including version control (git, GitHub), prototyping in Jupyter, using Markdown for documentation and journaling
-* Become familiar with elements of complexity science, numerical integration, elements of dynamic systems theory, network science
+* Develop some healthy habits of computational work, including version control (git + GitHub), prototyping in Jupyter, using Markdown for documentation and journaling
+* Become familiar with elements of complexity science, elements of dynamic systems theory, and network science
 * Know how to create computational models of real processes; parameterize these models, explore the parameters landscape, and make quantitative and qualitative predictions
-* Get experience with writing up your modeling experiments.
+* Get some experience with writing up your modeling experiments.
 
 # Course materials
 
