@@ -35,9 +35,7 @@ By the end of this course you hopefully will:
 
 * Introduction to Python:  https://greenteapress.com/wp/think-python-2e/
 * Introduction to complexity:  https://greenteapress.com/wp/think-python-2e/
-* Some basic info on population ecology: TBC
-* Some basic info on dynamical systems: TBC
-* Network Science: TBC. Possible books:
+* Network Science:
   * http://networksciencebook.com/chapter/1
   * http://www.cs.cornell.edu/home/kleinber/networks-book/
 
