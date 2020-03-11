@@ -1,6 +1,8 @@
 # A list of ideas for remote labs
 
-# Epidemics prevention
+The list is heavily informed by discussions with [@AizenmanLab](https://twitter.com/AizenmanLab) :)
+
+# Pandemics prevention
 
 There is no simulation better suited for the moment than this network science simulation about preventing pandemics by targeted vaccinations:
 
@@ -26,9 +28,13 @@ Post a screenshot of your cube once it is completed.
 
 ### Phet 
 
+Ionic channels simulation: 
+https://phet.colorado.edu/en/simulation/legacy/membrane-channels
+
+Action potential simulation:
 https://phet.colorado.edu/en/simulation/neuron
 
-I never quite used this simulation, but it has a guide for teachers, and a virtual neuron. And by the way, there are lots of simulations on the PHET web-site in the biology category; may be worth looking through them!
+I never quite used these simulations in practice, but they seem quite nice, and have guides for teachers. And by the way, there are lots of other simulations on the PHET web-site in the biology category; may be worth looking through them!
 
 https://phet.colorado.edu/en/simulations/category/biology
 
@@ -46,11 +52,13 @@ I never used it personally, as I found the design a bit clunky, but based on wha
 
 ## Can you Cajal?
 
-I heard about this lab from @AizenmanLab , but never ran it myself. You find a really good high-res Golgi stain, and ask students to imagine that they are a researcher of old who just prepared some Gogi stains. Can they draw a neuron based on these stains? Can they reconstruct a shape of a typical neuron? How, according to them, a neuron in this part of the brain looks?
-
-Students should submit a photo of their drawing, and a paragraph describing how they approached this task, and what they think about this process.
+Invented by @AizenmanLab for his intro course. You find a really good high-res Golgi stain, like this one for example:
 
 http://www.gigapan.com/gigapans/ce024d012dfe25bb0ad595b75f547262
+
+You then ask students to imagine that they are a researcher of old who just prepared some Gogi stains. Can they draw a neuron based on these stains? Can they reconstruct a shape of a typical neuron? How, according to them, a neuron in this part of the brain looks?
+
+Students should submit a photo of their drawing, and a paragraph describing how they approached this task, and what they think about this process.
 
 # Circuits
 
@@ -140,7 +148,9 @@ An alternative to this approach is to open Paint or some other standard build-in
 # Motor systems
 
 QWOP game: try to make the runner run at least 10 m:
+
 http://www.foddy.net/Athletics.html
+
 Post your personal record, and the reflection on your strategy. Was it hard? Was it easy? How come you can walk at all if controlling flexors and extensors is that hard?
 
 # Perception
@@ -149,7 +159,9 @@ Post your personal record, and the reflection on your strategy. Was it hard? Was
 
 http://faceresearch.org/demos/average
 
-There is a [whole set of experiments](http://faceresearch.org/exp/) on this web-site, but I never tried them myself. A simple lab on facial attractiveness could involve selecting several faces, and making someone (a friend? a relative?) rate them on a 10-point basis. Then make them also rate a face that is an average of these three. Repeat several times, compare the ratings, make a nice figure with error-bars (maybe?).
+There is a [whole set of experiments](http://faceresearch.org/exp/) on this web-site, but I never tried them myself. A simple lab on facial attractiveness could involve selecting several faces, and making someone (a friend? a relative?) rate them on a 10-point basis. Then make them also rate a face that is an average of these three. Repeat several times (with different faces), make a nice figure with error-bars. 
+
+Are average faces rated any different than real faces? (Spoiler alert: they are). From the evolutionary point of view, what could be the mechanism here? (Spoiler alert: it's unclear, and curiously it [doesn't seem to be related to symmetry](https://www.ncbi.nlm.nih.gov/pubmed/15376799). But there's lots of research on it. The question for the students would be mostly to probe their reasoning; we are not expecting a correct answer; we are expecting some good hypotheses.)
 
 ## Geometrize
 
@@ -167,8 +179,9 @@ Change the settings of the point-walker; hide them from your screen, show the wa
 
 # Development
 
-Recursive drawing, as a metaphor for complex systems, and complex structures emerging from simple rules.
 http://recursivedrawing.com/
+
+Recursive drawing, as a metaphor for complex systems, and complex structures emerging from simple rules.
 
 Use this site to create a cool picture. Post a picture online, to the discussion board. Comment on two pictures posted by other students. Write a short reflection about how this assignment could possibly relate to brain development.
 
