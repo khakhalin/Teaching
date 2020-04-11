@@ -357,6 +357,7 @@ Cortex. Higher associative regions. Language areas. Left and right brains.
 Beauty
 
 - Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
+  Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
 
 Frontal regions, consciousness, abnormal psychology
 
