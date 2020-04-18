@@ -5,11 +5,13 @@ See the [Course syllabus](syllabus_modeling.md) for more info.
 ### Youtube lectures and live-coding sessions ([playlist](https://www.youtube.com/playlist?list=PLOdJKIwLQzBfcdp6OzHeCJjtKeIJsWSyv))
 
 1. [Introduction to graphs](https://www.youtube.com/watch?v=8xfnrkjXVTw)
-2. [Working with graphs in Python](https://www.youtube.com/watch?v=ZizLFxSLM4s)
-3. [Random networks, visualization, degreed distribution](https://www.youtube.com/watch?v=qtwwF1neyuU)
-4. [Creating a network with a different topology](https://www.youtube.com/watch?v=8jPsiVqeo_w)
-5. [Sketching the disease propagation model + better visualization](https://www.youtube.com/watch?v=ejKr1Dq14VE)
-6. [Disease propagation](https://www.youtube.com/watch?v=c0A_COZSsVk)
+1. [Working with graphs in Python](https://www.youtube.com/watch?v=ZizLFxSLM4s)
+1. [Random networks, visualization, degreed distribution](https://www.youtube.com/watch?v=qtwwF1neyuU)
+1. [Creating a network with a different topology](https://www.youtube.com/watch?v=8jPsiVqeo_w)
+1. [Sketching the disease propagation model + better visualization](https://www.youtube.com/watch?v=ejKr1Dq14VE)
+1. [Disease propagation](https://www.youtube.com/watch?v=c0A_COZSsVk)
+1. [Creation of a small-world network](https://www.youtube.com/watch?v=FwCjyijX9Gc&list=PLOdJKIwLQzBfcdp6OzHeCJjtKeIJsWSyv&index=7)
+1. [Social distancing and hub removal](https://www.youtube.com/watch?v=0DUOtyKbNzk&list=PLOdJKIwLQzBfcdp6OzHeCJjtKeIJsWSyv&index=8)
 
 ### Course description
 
