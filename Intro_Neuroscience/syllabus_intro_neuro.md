@@ -364,7 +364,8 @@ Frontal regions, consciousness, abnormal psychology
 - What happens when cerebral hemispheres are separated: https://www.youtube.com/watch?v=zx53Zj7EKQE 
 - On memory: Transient global amnesia: https://www.youtube.com/watch?v=N3fA5uzWDU8
 - Four patients with schizophrenia: https://www.youtube.com/watch?v=bWaFqw8XnpA&t=4m37s
-- Paranoid schizophrenia simulation (an attempt to make a training video): https://www.youtube.com/watch?v=LWYwckFrksg
+- A really wholesome interview: https://www.youtube.com/watch?v=7csXfSRXmZ0
+- Paranoid schizophrenia simulation (a somewhat questionable attempt to make a training video. Not necessarily "bad", but also not entirely unproblematic): https://www.youtube.com/watch?v=LWYwckFrksg
 - Personality changes after a trauma (and an interesting discussion of legal implications):
   https://longreads.com/2019/10/22/the-final-five-percent/
 
