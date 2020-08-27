@@ -84,14 +84,14 @@ All lectures will be posted on Youtube, chopped in several 20-30 minutes long pi
 
 Zoom meetings will start on times indicated on BIP. On some days we may end them a bit earlier, but the start times are given on BIP. Also, for lab sessions, we may try to Zoom briefly, then do some work at home, then Zoom again and discuss.
 
-* Make sure you put your full name on Zoom. Use the **name that you want people to actually use** (especially if it differs from your legal name). But please don't use nicks (like BobbyCake666). 
+* Make sure you put your full name on Zoom. Use the **name that you want people to actually use** (especially if it differs from your legal name). Please don't use gaming nicks (like BobbyCake666 :) 
 * When setting a Zoom account, **put your Bard email** there. I will use emails as ids when taking attendance (Zoom auto-generates meeting logs, so I will just download them, and run a program to see who attended and who didn't). If you don't put your email on Zoom, I won't be able to give you an attendance point.
 * Try to **connect to Zoom with your computer** (not with a phone). Again, in a pinch you can try to connect from your phone (it's probably better than not connecting at all), but we'll be doing stuff during these meetings (I will share quizzes, give you links to sites, and what not), so being at your working computer would make things so much easier.
 * **Try to have your camera on.** Now, this is a tricky point, as some people cannot have their cameras on: maybe they connect from home, and there are people walking around, because they all live in one flat; or maybe they have a bad connection... But if no one has the camera on, it will look sad. So those of you who can afford to have a camera on, please consider doing so; I will be very grateful to you. Not a requirement, but a request, if possible.
 * Every now and then, on Zoom, I will send you to auto-generated random "**Breakout rooms**": small chats for 3-4 people, to discuss questions. There are two reasons we are doing it. One, I want you to interact with each other at least somewhat. Second, educational research has shown that when students try to talk to each other about what they learn, they learn MUCH better. Not all people realize that (some are like "I want things to be explained to me by a prof, not by some rando"), but actually it's a proven fact. Peer-learning works so well because people often have similar misunderstandings, and talking them through helps. And another, trying to explain something to another person is actually the best way to understand, and thus learn this "something". So be ready for breakout rooms.
 * **Be ready to participate** in class (using your voice). I will be mostly asking some breakout rooms to share what they discussed, but sometimes I may call people at random as well (I'll code a random student generator for this purpose :)
-* **Keep Zoom on "mute" when not talking.** If you contributed, mute back. If you need to add something, unmute, add something, then mute back :)
-* If the instructor disappears from Zoom (because a tree fell in a forest), please wait for about 10 minutes. It takes my routers about 5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - even better!
+* **Keep Zoom on "mute" when not talking.** When speaking, unmute. Once you're done, please mute back. If you need to add something, unmute again, add something, then mute back :)
+* If the instructor disappears from Zoom (because a tree fell in a forest and restarted all computers in the village), please wait for about 10 minutes. It takes my routers about 5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - even better!
 * If Zoom is down and you can't connect - **send your instructor an email**. We always have Google Meetings as a back-up option.
 
 # Grading
@@ -113,8 +113,6 @@ To get a **B:**
 To get an **A:**
 
 * **On top of everything specified in “B”**, write a good final essay about a neuroscience paper. See the detailed instructions at the end of this document. We may also have some sort of "paper presentation session" for those that decide to try it.
-
->  💡 Note that I reserve the right to slightly change the rules as we go if it becomes obvious that something simply does not work. The changes will never be retroactive though: if the rules change, it only applies to future assignments, not to past assignments :) So have no worry.
 
 # Attendance and late policy
 
