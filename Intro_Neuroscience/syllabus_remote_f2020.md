@@ -2,8 +2,6 @@
 
 *Version: Aug 26 2020*
 
-> 🛑 This is a syllabus. Define a syllabus
-
 # Course description
 
 Many neuroscience textbooks begin with descriptions of brain's nuts-and-bolts (neurons, synapses, ion channels), while all fun topics (behavior, cognition, memory) get clumped at the end. This happens because most textbooks pretend to be discussing human brains, even though the majority of what we know about the brain we learned from model organisms, such as rats, flies, and sea slugs. In this course, we will gradually climb up the ladder of complexity: from single neurons in invertebrates, through small circuits in fishes and birds, and up to large-scale networks in primates, to see how simple elements can combine and interact to produce meaningful behaviors. Cross-listed in Brain Mind and Behavior.
@@ -38,8 +36,6 @@ As we are still living through a pandemic, the course is online-only. The instru
   * **Labs**: we have virtual and remote labs. On most days we'll probably connect on Zoom, figure out what to do, then do it, maybe connect again an hour later to discuss the results.
   * **Office hours**: tbc.
 
-> 🔻 What are office hours?
->
 > 💡 Typically, a student needs to plan about 10 hours of work a week for one full course (Bard 4 credits). The logic is simple: full-time learning should be equivalent to full-time work (so that people could have a side job, or hobbies, or a family, or social life). A full-time working week is 40 hours; a "full load" in college is 4 full courses per semester, therefore 1 course should take about 10 hours a week, total. In this course, we'll be spending 3-4 hours a week in meetings, meaning that the remaining 6-7 hours a week you would spend studying on your own (reading, watching lectures, doing exercises, reviewing your notes etc.)
 
 ### Piazza
@@ -98,8 +94,6 @@ Zoom meetings will start on times indicated on BIP. On some days we may end them
 
 This course is graded using a “Specification Grading” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more!), and student experience (students are more happy). The gist here is that each letter grade comes with a certain list of criteria, and it is up to you to pick the level that you want to achieve.
 
-> 🔻 Why are grades a thing? Why do we grade?
-
 To get a **C:** 
 
 * Participate in 80% of classes
@@ -120,8 +114,6 @@ If you miss more than two weeks worth of classes, you will have to withdraw from
 
 I'll spend the first 5 minutes of each class waiting for those that are late. That is, if a meeting is scheduled for 1 pm, Zoom will open at 1 pm (maybe at 12:55 or something), and we'll be just chatting until 1:05. At 1:05 sharp we will start the class. Students who join later that this 5-min waiting period will be considered "late". Three late arrivals will be equivalent to one missed class.
 
-> 🔻 Is it fare to take points off for lateness?
-
 # Academic integrity and plagiarism
 
 For all homework assignments, the *writing* should be done by *you*. Borrowing *texts* from other people or from the internet without an acknowledgement (such as a citation, a reference, an explicit acknowledgement) is unacceptable, and will result in bad things happening.
@@ -136,7 +128,7 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 # DRAFT Weekly Schedule
 
->  For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
+For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
 
 | **Week** | Lectures                                                     | **Lab**                                                | Assignments and texts                                        |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
