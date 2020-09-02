@@ -1,6 +1,6 @@
 # Syllabus: Introduction to Neurobiology, Fall 2020
 
-*Version: Aug 26 2020*
+*Version: Aug 31 2020*
 
 # Course description
 
@@ -90,6 +90,10 @@ Zoom meetings will start on times indicated on BIP. On some days we may end them
 * If the instructor disappears from Zoom (because a tree fell in a forest and restarted all computers in the village), please wait for about 10 minutes. It takes my routers about 5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - even better!
 * If Zoom is down and you can't connect - **send your instructor an email**. We always have Google Meetings as a back-up option.
 
+# Weekly Reading Reflection
+
+The most regular and predictable assignment for this course will be the **weekly reading reflection**, or **weekly question**. Every week, after watching the lectures, and reading the materials, I will ask you to think 
+
 # Grading
 
 This course is graded using a “Specification Grading” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more!), and student experience (students are more happy). The gist here is that each letter grade comes with a certain list of criteria, and it is up to you to pick the level that you want to achieve.
@@ -128,6 +132,8 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 # DRAFT Weekly Schedule
 
+**Please, rely on weekly posts on Piazza for homework. This plan below is roughly correct, but needs some fine-tuning ;)**
+
 For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
 
 | **Week** | Lectures                                                     | **Lab**                                          | Assignments and texts                                        |
@@ -159,7 +165,7 @@ First, you need to find a neuroscience paper that you’d like to write about, f
 
 When the time comes, I'll ask all students interested in this exercises "claim" papers, by posting an URL link to Piazza. Before claiming a paper, check the papers claimed by other students, and make sure your paper is still up for grabs. If I think that the paper is a poor choice, I’ll let you know. The latest you can claim the paper, is the week before the completion week. Note however that the more time you have, the better you can prepare, and the better feedback I can give you, when you ask for it.
 
-Read the paper of your choice. Read some of the papers that it references, to better learn the background (especially true for references in the “introduction” section). Make sure you understand what question this paper asks, and why it is important. What are the consequences of knowing it? What are the hypotheses the authors had? You need to understand the methods. You need to know the figures, and understand what they are trying to say. You also need to read the exchanges that the authors and the reviewers had before the paper got accepted (eLife is one of the few journals that publish these exchanges openly). You need to get a good idea of what happened there, at the review stage; what the concerns were, and how the authors responded to these concerns.
+Read the paper of your choice. Read some of the papers that it references, to better learn the background (especially true for references in the “introduction” section). Make sure you understand what question this paper asks, and why it is important. What are the consequences of knowing it? What are the hypotheses the authors had? You need to understand the methods. You need to know the figures, and understand what they are trying to say. You also need to read the exchanges that the authors and the reviewers had before the paper got accepted (eLife is one of the few journals that publish these exchanges openly). You need to get a good idea of what happened there, at the review stage; what were the concerns, and how the authors responded to these concerns.
 
 Then write your essay. It cannot be longer than 2500 words (about 5 pages single-spaced), but it should clearly address the following points, in this order:
 

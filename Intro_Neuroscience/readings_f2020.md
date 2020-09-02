@@ -27,6 +27,7 @@ Advanced:
 
 ### Excitatory synapse. Connectomics. Escape in shrimp
 
+- Neurotic neurons: https://ncase.me/neurons/
 - Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
@@ -78,12 +79,10 @@ Venus fly trap lab
 
 * UT chapter 0: https://nba.uth.tmc.edu/neuroscience/s1/introduction.html 
 
-- Review on Central Pattern Generators: [https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf](https://www.cell.com/current-biology/pdf/S0960-9822(01)00581-4.pdf)
 - Two popular articles about palfreys:
   -  https://amyraby.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/
   -  http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
-
-Advanced
+-  Review on Central Pattern Generators: https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf
 
 ### Senses. Neural coding
 
@@ -198,7 +197,7 @@ Advanced:
 - Extra page from McGill; make sure to click through all three levels (Beginner, Intermediate, Advanced): http://thebrain.mcgill.ca/flash/i/i_02/i_02_cl/i_02_cl_vis/i_02_cl_vis.html
 - Bird vision: https://en.wikipedia.org/wiki/Bird_vision
 
-### Vision 2: Cortex. Critical periods.
+### Visual processing (cortical, subcortical) + Critical Periods
 
 - Hubel and Wiesel:
   - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
@@ -254,7 +253,7 @@ Risky links:
 - Wedel, M. J. (2011). A monument of inefficiency: The presumed course of the recurrent laryngeal nerve in sauropod dinosaurs. Acta Palaeontologica Polonica, 57(2), 251-257.
   https://www.app.pan.pl/archive/published/app57/app20110019.pdf
 
-Motor systems. 
+### Motor systems
 
 - Main reading: Motor cortex: https://nba.uth.tmc.edu/neuroscience/s3/chapter03.html
 - A video about motor cortex and brain-machine interfaces:
@@ -269,19 +268,36 @@ Motor systems.
 - QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
   Post your personal record.
 
-Cortex: associative regions, language, lateralization.
+### Cortex: associative regions, language, lateralization
 
-- Language: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
-- Videos to watch:
+- Language and two types of aphasias (from Khan academy): https://www.youtube.com/watch?v=lBqShvm4QRA
+- Aphasia case presentations:
   - https://www.youtube.com/watch?v=f2IiMEbMnPM - Broca's aphasia, old video
   - https://www.youtube.com/watch?v=1aplTvEQ6ew - Broca's aphasia, teenage stoke
   - https://www.youtube.com/watch?v=a9z6eX85Zn4 - same person 6 years later (on her channel you can find some more in-between videos if you want to)
   - https://www.youtube.com/watch?v=aVhYN7NTIKU - Wernike's aphasia, old video
   - https://www.youtube.com/watch?v=3oef68YabD0 - Wernike's aphasia, a better (more recent) video
-- Higher cortical regions: https://nba.uth.tmc.edu/neuroscience/s4/chapter09.html
-- Point-walker: http://www.biomotionlab.ca/Demos/BMLwalker.html
+- Lateralization
+  - Real patients with hemilateral neglect: https://www.youtube.com/watch?v=d4FhZs-m7hA
+  - A video about split brains: https://www.youtube.com/watch?v=wfYbgdo8e-8 (note: this one is both simplifying things, and exaggerating things a lot)
+  - Split-brain patient:
+    - part 1: https://www.youtube.com/watch?v=zx53Zj7EKQE
+    - part 2: https://www.youtube.com/watch?v=u9u6cQYcOHw
+  - Living with half a brain. There are several videos on youtube about patients like that. 
+    - This one is a bit shorter: https://www.youtube.com/watch?v=f2fCY_M7Vms
+    - But I like this one better, even though it is a bit longer: https://www.youtube.com/watch?v=k1aiK1pocGU
 
-Plasticity
+Internal
+
+* Oliver Sacks (from the book “The man who mistook his wife for a hat”): Eyes right (very short story, on hemilateral neglect). https://drive.google.com/open?id=14p6s-vUBecrZ7YIc4ojdAgOzpW90EBp9
+
+Advanced
+
+* Language: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
+
+- Higher cortical regions: https://nba.uth.tmc.edu/neuroscience/s4/chapter09.html
+
+### Plasticity
 
 - U Texas book, synaptic plasticity: https://nba.uth.tmc.edu/neuroscience/s1/chapter07.html
 - Grokk information about LTP and patch-clamp on Wikipedia:
@@ -291,7 +307,7 @@ Plasticity
 - Review on LTP (ignore everything about LTD): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367554/
 - Advanced: pages 3 and 4 on Hebbian plasticity, in this paper: https://pdfs.semanticscholar.org/f9fc/99a5c52aa5df1b530dfdeb25dfb6b10bdecf.pdf
 
-Development
+### Development
 
 - U Texas book, synapse formation and elimination: https://nba.uth.tmc.edu/neuroscience/s1/chapter09.html
 - Videos of growing neurons:
