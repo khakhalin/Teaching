@@ -13,10 +13,10 @@ Advanced:
 
 ### Action potential
 
+- Action potential, conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
 - On pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
 - On pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
   - A pdf copy of this article (without pics, but with all the text): https://drive.google.com/open?id=1VeEikLsKIirjxQT9DWj0xpqWZaPsJXzZ
-- Action potential, conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
 - How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
 
 Advanced:
@@ -24,6 +24,11 @@ Advanced:
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s1/chapter02.html
 - Action potential mechanisms: http://faculty.washington.edu/chudler/ap.html
 - A chart about ion sizes: https://commons.wikimedia.org/wiki/File:Action_potential_ion_sizes.svg
+
+Videos about stochastic motion of proteins (to give a better impression of how channels, ions, and other proteins actually move):
+
+* DNA replication: https://www.youtube.com/watch?v=7Hk9jct2ozY
+* Protein packing: https://www.youtube.com/watch?v=VdmbpAo9JR4
 
 ### Excitatory synapse. Connectomics. Escape in shrimp
 
