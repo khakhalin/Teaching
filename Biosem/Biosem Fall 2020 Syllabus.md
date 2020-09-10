@@ -31,7 +31,7 @@ The schedule is still a bit in flux, but it will be settled soon!
 | Sep 10 | Georgia Doing            | alum; Dartmouth; grad student; microbiology                  |
 | Sep 17 | Nadia, Addie, Eli, Gabby | Senior projects from last year (started in-person, finished  pandemic-style) |
 | Sep 24 | Silas Busch              | alum; U Chicago; neuroscience in the cerebellum              |
-| Oct 01 | Melanie McReynolds       | Princeton; postdoc; metabolism, breathing, biochemistry      |
+| Oct 01 | Erica Perez              | Xavier U  of Louisiana; assistant prof; addiction            |
 | Oct 08 | Parris Humphrey          | alum; Harvard; postdoc; plant ecology to herbivores to  microbiome |
 | Oct 15 | Manu Prakash             | Stanford prof; foldscopes                                    |
 | Oct 22 | Sara Andreotti           | Shark researcher; University of Stellenbosch (South Africa);  shark biopsies! |
@@ -40,6 +40,6 @@ The schedule is still a bit in flux, but it will be settled soon!
 | Nov 12 | Scott Loss               | Prof in U Oklahoma; bird-building collisions                 |
 | Nov 19 | Mary Lou Guerinot        | Dartmouth; full prof; molecular biology in arabidopsis plant |
 | Nov 26 | *Thanksgiving*           |                                                              |
-| Dec 03 |                          | ?                                                            |
+| Dec 03 | Melanie McReynolds       | Princeton; postdoc; metabolism, breathing, biochemistry      |
 | Dec 10 |                          | ?                                                            |
 | Dec 17 | *Completion week*        |                                                              |
