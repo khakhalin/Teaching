@@ -33,9 +33,9 @@ Videos about stochastic motion of proteins (to give a better impression of how c
 ### Excitatory synapse. Connectomics. Escape in shrimp
 
 - Neurotic neurons: https://ncase.me/neurons/
-- Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
+- Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
 
 Internal
 
@@ -75,6 +75,8 @@ Advanced
 - Review about M-cells:
   https://core.ac.uk/download/pdf/82507508.pdf 
   Homework: 1) list words that you didn't understand at first and had to look up on google / Wikipedia; 2) Copy one sentence from the paper that you found confusing at first, but later understood. Describe what was confusing about it, and how did you manage to de-confuse yourself
+- On dendritic compuations: Hidden Computational Power Found in the Arms of Neurons. Jordana Cepelewicz. Jan 14 2020.
+  https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
 
 Venus fly trap lab
 
@@ -89,7 +91,7 @@ Venus fly trap lab
   -  http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
 -  Review on Central Pattern Generators: https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf
 
-### Senses. Neural coding
+### Senses. Touch. Neural coding
 
 * How many senses do you have? In general, what senses may an animal have? Think about it. Then read this article: https://en.wikipedia.org/wiki/Sense
 
