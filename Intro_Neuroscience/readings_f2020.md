@@ -56,12 +56,12 @@ Lab:
   Description: https://blog.eyewire.org/about/ 
   Login: https://eyewire.org/signup (create an account, login, go through the tutorial, analyze at least one real cube, post your result)
 
-### Ethology. Inhibition. Integration. Reflexes. Escape in fish
+### Ethology. Inhibition. Integration. Reflexes
 
 - Wikipedia article about Ethology: https://en.wikipedia.org/wiki/Ethology
 - Wikipedia article about Neuroethology: https://en.wikipedia.org/wiki/Neuroethology
   Make sure to look through the list of model systems below. Figure out what was studied in each of these systems. Try to understand why this question (of all possible questions) was asked in this animal, and why this animal (of all possible animals) was used to answer this question?
-- https://www.youtube.com/watch?v=7pzMnuvKK7A - Zebrafish larva c-start (M-cell -mediated, slow-mo)
+- Synaptic transmission in the CNS: chapter 6: https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
 
 Internal:
 
@@ -70,26 +70,36 @@ Internal:
 
 Advanced
 
-* Synaptic transmission in the CNS: chapter 6: https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
-
-- Review about M-cells:
-  https://core.ac.uk/download/pdf/82507508.pdf 
-  Homework: 1) list words that you didn't understand at first and had to look up on google / Wikipedia; 2) Copy one sentence from the paper that you found confusing at first, but later understood. Describe what was confusing about it, and how did you manage to de-confuse yourself
-- On dendritic compuations: Hidden Computational Power Found in the Arms of Neurons. Jordana Cepelewicz. Jan 14 2020.
+- On dendritic computations: Hidden Computational Power Found in the Arms of Neurons. Jordana Cepelewicz. Jan 14 2020.
   https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
 
 Venus fly trap lab
 
 - Video: https://www.youtube.com/watch?v=45v5L2u0Nj8
 
-### STG, CPG
+### Escape in fish. CPG. STG
 
-* UT chapter 0: https://nba.uth.tmc.edu/neuroscience/s1/introduction.html 
+Additional videos:
 
-- Two popular articles about palfreys:
-  -  https://amyraby.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/
-  -  http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
--  Review on Central Pattern Generators: https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf
+- https://www.youtube.com/watch?v=7pzMnuvKK7A - Zebrafish larva c-start (M-cell -mediated, slow-mo)
+- Reflective walking in human newborns: https://www.youtube.com/watch?v=-ih_pCBo70o 
+- Decerebrate cat on a treadmill, BW video from 1960s: https://www.youtube.com/watch?v=wPiLLplofYw 
+- Robots
+  - Honda asimo: https://www.youtube.com/watch?v=YruAOxWG5uU  
+  - Boston Dynamics: https://www.youtube.com/watch?v=rVlhMGQgDkY 
+
+Fun reading, highly recommended. It's about high-end horses that fancy knights would buy for their posh ladies, as said horses would have had a mutation in one of its CPGs!
+
+- https://amyraby.wordpress.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/ 
+- A video to explain why they were so valuable (worth a thousand words): https://www.youtube.com/watch?v=-7rWeWymJDw 
+- http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
+- https://www.horsetalk.co.nz/2019/05/30/pacers-trotters-genetic-differences-researchers/
+
+Advanced reading:
+
+- UT chapter 0: https://nba.uth.tmc.edu/neuroscience/s1/introduction.html
+- Review on Central Pattern Generators: [https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf](https://www.cell.com/current-biology/pdf/S0960-9822(01)00581-4.pdf)
+- Review about M-cells: https://core.ac.uk/download/pdf/82507508.pdf
 
 ### Senses. Touch. Neural coding
 
