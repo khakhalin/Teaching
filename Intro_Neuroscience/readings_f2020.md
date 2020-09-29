@@ -46,7 +46,7 @@ Advanced
 - NMJ: https://nba.uth.tmc.edu/neuroscience/s1/chapter04.html
 - Mechanism of neutransmitter release: https://nba.uth.tmc.edu/neuroscience/s1/chapter05.html
 
-Maybe: (**TODO: DOUBLE_CHECK**)
+Maybe:
 
 * Smith, K. (2011). Neuroscience vs philosophy: Taking aim at free will. Nature News, 477(7362), 23-25. https://www.nature.com/articles/477023a.pdf
 
@@ -100,6 +100,11 @@ Advanced reading:
 - UT chapter 0: https://nba.uth.tmc.edu/neuroscience/s1/introduction.html
 - Review on Central Pattern Generators: [https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf](https://www.cell.com/current-biology/pdf/S0960-9822(01)00581-4.pdf)
 - Review about M-cells: https://core.ac.uk/download/pdf/82507508.pdf
+
+Labs
+
+* Being random is hard: https://www.expunctis.com/2019/03/07/Not-so-random.html
+  Try different strategies. Describe what worked better, and what worked worse.
 
 ### Senses. Touch. Neural coding
 
@@ -282,8 +287,11 @@ Risky links:
   - Parkinsonism and deep brain stimulation: https://www.youtube.com/watch?v=KcGLC_rOaKM
   - (Background: https://en.wikipedia.org/wiki/Deep_brain_stimulation )
 - Cerebellum: only read the overview, the chapter itself is wa-ay too detailed: https://nba.uth.tmc.edu/neuroscience/s3/chapter05.html
-- QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
-  Post your personal record.
+
+Virtual lab:
+
+* QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
+  Post your personal record + your strategy.
 
 ### Cortex: associative regions, language, lateralization
 
