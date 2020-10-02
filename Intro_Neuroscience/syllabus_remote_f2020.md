@@ -136,24 +136,24 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
 
-| **Week** | Lectures                                                     | **Lab**                                                      | Assignments and texts                                        |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Aug 31   | Intro (cells, neurons, ions). Syllabus. Piazza. Resting membrane potential. | Live-test with AP lab.                                       | UT s1ch1. Coconut.                                           |
-| Sep 7    | Action  potential. AP propagation.                           | Working with literature or leech lab                         | UT s1ch2. Pain.                                              |
-| Sep 14   | Excitatory synapse. Terminology. Connectomics and escape in shrimp. | Eyewire lab                                                  | UT s1ch4, 5. Neurotic neurons.                               |
-| Sep 21   | Inhibition. Integration. Neurotransmitters. Ethology.        | Zooniverse, mice                                             | List of neurotransmitters. s1ch6. Animal behav paper.        |
-| Sep 28   | Escape in fish. Central pattern  generators. STG. Reflexes. Locomotion. | be_random lab                                                | UT s1ch0. CPG review paper. M-cell review paper. Trying to be random. optional: M-cell in goldfish paper. |
-| Oct  5   | Intro to senses. Types of neural coding. Touch. Chemical senses. | 2-point discrimination + data discussion                     | tbc *(No good UT chapter...)*                                |
-| Oct 12   | Hearing: ear and early processing. Maps. Owls.               | *Some auditory lab* **TBC**                                  | UT s2ch12  (hearing), glance through UT s2ch 13 (auditory pathways). Maybe: Sound localization in owls (paper + reviews). |
-| Oct 19   | Hearing: Speech  recognition. Neuroscience of music.         | tbc (spectrograms?)                                          | Simplewriter. auditoryneuroscience.com; ear and spatial hearing. |
-| Oct 26   | Vision: eye  and retina. Saccades. Color vision.             | Vision micro-labs + Visual illusions 1? Or color discrimination lab? **TBC** | UT s2ch14  (eye and retina). McGill retina. Dalton paper. Videos on  retinal vessels and white blood cells. |
-| Nov 2    | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual  illusions 2? Or VisualLag lab? **TBC**               | s2ch15 +  cortical column reading. Videos on neurobiology of toads. Dot-walker. |
-| Nov 9    | Brain morphology. Methods of  research. Motor systems. Limbic system. Emotions. | QWOP lab                                                     | UT s2ch1  (overview of organization). A list of keywords (basal ganglia, cerebellum). QWOP. UT s3ch3  (motor cortex). UT s4ch5-6 (limbic system). Giraffe  paper. |
-| Nov 16   | Brain development. Memory.                                   | Complexity observable? **TBC**                               | UT s1ch7  (synaptic plasticity); LTP and patch-clamp. UT s1ch9 (synapse formation and elimination). Recursive drawing. PAPER: refinement. |
-| Nov 23   | Cortex. Higher associative regions. Language areas. Left and right brains. | *Thanksgiving*. *Draft  of the final paper due.*             | UT s4ch8 (Language): the very beginning of it (ignore details). Aphasias. |
-| Nov 30   | PFC, decision making. Frontal patients. Integrity of perception. Agency. Schizophrenia. | ?                                                            | UT s4ch9  (higher cortical functions). "Love hurts" paper. Geometrize |
-| Dec 7    | *Advising week? TBC.*                                        | **TBC** *Final paper due*                                    | tbc                                                          |
-| Dec 14   | *Completion  week*                                           | none                                                         | none                                                         |
+| **Week** | Lectures                                                     | **Lab**                                                | Assignments and texts                                        |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| Aug 31   | Intro (cells, neurons, ions). Syllabus. Piazza. Resting membrane potential. | Live-test with AP lab.                                 | UT s1ch1. Coconut.                                           |
+| Sep 7    | Action  potential. AP propagation.                           | Working with literature or leech lab                   | UT s1ch2. Pain.                                              |
+| Sep 14   | Excitatory synapse. Terminology. Connectomics and escape in shrimp. | Eyewire lab                                            | UT s1ch4, 5. Neurotic neurons.                               |
+| Sep 21   | Inhibition. Integration. Neurotransmitters. Ethology.        | Zooniverse, mice                                       | List of neurotransmitters. s1ch6. Animal behav paper.        |
+| Sep 28   | Escape in fish. Central pattern  generators. STG. Reflexes. Locomotion. | be_random lab + QWOP                                   | UT s1ch0. CPG review paper. M-cell review paper. Trying to be random. optional: M-cell in goldfish paper. |
+| Oct  5   | Intro to senses. Types of neural coding. Touch. Chemical senses. | 2-point discrimination                                 | tbc *(No good UT chapter...)*                                |
+| Oct 12   | Hearing: ear and early processing. Maps. Owls.               | 2-point discrimination data discussion                 | UT s2ch12  (hearing), glance through UT s2ch 13 (auditory pathways). Maybe: Sound localization in owls (paper + reviews). |
+| Oct 19   | Hearing: Speech  recognition. Neuroscience of music.         | tbc (spectrograms?)                                    | Simplewriter. auditoryneuroscience.com; ear and spatial hearing. |
+| Oct 26   | Vision: eye  and retina. Saccades. Color vision.             | Vision micro-labs Or color discrimination lab? **TBC** | UT s2ch14  (eye and retina). McGill retina. Dalton paper. Videos on  retinal vessels and white blood cells. |
+| Nov 2    | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | VisualLag lab? **TBC**                                 | s2ch15 +  cortical column reading. Videos on neurobiology of toads. Dot-walker. |
+| Nov 9    | Brain morphology. Methods of  research. Motor systems. Limbic system. Emotions. | **TBC**                                                | UT s2ch1  (overview of organization). A list of keywords (basal ganglia, cerebellum). QWOP. UT s3ch3  (motor cortex). UT s4ch5-6 (limbic system). Giraffe  paper. |
+| Nov 16   | Brain development. Memory.                                   | Complexity observable? **TBC**                         | UT s1ch7  (synaptic plasticity); LTP and patch-clamp. UT s1ch9 (synapse formation and elimination). Recursive drawing. PAPER: refinement. |
+| Nov 23   | Cortex. Higher associative regions. Language areas. Left and right brains. | *Thanksgiving*. *Draft  of the final paper due.*       | UT s4ch8 (Language): the very beginning of it (ignore details). Aphasias. |
+| Nov 30   | PFC, decision making. Frontal patients. Integrity of perception. Agency. Schizophrenia. | ?                                                      | UT s4ch9  (higher cortical functions). "Love hurts" paper. Geometrize |
+| Dec 7    | *Advising week? TBC.*                                        | **TBC** *Final paper due*                              | tbc                                                          |
+| Dec 14   | *Completion  week*                                           | none                                                   | none                                                         |
 
  Topics excluded that year, due to snow days:  Pavlovian learning and Hebb's rule. Associative learning. Hippocampus.
 

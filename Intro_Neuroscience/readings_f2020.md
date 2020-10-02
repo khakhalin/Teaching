@@ -108,7 +108,15 @@ Labs
 
 ### Senses. Touch. Neural coding
 
-* How many senses do you have? In general, what senses may an animal have? Think about it. Then read this article: https://en.wikipedia.org/wiki/Sense
+* https://en.wikipedia.org/wiki/Sense
+* True facts about the Star-Nosed mole: https://www.youtube.com/watch?v=fio1NUxszhY
+* Whisking behavior: https://www.youtube.com/watch?v=Sf9ej0LBn9g
+* https://en.wikipedia.org/wiki/Neural_coding
+* Living without proprioception, including touch (!), relying only on vision, and performing every movement consciously (Ian Waterman):
+  * https://www.youtube.com/watch?v=pMEROPOK6v8
+  * https://www.youtube.com/watch?v=5_4wxtSmIvI
+  * https://www.youtube.com/watch?v=UuRcQygrs0E
+  * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
 ### Hearing: Physiology
 
