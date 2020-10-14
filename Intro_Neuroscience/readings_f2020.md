@@ -121,12 +121,9 @@ Labs
 ### Hearing: Physiology
 
 - Main video (Auditory transduction): https://www.youtube.com/watch?v=PeTriGTENoc
-- A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
-- Hearing loss simulator: http://auditoryneuroscience.com/prosthetics/hearing-loss-simulator
+- Dancing hair cell (electromechanical transformation): https://www.youtube.com/watch?v=Xo9bwQuYrRo 
 - A video on cochlear implants: https://www.youtube.com/watch?v=icPsm9RnO2E
-- Talking pianos:
-  -  https://www.youtube.com/watch?v=-6e2c0v4sBM
-  -  https://www.youtube.com/watch?v=muCPjK4nGY4
+- Hearing loss simulator: http://auditoryneuroscience.com/prosthetics/hearing-loss-simulator
 - Shepard's tone: https://www.youtube.com/watch?v=BzNzgsAE4F0
 
 Advanced
@@ -144,23 +141,32 @@ PPI lab
 
 ### Hearing 2: Spatial maps
 
+* On binaural recordings (really cool, professional & informative): https://www.youtube.com/watch?v=Yd5i7TlpzCk
 * Sound localization in owls: https://en.wikipedia.org/wiki/Sound_localization_in_owls
-* A video about echolocation in humans: https://www.youtube.com/watch?v=r9mvRRwu5Gw
+  * True facts about the owl: https://www.youtube.com/watch?v=XeFxdkaFzRA
+* A short video about echolocation in humans: https://www.youtube.com/watch?v=r9mvRRwu5Gw
+  * Also this scene from a longer documentary about Ben Underwood: https://youtu.be/N210pYhtPdI?t=1131
 
 - Fox hunting by ear: https://www.youtube.com/watch?v=0yUwM5mHBD8
-- Spatial hearing: http://auditoryneuroscience.com/spatial-hearing
 - Echolocation in bats: https://www.youtube.com/watch?v=gZxLUNHEmPw
+- Spatial hearing: http://auditoryneuroscience.com/spatial-hearing
 
 ### Speech and Music
+
+- A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
+- Talking pianos:
+  -  https://www.youtube.com/watch?v=-6e2c0v4sBM
+  -  https://www.youtube.com/watch?v=muCPjK4nGY4
 
 * A somewhat cringy, but informative 11-minutes video about sound harmonics: https://www.youtube.com/watch?v=a6ZJOBIlO-E
 
 - Harmonics simulators:
   - Overtones of a tube / string: https://musiclab.chromeexperiments.com/Harmonics/
   - Strings of different lengths: https://musiclab.chromeexperiments.com/Strings/
-- Model of a human voice apparatus - the Pink Trombone: https://dood.al/pinktrombone/    
-  Make sure to move the lip, and the tongue, and the palate, with nasal opening both open, and closed.
-
+- Formant simulator
+  - Model of a human voice apparatus - the Pink Trombone: https://dood.al/pinktrombone/    
+    Make sure to move the lip, and the tongue, and the palate, with nasal opening both open, and closed.
+  - Annotated 2-tone formant simulator with a map of English vowels: https://auditoryneuroscience.com/2fav
 - Tuvan throat singing. 
   - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
   - Actual Tuvans (Huun‐Huur‐Tu) Live on KEXP: https://www.youtube.com/watch?v=R2ovoRyv4kw
@@ -220,6 +226,7 @@ Tuning systems
   -  https://www.youtube.com/watch?v=ITY9luBw3_I
   -  https://www.youtube.com/watch?v=PoDJZ4Ln9Rw
   -  Why this is important (a toad playing on an ipad): http://www.youtube.com/watch?v=LbNl3J8HXw4
+-  Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 
 Advanced:
 
