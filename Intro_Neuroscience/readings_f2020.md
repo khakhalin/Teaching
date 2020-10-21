@@ -154,25 +154,22 @@ PPI lab
 ### Speech and Music
 
 - A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
-- Talking pianos:
-  -  https://www.youtube.com/watch?v=-6e2c0v4sBM
+- Talking pianos  (a really cool illustration of how sound synthesis works):
   -  https://www.youtube.com/watch?v=muCPjK4nGY4
+  -  https://www.youtube.com/watch?v=-6e2c0v4sBM
 
-* A somewhat cringy, but informative 11-minutes video about sound harmonics: https://www.youtube.com/watch?v=a6ZJOBIlO-E
+* A somewhat cringy, but very informative 11-minutes video about sound harmonics: https://www.youtube.com/watch?v=a6ZJOBIlO-E
 
 - Harmonics simulators:
   - Overtones of a tube / string: https://musiclab.chromeexperiments.com/Harmonics/
   - Strings of different lengths: https://musiclab.chromeexperiments.com/Strings/
-- Formant simulator
+- Formant simulators:
   - Model of a human voice apparatus - the Pink Trombone: https://dood.al/pinktrombone/    
     Make sure to move the lip, and the tongue, and the palate, with nasal opening both open, and closed.
   - Annotated 2-tone formant simulator with a map of English vowels: https://auditoryneuroscience.com/2fav
 - Tuvan throat singing. 
   - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
   - Actual Tuvans (Huun‐Huur‐Tu) Live on KEXP: https://www.youtube.com/watch?v=R2ovoRyv4kw
-- Music and other animals
-  - Singing whales: https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844
-- Mampe, B., Friederici, A. D., Christophe, A., & Wermke, K. (2009). Newborns' cry melody is shaped by their native language. Current biology, 19(23), 1994-1997. https://www.earlychildhoodireland.ie/wp-content/uploads/2015/06/Baby-LanguageDev2009_mampe.pdf
 
 Internal
 
@@ -190,6 +187,17 @@ Advanced
   Feel free to explore deeper if any particular topics touch your heart!
 * This site in general: http://auditoryneuroscience.com/
   There's a list of topics on top. Interested in music? In sound illusions? (They are like visual illusions, but for hearing) Speech and perception of speech? It's all there!
+
+Music for other animals
+
+- Singing whales: https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844
+- Music for monkeys (specifically designed): https://phys.org/news/2009-09-monkeys-groove-monkey-music-audio.html
+- Serenading in the field (wait for it! It's 4 min long; you can afford 4 minutes!): https://www.youtube.com/watch?v=qs_-emj1qR4
+- Another example. What instrument do they seem to prefer? https://www.youtube.com/watch?v=lXKDu6cdXLI
+
+On innateness of music
+
+- Mampe, B., Friederici, A. D., Christophe, A., & Wermke, K. (2009). Newborns' cry melody is shaped by their native language. Current biology, 19(23), 1994-1997. https://www.earlychildhoodireland.ie/wp-content/uploads/2015/06/Baby-LanguageDev2009_mampe.pdf
 
 Tuning systems
 

@@ -58,9 +58,24 @@ In the book, read chapters 2.3 and 2.4 (about enzymes), and then also try to ans
 
 OpenStax AP textbook: Chapters 3.1-3.5 (it's too much info, so just look it through, read about it)
 
-## Class plans
-
 - Let’s use molecule-builder meaningfully. For example, build an aminoacid. Just open the chart, pick any one, and build it.
+
+## Oct 20
+
+Book: read that chapter about ecology, and then the one about energy and what not, and network. All until "carbon and nitrogen cycles" (for now).
+
+- Ecosystem: https://www.youtube.com/watch?v=v6ubvEJ3KGM
+- Energy cycle: https://www.youtube.com/watch?v=TitrRpMUt0I
+- Food network: https://www.youtube.com/watch?v=xL96QwxwbG0
+
+## Next one
+
+For next time:
+
+The book chapter about matter cycles.
+
+- Cycles; carbon and water: https://www.youtube.com/watch?v=2D7hZpIYlCA
+- Nitrogen and phosphorus: https://www.youtube.com/watch?v=leHy-Y_8nRs
 
 # ToDo Notes
 
