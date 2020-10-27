@@ -217,7 +217,10 @@ Tuning systems
 - Watch this youtube video: https://www.youtube.com/watch?v=2p_8gx-XHJo 
 - See page from "Things explainer": http://i.cbc.ca/1.3390492.1452021709!/fileImage/httpImage/thing-explainer.jpg
 - Then use this link to access the simple writer: https://xkcd.com/simplewriter/ 
-- As a homework, pick any topic we studied in this course so far. Anything about ions, action potentials, synapses, neurons, escape responses, animal models, sensory systems, hearing – anything that we studied. Try to describe this topic using simple words only. (The SimpleWriter will alert you if your words are not simple enough) The *only* non-simple word you can use is the concept you are trying to explain, and even then you can only use it three times.
+- As a homework, **pick any smart term or clever concept that we studied** in this course so far. Anything about from ions, action potentials, synapses, neurons, neurotransmitters, escape responses and behavior, animal models, and down to sensory systems, hearing, brain regions – anything that we studied. Pick one term. Then **try to write an encyclopedia entry for it using only simple words**! Describe the meaning of it, add some details, tell a story. (The SimpleWriter will alert you if your words are not simple enough). **Write a paragraph of text** (at least 150 words, but the better, the more, as it's freaking hard). Make sure it provides a good, detailed description. Go on tiny tangents if necessary (like they did in the youtube video), as it may help to set the picture right.
+- Don't tell anyone what you were trying to describe! Other students will later read your description and try to guess what it was :)
+- No two people may be describing the same term! (Unless the first description was so obscure that you couldn't guess it). It means that the first few participants will have it easier (they can pick simple things like "brain" or "neuron"), while later contributors will have to be a bit more creative. But we studied LOTS of fancy words in this course, so it should not be a problem ;)
+- Good luck! And let me know if you have any questions!
 
 ### Vision: eye and retina. On/off cells.
 
@@ -233,17 +236,17 @@ Tuning systems
   -  https://www.youtube.com/watch?v=l3Es9cNH7I8
   -  https://www.youtube.com/watch?v=ITY9luBw3_I
   -  https://www.youtube.com/watch?v=PoDJZ4Ln9Rw
-  -  Why this is important (a toad playing on an ipad): http://www.youtube.com/watch?v=LbNl3J8HXw4
+  -  Why this is important (a toad playing on an ipad): https://www.youtube.com/watch?v=AbKGrtpgBtA
 -  Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 
-Advanced:
+Readings:
 
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s2/chapter14.html
 - Extra page from McGill; make sure to click through all three levels (Beginner, Intermediate, Advanced): http://thebrain.mcgill.ca/flash/i/i_02/i_02_cl/i_02_cl_vis/i_02_cl_vis.html
-- Bird vision: https://en.wikipedia.org/wiki/Bird_vision
 
 ### Visual processing (cortical, subcortical) + Critical Periods
 
+- Bird vision: https://en.wikipedia.org/wiki/Bird_vision - our goal for this one is basically to figure out how bird vision is different from human vision
 - Hubel and Wiesel:
   - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
   - experiment 1: https://www.youtube.com/watch?v=jIevCFZixIg
