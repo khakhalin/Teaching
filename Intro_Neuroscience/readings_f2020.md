@@ -224,9 +224,6 @@ Tuning systems
 
 ### Vision: eye and retina. On/off cells.
 
-- Run these labs at home:
-  - Floaters: https://www.youtube.com/watch?v=WKQT1MXfasM
-  - Saccades: https://vimeo.com/54546597
 - On color vision (this is not yellow; only watch the first third of the video or so, that is about vision; ignore the rest): https://www.youtube.com/watch?v=R3unPcJDbCc
 - Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
 - Human tetrachromats:
@@ -238,11 +235,35 @@ Tuning systems
   -  https://www.youtube.com/watch?v=PoDJZ4Ln9Rw
   -  Why this is important (a toad playing on an ipad): https://www.youtube.com/watch?v=AbKGrtpgBtA
 -  Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
+- Eye evolution:
+  -  https://www.youtube.com/watch?v=6HWVgQdSTDQ
+  -  https://www.youtube.com/watch?v=qrKZBh8BL_U
 
 Readings:
 
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s2/chapter14.html
 - Extra page from McGill; make sure to click through all three levels (Beginner, Intermediate, Advanced): http://thebrain.mcgill.ca/flash/i/i_02/i_02_cl/i_02_cl_vis/i_02_cl_vis.html
+
+### Visual labs to run at home
+
+Make sure to do all of these exercises below. It should take about an hour, maybe 1:30 of your time tops (watching the videos, and then doing the exercises), and it's really, really worth it! 
+
+1. Watch this video, and do everything they recommend (you'll need a piece of paper, a pencil, and a wall. You can also use a computer screen if you make it uniformly white, like by maximizing a white GoogleDoc document or something)
+   https://www.youtube.com/watch?v=L_W-IXqoxHA 
+
+2. Watch this video, and do everything they recommend (you'll have to go outside at some point, as you'll need to see the sky):
+   https://www.youtube.com/watch?v=WKQT1MXfasM
+
+3. Watch this video, think about it, and do the exercises (you'll need a mirror):
+   https://vimeo.com/54546597 
+
+4. Blind spot mapping:
+   * Read this description: https://coglab.cengage.com/labs/blind_spot.shtml 
+   * Then this page: http://nivea.psycho.univ-paris5.fr/FeelingSupplements/BlindSpotFillingInExperiments.htm
+   * Finally, ran this lab: http://avtanski.net/projects/blindspot/ 
+     (Ironically, the program uses a green/red color scheme, so it is invisible to red/green colorblind people. Yep.)
+
+As a write-up for this lab, pick the exercise that you liked the most (that you found most interesting and informative), and write either a haiku, a sonnet, or a limerick about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
 ### Visual processing (cortical, subcortical) + Critical Periods
 

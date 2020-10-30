@@ -8,12 +8,13 @@ To make these seminars different from Youtube videos, we'll follow a new format 
 
 1. About a week ahead of each seminar, I will ask the speaker to share one paper with us. Something that we could read, to be prepared to their talk.
 2. I'll create a separate Slack channel for each seminar, on our Slack server, and I'll post this reading there. I'll ask you all to read it, and also learn a bit about the speaker, and then think of what we want to ask them!
-3. I will also post a link to a one-question google form. To a get a credit for this session (to show that you did the reading and thought about it), please submit a reasonable honest question that you had after reading the reading on this google form.
-4. If you also want me to ask this question during the Q&A session with the speaker, please post it on Slack! For the Q&A, I will only use questions posted on Slack. If you have any "personal"-style questions, about their career, plans, experiences, general life advice, or personal anecdotes - please, also post them on Slack!
-   * ⚠️ This is the only point in this entire syllabus that is a tiny bit tricky. The google form response is to show that you did the reading, so it needs to be about the reading. The Slack questions will be asked to the speaker, so you have to be honestly interested in the answer :) On some weeks you may only post the "for-credit" question, and not the "I'm actually interested" question. That's OK! And on some weeks, the "for-credit" question and the "Please ask her this" questions may be different! That's also OK!
-5. During the talk, if you have any follow-up questions, please also post them on Slack. I will have Slack notifications appearing in the corner of my screen, and I'll keep an eye on them. Please don't spam with "lmao omg is it even real lol" during the talk, but other than that - please use this channel to communicate with the host :) 
-6. Zoom native Q&A functionality will be disabled during the talk (it's not good enough for our purposes).
-7. If you want to ask a question "in person" (with your own voice), please raise a virtual hand on Zoom :)
+3. I will also post a link to a one-question google form. To a get a credit for this session (to show that you did the reading and thought about it), please submit a reasonable honest question that you had after reading the reading on this google form. Please make sure to do it before the seminar starts, to guarantee that you come to the seminar prepared.
+4. If you also want me to ask this question during the Q&A session with the speaker, please either post your question before 9 am on Thursday, or post it on Slack! Also, feel free to use Slack for "personal"-style questions, about speaker's career, plans, experiences, general life advice, or personal anecdotes!
+   * ⚠️ This is the only point in this entire syllabus that is a tiny bit tricky. The google form response is to show that you did the reading, so it needs to be about the reading. The Slack questions may be personal :) On some weeks you may only post the "for-credit" question (GoogleForm), and not the "I'm actually interested in what you think"  (Slack) question; that's OK!
+5. During the talk, you will have 3 ways to ask questions (given in order or preference):
+   * Best: ask a question "in-person", with your own voice. Do to so, "raise a hand"; I will see it, and will temporarily promote you to a "Question asker". If you updated Zoom since Summer 2020, your camera won't turn on (and in fact you cannot turn your camera on even if you want to). If you haven't updated Zoom since prehistorical times of Spring 2020, it may turn your camera on. (So better, just update Zoom :)
+   * If too shy, use the Zoom native Q&A functionality.
+   * If Q&A doesn't work for some reason, you can also post a question on Slack; I will monitor it.
 
 ## Grading
 
