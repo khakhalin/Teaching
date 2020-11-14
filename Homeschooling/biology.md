@@ -74,8 +74,19 @@ For next time:
 
 The book chapter about matter cycles.
 
-- Cycles; carbon and water: https://www.youtube.com/watch?v=2D7hZpIYlCA
-- Nitrogen and phosphorus: https://www.youtube.com/watch?v=leHy-Y_8nRs
+Book: Read Section 3.4 (everything about cycles of matter)
+
+Watch these videos:
+* https://www.youtube.com/watch?v=2D7hZpIYlCA
+* https://www.youtube.com/watch?v=leHy-Y_8nRs
+
+Then do all questions on pages 89-92
+Be prepared to explain the answers to me the next time we meet :)
+
+Finally, watch these fun videos about ecosystems:
+* https://www.youtube.com/watch?v=ysa5OBhXz-Q - Yellowstone
+* https://www.youtube.com/watch?v=rTR6gGDWcJk - Thermal vents
+* Explanation: https://www.youtube.com/watch?v=8W_ywzhkR90
 
 # ToDo Notes
 

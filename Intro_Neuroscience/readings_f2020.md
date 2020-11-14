@@ -243,6 +243,7 @@ Readings:
 
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s2/chapter14.html
 - Extra page from McGill; make sure to click through all three levels (Beginner, Intermediate, Advanced): http://thebrain.mcgill.ca/flash/i/i_02/i_02_cl/i_02_cl_vis/i_02_cl_vis.html
+- Bird vision: https://en.wikipedia.org/wiki/Bird_vision - our goal for this one is basically to figure out how bird vision is different from human vision
 
 ### Visual labs to run at home
 
@@ -267,7 +268,6 @@ As a write-up for this lab, pick the exercise that you liked the most (that you 
 
 ### Visual processing (cortical, subcortical) + Critical Periods
 
-- Bird vision: https://en.wikipedia.org/wiki/Bird_vision - our goal for this one is basically to figure out how bird vision is different from human vision
 - Hubel and Wiesel:
   - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
   - experiment 1: https://www.youtube.com/watch?v=jIevCFZixIg
@@ -278,9 +278,9 @@ As a write-up for this lab, pick the exercise that you liked the most (that you 
   - McGurk effect: https://www.youtube.com/watch?v=G-lN8vWm3m0
   - Ames Room: https://www.youtube.com/watch?v=gJhyu6nlGt8
   - Ames Window: https://www.youtube.com/watch?v=0KrpZMNEDOY
+  - The kitten:  https://www.youtube.com/watch?v=CcXXQ6GCUb8
 
-* BML Walker: [http://www.biomotionlab.ca/Demos/BMLwalker.html
-  ](http://www.biomotionlab.ca/Demos/BMLwalker.html) (You'll have to enable Adobe Flash to engage with it) Explore the settings. Try different walkers. Remove the lines, work only with the dots. Cover some part of the screen, show the walking figure to your friend: will they be able to tell if it's supposed to be a happier, sadder, heavier, lighter, feminine, masculine person etc? Will they be able to guess the choices you made about the walker?
+* BML Walker: https://www.biomotionlab.ca/html5-bml-walker/
 
 Advanced
 
@@ -288,6 +288,7 @@ Advanced
 
 - Orientation selectivity in a cat: https://www.youtube.com/watch?v=QzkMo45pcUo
 - A short story that describes how it works (critical periods in development): https://www.youtube.com/watch?v=iRinGqREd4A
+- Do animals fall for human-made visual illusions? : 
 
 ### Emotions. Limbic system
 
