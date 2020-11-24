@@ -17,9 +17,9 @@ In turn, this means that by the end of the course you should:
 * Understand and be able to explain a set of key neuroscience concepts
 * Get better in navigating, reading, and analyzing science papers
 * Become familiar with key methods used in neuro research
-* Learn some random terminology
-* Develop an idea about how to collect, analyze, and present experimental data
+* Learn some important terminology (again, to make it easier to read papers)
 * Understand how neuroscience relates to other areas of knowledge (evolution, human psychology, robotics, philosophy etc.)
+* Develop an idea about how to collect, analyze, and present experimental data
 
 ## General info
 

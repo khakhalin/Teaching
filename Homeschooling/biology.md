@@ -64,11 +64,11 @@ OpenStax AP textbook: Chapters 3.1-3.5 (it's too much info, so just look it thro
 
 Book: read that chapter about ecology, and then the one about energy and what not, and network. All until "carbon and nitrogen cycles" (for now).
 
-- Ecosystem: https://www.youtube.com/watch?v=v6ubvEJ3KGM
+- Ecosystem links in the chain: https://www.youtube.com/watch?v=v6ubvEJ3KGM
 - Energy cycle: https://www.youtube.com/watch?v=TitrRpMUt0I
-- Food network: https://www.youtube.com/watch?v=xL96QwxwbG0
+- Food network Khan: https://www.youtube.com/watch?v=xL96QwxwbG0
 
-## Next one
+# Early November
 
 For next time:
 
@@ -77,8 +77,8 @@ The book chapter about matter cycles.
 Book: Read Section 3.4 (everything about cycles of matter)
 
 Watch these videos:
-* https://www.youtube.com/watch?v=2D7hZpIYlCA
-* https://www.youtube.com/watch?v=leHy-Y_8nRs
+* https://www.youtube.com/watch?v=2D7hZpIYlCA - crash nitrogen & phosphorus
+* https://www.youtube.com/watch?v=leHy-Y_8nRs - crash water and carbon cycles
 
 Then do all questions on pages 89-92
 Be prepared to explain the answers to me the next time we meet :)
@@ -87,6 +87,24 @@ Finally, watch these fun videos about ecosystems:
 * https://www.youtube.com/watch?v=ysa5OBhXz-Q - Yellowstone
 * https://www.youtube.com/watch?v=rTR6gGDWcJk - Thermal vents
 * Explanation: https://www.youtube.com/watch?v=8W_ywzhkR90
+
+# Nov 14
+
+Homework for our next discussion class:
+
+- Read the next few chapters in the book: climate, succession, biomes, colonization of volcanic islands, and aquatic ecosystems.
+
+- As usual:
+
+- - Look up all key terms (google / wikipedia), make sure you understand them
+  - Write down (!!!) questions that appear in your heads as you work through this material
+
+- Videos:
+
+- - Succession: https://www.youtube.com/watch?v=jZKIHe2LDP8
+  - Primary succession: https://www.youtube.com/watch?v=TLpc71YOtcE
+  - Second half of this video (about 10 minutes), when they stop talking about geology, and start talking about succession: https://www.youtube.com/watch?v=a0ZnlfDkErM
+  - The tomato story: http://nowiknow.com/the-tomato-plant-versus-the-volcano/
 
 # ToDo Notes
 

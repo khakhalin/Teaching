@@ -391,7 +391,7 @@ Advanced
 - Recursive drawing (as a metaphor for complex systems):
   http://recursivedrawing.com/draw.html
 
-Visual illusions
+# Visual illusions
 
 - McGurk effect: https://www.youtube.com/watch?v=G-lN8vWm3m0
 - On multisensory integration (this entire channel is gold):
@@ -402,12 +402,12 @@ Cortex. Higher associative regions. Language areas. Left and right brains.
 
 - Language in the cortex: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
 
-Beauty
+# Beauty
 
 - Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
   Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
 
-Frontal regions, consciousness, abnormal psychology
+# Frontal regions, consciousness, self
 
 - What happens when cerebral hemispheres are separated: https://www.youtube.com/watch?v=zx53Zj7EKQE 
 - On memory: Transient global amnesia: https://www.youtube.com/watch?v=N3fA5uzWDU8
@@ -416,3 +416,4 @@ Frontal regions, consciousness, abnormal psychology
 - Paranoid schizophrenia simulation (a somewhat questionable attempt to make a training video. Not necessarily "bad", but also not entirely unproblematic): https://www.youtube.com/watch?v=LWYwckFrksg
 - Personality changes after a trauma (and an interesting discussion of legal implications):
   https://longreads.com/2019/10/22/the-final-five-percent/
+
