@@ -11,20 +11,20 @@ So, here's how a good paper should look like:
 1. The paper starts with a **reference** to the original paper (name, authors), followed by an http link
 2. The **length** is reasonable (not more than 5 pages single-spaced, with ~11 font size)
 3. All **7 parts** (paragraphs) are there (perhaps with subtitles?): 1 Background, 2 Why this paper, 3 Question and hypothesis, 4 Methods, 5 Figures, 6 Answer, 7 Limitations.
-4. The writing is **clear**, concise, and to the point. (As opposed to confusing or verbose)
-5. The writing is **active**. (As opposed to dead and formal. We don't like passive voice. We also don't like "smart" Latin words (utilize, ascertain, demonstrate) where English words would be enough (use, find, show).
-6. The writing is **specific** (As opposed to vague, or missing crucial details).
+4. The writing is **clear**, concise, and to the point, as opposed to confusing or verbose.
+5. The writing is **active**, as opposed to dead and formal. We don't like passive voice. We also don't like "smart" Latin words ("utilize, ascertain, demonstrate") where English words would be enough ("use, find, show).
+6. The writing is **specific**, as opposed to vague, or missing crucial details.
 7. If there are **abbreviations** **and fancy terms** in the text, they are explained at first use.
 8. Now paragraph by paragraph:
-   1. We now understand why this topic matters (either for science, or for the humanity as a whole), and why someone would study it at all.
-   2. This one is personal, so as long as it reads well, it's fine :)
-   3. The narrow question of the paper (the tiny step the authors tried to make) is explained, and we can see what possible answers were even on the table.
-   4. The key method used in the paper is explained (if there's more than one; explaining one is enough). If it's very fancy, we get at least the basic idea behind it. Ideally, it would be nice to know what alternative methods were there, and how does the chosen method compare to the alternatives, but it's a harder question, so if this comparison is missing, it's ok.
-   5. There's a rough run-down of what each figure does. Like, maybe one of them introduces the method, or proves that it even works, or shows the main result, or a follow-up experiment, etc. But now we see the overall logic of the paper, as it was presented in figures.
-   6. We know how authors answered their question (from paragraph 3), and what it means (in terms of paragraph 1).
-   7. Did the writer honestly share their concerns about the paper? If they just said that "more experiments are needed", it doesn't really count. If they just stated that they don't think some results are convincing, without explaining why they think so, it also doesn't count. But if they explained why they didn't like some parts of the paper, that's great! This is the hardest question though, so be gentle.
+   1. After reading this paragraph, we understand why this topic matters (either for science, or for the humanity as a whole), and why someone would study it at all.
+   2. "Why did you pick this paper" - this one is personal, so as long as it reads well, it's fine :)
+   3. The narrow question of the paper (the tiny step in the quest for knowledge that the authors decided to take) is explained. We can see what possible answers to this questions were even on the table. Like, what were the options? The range of possibilities? What we could have found? Is it clear now?
+   4. The key method used in the paper is explained (if there's more than one key method; explaining one is enough). If it's very fancy, we get at least the basic idea behind it. Ideally, it would be nice to know what alternative methods were there, and how does the chosen method compare to the alternatives, but it's a harder question, so if this comparison is missing, it's ok. Make sure to check that the method described here is really the key method of the paper; not just the "first" method they used, or the one that felt easier.
+   5. There's a rough run-down of what each figure does. Like, maybe one of them introduces the method, another one proves that it even works, yet another one shows the main result, or a follow-up experiment, etc. Now we see the overall logic of the paper, or rather, of how it was presented in figures. If a figure has many very different panels (presenting different types of data, drastically different experiments etc.), we can expect the writer say something about at least some of them.
+   6. We know how authors answered their main question (from paragraph 3), and what this answer means in a broader picture (in terms of paragraph 1).
+   7. Did the writer honestly share their concerns about the paper? If they just said that "more experiments were needed", or if they wrote something about "human factor", it doesn't really count. That's not specific enough, and thus not helpful. Same, if they just stated that they don't think some results are convincing, without explaining _why_ they think so, it also doesn't count. But if they explained why they didn't like some parts of the paper, and especially if they have a nuanced opinion over how a paper could have been improved, that's great! That's the hardest question of all 7 though, so be gentle :)
 
-# The logistic
+# The logistics
 
 ## Before the peer-review session (due Thursday, Dec 03, 1 pm)
 
