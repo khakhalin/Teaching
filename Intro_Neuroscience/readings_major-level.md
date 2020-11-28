@@ -1,4 +1,4 @@
-# Full list of Readings, Videos, and Extra Materials
+# Full list of Readings, Videos, and Extra Materials: Major level
 
 *Work in progress! Doesn't match the syllabus for now!*
 
