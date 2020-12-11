@@ -170,6 +170,7 @@ PPI lab
 - Tuvan throat singing. 
   - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
   - Actual Tuvans (Huun‐Huur‐Tu) Live on KEXP: https://www.youtube.com/watch?v=R2ovoRyv4kw
+- Vaguely related: a Talkbox (a thingie that replaces your vocal cords with a synthesizer ): https://www.youtube.com/watch?v=h_L5v9OTSxc
 
 Internal
 

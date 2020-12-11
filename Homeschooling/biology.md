@@ -106,6 +106,29 @@ Homework for our next discussion class:
   - Second half of this video (about 10 minutes), when they stop talking about geology, and start talking about succession: https://www.youtube.com/watch?v=a0ZnlfDkErM
   - The tomato story: http://nowiknow.com/the-tomato-plant-versus-the-volcano/
 
+# Nov 29
+
+Chapters 5.1, 5.2, and 5.3 (it would be population growth, predator-prey, and limiting factors, I think?)
+
+Predator-prey simulations:
+Play with this one, and read the description:
+https://www.complexity-explorables.org/explorables/lotka-martini/
+Understand how it works (not the programming size, but the phenomenology of what is happening, and how the behavior changes, as you play with the parameters)
+This is frankly more of a hacker's exercise. Visit this page:
+https://ncase.me/sim/?s=prey
+Find a way to make foxes and rabbits coexist without extinction, while retaining oscillations (population waves)
+
+Oh, right, I totally forgot to find good lectures for you. So here are the lectures:
+
+- Population biology and population growth
+  https://www.youtube.com/watch?v=RBOsqmBQBQk&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=3
+- Human population growth:
+  https://www.youtube.com/watch?v=E8dkWQVFAoA&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=4
+
+And also this one, which is not quite ecology, but is related to it in some way, and also is like WOW DUDE MIND BLOWN (but only watch it after you read all the stuff, watched all the stuff, and played with the simulations I shared earlier, as it talks a bit about the math behind it all, and the implications it has):
+
+- https://www.youtube.com/watch?v=ovJcsL7vyrk
+
 # ToDo Notes
 
 - Observable notebooks on predator-prey for ecology, as a sort of a lab
