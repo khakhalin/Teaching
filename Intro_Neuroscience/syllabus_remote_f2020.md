@@ -1,6 +1,6 @@
 # Syllabus: Introduction to Neurobiology, Fall 2020
 
-*Version: Aug 31 2020*
+*Version: Nov 2020*
 
 # Course description
 
