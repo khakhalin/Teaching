@@ -5,7 +5,7 @@
 Crash courses:
 
 * Biology: https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF
-* Ecology: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
+* 🔥 Ecology: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 * A&P: https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8
 * History of science: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng
 * Chemistry: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr
@@ -16,6 +16,11 @@ Khan academy:
 * Ecology: https://www.youtube.com/watch?v=OfV3VNgjpvw&list=PLSQl0a2vh4HAKgpqy3GIDhY9VbxtzREEE
 * Genetics: https://www.youtube.com/playlist?list=PL5JaZVPnPe4ZlzNZG7oF6cCDkyX5J0dki
 * No single list for physiology, so search anew every time: https://www.youtube.com/results?search_query=khanacademy+physiology&sp=EgIQAw%253D%253D
+
+Other
+
+* PBS Eons (paleontology): https://www.youtube.com/c/eons/videos
+* Sci show: https://www.youtube.com/c/SciShow/videos
 
 Openstax resources:
 
@@ -129,6 +134,31 @@ And also this one, which is not quite ecology, but is related to it in some way,
 
 - https://www.youtube.com/watch?v=ovJcsL7vyrk
 
-# ToDo Notes
+# Dec 3
 
-- Observable notebooks on predator-prey for ecology, as a sort of a lab
+Pollution:
+https://www.youtube.com/watch?v=kdDSRRCKMiI&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=12
+
+Conservation and restoration:
+https://www.youtube.com/watch?v=Kaeyr5-O2eU&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=13
+
+Tumbleweed:
+
+* https://www.youtube.com/watch?v=dATZsuPdOnM - with photos
+
+* https://www.youtube.com/watch?v=hsWr_JWTZss - schematic
+
+Earthworms: 
+
+* https://www.youtube.com/watch?v=sx4Ssk8IpaE - invasion
+* https://www.youtube.com/watch?v=uO4lkv-jLRs - what existed before them
+
+# Random future
+
+Giant cells:
+https://www.youtube.com/watch?v=9SLYdENgsog
+
+Crabification:
+https://www.youtube.com/watch?v=wvfR3XLXPvw
+https://www.youtube.com/watch?v=7oT6ER8tmjI
+
