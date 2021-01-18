@@ -6,7 +6,7 @@
 * Tom's language files: https://www.youtube.com/playlist?list=PL96C35uN7xGLDEnHuhD7CTZES3KXFnwm0
 * Linguistics lectures by TrevTutor: https://www.youtube.com/playlist?list=PLDDGPdw7e6Ah0e9VYg6ejkS4jRLKB2b2J
 * NativLang: https://www.youtube.com/channel/UCMk_WSPy3EE16aK5HLzCJzw
-* On accents: https://www.youtube.com/user/AccentHelp/videos
+* Accents coach: https://www.youtube.com/user/AccentHelp/videos
 * On Russian language (in Russian): https://www.youtube.com/channel/UCLZfKxphbzV4dxTByxSFFCg
 
 ## Phonetics
@@ -16,6 +16,8 @@ Schwa: https://www.youtube.com/watch?v=qu4zyRqILYM
 Language sounds that could exist, but don't: https://www.youtube.com/watch?v=9uZam0ubq-Y
 
 On the evolution of r into a labiodental approximant: https://www.youtube.com/watch?v=ld3A3QCpXd4
+
+World weirdest phonemes: https://www.youtube.com/watch?v=-zB2TG9sVf8
 
 It's pronounced GIF: https://www.youtube.com/watch?v=N1AL2EMvVy0&ab_channel=TomScott
 
@@ -69,7 +71,11 @@ Georgian: https://www.youtube.com/watch?v=RqynXNBiwGo
 
 Colors (across languages): https://www.youtube.com/watch?v=2TtnD4jmCDQ
 
-Features English doesn't have: https://www.youtube.com/watch?v=QYlVJlmjLEc
+Features English doesn't have (tom): https://www.youtube.com/watch?v=QYlVJlmjLEc
+
+Features English doesn't have (nativlang): https://www.youtube.com/watch?v=5iLpKFA1ADQ
+
+Features of English that are rare: https://www.youtube.com/watch?v=LQEzTcLH27U
 
 ## History of English
 
@@ -86,6 +92,8 @@ Shakespearean English:
 * https://www.youtube.com/watch?v=5lOFAzt8fMg
 * https://www.youtube.com/watch?v=YiblRSqhL04
 * https://www.youtube.com/watch?v=WeW1eV7Oc5A (from native lang - with actual explanations)
+
+Anglish: https://www.youtube.com/watch?v=IIo-17SIkws
 
 ## Slavic languages
 
@@ -107,13 +115,33 @@ Old Believers dialect from Brasil (30 min): https://www.youtube.com/watch?v=474h
 
 Old Moscow dialect (30 min): https://www.youtube.com/watch?v=yY7zXn2FU3g
 
+A whole playlist of ~20 videos (from the same whiskered dude) on nuances of Russian: https://www.youtube.com/playlist?list=PL_Ti2DFiE_m74lvoVaSqalkl-YQITz8Of
+
 Church Slavonic in modern Russian: https://www.youtube.com/watch?v=Tf6mRLuq2hE
+
+Russian compared to Ukrainian (eng): https://www.youtube.com/watch?v=CQLM62r5nLI
 
 ## Origins of language
 
 Bouba Kiki (TLF): https://www.youtube.com/watch?v=1TDIAObsqcs
 
 Gestures (TLF): https://www.youtube.com/watch?v=gGMkHzWXjI8
+
+## Sociolinguistics
+
+## Dialects and The politics of language
+
+Hebrew revival: https://www.youtube.com/watch?v=HBiiad9fO-g
+
+Plattdeutsch revival attempts: https://www.youtube.com/watch?v=pr4l-osIuyg
+
+Swiss German (aus Zürich): https://www.youtube.com/watch?v=89adaKKIkUw
+
+Even more swiss German dialects, direct comparison: https://www.youtube.com/watch?v=nEAcepckl5U
+
+Some Russian dialectal examples
+
+* Tver: https://www.youtube.com/watch?v=lE_fbn2FqBU
 
 ## Translation
 
