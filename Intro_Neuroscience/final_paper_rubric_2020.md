@@ -1,4 +1,6 @@
-# Intro Neurobiology: the Rubric for the Final Paper
+# Intro Neurobiology: Final Paper Rubric
+
+*Version: Nov 2020*
 
 Neil Geiman once wrote (I'm paraphrasing): when people tell you that something in your writing doesn't work, they are usually right. When they tell you how to fix it, they are usually wrong. 
 

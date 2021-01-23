@@ -4,8 +4,8 @@
 
 Crash courses:
 
-* Biology: https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF
-* 🔥 Ecology: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
+* 🔥 Biology: https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF
+* Ecology: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 * A&P: https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8
 * History of science: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng
 * Chemistry: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr
