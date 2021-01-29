@@ -69,6 +69,34 @@ Prescriptivism vs descriptivism: https://www.youtube.com/watch?v=2qT8ZYewYEY
 
 It's pronounced GIF: https://www.youtube.com/watch?v=N1AL2EMvVy0&ab_channel=TomScott
 
+## History of English
+
+A short lecture (14 min): https://www.youtube.com/watch?v=Oz8tEPXI25A
+
+Obsolete letters (T): https://www.youtube.com/watch?v=SVWvkZbhgAc
+
+Great Vowel Shift (SR): https://www.youtube.com/watch?v=3hqQpziIETo
+
+Is English a Germanic language? (LF) https://www.youtube.com/watch?v=2OynrY8JCDM
+
+Anglish (LF): https://www.youtube.com/watch?v=IIo-17SIkws
+
+Leftovers of Old English (SR): https://www.youtube.com/watch?v=4kmIV9yOTyg
+
+Swearing in Saxon (T): https://www.youtube.com/watch?v=wA2xRVMOThc
+
+
+
+Old Norse influences in English (LF): https://www.youtube.com/watch?v=CDAU3TpunwM
+
+Spelling reforms: https://www.youtube.com/watch?v=j9Q1cM7_ai4
+
+Shakespearean English:
+
+* https://www.youtube.com/watch?v=5lOFAzt8fMg
+* https://www.youtube.com/watch?v=YiblRSqhL04
+* https://www.youtube.com/watch?v=WeW1eV7Oc5A (from native lang - with actual explanations)
+
 ## Other languages
 
 How many languages are there: https://www.youtube.com/watch?v=qYlmFfsyLMo&ab_channel=TomScott
@@ -85,31 +113,15 @@ Features English doesn't have (nativlang): https://www.youtube.com/watch?v=5iLpK
 
 Features of English that are rare: https://www.youtube.com/watch?v=LQEzTcLH27U
 
-## History of English
-
-A short lecture (14 min): https://www.youtube.com/watch?v=Oz8tEPXI25A
-
-Obsolete letters: https://www.youtube.com/watch?v=SVWvkZbhgAc
-
-Spelling reforms: https://www.youtube.com/watch?v=j9Q1cM7_ai4
-
-Swearing in saxon: https://www.youtube.com/watch?v=wA2xRVMOThc
-
-Shakespearean English:
-
-* https://www.youtube.com/watch?v=5lOFAzt8fMg
-* https://www.youtube.com/watch?v=YiblRSqhL04
-* https://www.youtube.com/watch?v=WeW1eV7Oc5A (from native lang - with actual explanations)
-
-Anglish: https://www.youtube.com/watch?v=IIo-17SIkws
-
-## Slavic languages
+## Slavic languages and Russian
 
 Old Moscow dialect (30 min): https://www.youtube.com/watch?v=yY7zXn2FU3g
 
-
-
 History of Russian in 18 minutes (well produced): https://www.youtube.com/watch?v=vDSn1HWY8J8
+
+
+
+Playlist, deconstruct 🔴 https://www.youtube.com/playlist?list=PLeNbGOow-rne9KWobLdUu2VrOeuxRFTey
 
 Древнерусский язык: https://www.youtube.com/watch?v=TNn-or7jjVY
 

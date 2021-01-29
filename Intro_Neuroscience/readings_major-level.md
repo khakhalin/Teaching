@@ -1,23 +1,38 @@
-# Full list of Readings, Videos, and Extra Materials: Major level
+# Intro Neuro - Full list of Readings, Videos, and Extra Materials
 
-*Work in progress! Doesn't match the syllabus for now!*
+*Version: 27 Jan 2021*
 
-### Resting membrane potential
+# Intro & Resting membrane potential
+
+* Neurotic neurons: https://ncase.me/neurons/
 
 * Death by coconut: Hakimian, J., Goldbarg, S. H., Park, C. H., & Kerwin, T. C. (2014). Death by coconut. Circulation: Arrhythmia and Electrophysiology, 7(1), 180-181. [Google Drive Link](https://drive.google.com/file/d/1wFqm-Uajp_qE4lWZhXGXu-sp0VcMUDYy/view)
+
+Videos:
+
+* How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
+* https://www.youtube.com/watch?v=OWASUMMQjj8 - Adam ruins everything, about water
 
 Advanced:
 
 - https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html
+
+Optional:
+
 - Khan academy: https://www.youtube.com/watch?v=l3ngsl7FhTc
 
-### Action potential
+Once you have read and watched all that, as a **follow-up to this post** (not as a new post, but below, in the "follow-up" section), submit a **good honest question** you have about these topics. Something that you did not quite completely understand yet, but that you thought was interesting. Something we should maybe discuss in class. 2-3 sentences would do (but feel free to write 5-6 sentences if it helps to explain your point!)
+
+Please submit anonymously, and please have it done by 9 am on Thursday, so that I could read your questions before the class.
+
+# Action potential
 
 - Action potential, conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
 - On pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
 - On pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
   - A pdf copy of this article (without pics, but with all the text): https://drive.google.com/open?id=1VeEikLsKIirjxQT9DWj0xpqWZaPsJXzZ
-- How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
+  - How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
+- A brief history of pain scale: https://wongbakerfaces.org/us/wong-baker-faces-history/
 
 Advanced:
 
@@ -30,9 +45,8 @@ Videos about stochastic motion of proteins (to give a better impression of how c
 * DNA replication: https://www.youtube.com/watch?v=7Hk9jct2ozY
 * Protein packing: https://www.youtube.com/watch?v=VdmbpAo9JR4
 
-### Excitatory synapse. Connectomics. Escape in shrimp
+# Excitatory synapse. Connectomics. Escape in shrimp. Free will
 
-- Neurotic neurons: https://ncase.me/neurons/
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
 - Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
@@ -48,7 +62,9 @@ Advanced
 
 Maybe:
 
-* Smith, K. (2011). Neuroscience vs philosophy: Taking aim at free will. Nature News, 477(7362), 23-25. https://www.nature.com/articles/477023a.pdf
+* Smith, K. (2011). Neuroscience vs philosophy: Taking aim at free will. Nature News, 477(7362), 23-25. https://www.nature.com/articles/477023a.pdf - human oriented
+* A press-release about Björn Bremb's work: https://www.nbcnews.com/id/wbna18684016
+  * And the research paper for those who want to learn more: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000443
 
 Lab:
 
@@ -56,7 +72,7 @@ Lab:
   Description: https://blog.eyewire.org/about/ 
   Login: https://eyewire.org/signup (create an account, login, go through the tutorial, analyze at least one real cube, post your result)
 
-### Ethology. Inhibition. Integration. Reflexes
+# Ethology. Inhibition. Integration
 
 - Wikipedia article about Ethology: https://en.wikipedia.org/wiki/Ethology
 - Wikipedia article about Neuroethology: https://en.wikipedia.org/wiki/Neuroethology
@@ -77,7 +93,7 @@ Venus fly trap lab
 
 - Video: https://www.youtube.com/watch?v=45v5L2u0Nj8
 
-### Escape in fish. CPG. STG
+# Simple motor systems. Escape in fish. Reflexes. CPGs
 
 Additional videos:
 
@@ -85,8 +101,9 @@ Additional videos:
 - Reflective walking in human newborns: https://www.youtube.com/watch?v=-ih_pCBo70o 
 - Decerebrate cat on a treadmill, BW video from 1960s: https://www.youtube.com/watch?v=wPiLLplofYw 
 - Robots
-  - Honda asimo: https://www.youtube.com/watch?v=YruAOxWG5uU  
-  - Boston Dynamics: https://www.youtube.com/watch?v=rVlhMGQgDkY 
+  - Honda Asimo: https://www.youtube.com/watch?v=YruAOxWG5uU  
+  - Boston Dynamics 10 years ago: https://www.youtube.com/watch?v=rVlhMGQgDkY 
+  - Boston dynamics now: https://www.youtube.com/watch?v=fn3KWM1kuAw
 
 Fun reading, highly recommended. It's about high-end horses that fancy knights would buy for their posh ladies, as said horses would have had a mutation in one of its CPGs!
 
@@ -106,7 +123,7 @@ Labs
 * Being random is hard: https://www.expunctis.com/2019/03/07/Not-so-random.html
   Try different strategies. Describe what worked better, and what worked worse.
 
-### Senses. Touch. Neural coding
+# Senses. Touch. Neural coding
 
 * https://en.wikipedia.org/wiki/Sense
 * True facts about the Star-Nosed mole: https://www.youtube.com/watch?v=fio1NUxszhY
@@ -118,7 +135,7 @@ Labs
   * https://www.youtube.com/watch?v=UuRcQygrs0E
   * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
-### Hearing: Physiology
+# Hearing: The Ear
 
 - Main video (Auditory transduction): https://www.youtube.com/watch?v=PeTriGTENoc
 - Dancing hair cell (electromechanical transformation): https://www.youtube.com/watch?v=Xo9bwQuYrRo 
@@ -139,7 +156,7 @@ PPI lab
 
 - Paper about PPI: https://pdfs.semanticscholar.org/e110/4edd4b6c3aebcd678dba2b9b2a2acbea1b48.pdf
 
-### Hearing 2: Spatial maps
+# Hearing 2: Spatial maps
 
 * On binaural recordings (really cool, professional & informative): https://www.youtube.com/watch?v=Yd5i7TlpzCk
 * Sound localization in owls: https://en.wikipedia.org/wiki/Sound_localization_in_owls
@@ -151,7 +168,7 @@ PPI lab
 - Echolocation in bats: https://www.youtube.com/watch?v=gZxLUNHEmPw
 - Spatial hearing: http://auditoryneuroscience.com/spatial-hearing
 
-### Speech and Music
+# Speech and Music
 
 - A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
 - Talking pianos  (a really cool illustration of how sound synthesis works):
@@ -223,7 +240,7 @@ Tuning systems
 - No two people may be describing the same term! (Unless the first description was so obscure that you couldn't guess it). It means that the first few participants will have it easier (they can pick simple things like "brain" or "neuron"), while later contributors will have to be a bit more creative. But we studied LOTS of fancy words in this course, so it should not be a problem ;)
 - Good luck! And let me know if you have any questions!
 
-### Vision: eye and retina. On/off cells.
+# Vision: eye and retina. On/off cells.
 
 - On color vision (this is not yellow; only watch the first third of the video or so, that is about vision; ignore the rest): https://www.youtube.com/watch?v=R3unPcJDbCc
 - Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
@@ -267,7 +284,7 @@ Make sure to do all of these exercises below. It should take about an hour, mayb
 
 As a write-up for this lab, pick the exercise that you liked the most (that you found most interesting and informative), and write either a haiku, a sonnet, or a limerick about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
-### Visual processing (cortical, subcortical) + Critical Periods
+# Visual processing (cortical, subcortical) + Critical Periods
 
 - Hubel and Wiesel:
   - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
@@ -291,20 +308,16 @@ Advanced
 - A short story that describes how it works (critical periods in development): https://www.youtube.com/watch?v=iRinGqREd4A
 - Do animals fall for human-made visual illusions? : 
 
-### Emotions. Limbic system
-
-Internal but important:
+# Emotions. Limbic system
 
 * Living without fear (a lady with both amygdalas surgically removed): https://drive.google.com/open?id=1ypl-dmuQg9kRr6b7buxaIrXezYOlBxNh 
 
-Topical videos:
+* Unhelpful emotions (TED talk on irrational decisions, 5 min): https://www.youtube.com/watch?v=V2EMuoM5IX4
 
-* Unhelpful emotions: https://www.youtube.com/watch?v=V2EMuoM5IX4
+- Helpful emotions (3 min talk by Damasio): https://www.youtube.com/watch?v=1wup_K2WN0I
+- Capgras delusion (10 min case presentation with Ramachandran): https://www.youtube.com/watch?v=dqBGzkz1oDU
 
-- Helpful: https://www.youtube.com/watch?v=1wup_K2WN0I
-- Capgras delusion: https://www.youtube.com/watch?v=dqBGzkz1oDU
-
-Main readings:
+Readings:
 
 - Hippocampus: https://nba.uth.tmc.edu/neuroscience/s4/chapter05.html
 - Amygdala: https://nba.uth.tmc.edu/neuroscience/s4/chapter06.html
@@ -317,14 +330,14 @@ Risky links:
   - A doctor and fentanyl: https://torontolife.com/city/crime/doctor-perfect-life-got-hooked-fentanyl/
   - Narrated reddit story about heroin: https://www.youtube.com/watch?v=Lbh13zwJc1g
 
-### Brain morphology
+# Brain morphology
 
 - Keywords I'd like you to have some basic idea about: ventral, dorsal, lateral, medial, rostral, caudal, superior, inferior, contralateral, ipsilateral, forebrain, midbrain, hindbrain, cerebellum, olfactory bulbs, telencephalon, diencephalon, mesencephalon, rhombencephalon, brain ventricles, cortex, thalamus, hypothalamus, tectum, tegmentum, pons, medulla, decussation, commissure, pineal, pituitary, superior and inferior colliculi, hippocampus, amygdala, autonomic system, sympathetic system, parasympathetic system.
 - Overview of nervous system: https://nba.uth.tmc.edu/neuroscience/s2/chapter01.html
 - Wedel, M. J. (2011). A monument of inefficiency: The presumed course of the recurrent laryngeal nerve in sauropod dinosaurs. Acta Palaeontologica Polonica, 57(2), 251-257.
   https://www.app.pan.pl/archive/published/app57/app20110019.pdf
 
-### Motor systems
+# Motor systems
 
 - Main reading: Motor cortex: https://nba.uth.tmc.edu/neuroscience/s3/chapter03.html
 - A video about motor cortex and brain-machine interfaces:
@@ -342,7 +355,7 @@ Virtual lab:
 * QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
   Post your personal record + your strategy.
 
-### Cortex: associative regions, language, lateralization
+# Cortex: associative regions, language, lateralization
 
 - Language and two types of aphasias (from Khan academy): https://www.youtube.com/watch?v=lBqShvm4QRA
 - Aphasia case presentations:
@@ -351,19 +364,6 @@ Virtual lab:
   - https://www.youtube.com/watch?v=a9z6eX85Zn4 - same person 6 years later (on her channel you can find some more in-between videos if you want to)
   - https://www.youtube.com/watch?v=aVhYN7NTIKU - Wernike's aphasia, old video
   - https://www.youtube.com/watch?v=3oef68YabD0 - Wernike's aphasia, a better (more recent) video
-- Lateralization
-  - Real patients with hemilateral neglect: https://www.youtube.com/watch?v=d4FhZs-m7hA
-  - A video about split brains: https://www.youtube.com/watch?v=wfYbgdo8e-8 (note: this one is both simplifying things, and exaggerating things a lot)
-  - Split-brain patient:
-    - part 1: https://www.youtube.com/watch?v=zx53Zj7EKQE
-    - part 2: https://www.youtube.com/watch?v=u9u6cQYcOHw
-  - Living with half a brain. There are several videos on youtube about patients like that. 
-    - This one is a bit shorter: https://www.youtube.com/watch?v=f2fCY_M7Vms
-    - But I like this one better, even though it is a bit longer: https://www.youtube.com/watch?v=k1aiK1pocGU
-
-Internal
-
-* Oliver Sacks (from the book “The man who mistook his wife for a hat”): Eyes right (very short story, on hemilateral neglect). https://drive.google.com/open?id=14p6s-vUBecrZ7YIc4ojdAgOzpW90EBp9
 
 Advanced
 
@@ -371,17 +371,30 @@ Advanced
 
 - Higher cortical regions: https://nba.uth.tmc.edu/neuroscience/s4/chapter09.html
 
-### Plasticity
+# Left and right brains
 
-- U Texas book, synaptic plasticity: https://nba.uth.tmc.edu/neuroscience/s1/chapter07.html
-- Grokk information about LTP and patch-clamp on Wikipedia:
+- Real patients with hemilateral neglect: https://www.youtube.com/watch?v=d4FhZs-m7hA
+- Living with half a brain. There are several videos on youtube about patients like that. 
+  - This one is a bit shorter: https://www.youtube.com/watch?v=f2fCY_M7Vms
+  - But I like this one better, even though it is a bit longer: https://www.youtube.com/watch?v=k1aiK1pocGU
+
+* Oliver Sacks (from the book “The man who mistook his wife for a hat”): Eyes right (very short story, on hemilateral neglect). https://drive.google.com/open?id=14p6s-vUBecrZ7YIc4ojdAgOzpW90EBp9
+
+# Memory
+
+* U Texas book, synaptic plasticity: https://nba.uth.tmc.edu/neuroscience/s1/chapter07.html
+* Grok information about LTP and patch-clamp on Wikipedia:
   https://en.wikipedia.org/wiki/Long-term_potentiation
   https://en.wikipedia.org/wiki/Patch_clamp
-- Read about Pavlovian learning and Skinner's operant conditioning (also on Wikipedia)
-- Review on LTP (ignore everything about LTD): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367554/
-- Advanced: pages 3 and 4 on Hebbian plasticity, in this paper: https://pdfs.semanticscholar.org/f9fc/99a5c52aa5df1b530dfdeb25dfb6b10bdecf.pdf
+* Read about Pavlovian learning and Skinner's operant conditioning (also on Wikipedia)
+* Review on LTP (ignore everything about LTD): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367554/
+* Advanced: pages 3 and 4 on Hebbian plasticity, in this paper: https://pdfs.semanticscholar.org/f9fc/99a5c52aa5df1b530dfdeb25dfb6b10bdecf.pdf
+* Transient global amnesia (it is Tuesday): https://www.youtube.com/watch?v=N3fA5uzWDU8
+* Sacks, lost mariner: http://neurodiversity.qwriting.qc.cuny.edu/files/2015/12/sacks-mariner.pdf
+* About the most famous neurology patient in history (Patient HM):
+  https://www.theguardian.com/science/2013/may/05/henry-molaison-amnesiac-corkin-book-feature
 
-### Development
+# Development
 
 - U Texas book, synapse formation and elimination: https://nba.uth.tmc.edu/neuroscience/s1/chapter09.html
 - Videos of growing neurons:
@@ -403,18 +416,54 @@ Cortex. Higher associative regions. Language areas. Left and right brains.
 
 - Language in the cortex: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
 
-# Beauty
+# Beauty and Creativity
 
-- Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
-  Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
+- Bolero unraveling (about Anne Adams)
+  - https://www.nytimes.com/2008/04/08/health/08brai.html (paywall), http://www.radiantpics.com/creativity.pdf (same, free)
+  - Radiolab podcast, in case you like listening to podcasts: https://www.wnycstudios.org/podcasts/radiolab/articles/unraveling-bolero
+  - A shorter article-like version that I personally prefer: https://www.newscientist.com/article/dn13599-bolero-beautiful-symptom-of-a-terrible-disease/
+  - Scientific article about her: https://academic.oup.com/brain/article/131/1/39/346188
+  - Another article that claims that actually creativity, as measured objectively, is decreased in FTD patients (only skim through it, you don't have to read it in-depth): https://www.ncbi.nlm.nih.gov/pubmed/20868703
+- The Visions of Hildegard - by Olver Sacks: https://drive.google.com/open?id=15R7D1Mc5n_BiUrF5kyqie-ViJCt0syyk
+  - And also [this interview with him](https://skepticalinquirer.org/2013/05/oliver-sacks-on-hallucinations/) - it provides a bit more background, and also mentions synesthesia, which is another interesting phenomenon (look it up if you haven’t heard about it!). 
+  - You may also want to glance through this wiki article: https://en.wikipedia.org/wiki/Aura_(symptom)
+- Aphantasia: a phenomenon that was discovered only very recently, IN A BLOG POST! Like, for real! 
+  - Here's the original post:
+    https://medicine.exeter.ac.uk/media/universityofexeter/medicalschool/research/neuroscience/docs/theeyesmind/Blake_Ross_April_2016_facebook_post_Aphantasia.pdf
+  - https://www.reddit.com/r/Aphantasia/comments/aioyga/simple_aphantasia_test/
+  - Can a person with aphantasia be a visual artist? It appears there’s no correlation whatsoever: https://twitter.com/ianmcque/status/1226246492148715520
 
-# Frontal regions, consciousness, self
+- Practical assignment:
+  - Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
+    Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
 
-- What happens when cerebral hemispheres are separated: https://www.youtube.com/watch?v=zx53Zj7EKQE 
-- On memory: Transient global amnesia: https://www.youtube.com/watch?v=N3fA5uzWDU8
-- Four patients with schizophrenia: https://www.youtube.com/watch?v=bWaFqw8XnpA&t=4m37s
-- A really wholesome interview: https://www.youtube.com/watch?v=7csXfSRXmZ0
-- Paranoid schizophrenia simulation (a somewhat questionable attempt to make a training video. Not necessarily "bad", but also not entirely unproblematic): https://www.youtube.com/watch?v=LWYwckFrksg
-- Personality changes after a trauma (and an interesting discussion of legal implications):
-  https://longreads.com/2019/10/22/the-final-five-percent/
+# Modularity of mind
 
+- Brain split
+  - What happens when cerebral hemispheres are separated (5 min): https://www.youtube.com/watch?v=zx53Zj7EKQE 
+  - A video about split brains: https://www.youtube.com/watch?v=wfYbgdo8e-8 (note: this one is both simplifying things, and exaggerating things a lot)
+  - Split-brain patient:
+    - part 1: https://www.youtube.com/watch?v=zx53Zj7EKQE
+    - part 2: https://www.youtube.com/watch?v=u9u6cQYcOHw
+- Scizophrenia
+  - Four patients with schizophrenia: https://www.youtube.com/watch?v=bWaFqw8XnpA&t=4m37s
+  - A really wholesome interview (Cecilia's life with scizophrenia): https://www.youtube.com/watch?v=7csXfSRXmZ0
+  - Paranoid schizophrenia simulation (a questionable attempt to make a training video. I'm not sure it's good, but I'm not sure it's bad either. It's definitely problematic (as in: there are good questions to be asked here), but it may still be somewhat useful): https://www.youtube.com/watch?v=LWYwckFrksg
+- Subvocalizations in schizophrenia: https://slate.com/technology/2016/03/schizophrenia-and-subvocal-speech-why-people-with-schizophrenia-hear-the-voices-of-god-spies-and-supernatural-entities.html
+- Schizophrenia in non-western societies:
+  - https://news.stanford.edu/2014/07/16/voices-culture-luhrmann-071614/
+  - The Americanization of Mental Illness
+    http://www.brainm.com/software/pubs/brain/Americanization_of_Mental_Illness.pdf
+    (Note that I don't necessarily fully agree with everything in this article, but it offers an important perspective)
+
+# Morality
+
+- The evolution of trust: an amazing interactive (!) simulation that explains how moral behavior is beneficial, how it can evolve, but also how immoral behaviors may be beneficial as well, and what defines the balance between the two, within a society, or a population: https://ncase.me/trust/
+- A short 3 minute (for real!) video that describes how it applies to animal populations, and how (if you think of it) it is almost inevitable that a population would always have a sizable share (but always a minority!) of individuals who behave as assholes (sorry for a introducing this term here) https://www.youtube.com/watch?v=mUxt--mMjwA
+- Optional (but cool): a 15 min video on moral behaviors in animals: https://www.youtube.com/watch?v=GcJxRqTs5nk
+- "The final 5%": a rather heart-breaking story about a case of traumatic brain injury in which a person mostly recovered (something they called a 95% recovery): https://longreads.com/2019/10/22/the-final-five-percent/
+- And one more optional read: When your child is a psychopath (EDIT: I think it goes without saying, but this set of stories is also fascinating yet disturbing. If you are in a bad place right now, I will understand if you decide not to read it. But it not without hope, as you'll see if you read it till the end): https://www.theatlantic.com/magazine/archive/2017/06/when-your-child-is-a-psychopath/524502/
+
+1) Why some behaviors that we perceive as potentially moral or immoral can even develop evolutionary. Or maybe, a more pointed question would be, how could a feeling of moral and immoral develop evolutionary? Where did these concepts come from?
+
+2) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? For example, how do they fail sometimes? Why do they fail? And how can we live with it?
