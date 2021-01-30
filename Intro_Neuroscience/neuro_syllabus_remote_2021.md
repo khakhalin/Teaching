@@ -1,33 +1,36 @@
 # Existential Neuroscience, Spring 2021
 
-*Version: Jan 23 2021*
+*Version: Jan 30 2021*
 
 # Course Goals
 
-The ultimate goal of this course is to give you a chance to enjoy neuroscience. 
+I firmly believe that knowing neuroscience makes you a better human. But probably not in a way one could expect. Knowing how anxiety works doesn't necessarily help you to avoid anxiety, and learning about memory does not give you some magic backdoor access to your memories. Of course, learning about the brains may help you to manage your own brain a bit better, but that's not the main goal.
 
-In practice, it means that by the end of this course, I want you to be able to slowly read a modern neuroscience paper. It won't be easy, as this field is highly specialized, but I want you to reach a point at which you can make it through an unfamiliar paper in a day or so.
+The main goal, I think, is to figure out what makes us human. To learn what aspects of human existence are actually just a direct consequence of how our bodies, and our brains are built. But also, to get some idea about what pseudoscientific claims about the brain are just that, pseudoscience lies. That's where learning neuroscience (but learning it well!) can change one's perspective on the world. Maybe ultimately it's about personal responsibility, about figuring out which or our actions and perceptions are just a product of our biology, and the other way around, seeing what crappy behaviors cannot be explained by biology, despite what some people try to claim. I'm getting a bit too cryptic here, as I don't want to spoil anything, or preach the answers, for that matter, but there are some interesting questions to consider. And preaching good questions is certainly ok!
 
-In turn, this means that by the end of the course you should:
+So, with this in mind, the goals of this course:
 
-* Understand and be able to explain a set of key neuroscience concepts
-* Get better in navigating, reading, and analyzing science papers
-* Become familiar with key methods used in neuro research
-* Learn some important terminology (again, to make it easier to read papers)
-* Understand how neuroscience relates to other areas of knowledge (evolution, human psychology, robotics, philosophy etc.)
-* Develop an idea about how to collect, analyze, and present experimental data
+* To enjoy some neuroscience, as one cannot learn what they don't like
+* Learn some nuts and bolts of our brains; some key concepts, principles, and terminology
+* Get better in navigating, reading, and analyzing scientific papers
+
+* Become familiar with key methods and approaches used in neuroscience  research
+* Get a better idea of how people do science, and how to distinguish between bad and good science
+* See how neuroscience relates to broader questions in biology, psychology, sociology, and maybe even philosophy
 
 ## Course Logistics
 
 **Instructor:** Arseny Khakhalin (pronounced: ar-SEH-ny ha-HA-leen; ipa: ɑr'sʲenʲi xa'xalʲin); [khakhalin@bard.edu](mailto:khakhalin@bard.edu)
 
-As we are still in a pandemic, with new strains emerging, the course is online-only. The instruction will consist of several parts:
+As we are still in a pandemic, with new viral strains emerging, the course is online-only.
+
+The instruction will consist of an asynchronous and synchronous parts:
 
 * **Asynchronous** part:
-  * **Assignments and questions on Piazza** - a special messaging board for teaching. All readings, videos, labs, and all organizational info will be posted there! See below for details.
-  * **Online readings** (no need to buy anything)
+  * **Assignments and questions on Piazza** (https://piazza.com/) - a special messaging board for teaching. All readings, videos, labs, and all organizational info will be posted there! See below for details.
+  * **Online readings** (no paper textbooks; no need to buy anything)
   * **Lectures** on Youtube
-  * Interactive interactions on Piazza (I won't be able to respond to every post and every assignment, but I will definitely respond to some)
+  * My answers to your questions on Piazza. I won't be able to respond to every question, and also, some of your questions we'll discuss in class, on Zoom (see below). But still, I will post some responses if the questions are particularly good, and posted early enough.
 * **Synchronous** part:
   * **Zoom Seminars**: we'll have classes (seminar discussions) twice a week, on **Monday and Thursday, 8:30-9:50 am EST**.
   * **Labs**: we have virtual and remote labs. On some days we'll connect on Zoom (**Tuesday, 8:30-9:50 am EST**), and run the lab realtime. On some weeks the lab will be fully online (I'll give you a link, and you'll do the lab at your own pace, then submit your results). On some weeks we may also do a mixed approach: either first have the lab, then discuss the results on Zoom, or first briefly talk on Zoom, then run the lab.
@@ -154,6 +157,6 @@ For the readings, the code "UT s1ch1-2" stands for "[University of Texas free te
 | Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Gender differences in the brain. | Visual illusions 2                                   | Language in the brain. Lefties and righties. Are men and women different? 7 biggest myths about the brain, debunked. |
 | May 3    | **Advising week (we don't meet)**                            |                                                      |                                                              |
 | May 10   | Decision making. Frontal patients. Agency. Morality. Creativity. | **tbc**                                              | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
-| May 17   | **Completion week** (but technically we have 2 classes, Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. | tbc                                                  | Consciousness.  Self.                                        |
+| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. | tbc                                                  | Consciousness.  Self.                                        |
 
 

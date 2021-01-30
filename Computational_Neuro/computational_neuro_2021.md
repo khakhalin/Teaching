@@ -1,13 +1,23 @@
-# Computational Neuroscience 2021
+# (Topics in) Computational Neuroscience 2021
 
 *Version: Jan 23 2021*
+
+# Some introductory words
+
+The intended name of this course was **Topics in Computational Neuroscience**, as Computational neuroscience is a huge field that takes about 4 full courses to learn: one for "classic" computational neuroscience that modeled spiking of neural cells, plasticity in synapses, and perhaps the activity of small networks; one for theoretical neuroscience inspired by cognitive science; one for modern mathematical and machine learning techniques applied to neuroscience problems and data, and one for the emerging field of network neuroscience. We, on the other hand, have half a course worth of time.
+
+So what we will do is pick one subtopic of this broad field, and read about 12 recent papers on this narrow subtopic. So "Topics in..." would have been a more honest title.
+
+The reason this course is called "Computational Neuroscience" are therefore purely aesthetical. As it turns out, the original long title would have fit on the official transcript, and would have been truncated to "Topics in Computational Neuro." Wouldn't you rather see "Computational Neuroscience" on your transcript? I think so too. Thus the name.
+
+But in spirit, it's still only one topic, that I change every time I read this course, depending on what's hot in the area. And the topic of our current 2021 session is: **How (or maybe Whether) artificial neural networks and deep learning can help us to understand the brain, and whether learning about the brain can help us to build better artificial neural networks.**
 
 # Course Goals
 
 I hope that in this course we will:
 
-* Learn some modern methods of computational neuroscience; namely, how methods of machine learning (ML) and artificial intelligence (AI) are now applied to neuroscience
-* Learn to read ML papers and get the gist from them without getting too intimidated
+* Learn some modern methods of computational neuroscience; namely, the interdisciplinary field between computational neuroscience proper, and deep learning.
+* Learn to read machine learning papers and get the gist from them without getting too intimidated
 * See how neuroscience and AI can help and inform each other
 * Become better presenters
 
@@ -100,17 +110,15 @@ Instructor will continue to improve this syllabus during the semester, to make t
 
 The changes will never be retroactive though! If a rule changes, it will only apply to future assignments, not to past assignments :)
 
-# DRAFT Weekly Schedule
+# Course overview
 
-**Please, rely on weekly posts on Piazza for homework. This plan below is roughly correct, but needs some fine-tuning ;)**
-
-For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
+Please see detailed week-by-week readings below, and on Piazza.
 
 | **Week** | Topics / Papers                                              | Presenters |
 | -------- | ------------------------------------------------------------ | ---------- |
-| Feb 05   | Crash course Neuroscience. Neurons; spikes; synapses; coding; excitation and inhibition; plasticity; receptive fieds; maps and cortical projections. | none       |
-| Feb 12   | Crash course machine learning. Google training. **TODO**: Full google training or parts of it? Any other materials? | none       |
-| Feb 19   | Crash course computational neuroscience.<br />1)  Something about different levels of modeling<br />2) ML for neuroscientists (paper) | none       |
+| Feb 05   | Intro to neuro.                                              | none       |
+| Feb 12   | Intro to deep learning + intro to modeling in computational neuroscience. | none       |
+| Feb 19   | Crash course in Machine learning from Google.                | none       |
 | Feb 26   |                                                              | 1          |
 | Mar 05   |                                                              | 2          |
 | Mar 12   |                                                              | 3          |
@@ -125,6 +133,69 @@ For the readings, the code "UT s1ch1-2" stands for "[University of Texas free te
 | May 14   |                                                              | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
-Possible papers:
+# Weekly schedule
 
-Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective. May accompany something?
+### Week 1 - Crash course Neuro
+
+Crash course Neuroscience. **Terms you need to know and vaguely understand** (at the very least, look each of them up, and read the corresponding article): neuron, spike, axon, synapse, excitation and inhibition, dendrite, neural coding (rate code, temporal code, population code), synaptic plasticity (Hebbian, STDP), intrinsic plasticity, receptive field, cortical map.
+
+Main resource: Wikipedia
+
+Optional extra materials:
+
+* My "Introduction to Neuroscience course" (lectures): https://www.youtube.com/playlist?list=PLOdJKIwLQzBeTkMxjpFq5Ytzn89t0VayG
+* U Texas free neuroscience textbook: https://nba.uth.tmc.edu/neuroscience/
+* Scholarpedia (it's like Wikipedia, but written by 100 or so professors, turning it into a sort of a free loosely connected textbook) on computational neuroscience: http://www.scholarpedia.org/article/Encyclopedia:Computational_neuroscience
+
+### Week 3 - Intros to Deep learning, and computational neuroscience
+
+* Four videos from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+  They are about 1 h 10 min in total, but I really suggest that you pause frequently, and think about what's going on, as they are quite intense. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable! But try to get to the bottom of it.
+
+* Intro to computational neuroscience, answering the topic of "What is a model?" (Video lecture by Gunnar Blohm, 27 min): https://www.youtube.com/watch?v=KxldhMR5PxA (this lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/ )
+
+### Week 3 - Intro to ML, take two
+
+The homework for this week is a **crash course in machine learning** from Google. Now, this is a course for managers, programmers, and other sorts of tech people, not for scientists, so it puts an emphasis on the practical, business use of deep learning, not the science aspect of it. But I think it's actually better. First, because the course is great, has all sorts of built-in quizzes, and an absolutely amazing "playground" that lets you play with an artificial neural network on your own computer without coding anything. And second, the field of deep learning has grown so much in last 6 years or so because of its business applications. That's what's driving it, that's what's funding it, and that's also where machine learning goes awry every now and then, resulting in all sorts of hot ethical discussions. So I think it is very valuable to dive into this slightly different world, motivation, and terminology, before going back to neuroscience later.
+
+* Machine Learning Crash Course from Google: https://developers.google.com/machine-learning/crash-course/
+  * Watch the videos, do the quizzes, and make sure to try "playground" exercises (the ones that run in the browser). 
+  * Skip all exercises in Collab. Without coding, it will take you 3-4 hours for the part of the course that we need. Which is a sizeable chunk for one week, but it's a one-time effort.
+  * Sections you need to do: Framing, Descending, Reducing Loss, Testing and training sets, Validation set, **Neural Networks** (the playground exercise for this chapter is **the  main resource** for us in this course. You should spend a good hour playing with it, at the very least).
+  * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
+* For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
+
+### Week 4 - Introduction to DL for biologists
+
+🔴 Here be dragons. Everything beyond this point is uncharted.
+
+Maybe something like:
+
+* then Zador 2019. Also briefly discuss regularization, and unsupervised vs supervised learning.
+* Then a convolutional network paper + a comparison with mammalian vision in the cortex (to get more experience with DL, learn about convnets, and get a parallel with Neuro)
+* then Richards 2019?
+* What about Kording? Do we do Kording? Before or after? 🟡
+
+Some other introduction, supposedly for biologists. But is it even good?
+
+* Kriegeskorte, N., & Golan, T. (2019). Neural network models and deep learning. Current Biology, 29(7), R231-R236.
+  https://www.sciencedirect.com/science/article/pii/S0960982219302040
+
+### Week 5 - Neuro vs DL
+
+???
+
+Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
+
+### Week 6 - Convolution networks and vision in the cortex
+
+???
+
+### Week 7 - DL as a model that can help Neuro
+
+Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
+
+# Hopes (tbc todo)
+
+* Should I extract some success stories from Richards 2019?
+* Something about transformers, and whether they resemble brain activation? During text processing?

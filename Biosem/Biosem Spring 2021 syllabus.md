@@ -2,17 +2,17 @@
 
 ## Goals of this course
 
-The idea of the Biology Seminar is to give you an opportunity to listen to, and to interact with some people who are not at Bard right now. We try to invite some recent graduates, PhD students, postdocs, younger professors, older professors, but also journalists, conservation specialists, museum workers, and so on. We also try to cover different fields of biology, from tiny molecules to entire planets. Finally, at least when I teach Biosem, I always try to trick people into talking not just about their science, but also about their life; their story, decisions they made, problems and setbacks they had. I think we don't have a good venue to talk about these topics; people don't usually mention their personal stories in scientific papers, and it's really a shame, as ultimately science is something that's done by humans, and for humans, so these stories are immensely important. We'll try to talk about them!
+The idea of this course (Biology Seminar) is to give you a chance to listen to, and interact with some people outside of Bard. We try to invite a good mix of all fields and career stages: our recent graduates, PhD students, postdocs, younger professors, older professors, people working in NGOs, conservation, industry, museums, journalism, and so on. We also try to cover different types of biology, from tiny molecules to entire planets. And we also try to make people talk not only about their science, but also about their story: decisions they made, problems and setbacks they experienced, the human behind the job. I think we don't have enough of these discussions; people don't write about their dreams and struggles in their scientific papers or on official CVs. So I try to use these seminars to talk about it.
 
 ## This year is special
 
-Due to the pandemics, the Biology Seminar will happen online this semester, as a Zoom webinar.
+Due to the pandemics, this semester the Biology Seminar will happen online, as a Zoom webinar.
 
-To make these seminars as live as possible, and totally not like pre-recorded videos, we'll follow a "Questions and Answers" format. The lecture part will only last for about 20 minutes, and after it we'll switch to Q&A (AmA) with the speaker, where you should ask questions, and they would answer.
+To make it useful, and less like a pre-recorded Youtube lecture (because why running it live then?), we'll follow a "Questions and Answers" format. The lecture part will only last for about 20 minutes, and after it we'll switch to Q&A with the speaker, where you would ask questions, and they would answer. Or maybe I should market it as AMA (Ask Me Anything) sessions instead?
 
-But as it is impossible to explain a project in 20 minutes, all speakers will share some reading with us ahead of time. We will need to read it before the seminar, not to look like complete noobs.
+But this means two things. First, as it is impossible to explain a project in 20 minutes, we'll have to come to these lectures prepared. Every speaker will share one piece of reading with us ahead of time; either a review, or a recent research paper. We will need to read it before the seminar, not to look like complete noobs. To help you find willpower to read these readings, I'll ask you to submit a short response to each of them before class (see below).
 
-Finally, to help you find willpower to read the readings, I'll ask you to submit a short response to it ever week.
+And second: to have a good Q&A, I'll need your participation. To learn something from these talks, you need to ask questions that interest you. It's your opportunity to ask *anything*, and ask anonymously. And from the speaker's point of view, they'll be talking to a camera, with my lonely face weirdly placed in the corner (it's not a standard Zoom class, so they won't see you, just a list of your names). Its actually a rather painful experience, and the only way to make it feel good for them, is to give some activity in return; some actual questions! Ideally, asked "in your own voice" (there's a way for that, see below), but anonymous questions in Q&A are also good. So please, please let's try to build this vibe, this spirit of a live session 🙂
 
 ## Tools
 
@@ -26,7 +26,7 @@ We'll be using:
 Before classes even start, make sure to:
 
 * **update Zoom to the latest version** (go to https://zoom.us/download, download and install the latest version). This is important, as old versions don't support all features that we will be using.
-* **Make sure your email and names are set correction on Zoom**. Go to Zoom website (https://zoom.us/) log in, go to `My Account`,  `Profile`.
+* **Make sure your email and names are set correctly on Zoom**. Go to Zoom website (https://zoom.us/) log in, go to `My Account`,  `Profile`.
 * Make sure you have your full name on Zoom; the **name that you want people to actually use** (especially if it differs from your legal name).
 * Make sure you **put your Bard email on Zoom:**  on the `Profile` page, find `Sign-In Email`, click `Edit`, and put **your Bard email** there. The reason this is important: I will use these emails to automatically track **attendance** with Zoom logs. If you don't put your Bard email, I won't be able to recognize you in the log, and thus won't count this meeting for attendance.
 
