@@ -4,14 +4,14 @@
 
 # Course Goals
 
-I firmly believe that knowing neuroscience makes you a better human. But probably not in a way one could expect. Knowing how anxiety works doesn't necessarily help you to avoid anxiety, and learning about memory does not give you some magic backdoor access to your memories. Of course, learning about the brains may help you to manage your own brain a bit better, but that's not the main goal.
+I firmly believe that knowing neuroscience makes you a better human. But probably not in a way one could expect. Knowing how anxiety works doesn't necessarily help you to avoid anxiety, and learning about memory does not give you some magic backdoor access to your memories. Of course, learning about brains may help you to manage your own brain a bit better, but that's not the main goal.
 
-The main goal, I think, is to figure out what makes us human. To learn what aspects of human existence are actually just a direct consequence of how our bodies, and our brains are built. But also, to get some idea about what pseudoscientific claims about the brain are just that, pseudoscience lies. That's where learning neuroscience (but learning it well!) can change one's perspective on the world. Maybe ultimately it's about personal responsibility, about figuring out which or our actions and perceptions are just a product of our biology, and the other way around, seeing what crappy behaviors cannot be explained by biology, despite what some people try to claim. I'm getting a bit too cryptic here, as I don't want to spoil anything, or preach the answers, for that matter, but there are some interesting questions to consider. And preaching good questions is certainly ok!
+The main goal, I think, is to figure out what makes us human. To learn what aspects of human experience are actually a direct consequence of how our bodies, and our brains are built. But also, to get some idea about what pseudoscientific claims about the brain are just that, pseudoscience lies. That's where learning neuroscience (but learning it well!) can change one's perspective on the world. I'm getting a bit cryptic here, as I don't want to spoil anything, but there are some really interesting questions to consider!
 
 So, with this in mind, the goals of this course:
 
 * To enjoy some neuroscience, as one cannot learn what they don't like
-* Learn some nuts and bolts of our brains; some key concepts, principles, and terminology
+* Learn some nuts and bolts of our brains; some key concepts, principles, and necessary terminology
 * Get better in navigating, reading, and analyzing scientific papers
 
 * Become familiar with key methods and approaches used in neuroscience  research
@@ -32,77 +32,86 @@ The instruction will consist of an asynchronous and synchronous parts:
   * **Lectures** on Youtube
   * My answers to your questions on Piazza. I won't be able to respond to every question, and also, some of your questions we'll discuss in class, on Zoom (see below). But still, I will post some responses if the questions are particularly good, and posted early enough.
 * **Synchronous** part:
-  * **Zoom Seminars**: we'll have classes (seminar discussions) twice a week, on **Monday and Thursday, 8:30-9:50 am EST**.
-  * **Labs**: we have virtual and remote labs. On some days we'll connect on Zoom (**Tuesday, 8:30-9:50 am EST**), and run the lab realtime. On some weeks the lab will be fully online (I'll give you a link, and you'll do the lab at your own pace, then submit your results). On some weeks we may also do a mixed approach: either first have the lab, then discuss the results on Zoom, or first briefly talk on Zoom, then run the lab.
-    * *Note that on BIP it says that labs are running till 10:30. This is generally not true, as I found that spending 2 hours straight on Zoom is hard. On some days I may use this extra time for office hours, but Zoom calls for labs proper, when they happen, should always be over by 9:50.*
-  * **Office hours**: Office hours will look like a Zoom call that you can join if you want to. With that many students I don't think we can afford to have 1:1 office hours, so it will look more like an additional study section. You log in, you ask questions, I try to answer them :) Although if you have a more private question, you are always welcome to send me an email, and will figure something out. Time: **TBC**
+  * **Zoom Seminars**: we'll have classes (seminar discussions) twice a week, on **Mondays and Thursdays, 8:30-9:50 am EST**. (I'm not a morning person myself, but we don't get to choose our schedules 🙂 But we're strong, right? We'll manage!)
+  * **Labs**: we'll have both virtual and remote labs. On some days we'll connect on Zoom (**Tuesday, 8:30-9:50 am EST**), and run the lab realtime. On some weeks the lab will be fully online (I'll give you a link, and you'll do the lab at your own pace, then submit your results). On some weeks we may also do a mixed approach: either first have the lab, then discuss the results on Zoom, or first briefly talk on Zoom, then run the lab.
+    * *Note that BIP claims that labs are running till 10:30. This is not true this semester, as I found that spending 2 hours straight on Zoom is hard. On some days I may use this extra time for office hours, but Zoom calls for labs proper, when they happen, should always be over by 9:50.*
+  * **Office hours**: Office hours will look like a Zoom call that you can join if you want to. With that many students I don't think we can afford to have dedicated 1:1 office hours, so it will look more like a study section. You log in, you ask questions, I try to answer them. But of course, if you have a very private question, you are always welcome to send me an email, and will figure something out. Time: **TBC** (but most probably during "lab time" on weeks when we have a virtual lab).
 
-> 💡 On time commitment: You need to plan about 10 hours of work a week for one full course (4 Bard credits). The logic is simple: full-time learning should be equivalent to full-time work. Both because a full-time working week is known to be doable (not too long, not too short), and because it gives people enough spare time to  care about their family, side job, hobbies, social life, or whatever. A full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, therefore 1 course should take about 10 hours a week, total. 
+> 💡 **An important statement on time commitments:** Generally, you need to plan about **10 hours of work a week** for one full course (4 Bard credits). The logic here is simple: full-time learning should be equivalent to full-time work (by definition of full-time). If you work less, you're not getting as much from your studies as you can. If you try to work more, it will encroach on your social life, family responsibilities, side job, hobbies, or whatever. But if a full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, then 1 course should take about 10 hours a week, total. 
 >
-> In this course, we'll be spending 3-4 hours a week in meetings (2 class Zooms + a lab Zoom on some weeks), which means that the remaining 6-7 hours a week you should spend studying on your own.  Say, 2 hours to watch all videos, 2 hours to read extra materials, 1 hour for a lab, 30 min to write your responses, maybe 30 min for office hours. Something like that. 
+> In this course, we'll be spending 3-4 hours a week in meetings (2 class Zooms + a lab Zoom on some weeks), which means that the remaining 6-7 hours a week you should spend studying on your own.  Say, 2 hours to watch all homework videos, 2 hours to read the materials and take notes, 1 hour for a lab, 30 min to write your responses, and maybe 30 min for office hours. Something like that. 
 >
-> If at some point you realize that you're spending less time on this course (or any other course really), you're not learning as much as you could. If you realize that you are spending more time, it's a potential problem, as it may damage your work/life balance, or harm your other courses. So if it happens with this course, definitely let me know, and we'll figure something out!
+> If at any point during the course you realize that you're spending less time on this course (or any other course for this matter), you may want to rethink your strategies, as you're probably short-changing yourself. If, on the other hand, you realize that you are spending more time than necessarily, it is a problem, as it may damage your work/life balance, or harm your performance in other courses. So if it happens with my course in particular, definitely let me know, and we'll find a way to fix it!
 
 ### Piazza
 
-The main way of communication for this course is the [**Piazza** discussion board](https://piazza.com/). It's a dedicated social media-like place created specifically for this course (something in-between reddit, quora, internet forums, and stackexchange).
+The main way of communication for this course is the **Piazza** discussion board. It's a dedicated social media-like place created specifically for this course (something in-between Reddit, Quora, Youtube comments section, and Stackexchange.
 
-* All announcements about the course will go on Piazza
-* All materials for the course will be posted on Piazza.
-* If you have general questions about the course, ask them on Piazza!
-* For personal questions and updates, please use either office hours, or email
-* Short homework assignments will be collected on Piazza. Please post them anonymously: I can still see who posted what, but your peers won't be able to see the author of a question / post.
+* All announcements for the course will go on Piazza
+* All materials and links for the course will be posted on Piazza
+* If you have general questions about the course, you can ask them on Piazza!
+* Homework assignments will be collected on Piazza. And please post them anonymously (that's a cool feature that Piazza has): I will still see who posted what (as it counts to your grade), but your peers won't be able to see the author of a question. So if, like Chris Pratt, you realize that you don't understand something, and are too afraid to ask, please don't be! Nobody will judge you, as I love you unconditionally, and your peers will only see a post coming from a "GreenStapler" or something.
 
-> 💡 By default, Piazza will send updates to your email about any change, and every post. Even if you use auto-filtering in your gmail folders (and I do definitely recommend that you set up filtering!), it quickly gets overwhelming. So personally, I recommend that you disable all emails from Piazza, and just visit it regularly during the week.
+> 💡 By default, Piazza will send updates to your email about any change, and every post. Even if you use auto-filtering in your gmail folders (and I do definitely recommend that you set up filtering!), it may get overwhelming. So personally, I recommend that you disable realtime emails from Piazza, and just visit it regularly during the week. If I have something urgent to tell you, like if Zoom is out or something, I'll post it in an "announcement" anyway, and which would override your email settings for this one post.
 
 If Piazza is down, send me an email. We'll switch to emails temporarily, until it is fixed.
-
-### Reading materials
-
-All required materials will be posted on line (on Piazza).
-
-We have no conventional textbook in this course, but I'll give links a free online textbook from the University of Texas. It doesn't follow our course exactly, but it's a very decent manual. This textbook has lots of "interactive illustrations" that you can use to better understand the topics, but they were coded in Flash, and Flash is now considered obsolete. On most browsers you can still make it work, but you may need to make a few clicks, to manually enable Flash.
- https://nba.uth.tmc.edu/neuroscience/
-
-Note that Neuro classes are often taught in upper college, so when reading any materials, you'll need to filter information. Your goal is to understand the basics, and get some general idea for HOW things work, not memorize all the currents, proteins, genes, brain regions etc. Look for the big picture; don't get intimidated by all the details. You can learn details of one or two topics later, if (when) you need it. In this course, we go for the gist.
-
-### Youtube
-
-All lectures will be posted on Youtube, chopped in several 20-30 minutes long pieces. Your task will be to watch them in time for the discussion sessions. 
-
-> 💡 A tangent: I cannot control it, of course, but I strongly suggest that you try to set up a working place, and listen to lectures on your computer (not an phone). Phones are tempting, but what will end up happening is that you'll be multitasking, and you won't be able to take notes. And listening to lectures without taking notes is practically useless (it will feel like you learned something, but actually you'll forget it within just few days). This is true even for live lectures, but for Youtube lectures it is quadruple more so, as there will always be a little voice in your head saying: "*this youtube videos is never going anywhere... you can always watch it again later if you need to...*" But let's be honest, you won't. So take a notebook (or use note-talking software if you prefer paperless life), and take notes.
->
-> The best way to listen to a lecture is to:
->
-> * Set the playback speed at 125-150% (depending on the speaker)
-> * Pause often
-> * Make predictions about what the lector is about to say next, or where this whole story will go
-> * Take notes. Make sure to write down things you didn't understand, didn't like, or disagreed with. In many ways, these are most important aspects of the experience. Try to make your notes better, and more organized than the lecture.
->
-> In my lectures, I will also sometimes pose questions, and pause. In a real class I would often ask a question, pause, and let people think about it, discuss it, and try to answer it, before going further. On youtube, I will just pause briefly, but I encourage you to pause the video and actually think about the question, *as if you were in class*. Pause, think, formulate your answer, then continue and compare your answer with whatever I say next.
 
 ### Zoom
 
 * Before classes even start, make sure to **update Zoom to the latest version** (go to https://zoom.us/download, download and install the latest version). This is important, as old versions don't support all features that we will be using.
-* **Make sure your email and names are set correction on Zoom**. Go to Zoom website (https://zoom.us/) log in, go to `My Account`,  `Profile`.
-* Make sure you have your full name on Zoom; the **name that you want people to actually use** (especially if it differs from your legal name).
-* Make sure you **put your Bard email on Zoom:**  on the `Profile` page, find `Sign-In Email`, click `Edit`, and put **your Bard email** there. The reason this is important: I will use these emails to automatically track **attendance** with Zoom logs. If you don't put your Bard email, I won't be able to recognize you in the log, and thus won't count this meeting for attendance.
-* Try to **connect to Zoom with your computer** (not with a phone). Again, in a pinch you can try to connect from your phone (it's probably better than not connecting at all), but we'll be doing stuff during these meetings (I will share quizzes, give you links to sites, and what not), so being at your working computer would make things so much easier.
-* **Zoom meetings will start on time**, but we'll spend first 5 minutes waiting for everyone to get online, chatting casually. At 5 minutes sharp we'll start the class. Students who join later that this 5-min waiting period will be considered "late". Please don't be late :)
-* **Try to have your camera on.** Now, this is a tricky point, as some people cannot have their cameras on: maybe they live with roommates who are not always fully clothed, or they don't want to show their brother's Avengers poster, or they have a really bad connection... But if the entire class has their cameras off, it will look sad; we'll miss on the social aspect of it, and it will be infinitely harder for me to teach. So if you can afford to have a camera on, please consider doing so! I for one will be extremely grateful to you! It's not a requirement, but a request, if possible.
-* Every now and then I will send you to auto-generated random "**Breakout rooms**": small chats for 3-4 people, to discuss questions. There are two reasons we are doing it. One, I want you to interact with each other at least somewhat. Second, educational research has shown that when students try to talk to each other about what they learn, they learn MUCH better. Not all people realize that (some are like "I want things to be explained to me by a prof, not by some rando"), but actually it's a proven fact. Peer-learning works so well because people often have similar misunderstandings, and talking them through helps. And another, trying to explain something to another person is actually the best way to understand, and thus learn this "something". So be ready for breakout rooms.
-* **Be ready to participate** in class (using your voice). I will be mostly asking some breakout rooms to share what they discussed, but sometimes I may call people at random as well (I'll code a random student generator for this purpose :)
-* **Keep Zoom on "mute" when not talking.** When speaking, unmute. Once you're done, please mute back. If you need to add something, unmute again, add something, then mute back :)
-* If the instructor disappears from Zoom (because a tree fell in a forest and restarted all computers in the village), please wait for about 10 minutes. It takes my routers about 5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - even better!
-* If Zoom is down and you can't connect - **send your instructor an email**. We always have Google Meetings as a back-up option.
+* **Make sure your email and names are set correctly on Zoom**. Go to Zoom website (https://zoom.us/) log in, go to `My Account`,  `Profile`, and check if your name is right. Please use the **name that you want people to actually use** (especially if it differs from your legal name).
+* ⚠️ Make sure you **put your Bard email on Zoom:**  on the same `Profile` page, find `Sign-In Email`, click `Edit`, and put **your Bard email** there. The reason this is important: I will use these emails to **automatically track attendance** from Zoom logs. If you don't put your Bard email there, I won't be able to recognize you in the log, and thus won't count this meeting for attendance.
+* Try to **connect to Zoom with your computer** (not with a phone). Again, in a pinch you can try to connect from your phone (it's better than not connecting at all), but we'll be doing stuff during these meetings (I will share quizzes, give you links to sites, and what not), so having a keyboard and an ability to switch between windows will be important.
+* **Zoom meetings will start on time**, but we'll spend first 5 minutes waiting for everyone to join us, chatting casually. At 5 minutes sharp we'll start the class. Students who join later that this 5-min waiting period will be considered "late". Please don't be late :)
+* **Try to have your camera on.** Now, this is a tricky point, as some people cannot have their cameras on: maybe they live with roommates who tend to go around naked, or they don't want to show their brother's Venom poster on the wall, or they have a really bad connection... But if the entire class has their cameras off, it will be sad; we'll miss on the social aspect of our meetings, and it will be next to impossible for me to teach. So if you can afford to have a camera on, please consider doing so! I for one will be extremely grateful to you! It's not a requirement, but a request, if possible.
+* Every now and then I will send you to "**Breakout rooms**": small chats for 3-4 people, to discuss questions. There are two reasons we are doing it. One, I want you to interact with each other. I don't want you to be alone. Second, educational research has shown that when students try to talk to each other about what they are trying to learn, they learn MUCH better. Not all people realize that (some are like "I want things to be explained to me by a prof, not by some rando!"), but actually it's a proven fact. **Peer-learning works better than pure tutor-lead learning**, ***even when it doesn't feel like that***, as people often have similar misunderstandings, and talking them through helps. And also, because trying to explain something to another person is actually *the best way* to understand this "something". So be ready for breakout rooms!
+* **Be ready to participate** in class, using your voice or text chat. I will be mostly asking people to volunteer, but sometimes I may call people at random as well (I'll code a random student generator for this purpose).
+* **Keep Zoom on "mute" when not talking.** When speaking, unmute. Once done, please mute back. If you need to add something, unmute again, add something, then mute back 🙂
+* If I disappear from Zoom (because a tree falls in a forest and restarts all computers in Tivoli), please wait for about 10 minutes. It takes my routers about 5 min to restart, so I should be back. If you can **self-organize and keep doing something useful** - even better! But if I'm not back in 15 minutes, then of course you are legally allowed to leave haha!
+* If Zoom is down and you can't connect - **send me an email**. We can always use Google Meetings as a back-up option.
 
-# Weekly Reading Reflection
+### Reading materials
 
-The most regular and predictable assignment for this course will be the **weekly reading reflection**, or **weekly question**. Every week, after watching the lectures, and reading the materials, I will ask you to think 
+All required materials will be posted online (on Piazza).
+
+We have no conventional textbook in this course, but I'll give links a free online textbook from the University of Texas. It doesn't follow our course exactly, but it's a very decent textbook. It also has lots of "interactive illustrations" that you can use to better understand the topics:  https://nba.uth.tmc.edu/neuroscience/
+
+Note that Neuro classes are often taught in upper college, so when reading any materials, you'll need to filter information. Your goal is to understand the gist of every topic, to get a decent idea of *how* things work, not memorize all details (currents, proteins, genes, brain regions) necessarily. Look for the big picture; don't get intimidated by the details. You can learn them later if you need them.
+
+### Youtube
+
+I have lectures posted on Youtube, and I hope to record several more this semester. Your task will be to watch them in time for the discussion session. 
+
+> 💡 A tangent: I cannot control it, of course, but I strongly suggest that you try to set up a working place, and listen to lectures on your computer (not an phone). Phones are tempting, but what will end up happening is that you'll be multitasking, and you won't be able to take notes. And listening to lectures without taking notes is practically useless (it will feel like you are learning something, but actually you'll forget it within just a few days). This is true even for live lectures, but for Youtube lectures it is quadruple more so, as there will always be a little voice in your head saying: "*This Youtube video is never going anywhere... it's always there for you... you can always watch it again later if you need to...*" But let's be honest, you won't. So don't listen to this little voice, take a notebook (or note-talking software if you prefer paperless life), and take notes.
+>
+> The best way to listen to a lecture is to:
+>
+> * Choose good playback speed (my first 3-4 lectures weren't edited, so it's better to watch them at ~125% speed. Later lectures are more intense.)
+> * Pause often. (On Youtube, space pauses the video, arrow keys rewind and forward by a few seconds).
+> * Make predictions about what the lecture is about to say next, or where this whole story will go. Try not to go with the flow, but actively engage with what you see and hear.
+> * Take notes. Make sure to write down things you didn't understand, didn't like, or disagreed with. In many ways, these are most important aspects of the experience. Try to make your notes better, and more organized, than the lecture.
+>
+> In my lectures, I wou8ld also sometimes set a question, and pause for a few seconds. In a real class I would ask a question and let people think about it, discuss it, and try to answer it, before going further. On youtube, I can't do that, but I encourage you to pause the video and actually think about the question, before going further, *as if you were in class*. Pause, think, formulate your answer, make your bets, then continue and compare your answer with whatever I give. You will learn more that way.
+
+# Assignments
+
+The most regular and predictable assignment for this course will be a **weekly reading reflection**, or **weekly question**. Every week, after watching the lectures, and reading the materials, please do the following:
+
+1. Write down some questions that you have. 
+2. Try to answer some of them yourself. Google if necessary.
+3. Once you've done the work, or if you're stuck, post the top 1 or 2 remaining questions on Piazza. We'll try to tackle them in class.
+
+Note that if a question is too vague or too surface-level, it won't count. (If you haven't done the work, it will be obvious). Also, if a question can be answered with a two-seconds Google Search, it won't count as well. If you submit a "bad question" for the first time, I will warn you, but after that, I won't count them. Please post something that you are honestly interested in, and would like to discuss in class, and please provide some background to both show that you did the work, and to help me understand what you mean.
+
+For example:
+
+* Can angels fly? - Fail, one can Google it in 1 sec
+* Why can angels fly? - Fail, too vague.  I have no idea why you are surprised.
+* Can angels really fly? They are quite large, and their wings are also solid, but we don't have birds of this size on Earth, and also, where would the muscles that move their wings go? I mean, both aerodynamically and biomechanically, can they really fly? And if not, can they glide at least? - That's a win, as the person clearly did some homework, thought about it, and share enough of their reasoning for me to understand their question.
 
 # Grading
 
-This course is graded using a “Specification Grading” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more!), and student experience (students are more happy). The gist here is that each letter grade comes with a certain list of criteria, and it is up to you to pick the level that you want to achieve.
+This course is graded using a “**Specification Grading**” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more), and student experiences (students are more happy). The gist here is that each letter grade comes with a certain criteria, and it is up to you to pick the level that you want to achieve.
 
 To get a **C:** 
 
@@ -112,33 +121,33 @@ To get a **C:**
 To get a **B:**
 
 * Participate in 90% of classes
-* Submit 90% of short written assignments
+* Submit 90% of assignments
 
 To get an **A:**
 
-* **On top of everything specified in “B”**, write a good final essay about a neuroscience paper. See the detailed instructions at the end of this document. We may also have some sort of "paper presentation session" for those that decide to try it.
+* **On top of everything specified in “B”**, write a good final essay about a neuroscience paper. See the detailed instructions at the end of this document. For "borderline cases", we may also have 1:1 "paper presentation sessions" during completion week.
 
-## Attendance
+## Attendance and tardiness
 
 If you miss more than two weeks worth of classes, you will have to withdraw from the course. Please don't do it!
 
+If you are late to class 3 times, it will count as one missed session.
+
 # Academic integrity and plagiarism
 
-For all homework assignments, the *writing* should be done by *you*. Borrowing *texts* from other people or from the internet without an acknowledgement (such as a citation, a reference, an explicit acknowledgement) is unacceptable, and will result in bad things happening.
+For all assignments, the *writing* should be done by *you*. Borrowing texts from other people or from the internet without an acknowledgement (such as a citation, a reference, an explicit acknowledgement) is unacceptable, and will result in bad things happening.
 
-At the same time, for most assignments, collaboration and team work are heavily encouraged. Seek inspiration by talking to your peers before doing your work! Show your work to other people and ask for their suggestions and feedback! Offer your help to struggling brothers and sisters! I expect you to do your own work, but also productively collaborate, as that's how it happens in real life.
+At the same time, for most assignments, collaboration and team work are very much encouraged! Seek inspiration by talking to your peers before doing your work! Show your work to other people and ask for their suggestions and feedback! Offer your help to struggling brothers and sisters! I expect you to do your own work, but also productively collaborate, as that's how it happens in real life.
 
 # Mutation clause
 
-Instructor will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
+I will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
 
 The changes will never be retroactive though! If a rule changes, it will only apply to future assignments, not to past assignments :)
 
 # DRAFT Weekly Schedule
 
-**Please, rely on weekly posts on Piazza for homework. This plan below is roughly correct, but needs some fine-tuning ;)**
-
-For the readings, the code "UT s1ch1-2" stands for "[University of Texas free textbook](https://nba.uth.tmc.edu/neuroscience/toc.htm)" section 1, chapters 1 to 2.
+**Please, rely on weekly posts on Piazza for homework. The plan below is mostly correct, but needs fine-tuning**
 
 | **Week** | Nuts and bolts                                               | Labs and fancy Assignments                           | Where it connects                                            |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |

@@ -155,6 +155,21 @@ Earthworms:
 
 # Random future
 
+How Coronavirus vaccine works:
+https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+
+Also, a brief intro into immune system:
+https://berthub.eu/articles/posts/immune-system/
+
+RNA folder (an assignment to make an RNA of a given shape?)
+http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
+
+DNA for programmers:
+
+* Lecture (watch at 120%): https://www.youtube.com/watch?v=EcGM_cNzQmE
+* Slides: https://berthub.eu/dna/
+* Related text: https://berthub.eu/articles/posts/amazing-dna/
+
 Giant cells:
 https://www.youtube.com/watch?v=9SLYdENgsog
 
