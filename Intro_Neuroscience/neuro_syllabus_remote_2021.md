@@ -18,6 +18,8 @@ So, with this in mind, the goals of this course:
 * Get a better idea of how people do science, and how to distinguish between bad and good science
 * See how neuroscience relates to broader questions in biology, psychology, sociology, and maybe even philosophy
 
+> 💡 If you are taking this course as a "Major-level-equivalent" course, or if you are a pre-health student, note that your goals are slightly different. On top of everything above, you need to learn how to work with information sources and enter new unfamiliar areas of knowledge without fear (Google, Wikipedia, free textbooks); learn to find scientific literature (GoogleScholar, Pubmed); learn to read scientific literature, and learn some actual details of what happens in the brains (mechanisms, terminology, etc.) If you want to talk more about that, please come to office hours 🙂
+
 ## Course Logistics
 
 **Instructor:** Arseny Khakhalin (pronounced: ar-SEH-ny ha-HA-leen; ipa: ɑr'sʲenʲi xa'xalʲin); [khakhalin@bard.edu](mailto:khakhalin@bard.edu)
@@ -35,7 +37,10 @@ The instruction will consist of an asynchronous and synchronous parts:
   * **Zoom Seminars**: we'll have classes (seminar discussions) twice a week, on **Mondays and Thursdays, 8:30-9:50 am EST**. (I'm not a morning person myself, but we don't get to choose our schedules 🙂 But we're strong, right? We'll manage!)
   * **Labs**: we'll have both virtual and remote labs. On some days we'll connect on Zoom (**Tuesday, 8:30-9:50 am EST**), and run the lab realtime. On some weeks the lab will be fully online (I'll give you a link, and you'll do the lab at your own pace, then submit your results). On some weeks we may also do a mixed approach: either first have the lab, then discuss the results on Zoom, or first briefly talk on Zoom, then run the lab.
     * *Note that BIP claims that labs are running till 10:30. This is not true this semester, as I found that spending 2 hours straight on Zoom is hard. On some days I may use this extra time for office hours, but Zoom calls for labs proper, when they happen, should always be over by 9:50.*
-  * **Office hours**: Office hours will look like a Zoom call that you can join if you want to. With that many students I don't think we can afford to have dedicated 1:1 office hours, so it will look more like a study section. You log in, you ask questions, I try to answer them. But of course, if you have a very private question, you are always welcome to send me an email, and will figure something out. Time: **TBC** (but most probably during "lab time" on weeks when we have a virtual lab).
+  * **Office hours**: Office hours will look like a Zoom call (same link as for normal classes) that you can join if you want to. With that many students I don't think we can afford to have dedicated 1:1 office hours, so it will look more like a study section. You log in, you ask questions, I try to answer them. But of course, if you have a very private question, you are always welcome to send me an email, and will figure something out. Time: Office hours will be happening during or after our lab time on **Tuesdays**.
+    * If we don't have a synchronous lab that week, office hours are 8:30-10:00 am.
+    * If we do have a synchronous lab that week, office hours are 10-11 am.
+    * And if you try to join the office hours, and I'm not there, just send me an email, and I'll jump right in.
 
 > 💡 **An important statement on time commitments:** Generally, you need to plan about **10 hours of work a week** for one full course (4 Bard credits). The logic here is simple: full-time learning should be equivalent to full-time work (by definition of full-time). If you work less, you're not getting as much from your studies as you can. If you try to work more, it will encroach on your social life, family responsibilities, side job, hobbies, or whatever. But if a full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, then 1 course should take about 10 hours a week, total. 
 >
@@ -149,23 +154,25 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 **Please, rely on weekly posts on Piazza for homework. The plan below is mostly correct, but needs fine-tuning**
 
-| **Week** | Nuts and bolts                                               | Labs and fancy Assignments                           | Where it connects                                            |
-| -------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
-| Feb 1    | Syllabus. Intro (cells, neurons, ions). Resting membrane potential. *Classes all three days.* | Neurotic neurons (self-guided)                       | Death by coconut. Water. Scientific lies.                    |
-| Feb 8    | Action  potential. AP propagation.                           | Action potential demo (zoom)                         | Pain. Why pain exists? How to define pain? Pain scale        |
-| Feb 15   | Synaptic transmission (excitatory). Connectomics. Escape in shrimp. | Eyewire (self-guided)                                | Free will. IRL zombies.                                      |
-| Feb 22   | Inhibition. Synaptic Integration. Neurotransmitters. Ethology (fixed action patterns, supernormal stimuli) | Zooniverse mice (self-guided).                       | Noticing patterns in behaviors.                              |
-| Mar 1    | Escape in fish. Central pattern generators. STG. Reflexes. Locomotion. | be_random lab + QWOP (probably zoom)                 | Randomness, exploration, self-driven behaviors, free will revisited. |
-| Mar 8    | **Respite (we don't meet this week)**                        |                                                      |                                                              |
-| Mar 15   | Senses. Types of neural coding. Touch. Chemical senses.      | 2-point discrimination (zoom)                        | What is a sense? How parts of our brain talk to each other?  |
-| Mar 22   | Ear and auditory processing.                                 | Simplewriter                                         | How we hear. Also, a bit on evolution.                       |
-| Mar 29   | Hearing in the brain: Speech  recognition.                   | Vision micro-labs & blind spot mapping (self-guided) | Where music comes from.                                      |
-| Apr 05   | Vision: eye  and retina. Saccades. Color vision.             | **tbc** (hopefully, visual lag?)                     | How we see; more on evolution.                               |
-| Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions                                     | How quicks of evolution and limitations of our hardware shape who we are. Beauty. |
-| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. | **tbc** (hopefully, reaction times?)                 | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
-| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Gender differences in the brain. | Visual illusions 2                                   | Language in the brain. Lefties and righties. Are men and women different? 7 biggest myths about the brain, debunked. |
-| May 3    | **Advising week (we don't meet)**                            |                                                      |                                                              |
-| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity. | **tbc**                                              | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
-| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. | tbc                                                  | Consciousness.  Self.                                        |
+> 💡 Note that I intentionally make first 4-5 weeks of this course a bit intense, to have a bit more relaxed life in Apr-May.
+
+| **Week** | Nuts and bolts                                               | Labs and fancy assignments                  | Where it connects                                            |
+| -------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ |
+| Feb 1    | Syllabus. Intro (cells, neurons, ions). Resting membrane potential. *Classes all three days.* | Neurotic neurons.                           | Death by coconut. Water. Scientific lies.                    |
+| Feb 8    | Action  potential. AP propagation.                           | Action potential demo (zoom)                | Pain. Why pain exists? How to define pain? Pain scale        |
+| Feb 15   | Synaptic transmission (excitatory). Connectomics. Escape in shrimp. | Eyewire (self-guided)                       | Free will. IRL zombies.                                      |
+| Feb 22   | Inhibition. Synaptic Integration. Neurotransmitters. Ethology (fixed action patterns, supernormal stimuli) | Zooniverse mice (self-guided).              | Noticing patterns in behaviors.                              |
+| Mar 1    | Escape in fish. Central pattern generators. STG. Reflexes. Locomotion. | be_random lab + QWOP (probably zoom)        | Randomness, exploration, self-driven behaviors, free will revisited. |
+| Mar 8    | **Respite (we don't meet this week)**                        |                                             |                                                              |
+| Mar 15   | Senses. Types of neural coding. Touch. Chemical senses.      | 2-point discrimination (zoom)               | What is a sense? How parts of our brain talk to each other?  |
+| Mar 22   | Ear and auditory processing.                                 | Sci ecosystem workshop.                     | How we hear. Heritage of evolution. Sociology of science.    |
+| Mar 29   | Hearing in the brain: Speech  recognition.                   | Acoustic lab? (**tbc**) Simplewriter        | Where music comes from.                                      |
+| Apr 05   | Vision: eye  and retina. Saccades. Color vision.             | Vision labs, blind spot (self-guided)       | How we see. Xounter-intuitive aspects of evolution. Subjective perception. |
+| Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions 1 (low-level)              | How limitations of our hardware shape who we are. Beauty.    |
+| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. | **tbc** (reaction times? visual lag?)       | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
+| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Gender differences in the brain. | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Are men and women different? 7 biggest myths about the brain, debunked. |
+| May 3    | **Advising week (we don't meet)**                            |                                             |                                                              |
+| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity. | **tbc**                                     | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
+| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. | tbc                                         | Consciousness.  Self.                                        |
 
 

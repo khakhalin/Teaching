@@ -1,23 +1,29 @@
 # Intro Neuro - Full list of Readings, Videos, and Extra Materials
 
-*Version: 27 Jan 2021*
+*Version: 31 Jan 2021*
 
 # Intro & Resting membrane potential
 
-* Neurotic neurons: https://ncase.me/neurons/
-
-* Death by coconut: Hakimian, J., Goldbarg, S. H., Park, C. H., & Kerwin, T. C. (2014). Death by coconut. Circulation: Arrhythmia and Electrophysiology, 7(1), 180-181. [Google Drive Link](https://drive.google.com/file/d/1wFqm-Uajp_qE4lWZhXGXu-sp0VcMUDYy/view)
-
 Videos:
+
+* my video
 
 * How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
 * https://www.youtube.com/watch?v=OWASUMMQjj8 - Adam ruins everything, about water
 
-Advanced:
+Interactive self-guided short story about neurons, synapses, and anxiety:
+
+* Neurotic neurons: https://ncase.me/neurons/
+
+Readings
+
+* Death by coconut: Hakimian, J., Goldbarg, S. H., Park, C. H., & Kerwin, T. C. (2014). Death by coconut. Circulation: Arrhythmia and Electrophysiology, 7(1), 180-181. [Google Drive Link](https://drive.google.com/file/d/1wFqm-Uajp_qE4lWZhXGXu-sp0VcMUDYy/view)
+
+Optional, advanced:
 
 - https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html
 
-Optional:
+Optional (don't post at this point):
 
 - Khan academy: https://www.youtube.com/watch?v=l3ngsl7FhTc
 
@@ -27,7 +33,13 @@ Please submit anonymously, and please have it done by 9 am on Thursday, so that 
 
 # Action potential
 
-- Action potential, conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
+Videos:
+
+- Action potential, 60 s conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
+- My lecture: 
+
+Readings:
+
 - On pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
 - On pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
   - A pdf copy of this article (without pics, but with all the text): https://drive.google.com/open?id=1VeEikLsKIirjxQT9DWj0xpqWZaPsJXzZ
@@ -47,13 +59,24 @@ Videos about stochastic motion of proteins (to give a better impression of how c
 
 # Excitatory synapse. Connectomics. Escape in shrimp. Free will
 
+Videos:
+
+* My video (s?)
+
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
-- Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
 
-Internal
+Readings:
+
+Internal:
 
 * [“How to spy”](https://drive.google.com/open?id=1P7eyJ5vGVxEBou2Zo2JT3fTDIeiCpC5u) and [“Neuronal](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx)[ dictatorships”](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx) chapters from “Governing Behavior” by Ari Berkowitz
+
+Open:
+
+- Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
+- A press-release about Björn Bremb's work: https://www.nbcnews.com/id/wbna18684016
+  * Optional advanced: the research paper for those who want to learn more: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000443
 
 Advanced
 
@@ -63,8 +86,6 @@ Advanced
 Maybe:
 
 * Smith, K. (2011). Neuroscience vs philosophy: Taking aim at free will. Nature News, 477(7362), 23-25. https://www.nature.com/articles/477023a.pdf - human oriented
-* A press-release about Björn Bremb's work: https://www.nbcnews.com/id/wbna18684016
-  * And the research paper for those who want to learn more: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000443
 
 Lab:
 
@@ -73,6 +94,8 @@ Lab:
   Login: https://eyewire.org/signup (create an account, login, go through the tutorial, analyze at least one real cube, post your result)
 
 # Ethology. Inhibition. Integration
+
+Note that we have two very different topics this week:
 
 - Wikipedia article about Ethology: https://en.wikipedia.org/wiki/Ethology
 - Wikipedia article about Neuroethology: https://en.wikipedia.org/wiki/Neuroethology
@@ -135,7 +158,7 @@ Labs
   * https://www.youtube.com/watch?v=UuRcQygrs0E
   * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
-# Hearing: The Ear
+# Hearing week 1: The Ear
 
 - Main video (Auditory transduction): https://www.youtube.com/watch?v=PeTriGTENoc
 - Dancing hair cell (electromechanical transformation): https://www.youtube.com/watch?v=Xo9bwQuYrRo 
@@ -156,6 +179,20 @@ PPI lab
 
 - Paper about PPI: https://pdfs.semanticscholar.org/e110/4edd4b6c3aebcd678dba2b9b2a2acbea1b48.pdf
 
+## Scientific publishing and scientific ecosystem
+
+tbc
+
+write info
+
+write workshop:
+
+* How does peer-review work?
+* Find a good paper (GoogleScholar)
+* Anatomy of a paper
+* The financial side (Publishers, OpenAccess, SciHub)
+* Scientific hierarchies
+
 # Hearing 2: Spatial maps
 
 * On binaural recordings (really cool, professional & informative): https://www.youtube.com/watch?v=Yd5i7TlpzCk
@@ -168,7 +205,7 @@ PPI lab
 - Echolocation in bats: https://www.youtube.com/watch?v=gZxLUNHEmPw
 - Spatial hearing: http://auditoryneuroscience.com/spatial-hearing
 
-# Speech and Music
+# Hearing week 2: Speech and Music
 
 - A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
 - Talking pianos  (a really cool illustration of how sound synthesis works):
@@ -280,7 +317,7 @@ Make sure to do all of these exercises below. It should take about an hour, mayb
    * Read this description: https://coglab.cengage.com/labs/blind_spot.shtml 
    * Then this page: http://nivea.psycho.univ-paris5.fr/FeelingSupplements/BlindSpotFillingInExperiments.htm
    * Finally, ran this lab: http://avtanski.net/projects/blindspot/ 
-     (Ironically, the program uses a green/red color scheme, so it is invisible to red/green colorblind people. Yep.)
+     (Ironically, the program uses a green/red color scheme, so it is invisible to red/green colorblind people. Yep. Sorry. One would think that a person writing an app about vision would know more about vision, but oh well). You may try it with 75 dots first, but then sit comfortably, closer your eye with your other hand, and do full 300 points. It will take about 5 minutes, but you can do it! Once done, screenshot the picture that you get (only the result, without any identifiable information), and post it on Piazza **anonymously**. (This is important for privacy reasons). There's no "right" or "wrong" pic here, and also different people will run this test slightly differently, as it's not a precise medical procedure, but still, it will be interesting to see several different results!
 
 As a write-up for this lab, pick the exercise that you liked the most (that you found most interesting and informative), and write either a haiku, a sonnet, or a limerick about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
