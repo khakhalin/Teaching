@@ -4,14 +4,18 @@
 
 # Intro & Resting membrane potential
 
+Dears, here are the homeworks for the first week. If you can do at least some of them by tomorrow (Tuesday), that would be awesome! And by Thursday, I expect you to do it all. I realize that it's weirdly a lot for the first week, especially considering that we have our 2nd class tomorrow, but that's a one-time thing. For the rest of the course, we'll have a bit less stuff, and with more time to prepare.
+
 Videos:
 
-* my video
+* Intro lecture, Intro to this class (30 min): https://www.youtube.com/watch?v=12SqDoBRyu8
+* Week 1 lecture,  Resting membrane potential (1h): https://www.youtube.com/watch?v=hixcnsh0bhM
+  * Note that these two lectures were not edited, so I recommend to listen to them at ~125% speed.
 
-* How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
-* https://www.youtube.com/watch?v=OWASUMMQjj8 - Adam ruins everything, about water
+* How pain relievers work (4 min): https://www.youtube.com/watch?v=9mcuIc5O-DE
+* Adam ruins everything, on water (5 min): https://www.youtube.com/watch?v=OWASUMMQjj8
 
-Interactive self-guided short story about neurons, synapses, and anxiety:
+Interactive self-guided short story about neurons, synapses, and anxiety (it's like almost a lab, with great narration, by amazing Nicky Case, who is an absolute hero of scientific outreach):
 
 * Neurotic neurons: https://ncase.me/neurons/
 
@@ -27,9 +31,9 @@ Optional (don't post at this point):
 
 - Khan academy: https://www.youtube.com/watch?v=l3ngsl7FhTc
 
-Once you have read and watched all that, as a **follow-up to this post** (not as a new post, but below, in the "follow-up" section), submit a **good honest question** you have about these topics. Something that you did not quite completely understand yet, but that you thought was interesting. Something we should maybe discuss in class. 2-3 sentences would do (but feel free to write 5-6 sentences if it helps to explain your point!)
+Once you have read and watched all that, as a follow-up to this post (not as a new separate post, but below, in the "follow-up" section), submit a good honest question you have about these topics. Something that you did not quite completely understand yet, but that you thought was interesting. Something you would be interested in discussing in class. 2-3 sentences would do (but feel free to write 5-6 sentences if it helps to explain your point!)
 
-Please submit anonymously, and please have it done by 9 am on Thursday, so that I could read your questions before the class.
+And if anything is weird, doesn't work, etc. - please send me an email!
 
 # Action potential
 

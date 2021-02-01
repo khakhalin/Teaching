@@ -112,7 +112,7 @@ For example:
 
 * Can angels fly? - Fail, one can Google it in 1 sec
 * Why can angels fly? - Fail, too vague.  I have no idea why you are surprised.
-* Can angels really fly? They are quite large, and their wings are also solid, but we don't have birds of this size on Earth, and also, where would the muscles that move their wings go? I mean, both aerodynamically and biomechanically, can they really fly? And if not, can they glide at least? - That's a win, as the person clearly did some homework, thought about it, and share enough of their reasoning for me to understand their question.
+* Can angels really fly? They are quite large, and their wings are also huge, but we don't have birds of this size on Earth, and also, where would the muscles that move these wings go? I mean, both aerodynamically and biomechanically, can they really fly? And if not, can they glide at least? - That's a win, as the person clearly did some homework, thought about it, and shared enough of their reasoning for me to understand their question.
 
 # Grading
 
@@ -130,9 +130,7 @@ To get a **B:**
 
 To get an **A:**
 
-* **On top of everything specified in “B”**, write a good final essay about a neuroscience paper. See the detailed instructions at the end of this document. For "borderline cases", we may also have 1:1 "paper presentation sessions" during completion week.
-
->  🟠 On the first class, talk about pass/fail here.
+* **On top of everything specified in “B”**, write a good final essay about some neuroscience research. See the detailed instructions at the end of this document. For "borderline cases", we may also have 1:1 "paper presentation sessions" during completion week.
 
 ## Attendance and tardiness
 
@@ -156,7 +154,7 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 **Please, rely on weekly posts on Piazza for homework. The plan below is mostly correct, but needs fine-tuning**
 
-> 💡 Note that I intentionally make first 4-5 weeks of this course a bit intense, to have a bit more relaxed life in Apr-May.
+> 💡 Note that I intentionally make first ~4 weeks of this course a bit intense, to have a bit more relaxed life in Apr-May.
 
 | **Week** | Nuts and bolts                                               | Labs and fancy assignments                  | Where it connects                                            |
 | -------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ |
@@ -171,10 +169,34 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 | Mar 29   | Hearing in the brain: Speech  recognition.                   | Acoustic lab? (**tbc**) Simplewriter        | Where music comes from.                                      |
 | Apr 05   | Vision: eye  and retina. Saccades. Color vision.             | Vision labs, blind spot (self-guided)       | How we see. Counter-intuitive aspects of evolution. Subjective perception. |
 | Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions 1 (low-level)              | How limitations of our hardware shape who we are. Beauty.    |
-| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. | **tbc** (reaction times? visual lag?)       | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
+| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. *Proposals for final papers due* | **tbc** (reaction times? visual lag?)       | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
 | Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Debunking some myths about the brain. |
 | May 3    | **Advising week (we don't meet)**                            |                                             |                                                              |
-| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity. | **tbc**                                     | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
-| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. | tbc                                         | Consciousness.  Self.                                        |
+| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity.  *If you submit your final paper, you get one round of feedback* | Final paper peer-review.                    | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
+| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. *Final papers due.* | Probably a normal class (lass class).       | Consciousness.  Self.                                        |
 
+# Final paper
 
+Note that you only need to do this assignment if you're getting a B through honest work, and want to go higher (to B plus, A minus, or A; see "Grading"). Here's the plan:
+
+1. By a certain date (see the schedule), you need to send me 5 topics **that you really care about**. We'll need them to find a narrow topic for the paper.
+2. I'll pick a topic for you, at the intersection between your interests, and neuroscience, and send it to you. Something that is fun, but actually writable (not too broad, not too narrow).
+3. You'll need to go on Google Scholar and find 4 papers: **2 primary papers** on this topic (aka research papers, with methods, results and everything), and **2 reviews** (reviews, opinions, perspectives, book chapters), to give you some context. Pick only papers that you can access for free, but if worst comes to worst, there's also this Kazakhstani pirate site SciHub, remember?
+   * If the topic is hot, I may ask you to use only papers published after 2010 or something like that. If the topic is very niche, we may have to look into older papers as well. I'll let you know!
+   * The research papers should be closely related to your topic, but reviews may of course be a bit more lax. Like, if we decide for you to write about neuroscience of language in left-handed people (just a random example), one review may be about neuroscience of language, and another review, about brain organization in left-handed people. While both research papers will be narrowly on topic.
+4. Read these papers carefully.
+5. Write a short essay (5 pages max, normal-spaced; so not more than 2000 words), in a semi-formal language (modern journalism), describing what you learned from these papers, and what it all could mean. Don't just summarize the papers!! (that's boring!!). Sure, write a bit about them, but more importantly, put them in some context. Compare them to each other. White how what you learned from them relates to the bigger picture. Try to relate it to what we learned in this course. Relate it to bigger societal issues, or your personal interests, if you want to. Try to write a good informative essay. Maybe almost like something that could be published in a popular magazine about science (see some examples below). That's our target genre.
+6. At the very end, add a "References" section, and cite all 4 papers, as well as any other sources, if you choose to use any. (In Google Scholar, find this article, click on the "quotation mark" symbol, copy the citation in APA format). 
+7. You are of course welcome to use more sources than these 4 papers, and if you want to reference them in the text, that's great. But no pressure about that, and no pressure about a specific citation style; you may use end-notes, footnotes, or even just hope that I'll figure out which one is which, if it's clear from the text somehow. Don't do "scientific references" it for the sake of making your text look "sciency"; stylization is not our goal here. Popular essay about science, remember?
+8. Deadline for the final version: 4th day of completion week.
+9. There will also be one round of peer-review, and one feedback from me (instructor) on your draft, if you submit it by a certain date. All submissions will happen anonymously, on Piazza.
+
+## Inspirational links, to get the genre right
+
+These links are obviously an overkill, as these are top-notch science outreach projects, but just in case; if you never read good popular articles about science before, find some, skim them, and get inspired.
+
+* https://www.quantamagazine.org/
+* https://www.kellybclancy.com/
+* https://www.sciencenews.org/author/bethany-brookshire
+* https://www.discovermagazine.com/author/neuroskeptic
+* https://carlzimmer.com/category/articles/
