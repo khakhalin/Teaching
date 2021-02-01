@@ -132,6 +132,8 @@ To get an **A:**
 
 * **On top of everything specified in “B”**, write a good final essay about a neuroscience paper. See the detailed instructions at the end of this document. For "borderline cases", we may also have 1:1 "paper presentation sessions" during completion week.
 
+>  🟠 On the first class, talk about pass/fail here.
+
 ## Attendance and tardiness
 
 If you miss more than two weeks worth of classes, you will have to withdraw from the course. Please don't do it!
@@ -170,7 +172,7 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 | Apr 05   | Vision: eye  and retina. Saccades. Color vision.             | Vision labs, blind spot (self-guided)       | How we see. Xounter-intuitive aspects of evolution. Subjective perception. |
 | Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions 1 (low-level)              | How limitations of our hardware shape who we are. Beauty.    |
 | Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. | **tbc** (reaction times? visual lag?)       | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
-| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Gender differences in the brain. | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Are men and women different? 7 biggest myths about the brain, debunked. |
+| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Are men and women different? Some myths about the brain debunked. |
 | May 3    | **Advising week (we don't meet)**                            |                                             |                                                              |
 | May 10   | Decision making. Frontal patients. Agency. Morality. Creativity. | **tbc**                                     | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
 | May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. | tbc                                         | Consciousness.  Self.                                        |
