@@ -1,6 +1,6 @@
 # Existential Neuroscience, Spring 2021
 
-*Version: Jan 30 2021*
+*Version: Feb 03 2021*
 
 # Course Goals
 

@@ -1,41 +1,46 @@
 # (Topics in) Computational Neuroscience 2021
 
-*Version: Jan 23 2021*
+*Version: Feb 03 2021*
 
 # Some introductory words
 
-The intended name of this course was **Topics in Computational Neuroscience**, as Computational neuroscience is a huge field that takes about 4 full courses to learn: one for "classic" computational neuroscience that modeled spiking of neural cells, plasticity in synapses, and perhaps the activity of small networks; one for theoretical neuroscience inspired by cognitive science; one for modern mathematical and machine learning techniques applied to neuroscience problems and data, and one for the emerging field of network neuroscience. We, on the other hand, have half a course worth of time.
+The intended name of this course was **Topics in Computational Neuroscience**, as Computational neuroscience is a huge field that would take at least 4 full courses to learn: 
 
-So what we will do is pick one subtopic of this broad field, and read about 12 recent papers on this narrow subtopic. So "Topics in..." would have been a more honest title.
+* one for "classic" computational neuroscience (immediately adjacent to biophysics) that models spiking of neural cells, plasticity in synapses, and processing in cell dendrites;
+* one for theoretical neuroscience (adjacent to cognitive science), that looks at high-level processes in the brain; information flows, predictive coding, decision making etc.
+* one for modern mathematical and machine learning techniques applied to neuroscience data, 
+* and one adjacent the field of complex systems: the activity of small networks, criticality, network neuroscience. 
 
-The reason this course is called "Computational Neuroscience" are therefore purely aesthetical. As it turns out, the original long title would have fit on the official transcript, and would have been truncated to "Topics in Computational Neuro." Wouldn't you rather see "Computational Neuroscience" on your transcript? I think so too. Thus the name.
+We, on the other hand, have only half a course worth of time. So what we will do is **pick one subtopic** of this broad field, and read about 12 papers on this narrow subtopic. So "Topics in..." would have been a more honest title.
 
-But in spirit, it's still only one topic, that I change every time I read this course, depending on what's hot in the area. And the topic of our current 2021 session is: **How (or maybe Whether) artificial neural networks and deep learning can help us to understand the brain, and whether learning about the brain can help us to build better artificial neural networks.**
+The reason this course is called simply "Computational Neuroscience" is therefore purely aesthetical. As it turns out, a longer title would not have fit on the official transcript, and would have been truncated to "Topics in Computational Neur." Wouldn't you rather see "Computational Neuroscience" on your transcript? I also think so! 🙂 Thus the name.
+
+But in spirit, it's still only one topic, that I change every time I teach this course, depending on what's hot in the area. And the topic for our current 2021 session is: **How artificial neural networks (deep learning) can help us to understand the brain, and how learning about the brain can help us to build better artificial networks**. Or maybe it's better to say "Whether" instead of "how", as both of these statements are hot, actively researched, and contentious. But we'll learn it by the end of this course!
 
 # Course Goals
 
-I hope that in this course we will:
+In this course we will:
 
-* Learn some modern methods of computational neuroscience; namely, the interdisciplinary field between computational neuroscience proper, and deep learning.
-* Learn to read machine learning papers and get the gist from them without getting too intimidated
-* See how neuroscience and AI can help and inform each other
+* Learn several modern methods of computational neuroscience; in the interdisciplinary field between computational neuroscience proper, and deep learning.
+* Learn to read machine learning papers and get the gist of them without getting too intimidated
+* See how (or "whether") neuroscience and AI can help and inform each other
 * Become better presenters
 
-## Course Logistics
+# Course Logistics
 
 **Instructor:** Arseny Khakhalin (pronounced: ar-SEH-ny ha-HA-leen; ipa: ɑr'sʲenʲi xa'xalʲin); [khakhalin@bard.edu](mailto:khakhalin@bard.edu)
 
+**Meeting times:** Fridays, 2-3:20p, on Zoom.
+
 As we are still in a pandemic, with new strains emerging, the course is online-only. 
 
-* We will use **Piazza** for offline work (see more info below). I will post assignments there, and collect your responses (typically - questions you had, that you want to discuss in class). But we can also use it as a Q&A, or even a discussion forum.
-* We'll have **weekly Zoom calls**, discussing papers. **One paper every week** (you may have to read more than one paper, to get some background, but I'm guessing on most weeks we'll be discussing only one paper).
-* Except for the first 3 classes, we'll have **3 people every week**, responsible for **presenting the paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these presentations should last for 8 minutes, so that we had time for questions.
-
-(It's 1:20 total, so with ~5 minutes lost, and 30 minute for the presentation, we'll have ~45 minutes for asking questions and figuring things out together.)
+* We will use **Piazza** for offline work (see more info below). I will post assignments there, and collect your responses (typically, questions you had, that you would like to discuss in class). But we can also use it as a Q&A, or even a discussion forum.
+* We'll have **weekly Zoom calls**, discussing papers. Generally, we'll try to have **one paper a week**, unless there's some background that needs to be taken from a different paper, or a review on a topic.
+* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting the paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for ~7-8 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 30 minute for the presentation, we'll have ~45 minutes for asking questions and figuring things out together.)
 
 > 💡 **On time commitment:** You might have heard from me before that, in my opinion, a full 4-credits course should take about 10 hours of work a week for one full course. The logic is simple: full-time learning should be equivalent to full-time work; both because a full-time working week is known to be doable (not too long, not too short), and because it gives people enough spare time to  care about their family, side job, hobbies, social life, or whatever. A full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, therefore 1 full course should take about 10 hours a week, total.
 >
-> This course is only 2 credits, so it gives us 5 hours a week. 1 hour 30 minutes of it we'll spend in class, which leaves 3:30 hours a week for your independent work (or work in small groups). As we'll be having presentations, the load may be a bit uneven, closer to 2 hours on some weeks (as that's the minimal time it takes to read and annotate a paper), and maybe about 4-5 hours on the week of your presentation. But on average, let's aim at 3:30 hours a week of independent work. If you spend less time than that, with one short meeting a week, you won't learn much. So keep it in mind 🙂
+> This course is only 2 credits, so it gives us 5 hours a week. 1 hour 30 minutes of it we'll spend in class, which leaves ~3:30 hours a week for your independent work (or work in small groups). As we'll be having presentations, the load may be a bit uneven, closer to 2 hours on some weeks (as realistically that's the minimal time it takes to read and annotate a paper), and maybe about 4-5 hours on the week of your presentation. But on average, let's aim at 3:30 hours a week of independent work. If you spend less time than that, with one short meeting a week, you won't learn much. Keep it in mind!
 
 ### Piazza
 
@@ -44,7 +49,7 @@ The main way of communication for this course is the [**Piazza** discussion boar
 * All announcements about the course will go on Piazza
 * All materials will be posted on Piazza.
 * All questions will be asked and answered on Piazza (although of course feel free to send me an email if you have a personal question)
-* Homework assignments will be collected on Piazza. In most classes, I use anonymous posting, but as this class is smaller, and as we're all in the same boat this time around (we'll be reading papers seriously outside of our comfort zone), I think it may be fine to post under our real names. Let's give it a try, and see how it goes.
+* Homework assignments will be collected on Piazza. In most classes, I use anonymous posting, but as this class is smaller, and as we're all in the same boat this time around (none of us is a specialist in deep learning, me included), I think it may be better to post under our real names. Let's give it a try, and see how it goes.
 
 > 💡 By default, Piazza will send updates to your email about any change, and every post. Even if you use auto-filtering in your gmail folders (and I do definitely recommend that you set up filtering!), it quickly gets overwhelming. So personally, I recommend that you disable all emails from Piazza, and just visit it regularly during the week.
 
@@ -61,54 +66,60 @@ If Piazza is down, send me an email. We'll switch to emails temporarily, until i
 * Every now and then, on Zoom, I will send you to auto-generated random "**Breakout rooms**": small chats for 3-4 people, to discuss questions. There are two reasons we are doing it. One, I want you to interact with each other at least somewhat. Second, educational research has shown that when students try to talk to each other about what they learn, they learn MUCH better. Not all people realize this. Some are like "I want things to be explained to me by a prof, not by some rando", but actually it's a proven fact. Peer-learning works so well because people often have similar misunderstandings, and talking them through helps. And also, trying to explain something to another person, trying to actually verbalize your thoughts, even if they are vague and very tentative, is *the best way* to understand, and learn. So be ready for breakout rooms.
 * **Be ready to participate** in class, using either your voice, or chat. I will be mostly asking breakout rooms to share what they discussed, but sometimes I may also call people at random (I'll code a random student generator for this purpose!)
 * **Keep Zoom on "mute" when not talking.** When speaking, unmute. Once you're done, please mute back. If you need to add something, unmute again, add something, then mute back :)
-* If the instructor disappears from Zoom (because a tree fell in a forest and restarted all computers in Tivoli), please wait about 10 minutes. It takes my router ~5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - that would be fantastic! But if I'm not back in 15 minutes, then of course you are legally allowed to leave haha.
+* If I disappear from Zoom (because a tree fell in a forest and restarted all computers in Tivoli), please wait about 10 minutes. It takes my router ~5 min to restart, so I should be able to be back in this time. If you can **self-organize and keep doing something useful** - that would be fantastic! But if I'm not back in 15 minutes, then of course you are legally allowed to leave haha.
 * If Zoom is down and you can't connect - **send me an email**. We always have Google Meetings as a back-up option.
 
 # Assignments
 
 ## Weekly Reading Reflection
 
-The most regular and predictable assignment for this course will be the **weekly reading reflection**, or **weekly question**. Every week, as you read the papers, I will ask you to write down questions that you have. Then try to answer some of these questions yourself. But once the time is up, and you cannot struggle any more, or if you feel that you really ran into a wall, post these questions on Piazza. We'll try to tackle them in class.
+The most regular and predictable assignment for this course will be the **weekly reading reflection**, or **weekly question**. Every week, as you read the paper(s), I will ask you to write down the questions that you have. Then try to answer some of these questions yourself, using Googling and common sense. But once the time is up, and you cannot struggle any more, or if you feel that you really hit a wall, post the remaining questions on Piazza. We'll try to tackle them in class together!
 
 ## Presentations
 
-As described above, papers will be presented by triads of people. I will assign these groups of 3, for every week, but you will need to decide who presents the background, who does the methods, and who does the results.
+As described above, papers will be presented by triads of people. I will assign these groups of 3, for every week, and you will need to decide who presents the background, who does the methods, and who does the results.
 
-With ~18 students and 3 students per group, it will take 6 weeks to give everyone a chance to present. We however will have only 10 weeks with presentations. Which means that most people will present twice, but some of you will only present once. Unless we do more than one paper on some days. We'll see!
+With ~18 students and 3 students per group, it will take 6 weeks to give everyone a chance to present. We however will have only 10 weeks with presentations. Which means that most people will present twice, but some of you will only present once. Unless we do more than one paper on some days; say, a review / background paper, and a main paper. We'll see!
 
 # Grading
 
-This course is graded using a “Specification Grading” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more!), and student experience (students are more happy). The gist here is that each letter grade comes with a certain list of criteria, and it is up to you to pick the level that you want to achieve.
+This course is graded using an “Ungrading” system, because I got exhausted by all the discussions about grades, pass-fail, GPA, and what not. Here's a more elegant solution, for a more civilized age:
 
-To get a **C:** 
+To get a **C** you need to:
 
 * Be present and participate in 80% of classes
-* Submit 80% of assignments (reading reflections) on time. The submissions don’t have to be perfect, but they need to be reasonable (present evidence of work). If a submission is problematic, I’ll let you know, so that you could improve next time.
+* Submit 80% of assignments on time. The submissions don’t have to be perfect, but they need to be reasonable (present evidence of work). If a submission is problematic, I’ll let you know, so that you could improve next time.
+* **A grade of "C" cannot be turned into a "Pass"**. If you ask, I will refuse.
 
-To get a **B:**
+To get a **B**:
 
 * Participate in 90% of classes
 * Submit 90% of short written assignments
 
-To get anything higher (**B plus, A minus, or A**):
+To get an **A**:
 
-* **On top of meeting requirements for a "B"**, also present a paper well, or participate well in class, during paper discussions. Presentations will be graded on a "weak / decent / great" scale. In-class helpful participation will be graded on a (none / some / helpful) scale. You don't need to be talking all day every day, but if you chime in with meaningful contributions at least some 2-3 times during the semester, that would do it.
+* **On top of all requirements for a "B"**, also present papers well, or show particularly productive participation in class, during paper discussions.
+* Presentations will be graded on a "weak / decent / great" scale. In-class participation will be graded on a (none / some / wow) scale. You don't need to be talking all day every day, but if you chime in with *meaningful* contributions at least every now and then, that would do.
+* If you are half-way between a B and an A, you'll be given a half-way grade (either a **B plus**, or an **A minus**)
+* **All grades of B and higher can be turned into a Pass if you so desire**. You don't even need to tell me in advance, or reach out, I'll ask you myself, before submitting final grades at the end of the course. You'll know your "internal grade", and then if you prefer to have a "P" on your final transcript instead, that's fine with me!
 
 # Attendance and late policy
 
-I'll spend the first 5 minutes of each class waiting for those that are late. That is, if a meeting is scheduled for 1 pm, Zoom will open at 1 pm, and we'll be just chatting until 1:05. At 1:05 sharp we will start the class
+I'll spend the first 5 minutes of each class waiting for you to connect. That is, if a meeting is scheduled for 1 pm, Zoom will open at 1 pm, and we'll be just chatting until 1:05. At 1:05 sharp we will start the class.
+
+If you are late 3 times, it will be counted as one absense.
 
 # Academic integrity and plagiarism
 
 For all homework assignments, the *writing* should be done by *you*. Borrowing *texts* from other people or from the internet without an acknowledgement (such as a citation, a reference, an explicit acknowledgement) is unacceptable, and will result in bad things happening.
 
-At the same time, for most assignments, collaboration and team work are heavily encouraged. Seek inspiration by talking to your peers before doing your work! Show your work to other people and ask for their suggestions and feedback! Offer your help to struggling brothers and sisters! I expect you to do your own work, but also productively collaborate, as that's how it happens in real life.
+But overall, collaboration and team work are heavily encouraged. Seek inspiration by talking to your peers before doing your work! Show your work to other people and ask for their suggestions and feedback! Read papers together! Prepare presentations together! Offer your help to struggling brothers and sisters! I expect you to do your own work, but also productively collaborate, as that's how it happens in real life.
 
 # Mutation clause
 
-Instructor will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
+I will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
 
-The changes will never be retroactive though! If a rule changes, it will only apply to future assignments, not to past assignments :)
+Any changes in course policies are never retroactive. If a rule changes, it only apply to future work, not to past work.
 
 # Course overview
 
@@ -117,7 +128,7 @@ Please see detailed week-by-week readings below, and on Piazza.
 | **Week** | Topics / Papers                                              | Presenters |
 | -------- | ------------------------------------------------------------ | ---------- |
 | Feb 05   | Intro to neuro.                                              | none       |
-| Feb 12   | Intro to deep learning + intro to modeling in computational neuroscience. | none       |
+| Feb 12   | Intro to deep learning + a short intro to modeling in computational neuroscience. | none       |
 | Feb 19   | Crash course in Machine learning from Google.                | none       |
 | Feb 26   |                                                              | 1          |
 | Mar 05   |                                                              | 2          |
@@ -139,18 +150,20 @@ Please see detailed week-by-week readings below, and on Piazza.
 
 Crash course Neuroscience. **Terms you need to know and vaguely understand** (at the very least, look each of them up, and read the corresponding article): neuron, spike, axon, synapse, excitation and inhibition, dendrite, neural coding (rate code, temporal code, population code), synaptic plasticity (Hebbian, STDP), intrinsic plasticity, receptive field, cortical map.
 
-Main resource: Wikipedia
+Main resource: Wikipedia + Google images :)
 
 Optional extra materials:
 
-* My "Introduction to Neuroscience course" (lectures): https://www.youtube.com/playlist?list=PLOdJKIwLQzBeTkMxjpFq5Ytzn89t0VayG
+* My "Introduction to Neuroscience course" (video lectures): https://www.youtube.com/playlist?list=PLOdJKIwLQzBeTkMxjpFq5Ytzn89t0VayG
 * U Texas free neuroscience textbook: https://nba.uth.tmc.edu/neuroscience/
 * Scholarpedia (it's like Wikipedia, but written by 100 or so professors, turning it into a sort of a free loosely connected textbook) on computational neuroscience: http://www.scholarpedia.org/article/Encyclopedia:Computational_neuroscience
 
-### Week 3 - Intros to Deep learning, and computational neuroscience
+### Week 2 - Intros to Deep learning, and computational neuroscience
 
 * Four videos from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-  They are about 1 h 10 min in total, but I really suggest that you pause frequently, and think about what's going on, as they are quite intense. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable! But try to get to the bottom of it.
+  They are about 1 h 10 min in total, but I really suggest that you **pause frequently**, and think about what's going on, as they are very dense with ideas, even if they sound smooth. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable!! But try to get to the bottom of it. How does it work? Why does it work like that?
+  * If you never studied, or forgot, how derivatives work, look through these videos: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+  * If you want to better understand the matrix notation that he uses, look through these videos. In general, getting at least some idea about **linear algebra** would be **incredibly useful for this course**, and for your life in general. Many people believe that linear algebra is the most useful math one could possibly study in college (some people think that statistics is more important, but it's definitely one of the top two). The playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 * Intro to computational neuroscience, answering the topic of "What is a model?" (Video lecture by Gunnar Blohm, 27 min): https://www.youtube.com/watch?v=KxldhMR5PxA (this lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/ )
 
@@ -195,7 +208,14 @@ Zador, A. M. (2019). A critique of pure learning and what artificial neural netw
 
 Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
 
-# Hopes (tbc todo)
+# Possibilities
 
-* Should I extract some success stories from Richards 2019?
-* Something about transformers, and whether they resemble brain activation? During text processing?
+Backpropagation and the brain
+Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
+https://www.nature.com/articles/s41583-020-0277-3
+(Opinion piece)
+
+# Hopes (tbc)
+
+* Should we extract some success stories of DL models helping Neuro from Richards 2019 and look at them more closely?
+* Transformers, and whether they resemble brain activation? During text processing? I'm pretty sure there were papers about that.
