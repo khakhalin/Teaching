@@ -165,10 +165,10 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 | Mar 1    | Escape in fish. Central pattern generators. STG. Reflexes. Locomotion. | be_random lab + QWOP (probably zoom)        | Randomness, exploration, self-driven behaviors, free will revisited. |
 | Mar 8    | **Respite (we don't meet this week)**                        |                                             |                                                              |
 | Mar 15   | Senses. Types of neural coding. Touch. Chemical senses.      | 2-point discrimination (zoom)               | What is a sense? How parts of our brain talk to each other?  |
-| Mar 22   | Ear and auditory processing.                                 | Sci ecosystem workshop.                     | How we hear. Heritage of evolution. Sociology of science.    |
+| Mar 22   | Ear and auditory processing.                                 | Sci ecosystem workshop.                     | How we hear. Limitations of human hardware. Sociology of science. |
 | Mar 29   | Hearing in the brain: Speech  recognition.                   | Acoustic lab? (**tbc**) Simplewriter        | Where music comes from.                                      |
 | Apr 05   | Vision: eye  and retina. Saccades. Color vision.             | Vision labs, blind spot (self-guided)       | How we see. Counter-intuitive aspects of evolution. Subjective perception. |
-| Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions 1 (low-level)              | How limitations of our hardware shape who we are. Beauty.    |
+| Apr 12   | On/off  cells, lateral inhibition, motion detection. Vision in the cortex. | Visual illusions 1 (low-level)              | The crooked evolutionary path towards humanity.              |
 | Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. *Proposals for final papers due* | **tbc** (reaction times? visual lag?)       | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
 | Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Debunking some myths about the brain. |
 | May 3    | **Advising week (we don't meet)**                            |                                             |                                                              |

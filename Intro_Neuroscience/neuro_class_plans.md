@@ -2,14 +2,39 @@
 
 # Intro & Resting membrane potential
 
-First class: syllabus
+**First class**: syllabus.
 
-2nd and 3d classes: Resting membrane potential, questions, + some quizzes.
+**Second class**
 
-* Follow-ups on water video: 
-  * so, summarize the problem here?
-  * why are people in the States are obsessed with hydration? Where did it come from?
-  * *Can I come up with some meta-question about discerning bad science? Maybe reference their cit sci experiences? How to tell good science from bad science?*
+Cell: what are DNA, RNA, proteins, lipids. What do these terms mean? What is the relationship between them? If you ever learned that, try to recall what you learned; if you never learned that, Google together as a team, and try to come up with a rough description of what's going on.
+
+>We want to come up with a list of key players in this drama, and get some basic idea about their relationships, who is the boss, who likes whom etc. We (humans) have a really robust system for keeping track of social interactions between players, and all professionals (mathematicians, physicists, chemists) actually use them to learn stuff. It's not necessarily about personification, but about a useful metaphor, and developing an intuition.
+
+More keywords (as a group, figure out what they mean): charge, ion, concentration, membrane, channel, potential.
+
+**Third class**
+
+> 🟢 If you want to learn, read my answers to other questions as well, not only to yours! As we go further, there will be cool tangents there, I'm sure!
+>
+> 🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer haha!
+
+💡 Quiz: Parts of a neuron
+
+K and Na - what are they?
+
+Diffusion - what is it, and how does it happen? How quick is it? If we used diffusion to pass chemical bodies around within our bodies, how long would it have taken? Give a real-life example that illustrates the speed of diffusion (some example when diffusion happens, and where you can actually see its consequences).
+
+💡  Quiz: Ions at rest
+
+Follow-ups on water video (start with questions that were asked): 
+
+* so, summarize the problem here? Why too much water is dangerous?
+* why are people in the States are obsessed with hydration? Where did it come from?
+* But then, how can an "ordinary person" from the street figure out what is true, and what is not? The claims by Gatorade and co sound so sciency, "electrolytes", and what not. Potassium! Ions! Real world is not usually about "Science vs superstition", it's about two sets of claims that can appropriate each others lingo, but that disagree. How to figure out who is right?
+
+> Among possible answers: Do you know how they call an alternative medicine that works? Medicine.
+>
+> Or, that an ability to change one's mind is a sign of strength. A sound process of discovering the truth should have a strong built-in mechanism for changing one's mind. Like reversals on salty food in nutrition science. Or don't even get me started on fat and sugar.
 
 # Action potential and Pain
 
@@ -69,14 +94,14 @@ Student questions:
 * The second lecture got me thinking about people who have phantom limbs and can feel their limbs even though they’ve lost them, because I started wondering  if their motor neurons are still trying to send the other limb signals. How do phantom limbs work? Why do we feel like we can still feel missing parts of our body?
 * I know that we were talking about Central Pattern Generators in terms of muscles, but am wondering if there is a similar process that can happen with thoughts. Are there certain neurological responses that can happen repetitively and unconsciously, but in the way that we think? Further, similar to the necessity of a reciprocal muscle relaxing when the muscle connected to the excitatory neuron is flexed, can there be a relationship in the brain in which one thought pattern causes another thought pattern to silence or "relax?"
 
-## Coding class
+# Neural Coding
 
 1) Match the names to the codes
 2) So, what would be the upsides and downsides of each coding system? When (where?) would you expect to find them in the brain?
 
 Make wild guesses about what systems in the brain could be most likely to use temporal and phase codes
 
-## Coding class 2
+# Chemical Senses
 
 > Given that different sensations can signify danger why have we come to enjoy sensations that previously could indicate something that could kill us like tasting bitterness for instance?
 
@@ -109,7 +134,21 @@ This statement above is only half-true. Please discuss, 1) what is true in it, 2
 * Also when I think of ears I think of acupuncture and how certain parts of the ear connect to certain parts of the body. 
 * I also think because I blast music and attended many concerts with loud music that I have probably damaged my hearing. Could one undo this damage?  
 
-# Vision
+# Scientific ecosystem workshop
+
+tbc
+
+write info
+
+write workshop:
+
+* How does peer-review work?
+* Find a good paper (GoogleScholar)
+* Anatomy of a paper
+* The financial side (Publishers, OpenAccess, SciHub)
+* Scientific hierarchies
+
+# Vision 1
 
 * Draw an eye, what's in the eye - discuss
 * Draw together, discuss
@@ -120,7 +159,7 @@ This statement above is only half-true. Please discuss, 1) what is true in it, 2
   * What are peak sensitivities for cones? What colors are each of the cones most sensitive for?
   * Why? What does it mean? Come up with some hypotheses, from the common sense pov.
 
-## Vision 1
+# Vision 2
 
 * A comment on the methodology of questions
 * Next Wednesday, if there's civil unrest, we may use the class as a therapy session - we'll see, and play it by ear. I'll keep you posted; please check Piazza for updates.

@@ -10,14 +10,13 @@ Videos:
 
 * Intro lecture, Intro to this class (30 min): https://www.youtube.com/watch?v=12SqDoBRyu8
 * Week 1 lecture,  Resting membrane potential (1h): https://www.youtube.com/watch?v=hixcnsh0bhM
-  * Note that these two lectures were not edited, so I recommend to listen to them at ~125% speed.
+  * Note that these two lectures were not edited, so I recommend to listen to them at ~125-150% speed.
 
-* How pain relievers work (4 min): https://www.youtube.com/watch?v=9mcuIc5O-DE
 * Adam ruins everything, on water (5 min): https://www.youtube.com/watch?v=OWASUMMQjj8
 
-Interactive self-guided short story about neurons, synapses, and anxiety (it's like almost a lab, with great narration, by amazing Nicky Case, who is an absolute hero of scientific outreach):
+Short self-guided lab-like activity:
 
-* Neurotic neurons: https://ncase.me/neurons/
+- An interactive short story about neurons, synapses, and anxiety (with great narration, by amazing Nicky Case, who is an absolute hero of scientific outreach): Neurotic neurons: https://ncase.me/neurons/ 
 
 Readings
 
@@ -39,8 +38,11 @@ And if anything is weird, doesn't work, etc. - please send me an email!
 
 Videos:
 
-- Action potential, 60 s conceptual visualization: https://www.youtube.com/watch?v=90cj4NX87Yk
-- My lecture: 
+- Action potential conceptual visualization, 1 min: https://www.youtube.com/watch?v=90cj4NX87Yk
+- My lectures (watch them at 125-150% speed perhaps):
+  - Part 1, 45 min: https://www.youtube.com/watch?v=dTMzTj1fAQw	
+  - Part 2, 1 hour: https://www.youtube.com/watch?v=eKX2zEYNqbE
+- How pain relievers work (4 min): https://www.youtube.com/watch?v=9mcuIc5O-DE 
 
 Readings:
 
@@ -65,7 +67,9 @@ Videos about stochastic motion of proteins (to give a better impression of how c
 
 Videos:
 
-* My video (s?)
+* My lectures:
+  * Synaptic transmission (1 hour): https://www.youtube.com/watch?v=ba1rzQfWw4U
+  * Terminology (45 min): https://www.youtube.com/watch?v=-V8oW4jty5Q
 
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
@@ -99,6 +103,11 @@ Lab:
 
 # Ethology. Inhibition. Integration
 
+Videos: 
+
+* Neuroethology (50 min). This is the first edited lecture (with pauses trimmed out), so perhaps watch it at a normal speed, or at least pause often. It's lots of information, and new concepts, that you need to think about, even when it feels like everything makes sense: https://www.youtube.com/watch?v=Ls9hVr7sbX0
+* Synaptic integration (1h 10 min): https://www.youtube.com/watch?v=8okgr1EsPco
+
 Note that we have two very different topics this week:
 
 - Wikipedia article about Ethology: https://en.wikipedia.org/wiki/Ethology
@@ -106,12 +115,12 @@ Note that we have two very different topics this week:
   Make sure to look through the list of model systems below. Figure out what was studied in each of these systems. Try to understand why this question (of all possible questions) was asked in this animal, and why this animal (of all possible animals) was used to answer this question?
 - Synaptic transmission in the CNS: chapter 6: https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
 
-Internal:
+Book chapters (shared on Google Drive):
 
 - [Animal Behavior by Scott, Chapter 1](https://drive.google.com/open?id=1bFO0KdDtnB99Fn9Im9I-YBxcB-4rCbZ0)
 - [Curious Behaviors, by Provine - a chapter about sneezing](https://drive.google.com/open?id=1yw_tUCYVnfLC5wrxTAXwfSSBs8izDJiC)
 
-Advanced
+Advanced, optional:
 
 - On dendritic computations: Hidden Computational Power Found in the Arms of Neurons. Jordana Cepelewicz. Jan 14 2020.
   https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
@@ -122,7 +131,11 @@ Venus fly trap lab
 
 # Simple motor systems. Escape in fish. Reflexes. CPGs
 
-Additional videos:
+Videos:
+
+* My lectures:
+  * Small networks (40 min): https://www.youtube.com/watch?v=RZ9RYaKYWC4
+  * Central Pattern Generators and motion (46 min): https://www.youtube.com/watch?v=8r4ag458wvw
 
 - https://www.youtube.com/watch?v=7pzMnuvKK7A - Zebrafish larva c-start (M-cell -mediated, slow-mo)
 - Reflective walking in human newborns: https://www.youtube.com/watch?v=-ih_pCBo70o 
@@ -131,11 +144,13 @@ Additional videos:
   - Honda Asimo: https://www.youtube.com/watch?v=YruAOxWG5uU  
   - Boston Dynamics 10 years ago: https://www.youtube.com/watch?v=rVlhMGQgDkY 
   - Boston dynamics now: https://www.youtube.com/watch?v=fn3KWM1kuAw
+  - JK, those videos above are partially pre-recorded, which makes them look smoother than they really are. Here's Boston dynamics now. Still super-impressive, but not yet as graceful as a deer or a corgi: https://www.youtube.com/watch?v=6Zbhvaac68Y
 
-Fun reading, highly recommended. It's about high-end horses that fancy knights would buy for their posh ladies, as said horses would have had a mutation in one of its CPGs!
+Fun reading, highly recommended. It's about high-end horses that fancy knights would buy for their posh ladies (like a BMW of 1500 or whatever), as said horses would have had a mutation in one of its CPGs!
 
 - https://amyraby.wordpress.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/ 
-- A video to explain why they were so valuable (worth a thousand words): https://www.youtube.com/watch?v=-7rWeWymJDw 
+- A video to explain why they were so valuable (it is well-known that a video is worth a thousand words a second):
+  https://www.youtube.com/watch?v=-7rWeWymJDw 
 - http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
 - https://www.horsetalk.co.nz/2019/05/30/pacers-trotters-genetic-differences-researchers/
 
@@ -152,9 +167,18 @@ Labs
 
 # Senses. Touch. Neural coding
 
-* https://en.wikipedia.org/wiki/Sense
+Videos:
+
+* My lectures:
+  * Sensory systems and coding (50 min): https://www.youtube.com/watch?v=gIfzuS3Ish8
+  * Taste, Smell, Touch, and non-human senses (1 h 20 min): https://www.youtube.com/watch?v=dn_MgCFzCQA
+
 * True facts about the Star-Nosed mole: https://www.youtube.com/watch?v=fio1NUxszhY
 * Whisking behavior: https://www.youtube.com/watch?v=Sf9ej0LBn9g
+
+Readings:
+
+* https://en.wikipedia.org/wiki/Sense
 * https://en.wikipedia.org/wiki/Neural_coding
 * Living without proprioception, including touch (!), relying only on vision, and performing every movement consciously (Ian Waterman):
   * https://www.youtube.com/watch?v=pMEROPOK6v8
@@ -163,6 +187,10 @@ Labs
   * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
 # Hearing week 1: The Ear
+
+Videos:
+
+* My lecture (1h 10 min): https://www.youtube.com/watch?v=Q6b9k8DitHM
 
 - Main video (Auditory transduction): https://www.youtube.com/watch?v=PeTriGTENoc
 - Dancing hair cell (electromechanical transformation): https://www.youtube.com/watch?v=Xo9bwQuYrRo 
@@ -183,21 +211,17 @@ PPI lab
 
 - Paper about PPI: https://pdfs.semanticscholar.org/e110/4edd4b6c3aebcd678dba2b9b2a2acbea1b48.pdf
 
-## Scientific publishing and scientific ecosystem
+# Hearing week 2: Sounds in the brain
 
-tbc
+We have two very different topics this week. One is something that is maybe a bit more down to earth (sounds localization), but that we understand better. And then something that is really cool and interesting (speech and music) that we however don't understand that well.
 
-write info
+### Subtopic 1  - Sound localization
 
-write workshop:
+Videos:
 
-* How does peer-review work?
-* Find a good paper (GoogleScholar)
-* Anatomy of a paper
-* The financial side (Publishers, OpenAccess, SciHub)
-* Scientific hierarchies
+* My lecture on sound localization (50 min): https://www.youtube.com/watch?v=Vv0ACd6KwYk
 
-# Hearing 2: Spatial maps
+Resources:
 
 * On binaural recordings (really cool, professional & informative): https://www.youtube.com/watch?v=Yd5i7TlpzCk
 * Sound localization in owls: https://en.wikipedia.org/wiki/Sound_localization_in_owls
@@ -209,28 +233,36 @@ write workshop:
 - Echolocation in bats: https://www.youtube.com/watch?v=gZxLUNHEmPw
 - Spatial hearing: http://auditoryneuroscience.com/spatial-hearing
 
-# Hearing week 2: Speech and Music
+### Subtopic 2 - Speech and Music
 
-- A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
-- Talking pianos  (a really cool illustration of how sound synthesis works):
+Videos:
+
+* My lecture on Speech and Music (1 h 20 min): https://www.youtube.com/watch?v=v_ZH3g5K1wg
+* Talking pianos  (a really cool illustration of how sound synthesis works):
   -  https://www.youtube.com/watch?v=muCPjK4nGY4
   -  https://www.youtube.com/watch?v=-6e2c0v4sBM
 
 * A somewhat cringy, but very informative 11-minutes video about sound harmonics: https://www.youtube.com/watch?v=a6ZJOBIlO-E
+* Tuvan throat singing. 
+  - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
+  - Actual Tuvans (Huun‐Huur‐Tu) Live on KEXP: https://www.youtube.com/watch?v=R2ovoRyv4kw
+* Vaguely related: a Talkbox (a thingie that replaces your vocal cords with a synthesizer ): https://www.youtube.com/watch?v=h_L5v9OTSxc
 
+Interactive Simulations:
+
+- A simulation of how we perceive repeating stimuli as tones: http://auditoryneuroscience.com/pitch/range-period-pitch
 - Harmonics simulators:
   - Overtones of a tube / string: https://musiclab.chromeexperiments.com/Harmonics/
   - Strings of different lengths: https://musiclab.chromeexperiments.com/Strings/
+
 - Formant simulators:
   - Model of a human voice apparatus - the Pink Trombone: https://dood.al/pinktrombone/    
     Make sure to move the lip, and the tongue, and the palate, with nasal opening both open, and closed.
   - Annotated 2-tone formant simulator with a map of English vowels: https://auditoryneuroscience.com/2fav
-- Tuvan throat singing. 
-  - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
-  - Actual Tuvans (Huun‐Huur‐Tu) Live on KEXP: https://www.youtube.com/watch?v=R2ovoRyv4kw
-- Vaguely related: a Talkbox (a thingie that replaces your vocal cords with a synthesizer ): https://www.youtube.com/watch?v=h_L5v9OTSxc
 
-Internal
+#### Optional advanced materials
+
+Book chapters:
 
 * T.C. Levin, M.E. Edgerton. The Throat Singers of Tuva. (1999). Scientific American.
   Local link: https://drive.google.com/open?id=1tlyoA_1tnBJSmeXbc0twppvZp_l0MkiK 
@@ -283,20 +315,28 @@ Tuning systems
 
 # Vision: eye and retina. On/off cells.
 
-- On color vision (this is not yellow; only watch the first third of the video or so, that is about vision; ignore the rest): https://www.youtube.com/watch?v=R3unPcJDbCc
-- Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
-- Human tetrachromats:
-  - https://www.discovermagazine.com/mind/the-humans-with-super-human-vision
-  - https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision
-- Watch classic experiments with toads:
+Videos:
+
+- Lecture videos:
+  - The eye (50 min): https://www.youtube.com/watch?v=X_-5BIyRy3k
+  - Cells in the retina (50 min): https://www.youtube.com/watch?v=UD0MKsjasE8
+- "This is not yellow", about color. Only watch the first third of the video or so, the other 2/3ds are about a different topic entirely: https://www.youtube.com/watch?v=R3unPcJDbCc
+- Classic experiments with toads:
   -  https://www.youtube.com/watch?v=l3Es9cNH7I8
   -  https://www.youtube.com/watch?v=ITY9luBw3_I
   -  https://www.youtube.com/watch?v=PoDJZ4Ln9Rw
   -  Why this is important (a toad playing on an ipad): https://www.youtube.com/watch?v=AbKGrtpgBtA
--  Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 - Eye evolution:
-  -  https://www.youtube.com/watch?v=6HWVgQdSTDQ
-  -  https://www.youtube.com/watch?v=qrKZBh8BL_U
+  -  Animal vs human vision (from Nat Geograhic; 2 min): https://www.youtube.com/watch?v=6HWVgQdSTDQ
+  -  TED on eye evolution (4 min): https://www.youtube.com/watch?v=qrKZBh8BL_U
+
+Readings:
+
+- Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
+- Human tetrachromats:
+  - https://www.discovermagazine.com/mind/the-humans-with-super-human-vision
+  - https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision
+- Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 
 Readings:
 
@@ -325,7 +365,12 @@ Make sure to do all of these exercises below. It should take about an hour, mayb
 
 As a write-up for this lab, pick the exercise that you liked the most (that you found most interesting and informative), and write either a haiku, a sonnet, or a limerick about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
-# Visual processing (cortical, subcortical) + Critical Periods
+# Visual processing (cortical, subcortical), Critical Periods
+
+Videos:
+
+* Lectures:
+  * Retinal processing (45 min): https://www.youtube.com/watch?v=BcFG0gvHug8
 
 - Hubel and Wiesel:
   - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
