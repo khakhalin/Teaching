@@ -128,15 +128,15 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Feb 05   | Intro to neuro.                                              | none       |
 | Feb 12   | Conceptual Intro to deep learning                            | none       |
 | Feb 19   | Crash course in Machine learning from Google.                | none       |
-| Feb 26   |                                                              | 1          |
-| Mar 05   |                                                              | 2          |
-| Mar 12   |                                                              | 3          |
+| Feb 26   | Neuro-DL success story: convolutional networks and biological vision | 1          |
+| Mar 05   | How DL is not Neuro: problem of supervised learning; recent tricks | 2          |
+| Mar 12   | How Neuro is not DL: gradient descent in the brain; credit assignment problem | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
-| Mar 26   |                                                              | 4          |
-| Apr 02   |                                                              | 5          |
-| Apr 09   |                                                              | 6          |
+| Mar 26   | Intertretability in DL and Neuro                             | 4          |
+| Apr 02   | Single neurons as Deep Networks                              | 5          |
+| Apr 09   | Vision and convnets revisited                                | 6          |
 | Apr 16   |                                                              | 7          |
-| Apr 23   |                                                              | 8          |
+| Apr 23   | Transformers (???)                                           | 8          |
 | Apr 30   |                                                              | 9          |
 | May 07   | *Advising week, we probably don't meet - TBC*                |            |
 | May 14   |                                                              | 10         |
@@ -163,6 +163,8 @@ Neurons. Their shape (dendrites, axon). Why the shape. How they send messages (A
 What decides if AP is happening (axon hillock).
 
 Types of neuronal coding. Representing network activation in models. Spike vs rate models. Input-output function for rate code.
+
+Is there noise?
 
 How do they connect? (synapses). What happens in the synapse? Is it just a faithful transmitter or activation, or does it shape the signal somehow? How?: sign (inhibition). Threshold. Temporal effects. Plasticity. What's plastic in the synapse?
 
@@ -200,9 +202,7 @@ The homework for this week is a **crash course in machine learning** from Google
   * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
 * For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
 
-# Sketches
-
-🔴 Here be dragons. Everything beyond this point is yet uncharted. Current ideas:
+# Below this point all plans are for now tentative
 
 ## Neuro roots of DL
 
@@ -217,15 +217,21 @@ Some other introduction, supposedly for biologists. But is it even good? If it's
 
 perhaps 2 papers: associated breakthrough, and parallels with Neuro
 
-## DL departing from Neuro
+## Ways in which current DL differs from Neuro
+
+Possible papers:
 
 Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
 
-Dropout
+Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156.
+https://arxiv.org/pdf/1502.04156.pdf
+Mathy, then mnist
+
+Dropout?
 
 ?
 
-## How Neuro is not like DL
+## Ways in which Neuro differs from DL
 
 A bit older review?
 
@@ -233,26 +239,113 @@ Gradient descent in the brain? (critique)
 
 Credit assignment?
 
+Possible papers:
+
+* Backpropagation and the brain
+  Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
+  https://www.nature.com/articles/s41583-020-0277-3
+
 ## Attempts of modern synthesis: DL as a model for Neuro
 
 * "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA
   * (this lecture comes from a cool open project called "Neuromatch academy"; for now I'm not necessarily assigning other videos from this project, but it's a cool project!): http://www.neuromatchacademy.org/syllabus/
 
-Papers:
+Main paper:
 
-Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
+* Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
 
-# Potentially Interesting papers to vet
+Optional materials:
 
-What about Kording? Do we do Kording? And if yes, when?
+* ?
 
-Backpropagation and the brain
-Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
-https://www.nature.com/articles/s41583-020-0277-3
-(Opinion piece)
+## Intrepretability in DL and Neuro
 
-# Hopes (Possible topics that don't have readings yet)
+Some stuff on core ML intrerpretability #todo
 
-* Extract other success stories of DL models helping Neuro from Richards 2019 and look at them more closely?
-* Replication of grid cells?
-* Transformers, and whether they resemble brain activation. During text processing? I'm pretty sure there were papers about that.
+Distill simulations on interpretability #todo
+
+Maybe in ethics intro as well, if there's a short one? tbc.
+
+Optional:
+
+* Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
+  https://arxiv.org/abs/1907.06374 - an opinion piece, half-practical guidance, half philosophy
+
+## Single neurons as Deep Networks
+
+David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+
+Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
+https://arxiv.org/abs/2009.01269
+
+## Vision and convnets revisited
+
+Check these:
+
+* Geiger, F., Schrimpf, M., Marques, T., & DiCarlo, J. (2020). Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream. bioRxiv.
+  https://www.biorxiv.org/content/10.1101/2020.06.08.140111v1
+  Protoid: Geiger2020ventralstream
+
+* Yaoda Xu, Maryam Vaziri-Pashkam (2020) Limited correspondence in visual representation between the human brain and convolutional neural networks
+  https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1 
+  Essentially, some critique of deepneuro!
+
+## Replication of grid cells?
+
+Some basic info on grid cells?
+
+Sorscher, B., Mel, G., Ganguli, S., & Ocko, S. (2019). A unified theory for the origin of grid cells through the lens of pattern formation. In Advances in Neural Information Processing Systems (pp. 10003-10013).
+https://papers.nips.cc/paper/9191-a-unified-theory-for-the-origin-of-grid-cells-through-the-lens-of-pattern-formation
+Supposedly, explains the development of grid cells, synthesizing two existing theories (recurrent with lateral inhibition and spontaneous development during navigation?)
+
+## Transformers, and comparison with brain activation?
+
+?
+
+## Replication of motor control?
+
+Michaels, J. A., Schaffelhofer, S., Agudelo-Toro, A., & Scherberger, H. (2019). A neural network model of flexible grasp movement generation. bioRxiv, 742189.
+https://www.biorxiv.org/content/10.1101/742189v1
+
+# Other Potential papers
+
+🔥 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258.
+https://www.sciencedirect.com/science/article/pii/S0896627317305093
+Quite popular.
+
+Perez-Nieves, N., Leung, V. C., Dragotti, P. L., & Goodman, D. F. (2020). Neural heterogeneity promotes robust learning. bioRxiv.
+https://www.biorxiv.org/content/10.1101/2020.12.18.423468v1
+
+Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
+https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1 
+Tweetstorm: https://twitter.com/colleenjgillon/status/1351557910439059457
+Unsupervised novelty detection in the visual cortex; a convergence of top-down and bottom-up signaling on 2 different sets of dendrites.
+
+Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks. Neuron, 105(3), 416-434.
+https://www.cell.com/neuron/pdf/S0896-6273(19)31044-X.pdf
+An opinion (perspective) on how we could, and should, use deep models to understand psychology and neuroscience, as they are not that different than the results of evolution, after all.
+
+Raman, D. V., Rotondo, A. P., & O’Leary, T. (2019). Fundamental bounds on learning performance in neural circuits. Proceedings of the National Academy of Sciences, 116(21), 10537-10546.
+https://www.pnas.org/content/116/21/10537.short
+
+Hassan, B. A., & Hiesinger, P. R. (2015). Beyond molecular codes: simple rules to wire complex brains. Cell, 163(2), 285-291.
+https://www.cell.com/cell/fulltext/S0092-8674(15)01193-9
+💎 Developmental biology bordering fractals and graphs (maybe? not sure, but judging from the pics) - a nice review-like paper (perspective); worth a priority read :)
+
+Richards, B. A., Xia, F., Santoro, A., Husse, J., Woodin, M. A., Josselyn, S. A., & Frankland, P. W. (2014). Patterns across multiple memories are identified over time. Nature neuroscience, 17(7), 981.
+https://www.nature.com/articles/nn.3736
+
+Lillicrap, T. P., & Scott, S. H. (2013). Preference distributions of primary motor cortex neurons reflect control solutions optimized for limb biomechanics. Neuron, 77(1), 168-179.
+https://www.sciencedirect.com/science/article/pii/S0896627312009920
+
+Deep neuroethology of a virtual rodent
+Josh Merel, Diego Aldarondo, Jesse Marshall, Yuval Tassa, Greg Wayne, Bence Ölveczky
+https://arxiv.org/abs/1911.09451
+Apparently create a vidrual 3D rodent (like, with muscles, joints and what not), make it move in virtual environment, learn to move, then study its network using neuro methods.
+
+Li, Z., Brendel, W., Walker, E., Cobos, E., Muhammad, T., Reimer, J., ... & Tolias, A. (2019). Learning from brains how to regularize machines. In Advances in Neural Information Processing Systems (pp. 9525-9535).
+https://arxiv.org/abs/1911.05072
+
+Merel, J., Botvinick, M., & Wayne, G. (2019). Hierarchical motor control in mammals and machines. Nature Communications, 10(1), 1-12.
+https://www.nature.com/articles/s41467-019-13239-6
