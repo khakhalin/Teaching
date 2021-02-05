@@ -14,17 +14,23 @@ More keywords (as a group, figure out what they mean): charge, ion, concentratio
 
 **Third class**
 
-> 🟢 If you want to learn, read my answers to other questions as well, not only to yours! As we go further, there will be cool tangents there, I'm sure!
->
-> 🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer haha!
-
-💡 Quiz: Parts of a neuron
+💡 Quiz: Parts of a neuron + what neuron
 
 K and Na - what are they?
 
 Diffusion - what is it, and how does it happen? How quick is it? If we used diffusion to pass chemical bodies around within our bodies, how long would it have taken? Give a real-life example that illustrates the speed of diffusion (some example when diffusion happens, and where you can actually see its consequences).
 
-💡  Quiz: Ions at rest
+Q: So where this voltage across the membrane is coming from? What equilibrium are we talking about? Equilibrium of what with what? And where does it come from?
+
+Pivoting to questions
+
+> 🟢 If you want to learn, read my answers to other questions as well, not only to yours! As we go further, there will be cool tangents there, I'm sure!
+
+# Action potential and Pain
+
+>  🟢 A side-comment: I sensed some confusion in some of the faces last time, as ... but we need to strike a balance between talking about lofty topics and some nuts-and bolts. As if we abandon the hard mechanistic science altogether, and jump to the philosophy of mind, or so, we will loose all rooting, and I won't be able to even hint at one certain things are true, or not true, or possible, or impossible. So we have to juggle these two aspects of the course - the "facts and their understanding" (like, how things work), with "what it all means", and "what the implications are".  We'll keep doing that! And if you have any feedback or concerns at any point, please reach out and let me know!
+>
+>  🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer haha!
 
 Follow-ups on water video (start with questions that were asked): 
 
@@ -35,8 +41,6 @@ Follow-ups on water video (start with questions that were asked):
 > Among possible answers: Do you know how they call an alternative medicine that works? Medicine.
 >
 > Or, that an ability to change one's mind is a sign of strength. A sound process of discovering the truth should have a strong built-in mechanism for changing one's mind. Like reversals on salty food in nutrition science. Or don't even get me started on fat and sugar.
-
-# Action potential and Pain
 
 Why pain exists? What does it signal?
 

@@ -44,12 +44,17 @@ Videos:
   - Part 2, 1 hour: https://www.youtube.com/watch?v=eKX2zEYNqbE
 - How pain relievers work (4 min): https://www.youtube.com/watch?v=9mcuIc5O-DE 
 
+Videos about random chaotic motion of molecules in the cell, to give you a better impression of how channels, ions, and other proteins actually move. You don't need to understand what they are doing there, but go for the overall impression of what it may look like:
+
+* DNA replication: https://www.youtube.com/watch?v=7Hk9jct2ozY
+* Protein packing: https://www.youtube.com/watch?v=VdmbpAo9JR4
+
 Readings:
 
-- On pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
-- On pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
-  - A pdf copy of this article (without pics, but with all the text): https://drive.google.com/open?id=1VeEikLsKIirjxQT9DWj0xpqWZaPsJXzZ
-  - How pain relievers work: https://www.youtube.com/watch?v=9mcuIc5O-DE
+- On never feeling any pain, about Steven Pete: https://www.bbc.com/news/magazine-18713585
+- On never feeling any pain pain, about Ashlyn Blocker: https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html
+  - A pdf copy of this same article (without pics, but with all the text) in case you don't have subscription to the NYT: https://drive.google.com/open?id=1VeEikLsKIirjxQT9DWj0xpqWZaPsJXzZ
+  - A video on how pain relievers work (that I also posted last week by mistake, but later deleted): https://www.youtube.com/watch?v=9mcuIc5O-DE
 - A brief history of pain scale: https://wongbakerfaces.org/us/wong-baker-faces-history/
 
 Advanced:
@@ -57,11 +62,6 @@ Advanced:
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s1/chapter02.html
 - Action potential mechanisms: http://faculty.washington.edu/chudler/ap.html
 - A chart about ion sizes: https://commons.wikimedia.org/wiki/File:Action_potential_ion_sizes.svg
-
-Videos about stochastic motion of proteins (to give a better impression of how channels, ions, and other proteins actually move):
-
-* DNA replication: https://www.youtube.com/watch?v=7Hk9jct2ozY
-* Protein packing: https://www.youtube.com/watch?v=VdmbpAo9JR4
 
 # Excitatory synapse. Connectomics. Escape in shrimp. Free will
 

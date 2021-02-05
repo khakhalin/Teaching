@@ -36,7 +36,7 @@ As we are still in a pandemic, with new strains emerging, the course is online-o
 
 * We will use **Piazza** for offline work (see more info below). I will post assignments there, and collect your responses (typically, questions you had, that you would like to discuss in class). But we can also use it as a Q&A, or even a discussion forum.
 * We'll have **weekly Zoom calls**, discussing papers. Generally, we'll try to have **one paper a week**, unless there's some background that needs to be taken from a different paper, or a review on a topic.
-* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting the paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for ~7-8 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 30 minute for the presentation, we'll have ~45 minutes for asking questions and figuring things out together.)
+* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting a paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for ~7-8 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 30 minute for the presentation, we'll have ~45 minutes for asking questions and figuring things out together.)
 
 > 💡 **On time commitment:** You might have heard from me before that, in my opinion, a full 4-credits course should take about 10 hours of work a week for one full course. The logic is simple: full-time learning should be equivalent to full-time work; both because a full-time working week is known to be doable (not too long, not too short), and because it gives people enough spare time to  care about their family, side job, hobbies, social life, or whatever. A full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, therefore 1 full course should take about 10 hours a week, total.
 >
@@ -89,7 +89,7 @@ To get a **C** you need to:
 
 * Be present and participate in 80% of classes
 * Submit 80% of assignments on time. The submissions don’t have to be perfect, but they need to be reasonable (present evidence of work). If a submission is problematic, I’ll let you know, so that you could improve next time.
-* **A grade of "C" cannot be turned into a "Pass"**. If you ask, I will refuse.
+* **A grade of "C" cannot be turned into a "Pass"**. If you ask, I will refuse. Sorry!
 
 To get a **B**:
 
@@ -101,7 +101,7 @@ To get an **A**:
 * **On top of all requirements for a "B"**, also present papers well, or show particularly productive participation in class, during paper discussions.
 * Presentations will be graded on a "weak / decent / great" scale. In-class participation will be graded on a (none / some / wow) scale. You don't need to be talking all day every day, but if you chime in with *meaningful* contributions at least every now and then, that would do.
 * If you are half-way between a B and an A, you'll be given a half-way grade (either a **B plus**, or an **A minus**)
-* **All grades of B and higher can be turned into a Pass if you so desire**. You don't even need to tell me in advance, or reach out, I'll ask you myself, before submitting final grades at the end of the course. You'll know your "internal grade", and then if you prefer to have a "P" on your final transcript instead, that's fine with me!
+* **Grades of B and higher can be turned into a Pass if you so desire**. You don't even need to tell me in advance, or reach out, I'll ask you myself, before submitting final grades at the end of the course. You'll know your "internal grade", and then if you prefer to have a "P" on your final transcript instead, that's fine with me!
 
 # Attendance and late policy
 
@@ -117,18 +117,16 @@ But overall, collaboration and team work are heavily encouraged. Seek inspiratio
 
 # Mutation clause
 
-I will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.)
+I will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.) Any changes in course policies are never retroactive. If a rule changes, it only apply to future work, not to past work.
 
-Any changes in course policies are never retroactive. If a rule changes, it only apply to future work, not to past work.
+# Course at a glance
 
-# Course overview
-
-Please see detailed week-by-week readings below, and on Piazza.
+Please see a list of detailed week-by-week readings below, but ultimately the most recent correct version will always be posted on Piazza, with a `homework` tag.
 
 | **Week** | Topics / Papers                                              | Presenters |
 | -------- | ------------------------------------------------------------ | ---------- |
 | Feb 05   | Intro to neuro.                                              | none       |
-| Feb 12   | Intro to deep learning + a short intro to modeling in computational neuroscience. | none       |
+| Feb 12   | Conceptual Intro to deep learning                            | none       |
 | Feb 19   | Crash course in Machine learning from Google.                | none       |
 | Feb 26   |                                                              | 1          |
 | Mar 05   |                                                              | 2          |
@@ -144,9 +142,9 @@ Please see detailed week-by-week readings below, and on Piazza.
 | May 14   |                                                              | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
-# Weekly schedule
+# Detailed Weekly Schedule
 
-### Week 1 - Crash course Neuro
+## Week 1 - Crash course Neuroscience
 
 Crash course Neuroscience. **Terms you need to know and vaguely understand** (at the very least, look each of them up, and read the corresponding article): neuron, spike, axon, synapse, excitation and inhibition, dendrite, neural coding (rate code, temporal code, population code), synaptic plasticity (Hebbian, STDP), intrinsic plasticity, receptive field, cortical map.
 
@@ -158,20 +156,40 @@ Optional extra materials:
 * U Texas free neuroscience textbook: https://nba.uth.tmc.edu/neuroscience/
 * Scholarpedia (it's like Wikipedia, but written by 100 or so professors, turning it into a sort of a free loosely connected textbook) on computational neuroscience: http://www.scholarpedia.org/article/Encyclopedia:Computational_neuroscience
 
-### Week 2 - Intros to Deep learning, and computational neuroscience
+### Class plan
+
+Neurons. Their shape (dendrites, axon). Why the shape. How they send messages (AP). 
+
+What decides if AP is happening (axon hillock).
+
+Types of neuronal coding. Representing network activation in models. Spike vs rate models. Input-output function for rate code.
+
+How do they connect? (synapses). What happens in the synapse? Is it just a faithful transmitter or activation, or does it shape the signal somehow? How?: sign (inhibition). Threshold. Temporal effects. Plasticity. What's plastic in the synapse?
+
+What is the role of inhibition? (math and normalization). Feedback inhibition - abstraction and effect. FF inhibition. Dale's rule.
+
+Are there any other types of plasticity? Intrinsic plasticity. Dendrites - do they do anything? Other types of neurotransmitters?
+
+Logic of synaptic plasticity. Hebbian rule. Reinforcement learning. STDP. Synaptic scaling.
+
+Architecture and connectivity (is it an all-to-all graph?) How many inputs, outputs on average? What governs connections? Developmental rules. Maps.
+
+If time: resonance and the idea of Hopfield networks.
+
+Typical receptive fields (vision as an example).
+
+## Week 2 - Introduction to Deep learning
 
 * Four videos from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
   They are about 1 h 10 min in total, but I really suggest that you **pause frequently**, and think about what's going on, as they are very dense with ideas, even if they sound smooth. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable!! But try to get to the bottom of it. How does it work? Why does it work like that?
 * An educational video on computer vision (6 min): https://www.youtube.com/watch?v=i8D90DkCLhI&t=0s
-
-* Intro to computational neuroscience, answering the topic of "What is a model?" (Video lecture by Gunnar Blohm, 27 min): https://www.youtube.com/watch?v=KxldhMR5PxA (this lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/ )
 
 Optional, catch-up, and advanced materials:
 
 * If you never studied, or forgot, how derivatives work, look through these videos: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 * If you want to better understand the matrix notation that he uses, look through these videos. In general, getting at least some idea about **linear algebra** would be **incredibly useful for this course**, and for your life in general. Many people believe that linear algebra is the most useful math one could possibly study in college (some people think that statistics is more important, but it's definitely one of the top two). The playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-### Week 3 - Intro to ML, take two
+## Week 3 - Intro to ML, take two
 
 The homework for this week is a **crash course in machine learning** from Google. Now, this is a course for managers, programmers, and other sorts of tech people, not for scientists, so it puts an emphasis on the practical, business use of deep learning, not the science aspect of it. But I think it's actually better. First, because the course is great, has all sorts of built-in quizzes, and an absolutely amazing "playground" that lets you play with an artificial neural network on your own computer without coding anything. And second, the field of deep learning has grown so much in last 6 years or so because of its business applications. That's what's driving it, that's what's funding it, and that's also where machine learning goes awry every now and then, resulting in all sorts of hot ethical discussions. So I think it is very valuable to dive into this slightly different world, motivation, and terminology, before going back to neuroscience later.
 
@@ -182,44 +200,59 @@ The homework for this week is a **crash course in machine learning** from Google
   * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
 * For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
 
-### Week 4 - Introduction to DL for biologists
+# Sketches
 
-🔴 Here be dragons. Everything beyond this point is uncharted.
+🔴 Here be dragons. Everything beyond this point is yet uncharted. Current ideas:
 
-Maybe something like:
+## Neuro roots of DL
 
-* then Zador 2019. Also briefly discuss regularization, and unsupervised vs supervised learning.
-* Then a convolutional network paper + a comparison with mammalian vision in the cortex (to get more experience with DL, learn about convnets, and get a parallel with Neuro)
-* then Richards 2019?
-* What about Kording? Do we do Kording? Before or after? 🟡
+Is it a separate week, or do we tuck it in the 2nd week?
 
-Some other introduction, supposedly for biologists. But is it even good?
+Some other introduction, supposedly for biologists. But is it even good? If it's not neuro-based, it's irrelevant, as we want to stress connections with neuro:
 
 * Kriegeskorte, N., & Golan, T. (2019). Neural network models and deep learning. Current Biology, 29(7), R231-R236.
   https://www.sciencedirect.com/science/article/pii/S0960982219302040
 
-### Week 5 - Neuro vs DL
+## DL❤️Neuro success story: convolutional networks
 
-???
+perhaps 2 papers: associated breakthrough, and parallels with Neuro
+
+## DL departing from Neuro
 
 Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
 
-### Week 6 - Convolution networks and vision in the cortex
+Dropout
 
-???
+?
 
-### Week 7 - DL as a model that can help Neuro
+## How Neuro is not like DL
+
+A bit older review?
+
+Gradient descent in the brain? (critique)
+
+Credit assignment?
+
+## Attempts of modern synthesis: DL as a model for Neuro
+
+* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA
+  * (this lecture comes from a cool open project called "Neuromatch academy"; for now I'm not necessarily assigning other videos from this project, but it's a cool project!): http://www.neuromatchacademy.org/syllabus/
+
+Papers:
 
 Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
 
-# Possibilities
+# Potentially Interesting papers to vet
+
+What about Kording? Do we do Kording? And if yes, when?
 
 Backpropagation and the brain
 Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
 https://www.nature.com/articles/s41583-020-0277-3
 (Opinion piece)
 
-# Hopes (tbc)
+# Hopes (Possible topics that don't have readings yet)
 
-* Should we extract some success stories of DL models helping Neuro from Richards 2019 and look at them more closely?
-* Transformers, and whether they resemble brain activation? During text processing? I'm pretty sure there were papers about that.
+* Extract other success stories of DL models helping Neuro from Richards 2019 and look at them more closely?
+* Replication of grid cells?
+* Transformers, and whether they resemble brain activation. During text processing? I'm pretty sure there were papers about that.
