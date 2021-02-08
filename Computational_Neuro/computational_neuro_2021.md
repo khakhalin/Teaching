@@ -125,14 +125,14 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 
 | **Week** | Topics / Papers                                              | Presenters |
 | -------- | ------------------------------------------------------------ | ---------- |
-| Feb 05   | Intro to neuro.                                              | none       |
-| Feb 12   | Conceptual Intro to deep learning                            | none       |
-| Feb 19   | Crash course in Machine learning from Google.                | none       |
+| Feb 05   | Intro to neuro                                               | none       |
+| Feb 12   | Theoretical Intro to deep learning                           | none       |
+| Feb 19   | Practical intro to machine learning from Google              | none       |
 | Feb 26   | Neuro-DL success story: convolutional networks and biological vision | 1          |
 | Mar 05   | How DL is not Neuro: problem of supervised learning; recent tricks | 2          |
 | Mar 12   | How Neuro is not DL: gradient descent in the brain; credit assignment problem | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
-| Mar 26   | Intertretability in DL and Neuro                             | 4          |
+| Mar 26   | Interpretability in DL and Neuro                             | 4          |
 | Apr 02   | Single neurons as Deep Networks                              | 5          |
 | Apr 09   | Vision and convnets revisited                                | 6          |
 | Apr 16   |                                                              | 7          |
@@ -182,11 +182,17 @@ Typical receptive fields (vision as an example).
 
 ## Week 2 - Introduction to Deep learning
 
+Videos:
+
+* Crash course machine learning (10 min): https://www.youtube.com/watch?v=z-EtmaFJieY
+  Note that deep learning is only one method of machine learning. So machine learning sets the stage of how people talk about these methods, and then the next set of videos, below, will actually explain you how machine learning works.
 * Four videos from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
   They are about 1 h 10 min in total, but I really suggest that you **pause frequently**, and think about what's going on, as they are very dense with ideas, even if they sound smooth. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable!! But try to get to the bottom of it. How does it work? Why does it work like that?
 * An educational video on computer vision (6 min): https://www.youtube.com/watch?v=i8D90DkCLhI&t=0s
+* Architectures of deep neural networks (9 min): https://www.youtube.com/watch?v=oJNHXPs0XDk
+  Pay attention to 1) how exactly deep networks are inspired by biological neurons, 2) convolutional neural networks described in the 2nd half of the video. We'll talk more about them in the future!
 
-Optional, catch-up, and advanced materials:
+Optional catch-up and advanced materials:
 
 * If you never studied, or forgot, how derivatives work, look through these videos: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 * If you want to better understand the matrix notation that he uses, look through these videos. In general, getting at least some idea about **linear algebra** would be **incredibly useful for this course**, and for your life in general. Many people believe that linear algebra is the most useful math one could possibly study in college (some people think that statistics is more important, but it's definitely one of the top two). The playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -202,16 +208,7 @@ The homework for this week is a **crash course in machine learning** from Google
   * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
 * For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
 
-# Below this point all plans are for now tentative
-
-## Neuro roots of DL
-
-Is it a separate week, or do we tuck it in the 2nd week?
-
-Some other introduction, supposedly for biologists. But is it even good? If it's not neuro-based, it's irrelevant, as we want to stress connections with neuro:
-
-* Kriegeskorte, N., & Golan, T. (2019). Neural network models and deep learning. Current Biology, 29(7), R231-R236.
-  https://www.sciencedirect.com/science/article/pii/S0960982219302040
+# Tentative plans for the rest of the semester
 
 ## DL❤️Neuro success story: convolutional networks
 

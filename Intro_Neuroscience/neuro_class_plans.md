@@ -2,9 +2,11 @@
 
 # Intro & Resting membrane potential
 
-**First class**: syllabus.
+### Session 1
 
-**Second class**
+syllabus + basic neuronal shape
+
+### Session 2
 
 Cell: what are DNA, RNA, proteins, lipids. What do these terms mean? What is the relationship between them? If you ever learned that, try to recall what you learned; if you never learned that, Google together as a team, and try to come up with a rough description of what's going on.
 
@@ -12,7 +14,7 @@ Cell: what are DNA, RNA, proteins, lipids. What do these terms mean? What is the
 
 More keywords (as a group, figure out what they mean): charge, ion, concentration, membrane, channel, potential.
 
-**Third class**
+### Session 3
 
 💡 Quiz: Parts of a neuron + what neuron
 
@@ -28,9 +30,19 @@ Pivoting to questions
 
 # Action potential and Pain
 
+### Session 1
+
 >  🟢 A side-comment: I sensed some confusion in some of the faces last time, as ... but we need to strike a balance between talking about lofty topics and some nuts-and bolts. As if we abandon the hard mechanistic science altogether, and jump to the philosophy of mind, or so, we will loose all rooting, and I won't be able to even hint at one certain things are true, or not true, or possible, or impossible. So we have to juggle these two aspects of the course - the "facts and their understanding" (like, how things work), with "what it all means", and "what the implications are".  We'll keep doing that! And if you have any feedback or concerns at any point, please reach out and let me know!
->
->  🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer haha!
+
+Assignment about the permeable membrane (KCl on one side, NaCl on the other...)
+
+Live drawing on the whiteboard of where K wants to go (as an answer for Quiz 1).
+
+Quiz about ions
+
+### Session 2
+
+>  🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it. A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer. A warning side is however a warning that questions like that won't count in the future. You don't need to write a lot, but you need to write well enough for me to understand you.
 
 Follow-ups on water video (start with questions that were asked): 
 
@@ -42,7 +54,28 @@ Follow-ups on water video (start with questions that were asked):
 >
 > Or, that an ability to change one's mind is a sign of strength. A sound process of discovering the truth should have a strong built-in mechanism for changing one's mind. Like reversals on salty food in nutrition science. Or don't even get me started on fat and sugar.
 
+### AP lab
+
+https://ilearn.med.monash.edu.au/physiology/action-potentials
+
+It has several sub-labs (click through the menu on top, then pick "Simulation"):
+
+1. **Action potential** - find minimal current that evokes an action potential. Why is there a minimal current? (If no good answer, ask them to think about it at home, as we'll talk about it in class)
+2. Refractory period - perhaps skip (this topic seems to be simple for students)
+3. **Stimulus strength** - how does the number of spikes change, as the current injected into the neuron increases? (It increases) Can we say something else? How does is increase, how does it grow? As we keep increasing the current, how does the number of APs change? (it starts to slow down) Why? (Refractory period, the lab that we skipped)
+4. **Adaptation** - just try it, and try go guess, what the word "Adaptation" mean?  What could be the mechanism? Now, is it because neurons are weak? Or could it actually be useful one way or another?
+
+### Session 3
+
+Quiz about AP
+
+How does tetrodotoxin work? Can it be used for analgesia? To block pain, say, during surgeries or something? (No, but why?)
+
+What can we infer from the fact that some people don't feel pain, but have all other tactile senses (touch, heat, etc.) What does it mean? What can we guess from this fact, in terms of how our bodies are "constructed"?
+
 Why pain exists? What does it signal?
+
+Why different people have different pain thresholds? Does pain threshold change in a human (in you) during your normal day-to-day activities? What may change it?
 
 How do we know if some entity feels pain? Let's consider the following options:
 
@@ -332,19 +365,11 @@ Cortex:
   * ask them to list what they heard, but also sort it into 3 buckets: seems right; probably an exaggeration; probably a myth (5 min)
   * debrief
 
-![image-20201123152104092](../../AppData/Roaming/Typora/typora-user-images/image-20201123152104092.png)
-
-![image-20201123171222624](../../AppData/Roaming/Typora/typora-user-images/image-20201123171222624.png)
-
 # Language
 
 1. How is Wernicke's aphasia different from Broca's?
 2. Where are the Wernicke's and Broca's areas in the brain?
 3. Can we see any logic in where they are located, that could help us to remember their role?
-
-![image-20201130145024071](../../AppData/Roaming/Typora/typora-user-images/image-20201130145024071.png)
-
-![image-20201130182811287](../../AppData/Roaming/Typora/typora-user-images/image-20201130182811287.png)
 
 What have you ever heard about the differences between the left and right hemispheres, and what's your opinion about these statements? (Which sound like true, and which ones are fishy?)
 
@@ -352,14 +377,8 @@ What have you ever heard about the differences between the left and right hemisp
 
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
 
-# Emergency assignment
+# Intro Musics
 
-To get a pass:
+Used: Forro, JPP, Yulduz
 
-1. Send me 5 topics **that you really care about**. We'll try to find a narrow topic at the intersection between these interests of yours, and Neuroscience
-2. I'll pick one of those 5, adjust it a little bit, and send it back to you. It will become a topic of your work.
-3. You'll need to go on Google Scholar and find 4 papers: 2 reviews, and 2 primary papers, on this topic.
-4. Read them carefully.
-5. Then, write a short essay (4-5 pages max, normal-spaced. So about 2000 words), informal, describing what you learned from these papers, how it relates to your interests, and what it could mean. Don't just summarize the papers (boring!). Write a bit about them, of course, but also make sure to mention why this topic matters to you, and how what you learned relates to the bigger picture.
-6. Make sure to reference all 4 papers in the "References" section at the very end. (In Google Scholar, search for the article, click on the " ❞ " symbol under the search result, and copy the citation.)
-7. The deadline for this assignment would be the end of completion week
+Future: vietnam, ethiopian, peruvean, Hungarian roma-influenced, Thai, Armenian

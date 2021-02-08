@@ -106,7 +106,7 @@ The most regular and predictable assignment for this course will be a **weekly r
 2. Try to answer some of them yourself. Google if necessary.
 3. Once you've done the work, or if you're stuck, post the top 1 or 2 remaining questions on Piazza. We'll try to tackle them in class.
 
-Note that if a question is too vague or too surface-level, it won't count. (If you haven't done the work, it will be obvious). Also, if a question can be answered with a two-seconds Google Search, it won't count as well. If you submit a "bad question" for the first time, I will warn you, but after that, I won't count them. Please post something that you are honestly interested in, and would like to discuss in class, and please provide some background to both show that you did the work, and to help me understand what you mean.
+Note that if a question is too vague or too surface-level, it won't count. (If you haven't done the work, it will be obvious). Also, if a question can be answered with a two-seconds Google Search, it won't count as well. If you submit a "bad question" for the first time, I will warn you (with a warning sign ⚠️), but after that, I won't count them. Please post something that you are honestly interested in, and would like to discuss in class, and please provide some background to both show that you did the work, and to help me understand what you mean.
 
 For example:
 
@@ -114,13 +114,15 @@ For example:
 * Why can angels fly? - Fail, too vague.  I have no idea why you are surprised.
 * Can angels really fly? They are quite large, and their wings are also huge, but we don't have birds of this size on Earth, and also, where would the muscles that move these wings go? I mean, both aerodynamically and biomechanically, can they really fly? And if not, can they glide at least? - That's a win, as the person clearly did some homework, thought about it, and shared enough of their reasoning for me to understand their question.
 
+Really fortunate questions will be marked with 💎 or 🔥. There's a bit of lottery to it, as there's no way to predict which honest question is actually a treasure trove, which ones are routine, and for which ones we don't have answers yet... But I think it's still nice to mark questions that open interesting doors, you know?
+
 # Grading
 
 This course is graded using a “**Specification Grading**” system, which was shown to work better than the standard “Point-based” system, both in terms of final results (students learn more), and student experiences (students are more happy). The gist here is that each letter grade comes with a certain criteria, and it is up to you to pick the level that you want to achieve.
 
 To get a **C:** 
 
-* Participate in 80% of classes
+* Participate (attend, and be engaged) in 80% of classes
 * Submit 80% of assignments (reading reflections, labs, short exercises etc.) on time. The submissions don’t have to be perfect, but they need to be reasonable (present some evidence of work). If a submission is problematic, I’ll let you know, so that you could improve next time.
 
 To get a **B:**
@@ -131,6 +133,8 @@ To get a **B:**
 To get an **A:**
 
 * **On top of everything specified in “B”**, write a good final essay about some neuroscience research. See the detailed instructions at the end of this document. For "borderline cases", we may also have 1:1 "paper presentation sessions" during completion week.
+
+A grade of "C" cannot be replaced with a "Pass"; please don't ask me about that; I will have to refuse. A grade of "B" or higher can be replaced with a "Pass" at any moment, including after the final grade is announced. (I'll tell you your current final grade before submitting it to BIP). If a "B" or a "B plus" lowers your GPA, you'll have an opportunity to replace it with a "Pass", no questions asked.
 
 ## Attendance and tardiness
 

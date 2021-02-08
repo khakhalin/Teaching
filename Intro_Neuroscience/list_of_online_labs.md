@@ -26,6 +26,12 @@ Post a screenshot of your cube once it is completed.
 
 ## Action potential simulators
 
+### Simple spiking neuron simulator
+
+https://ilearn.med.monash.edu.au/physiology/action-potentials
+
+It has several sub-labs (click through the menu on top, then pick "Simulation").
+
 ### Phet 
 
 Ionic channels simulation: 
@@ -35,7 +41,6 @@ Action potential simulation:
 https://phet.colorado.edu/en/simulation/neuron
 
 I never quite used these simulations in practice, but they seem quite nice, and have guides for teachers. And by the way, there are lots of other simulations on the PHET web-site in the biology category; may be worth looking through them!
-
 https://phet.colorado.edu/en/simulations/category/biology
 
 ### Meta-neuron
