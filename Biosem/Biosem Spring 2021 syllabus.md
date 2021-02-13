@@ -24,7 +24,7 @@ We'll be using:
 
 * **Slack** to communicate about the course, share files, etc. I'll send you an invite by email.
 * **Google forms** to collect your responses to assigned reading before each meeting.
-* **Zoom webinars** for actual meetings. I'll send you the link by email + it will be posted on Slack.
+* **Zoom meetings/webinars** for actual meetings. The links will be shared on Slack.
 * **Email** for emergency notifications, or personal questions.
 
 Before classes even start, make sure to:
@@ -38,7 +38,7 @@ Before classes even start, make sure to:
 
 1. About a week before the seminar, the speaker will **share a paper with us**. Something to read, to get prepared.
 2. I'll create a **Slack channel** for each week, on our Slack server, and post this reading there. I'll also post some info about the speaker, so that we could think of what we want to ask them!
-3. I will also post a l**ink to a one-question google form**. To a get a credit for this session (to show that you did the reading and thought about it), please submit a reasonable honest question that you had after reading the materials. Please make sure to do it before **midnight previous day**, so that I could look through your questions in the morning before the seminar.
+3. I will also post a l**ink to a one-question google form**. To a get a credit for this session (to show that you did the reading and thought about it), please submit a reasonable honest question that you had after reading the materials. Please make sure to do it before **midnight the previous day**, so that I could look through your questions in the morning before the seminar.
 4. During the webinar, after the short 20-min talk, **please ask questions!** You'll have 2 ways to ask questions:
    * Best approach: ask a question "in-person", with your own voice. Do to so, "**raise a hand**" on Zoom (there's a button for it); I will see it, and will **temporarily promote you to a "Question asker"**. If you updated Zoom since Summer 2020, **your camera won't turn on** (and in fact you won't be able to turn your camera on even if you wanted to haha). Once you're done asking your question, I'll make you a "normal participant once again." That's the best approach, as it will make our speakers happy. It will look human!
    * But if you are shy, you can also ask a question anonymously in the Q&A session. And I will read it for you :)
@@ -52,20 +52,20 @@ In practice, 80% of 13 seminars = 10, which means that you can miss up to 3 talk
 
 ## Schedule (in process)
 
-| Date   | Guest                                            | Topic                           |
-| ------ | ------------------------------------------------ | ------------------------------- |
-| Feb 04 | Intro, syllabus, testing everything              |                                 |
-| Feb 11 | Last semester sprojes : Audrey Russel, Isa Jones |                                 |
-| Feb 18 | Tom Cech (Nobel Laureate!!!)                     | Catalytic RNA                   |
-| Feb 25 | Molly McQuillan (alum, PhD student at Brown)     | Neuroscience                    |
-| Mar 04 | Min Kyung Shinn (alum, postdoc at WUSTL)         | Protein interactions            |
-| Mar 11 | *Respite day, no seminar*                        |                                 |
-| Mar 18 | Caroline Bartman (postdoc at Princeton)          | Whole-body metabolism in cancer |
-| Mar 25 | Shailab Shrestha (alum, PhD student at Tufts)    | Spore formation in C defficile  |
-| Apr 01 |                                                  |                                 |
-| Apr 08 |                                                  |                                 |
-| Apr 15 |                                                  |                                 |
-| Apr 22 |                                                  |                                 |
-| Apr 29 | Liz Miller (alum, PhD student at U Hawaii)       | Oceanology, marine biology      |
-| May 06 | *Advising week, no seminar*                      |                                 |
-| May 13 | 2020/2021 sprojjers (names tbc)                  |                                 |
+| Date   | Guest                                              | Topic                           |
+| ------ | -------------------------------------------------- | ------------------------------- |
+| Feb 04 | Intro, syllabus, testing everything                |                                 |
+| Feb 11 | Audrey Russel, Isa Jones                           | Sprojes from 2020               |
+| Feb 18 | Tom Cech (Nobel Laureate!!!)                       | Catalytic RNA                   |
+| Feb 25 | Molly McQuillan (alum, PhD student at Brown)       | Neuroscience                    |
+| Mar 04 | Min Kyung Shinn (alum, postdoc at WUSTL)           | Protein interactions            |
+| Mar 11 | *Respite day, no seminar*                          |                                 |
+| Mar 18 | Caroline Bartman (postdoc at Princeton)            | Whole-body metabolism in cancer |
+| Mar 25 | Shailab Shrestha (alum, PhD student at Tufts)      | Spore formation in C defficile  |
+| Apr 01 | Marta Shocket (postdoc at UCLA, alum, CitSci prof) | Ecology of disease, crustaceans |
+| Apr 08 |                                                    |                                 |
+| Apr 15 |                                                    |                                 |
+| Apr 22 |                                                    |                                 |
+| Apr 29 | Liz Miller (alum, PhD student at U Hawaii)         | Oceanology, marine biology      |
+| May 06 | *Advising week, no seminar*                        |                                 |
+| May 13 | 2020/2021 sprojers (names tbc)                     |                                 |

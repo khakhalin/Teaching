@@ -48,6 +48,9 @@ Follow-ups on water video (start with questions that were asked):
 
 * so, summarize the problem here? Why too much water is dangerous?
 * why are people in the States are obsessed with hydration? Where did it come from?
+* Can you trust a scientific field that was wrong once?
+* How can a scientific field become "mistaken"? Where untrue statements are coming from?
+* Which areas of science are the safest, in terms of pseudoscience? Which areas of science are the most infested with lies?
 * But then, how can an "ordinary person" from the street figure out what is true, and what is not? The claims by Gatorade and co sound so sciency, "electrolytes", and what not. Potassium! Ions! Real world is not usually about "Science vs superstition", it's about two sets of claims that can appropriate each others lingo, but that disagree. How to figure out who is right?
 
 > Among possible answers: Do you know how they call an alternative medicine that works? Medicine.
@@ -60,32 +63,31 @@ https://ilearn.med.monash.edu.au/physiology/action-potentials
 
 It has several sub-labs (click through the menu on top, then pick "Simulation"):
 
-1. **Action potential** - find minimal current that evokes an action potential. Why is there a minimal current? (If no good answer, ask them to think about it at home, as we'll talk about it in class)
+1. **Action potential** - find minimal current that evokes an action potential. Why is there a minimal current? 
+   * *If no good answer, ask them to think about it at home, as we'll talk about it in class*
 2. Refractory period - perhaps skip (this topic seems to be simple for students)
-3. **Stimulus strength** - how does the number of spikes change, as the current injected into the neuron increases? (It increases) Can we say something else? How does is increase, how does it grow? As we keep increasing the current, how does the number of APs change? (it starts to slow down) Why? (Refractory period, the lab that we skipped)
+3. **Stimulus strength** - how does the number of spikes change, as the current injected into the neuron increases? Can we say something else? How does is change, what would be the shape of this curve if you were to plot it? As we keep increasing the current, how does the number of APs change? Why? 
 4. **Adaptation** - just try it, and try go guess, what the word "Adaptation" mean?  What could be the mechanism? Now, is it because neurons are weak? Or could it actually be useful one way or another?
 
 ### Session 3
 
 Quiz about AP
 
+💎 Why pain exists? What does it signal?
+
+Do these thingies feel pain? How do you know?
+
+* Your roommate
+* A stone
+* Candleflame
+* A dog
+* A horsefly
+* An autonomous robotic mobile garbage collector.
+* Those blue blobby things that live on a purple planet, with some crystals inside, tiny tubes, feeding on star radiation or whatnot? They move around and build primitive starships when we first discover them.
+
 How does tetrodotoxin work? Can it be used for analgesia? To block pain, say, during surgeries or something? (No, but why?)
 
 What can we infer from the fact that some people don't feel pain, but have all other tactile senses (touch, heat, etc.) What does it mean? What can we guess from this fact, in terms of how our bodies are "constructed"?
-
-Why pain exists? What does it signal?
-
-Why different people have different pain thresholds? Does pain threshold change in a human (in you) during your normal day-to-day activities? What may change it?
-
-How do we know if some entity feels pain? Let's consider the following options:
-
-* Your roommate
-* A candleflame
-* An autonomous robotic mobile garbage collector.
-* In the future, those blobby things that live on a purple planet and move around, having some crystals inside, tiny tubes, feeding on star radiation or whatnot? The most general case. Something moves, behaves. How to tell if it feels pain? Is there a way to tell? (If they say no, wat about roommate and candleflame?)
-* Fish?
-* Cockroach?
-* Dog?
 
 Is the quality of pain experienced by a cockroach and a dog similar or different? Who is more in pain? Why?
 
@@ -99,11 +101,17 @@ Back to robotic collector. So can robots feel pain?
 
 * What about human babies? (Babies are slightly different, as we give them a cart-blanche for being humans)
 
-Now, guess how ethical research in animals works. What we can do, what we cannot do, which things are a "gray zone" and need to be argued and justified? Which things are "more OK", which things are "less OK"?
+🔥 Now, guess how ethical research in animals works. What we can do, what we cannot do, which things are a "gray zone" and need to be argued and justified? Which things are "more OK", which things are "less OK"?
 
 So, can we formulate a maxim of some chief principles that guide ethical research in animals?
 
+Why different people have different pain thresholds? Does pain threshold change in a human (in you) during your normal day-to-day activities? What may change it?
+
 Say, you want to record from a brain of a live pigeon, using electrodes. I'll give you a hint: there are 3 ways to do it that are considered "OK"; any other option is not "OK". Guess these three options that you have?
+
+# Synapse, Terminology, Free Will
+
+
 
 # Ethology
 
@@ -379,6 +387,6 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz
+Used: Forro, JPP, Yulduz, vietnam
 
-Future: vietnam, ethiopian, peruvean, Hungarian roma-influenced, Thai, Armenian
+Future: Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Gamelan, Hungarian roma-influenced, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab

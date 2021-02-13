@@ -188,14 +188,63 @@ Videos:
   Note that deep learning is only one method of machine learning. So machine learning sets the stage of how people talk about these methods, and then the next set of videos, below, will actually explain you how machine learning works.
 * Four videos from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
   They are about 1 h 10 min in total, but I really suggest that you **pause frequently**, and think about what's going on, as they are very dense with ideas, even if they sound smooth. Don't be fooled by how smooth they look and how logical everything seems. If you just go with "Eh, sounds reasonable" you won't learn anything. OF COURSE it sounds reasonable!! But try to get to the bottom of it. How does it work? Why does it work like that?
-* An educational video on computer vision (6 min): https://www.youtube.com/watch?v=i8D90DkCLhI&t=0s
 * Architectures of deep neural networks (9 min): https://www.youtube.com/watch?v=oJNHXPs0XDk
   Pay attention to 1) how exactly deep networks are inspired by biological neurons, 2) convolutional neural networks described in the 2nd half of the video. We'll talk more about them in the future!
+* A series of 15 educational videos on computer vision, about 5 min each. Watch at least the first few; but ideally, all of them. They are quite entertaining, introduce lots of useful terms, concepts, and also some history: https://www.youtube.com/watch?v=i8D90DkCLhI&t=0s
 
 Optional catch-up and advanced materials:
 
 * If you never studied, or forgot, how derivatives work, look through these videos: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 * If you want to better understand the matrix notation that he uses, look through these videos. In general, getting at least some idea about **linear algebra** would be **incredibly useful for this course**, and for your life in general. Many people believe that linear algebra is the most useful math one could possibly study in college (some people think that statistics is more important, but it's definitely one of the top two). The playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### Class plan
+
+Activation (of each neuron).
+
+Activation function (which ones are common? which ones are more popular?).
+
+Matrix notation: how does matrix multiplication work mechanistically, and how to think of it (the idea of operators. E.g. how would a rotation operator look like?)
+
+Loss function. How to define them? For a classifier? For a predictor (say, if we want to guess how some signal will behave in the future? Or fix broken audio? Or interpolate between the frames?)
+
+How to find weights of a deep network in practice?
+
+* How to think about it?
+* How does it happen mechanistically?  What's backpropagation?
+* Stochastic Gradient Descent
+  * What is gradient?
+  * Why the word "stochastic" is here?
+* If ANNs are like brains, then does SGD exist in the brain?
+
+How to understand what each of the units (neurons) in the middle of the network does? (brainstorm?)
+
+* Does it resemble any concepts from neuroscience? (If you studied neuroscience, that is...)
+
+For the MNIST (digits) example, the video shows that the "preferred" patterns for each neuron in the 1st layer are nonsensical (look nothing like what a human would expect). 
+
+* Do you think this network will generalize well, on digits met  "in the wild"? Say, on a random photo made by your phone? What problems would you expect?
+* Can we modify *the data* somehow, to force the network to learn something more generalizable, and also more interpretable?
+  * (The idea of data augmentation)
+* Or, alternatively, how can we *change the network* to make it learn something more reasonable?
+  * Convnets, or CNNs. Does it make the task of training easier or harder? (How does the number of parameters change?)
+
+Autoencoders. What are they?
+
+What class of functions is available with:
+
+* 1 input, 1 output, and 1 ReLu unit y=f(ax+b). 
+* 2 units: x→relu→linear? 
+* What if we make it wider: x→2 relu→linear?
+* Can we make a step? (2 solutions I think)
+* What would we need if we wanted a 2-step teracce? (0 until x0, then 1 until x1, then 2 until inf)
+* What would we need it we wanted to output 1 for a band (x1, x2),  and 0 outside of it? (2 solutions I think)
+* Let's now consider a 2D case: x,y → z. What do we get with a single linear unit?
+* Combining these 2 pieces of info, what will we get from x,y → 2 relu → linear → z?
+* Mentally extrapolate to wide and deep?
+
+Confusion matrix. Precision and recall. Accuracy.
+
+What is one potential problem with ReLUs, compared to, say, sigmoids, or leakyReLUs? What an happen to a ReLU neuron that will screw it over?
 
 ## Week 3 - Intro to ML, take two
 

@@ -65,31 +65,38 @@ Advanced:
 
 # Excitatory synapse. Connectomics. Escape in shrimp. Free will
 
-Videos:
+This week we need to learn about two very different questions, and think about one more:
+
+1. How exactly are neurons connected to each other? Does the action potential just "jump" from one neuron to another, or is it something different?
+2. Is it important which neurons are connected to which ones, or is it a random "free-for-all" everything to everything? Does the geometry of these connections matter? How can it support (produce) meaningful behaviors?
+3. How do we feel about it, in terms of free will? Not necessarily at a deep philosophical level, but in terms of our intuitions? If a bunch of neurons are connected into a network, and it helps an animal to make decisions and behave in a certain way, what do we secretly expect, for it to register as "free will" for us?
+
+Required readings:
+
+* Skim through the "Overview" section of Wikipedia article about chemical synapses: https://en.wikipedia.org/wiki/Chemical_synapse 
+
+* [“How to spy”](https://drive.google.com/open?id=1P7eyJ5vGVxEBou2Zo2JT3fTDIeiCpC5u) and [“Neuronal](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx)[ dictatorships”](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx) : two short chapters from “Governing Behavior” by Ari Berkowitz
+* This press-release about Björn Brembs' work: https://www.nbcnews.com/id/wbna18684016
+  - Optional advanced: the research paper that this press-release describes; for those who want to learn more: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000443
+
+Required videos:
 
 * My lectures:
-  * Synaptic transmission (1 hour): https://www.youtube.com/watch?v=ba1rzQfWw4U
+  * Synaptic transmission and connectomics (1 hour): https://www.youtube.com/watch?v=ba1rzQfWw4U
   * Terminology (45 min): https://www.youtube.com/watch?v=-V8oW4jty5Q
 
 - https://www.youtube.com/watch?v=48PTtLPQHIU - Crayfish escape, slow-mo
 - https://www.youtube.com/watch?v=JtuGrRrUwxA - Another crayfish slow-mo
 
-Readings:
-
-Internal:
-
-* [“How to spy”](https://drive.google.com/open?id=1P7eyJ5vGVxEBou2Zo2JT3fTDIeiCpC5u) and [“Neuronal](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx)[ dictatorships”](https://drive.google.com/open?id=1SDAQGutK2_Fk3XY8czBt5zEiD68rIkZx) chapters from “Governing Behavior” by Ari Berkowitz
-
-Open:
+Optional, on zombies:
 
 - Gal, R., & Libersat, F. (2010). On predatory wasps and zombie cockroaches: Investigations of free will and spontaneous behavior in insects. Communicative & integrative biology, 3(5), 458-461. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974080/
-- A press-release about Björn Bremb's work: https://www.nbcnews.com/id/wbna18684016
-  * Optional advanced: the research paper for those who want to learn more: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000443
 
-Advanced
+Optional, textbook:
 
 - NMJ: https://nba.uth.tmc.edu/neuroscience/s1/chapter04.html
 - Mechanism of neutransmitter release: https://nba.uth.tmc.edu/neuroscience/s1/chapter05.html
+- Synaptic transmission in the brain (especially the 2nd half, about the difference between electrical and chemical synapses): https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
 
 Maybe:
 
@@ -100,6 +107,8 @@ Lab:
 * Eyewire virtual lab
   Description: https://blog.eyewire.org/about/ 
   Login: https://eyewire.org/signup (create an account, login, go through the tutorial, analyze at least one real cube, post your result)
+
+As usual, once you have read the materials, and watched all the videos, as a follow-up to this post (below, in the "follow-up" section), submit a **good honest question** you have about these topics. Something that you did not quite completely understand yet, but that you thought was interesting, and that you would honestly like to potentially discuss in class. 2-3 sentences would do (but feel free to write 5-6 sentences if it helps to explain your point!)
 
 # Ethology. Inhibition. Integration
 
