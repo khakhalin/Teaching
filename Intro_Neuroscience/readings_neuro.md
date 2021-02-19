@@ -112,27 +112,31 @@ As usual, once you have read the materials, and watched all the videos, as a fol
 
 # Ethology. Inhibition. Integration
 
-Videos: 
+Dears, here's the homework for next week. Note that I post readings first, and lectures later, as I figured this sequence actually makes more sense. Read (or at least look through) the materials; get the terminology, and some main idea, but perhaps get a bit confused about the technical side of it, then watch the lectures; hopefully get it "click"...
 
-* Neuroethology (50 min). This is the first edited lecture (with pauses trimmed out), so perhaps watch it at a normal speed, or at least pause often. It's lots of information, and new concepts, that you need to think about, even when it feels like everything makes sense: https://www.youtube.com/watch?v=Ls9hVr7sbX0
-* Synaptic integration (1h 10 min): https://www.youtube.com/watch?v=8okgr1EsPco
-
-Note that we have two very different topics this week:
+Readings (note that we have two very different topics this week):
 
 - Wikipedia article about Ethology: https://en.wikipedia.org/wiki/Ethology
 - Wikipedia article about Neuroethology: https://en.wikipedia.org/wiki/Neuroethology
-  Make sure to look through the list of model systems below. Figure out what was studied in each of these systems. Try to understand why this question (of all possible questions) was asked in this animal, and why this animal (of all possible animals) was used to answer this question?
+  Make sure to look through the list of model systems at the bottom of this page. Figure out what was studied in each of these systems. Try to understand why this question (of all possible questions) was asked in this animal, and why this animal (of all possible animals) was used to answer this question?
 - Synaptic transmission in the CNS: chapter 6: https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
 
-Book chapters (shared on Google Drive):
+- [Curious Behaviors, by Provine - a chapter about sneezing](https://drive.google.com/open?id=1yw_tUCYVnfLC5wrxTAXwfSSBs8izDJiC) - chapter shared on Google Drive
 
-- [Animal Behavior by Scott, Chapter 1](https://drive.google.com/open?id=1bFO0KdDtnB99Fn9Im9I-YBxcB-4rCbZ0)
-- [Curious Behaviors, by Provine - a chapter about sneezing](https://drive.google.com/open?id=1yw_tUCYVnfLC5wrxTAXwfSSBs8izDJiC)
+Video lectures: 
+
+* Neuroethology (50 min). This is the first edited lecture (with pauses trimmed out), so perhaps watch it at a normal speed? Or at least pause often. It's lots of information, and new concepts, so you need to stop and think about it every now and then, even if it feels like what I'm saying makes some sense: https://www.youtube.com/watch?v=Ls9hVr7sbX0
+* Synaptic integration (1h 10 min): https://www.youtube.com/watch?v=8okgr1EsPco
 
 Advanced, optional:
 
 - On dendritic computations: Hidden Computational Power Found in the Arms of Neurons. Jordana Cepelewicz. Jan 14 2020.
   https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
+- [Animal Behavior by Scott, Chapter 1](https://drive.google.com/open?id=1bFO0KdDtnB99Fn9Im9I-YBxcB-4rCbZ0)  - chapter shared on Google Drive
+
+As usual, once you have read the texts, and watched the videos, post below, in the thread, a good honest questions about something you would actually want to understand (and/or discuss in class), about any of these topics. If the question feels vague, or hard to formulate, please give me 1-2 sentences of background info, so that I could follow your logic :)
+
+### Labs
 
 Venus fly trap lab
 

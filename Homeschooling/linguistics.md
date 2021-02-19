@@ -35,6 +35,8 @@ The logic of loanword pronunciation (tlf): https://www.youtube.com/watch?v=0h-gb
 
 Language pet peeves: https://www.youtube.com/watch?v=JTslqcXsFd4
 
+Baltimore accent (a bit of a skit, but cool): https://www.youtube.com/watch?v=Oj7a-p4psRA
+
 
 
 The myth of the native speaker (with David Crystal): https://www.youtube.com/watch?v=p-kZLP2FWUI

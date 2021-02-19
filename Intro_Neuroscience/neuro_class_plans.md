@@ -57,6 +57,8 @@ Follow-ups on water video (start with questions that were asked):
 >
 > Or, that an ability to change one's mind is a sign of strength. A sound process of discovering the truth should have a strong built-in mechanism for changing one's mind. Like reversals on salty food in nutrition science. Or don't even get me started on fat and sugar.
 
+Quiz about AP
+
 ### AP lab
 
 https://ilearn.med.monash.edu.au/physiology/action-potentials
@@ -64,18 +66,15 @@ https://ilearn.med.monash.edu.au/physiology/action-potentials
 It has several sub-labs (click through the menu on top, then pick "Simulation"):
 
 1. **Action potential** - find minimal current that evokes an action potential. Why is there a minimal current? 
-   * *If no good answer, ask them to think about it at home, as we'll talk about it in class*
 2. Refractory period - perhaps skip (this topic seems to be simple for students)
 3. **Stimulus strength** - how does the number of spikes change, as the current injected into the neuron increases? Can we say something else? How does is change, what would be the shape of this curve if you were to plot it? As we keep increasing the current, how does the number of APs change? Why? 
 4. **Adaptation** - just try it, and try go guess, what the word "Adaptation" mean?  What could be the mechanism? Now, is it because neurons are weak? Or could it actually be useful one way or another?
 
-### Session 3
-
-Quiz about AP
+### Session 3 - Pain
 
 💎 Why pain exists? What does it signal?
 
-Do these thingies feel pain? How do you know?
+Do these entities feel pain? How do you know?
 
 * Your roommate
 * A stone
@@ -83,27 +82,28 @@ Do these thingies feel pain? How do you know?
 * A dog
 * A horsefly
 * An autonomous robotic mobile garbage collector.
-* Those blue blobby things that live on a purple planet, with some crystals inside, tiny tubes, feeding on star radiation or whatnot? They move around and build primitive starships when we first discover them.
-
-How does tetrodotoxin work? Can it be used for analgesia? To block pain, say, during surgeries or something? (No, but why?)
-
-What can we infer from the fact that some people don't feel pain, but have all other tactile senses (touch, heat, etc.) What does it mean? What can we guess from this fact, in terms of how our bodies are "constructed"?
+* Those blue blobby things that live on a purple planet, with some crystals inside, tiny tubes, feeding on starlight or whatnot? They move around and build primitive starships when we first discover them.
 
 Is the quality of pain experienced by a cockroach and a dog similar or different? Who is more in pain? Why?
 
 If you have two animal species, one that lives 30 years and can heal, and another one that lives for a week, lays eggs, and dies; would you expect the "evolutionary optimal" responses to pain in these species to be similar? Why?
 
-(Examples with autotomy, octopuses.)
+> Examples with autotomy, octopuses.
 
-Two definitions of pain (noniception, peception)
+Two definitions of pain:
 
-Back to robotic collector. So can robots feel pain?
+1. noniception (reporting of damage), 
+2. processing and changes in behavior (that to us often "registers" as subjective perception, related to emotions)
 
-* What about human babies? (Babies are slightly different, as we give them a cart-blanche for being humans)
+🔥 Now, guess how ethical research in animals works. What we can do, what we cannot do, which things are a "gray zone" and need to be argued and justified? Which things are "more OK", which things are "less OK"? Can we formulate a maxim of some chief principles to guide ethical research in animals? (We assume that some research is important, as we want to help humans who have diseases and traumas)
 
-🔥 Now, guess how ethical research in animals works. What we can do, what we cannot do, which things are a "gray zone" and need to be argued and justified? Which things are "more OK", which things are "less OK"?
+So, with this in mind, can autonomous robots feel pain?
 
-So, can we formulate a maxim of some chief principles that guide ethical research in animals?
+* Tangent: What about human babies? (Long controversial history here that you can look up. But babies are slightly different, as we give them a cart-blanche for being humans)
+
+How does tetrodotoxin work? Can it be used for analgesia; to block pain during surgeries or something? Why?
+
+What can we infer from the fact that some people don't feel pain, but have all other tactile senses (touch, heat, etc.) What does it mean? What can we guess from this fact, in terms of how our bodies are "constructed"?
 
 Why different people have different pain thresholds? Does pain threshold change in a human (in you) during your normal day-to-day activities? What may change it?
 
@@ -111,9 +111,78 @@ Say, you want to record from a brain of a live pigeon, using electrodes. I'll gi
 
 # Synapse, Terminology, Free Will
 
+### Pep talk
 
+> Hey people, so I'd like to start with some general remarks. Thank for to everyone who voted in the poll about the state of the course! As you may have noticed, there's a bit of bimodal distribution with two peaks; many people seem to like the course, but many people feel a bit confused. Now in 2-3 weeks I can run another poll, and see how the level of confusion changed :)
+>
+> But that said, I framed the poll as if being confused about something is the opposite of liking something, but of course it doesn't actually apply to learning. In general, being confused is fine. Like, look, *of course* if you never really read and thought about ions or lipids or what not before, of course it will be confusing! It's like a whole new world. It's like as if I told you your first sentence in Hungarian, or started talking about the differences between the black hats and yellow hats schools of Lamaism. Of course it's confusing! You never heard about it before! It's normal! The question is what do we do with it. Do we figure things out? Or do we give up?
+>
+> And because this course is optional, and passing it depends on your interest and honest work, and not on meeting some arbitrary proficiency criteria, all I ask from you is essentially some goodwill. Some interest, and enthusiasm. Some optimism. If you remember, I even sent you this letter back in December, trying to make you commit to trying things out! If you want to understand something, please help me to hep you! If you don't get something, if you are confused, ask questions! Come to office hours! Post questions on Piazza! Ask follow-ups! Engage with these topics!
+>
+> And I thought I grew out of it, but it looks like I totally keep overreacting and taking it unnecessarily personally when people tell me that they watched my lecture several times and didn't understand anything at all, but then *don't ask any questions about the topics of the lecture*. Like, this just makes my brain short-circuit. If you don't want to deal some particular topic, by all means skip it, concentrate on something else. But please, don't spread this negativity around, this passive attitude of "I didn't get it, but I'm not gonna ask questions about it, I'll just gonna be bitter", you know? It's not helpful, to you, and to others, and it's not kind to your peers. I accepted everyone who applied for this course, instead of only accepting graduating seniors, as the administration requested, because I thought it's an online course, so it may be my only chance to get in all people who are actually enthusiastic, and want to think about the weirdness of this world in safety, without the pressure of a grade. And the majority of people, if I look through the questions that you post, and if I look at your faces on Zoom, are really great, and enthusiastic, and are obviously treating these topics the same way as I hoped you would: as a confusing weird world of cells and neurotransmitters and spikes and what not! In which you are dropped, as it happens in the beginning of a fantasy book, you know? Where for the first few chapters you don't even know for sure whether these guys are human or not, and whether there's magic, and whether dragons exist in this world, and like who the heck is Yennifer. But gradually we figure things out. *That's* the spirit I hope to have here!
+>
+> And don't get me wrong; I'm not saying that you should just read the textbook and stay happy all the time. Please speak up, please ask questions! I'm always grateful for feedback, and I'm always trying to improve! But please make a few steps in my direction ok? Meet me half-way, or at least quarter-way, tenth of a way, but help me to help you! You are in this course by your own choice, and you know for sure that hundreds of students who took my classes before learned something from them, and were mostly on the happy side, or I would have been fired by now, which implies that a) it is possible to learn this stuff, it's not magic, it's actually learnable; and b) there's some logic to my method. These assignments, these questions, and even these tangents aren't random. They are all hints to something. Not all things are easy to explain. Some just need to get used to. So please try to get from this course what you can, and what you need! And help me to help you! OK?
+>
+> And as one practical learning point for myself, based on your feedback, in the homework, I will now post readings before videos. I think it was tempting to assume before that if you just watch the lecture, it will be enough somehow, but my lectures mostly complement dry explanations from the textbook and other readings; provide some metaphors, some imagery, shortcuts. But I'm not actually sure they work on their own necessarily, if you try to use them as a single source of info. Maybe they do, at least for some topics, but maybe they don't. What I do know, is that they definitely work if you first read the textbook (or chapters, papers, wikipedia, or whatever the readings for the week werek). If you do the readings, and *then* watch the lectures, trying to relate what I say to what you have read, and learned, honestly pausing when I ask questions, taking notes in your notebooks, and then at the very end asking me questions on Piazza, or in office hours. This approach definitely works; it's like, a proven fact, from years of experience :)
+>
+> So thanks again for voting in the poll, and let's revisit this question in about 2-3 weeks, and see whether things start to click by then, and combine into one picture. OK?
+
+### Session 1
+
+Pep talk
+
+Refresher QUIZ: "Simple action potential"
+
+*A discussion about pain (above).*
+
+### Eyewire lab
+
+Dears, this week the lab is virtual and self-guided: we won't be sitting together on Zoom; you will go through it at your own pace. It's a really nice project, and if you have any questions about it as you go through it, please let me know, or post them here, or email me, or join the office hours Zoom to ask them!
+
+So here's the plan:
+
+1. First read the description: [https://blog.eyewire.org/about/ ](https://blog.eyewire.org/about/)
+2. Then create an account, log in.
+3. Carefully go through the tutorial. Make sure to get the controls right, especially how to switch the projections:
+   https://blog.eyewire.org/getting-started-eyewire-keyboard-and-mouse-commands/ 
+4. Once you are fully done with the tutorial, analyze **at least three real cubes**.
+
+Before submitting your last cube to eyewire, **make a screenshot of your screen, and post it below, in the thread**. This will count towards your participation in this lab. You don't have to write a lab report, but I want to see a cube that is done well, with some effort 🙂
+
+And honestly, it's a fun project. When I tried it the first time, I got carried away, and edited about 20 cubes or so, just because I forgot to stop :) It gets addictive if you are into this sort of brainy things :)
+
+### Session 2 - free will
+
+QUIZ: Basic synapse
+
+Why electric and chemical synapses exist?
+
+Why metabotropic receptors exist?
+
+What will happen if you make neurotransmitters stay longer in the synaptic cleft? In particular, what will happen if we do it:
+
+* To all acetylcholine in the body?
+* To all serotonin in the brain? (That's what SSRIs do...)
+
+*Maybe: quickly revisit pain and robots.* 
+
+* Where we ended is that the majority vote was that most animals, and maybe even plants, do some sort of pain signaling (reporting damage), but react to it differently (some "suffer", in the sense of changing their behavior to more passive / protective, until they heal, while some don't). But we didn't have time to talk about robots or aliens. So, if a roach feel pain, and then you make a robot with a wire for every neuron, and an appropriate tiny gadget for every synapse, reporting damage to robotic limbs and making robot withdraw from harmful objects... Would you say that this robot feels pain?
+
+Let's briefly talk about free will now. Do these objects have free will?
+
+* Your roommate
+* A stone
+* A candleflame
+* A dog
+* A cockroach
+* An autonomous robotic mobile garbage collector.
+* A blue blobby starlight-feeding alien on a planet far away
+
+How do you know? How would you define free will? Does your definition match your intuitions? Is your definition falsifiable? (Do you have a procedure to "test" an active object for the presence of free will?)
 
 # Ethology
+
+QUIZ: Locations
 
 "Define Fixed Action Pattern"
 like, in practice, how would you know that something is a Fixed Action Pattern?
@@ -387,6 +456,6 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, 
 
-Future: Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Gamelan, Hungarian roma-influenced, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
+Future: peruvean, Gamelan, Hungarian roma-influenced, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab

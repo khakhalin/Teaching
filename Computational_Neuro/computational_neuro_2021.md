@@ -26,7 +26,7 @@ In this course we will:
 * See how (or "whether") neuroscience and AI can help and inform each other
 * Become better presenters
 
-# Course Logistics
+# Logistics
 
 **Instructor:** Arseny Khakhalin (pronounced: ar-SEH-ny ha-HA-leen; ipa: ɑr'sʲenʲi xa'xalʲin); [khakhalin@bard.edu](mailto:khakhalin@bard.edu)
 
@@ -103,19 +103,19 @@ To get an **A**:
 * If you are half-way between a B and an A, you'll be given a half-way grade (either a **B plus**, or an **A minus**)
 * **Grades of B and higher can be turned into a Pass if you so desire**. You don't even need to tell me in advance, or reach out, I'll ask you myself, before submitting final grades at the end of the course. You'll know your "internal grade", and then if you prefer to have a "P" on your final transcript instead, that's fine with me!
 
-# Attendance and late policy
+## Attendance and late policy
 
 I'll spend the first 5 minutes of each class waiting for you to connect. That is, if a meeting is scheduled for 1 pm, Zoom will open at 1 pm, and we'll be just chatting until 1:05. At 1:05 sharp we will start the class.
 
 If you are late 3 times, it will be counted as one absense.
 
-# Academic integrity and plagiarism
+## Academic integrity and plagiarism
 
 For all homework assignments, the *writing* should be done by *you*. Borrowing *texts* from other people or from the internet without an acknowledgement (such as a citation, a reference, an explicit acknowledgement) is unacceptable, and will result in bad things happening.
 
 But overall, collaboration and team work are heavily encouraged. Seek inspiration by talking to your peers before doing your work! Show your work to other people and ask for their suggestions and feedback! Read papers together! Prepare presentations together! Offer your help to struggling brothers and sisters! I expect you to do your own work, but also productively collaborate, as that's how it happens in real life.
 
-# Mutation clause
+## Mutation clause
 
 I will continue to improve this syllabus during the semester, to make the course even more amazing (for example, move topics around if we are slow, change reading materials, etc.) Any changes in course policies are never retroactive. If a rule changes, it only apply to future work, not to past work.
 
@@ -128,23 +128,23 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Feb 05   | Intro to neuro                                               | none       |
 | Feb 12   | Theoretical Intro to deep learning                           | none       |
 | Feb 19   | Practical intro to machine learning from Google              | none       |
-| Feb 26   | Neuro-DL success story: convolutional networks and biological vision | 1          |
-| Mar 05   | How DL is not Neuro: problem of supervised learning; recent tricks | 2          |
-| Mar 12   | How Neuro is not DL: gradient descent in the brain; credit assignment problem | 3          |
+| Feb 26   | DL + Neuro success story: convolutional networks and biological vision | 1          |
+| Mar 05   | Convolutional networks vs the brain                          | 2          |
+| Mar 12   | How DL is not Neuro (differences in the nature of training)  | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
-| Mar 26   | Interpretability in DL and Neuro                             | 4          |
-| Apr 02   | Single neurons as Deep Networks                              | 5          |
-| Apr 09   | Vision and convnets revisited                                | 6          |
-| Apr 16   |                                                              | 7          |
-| Apr 23   | Transformers (???)                                           | 8          |
-| Apr 30   |                                                              | 9          |
+| Mar 26   | How Neuro is not DL (gradient descent in the brain)          | 4          |
+| Apr 02   | Modern synthesis: DL and Neuro informing each other          | 5          |
+| Apr 09   | ? Interpretability in DL and Neuro                           | 6          |
+| Apr 16   | ? Single neurons as Deep Networks                            | 7          |
+| Apr 23   | ? Vision and convnets revisited (recent disagreements?)      | 8          |
+| Apr 30   | ?                                                            | 9          |
 | May 07   | *Advising week, we probably don't meet - TBC*                |            |
 | May 14   |                                                              | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
 # Detailed Weekly Schedule
 
-## Week 1 - Crash course Neuroscience
+## 1. Crash course Neuroscience
 
 Crash course Neuroscience. **Terms you need to know and vaguely understand** (at the very least, look each of them up, and read the corresponding article): neuron, spike, axon, synapse, excitation and inhibition, dendrite, neural coding (rate code, temporal code, population code), synaptic plasticity (Hebbian, STDP), intrinsic plasticity, receptive field, cortical map.
 
@@ -180,7 +180,7 @@ If time: resonance and the idea of Hopfield networks.
 
 Typical receptive fields (vision as an example).
 
-## Week 2 - Introduction to Deep learning
+## 2. Introduction to Deep learning
 
 Videos:
 
@@ -205,6 +205,8 @@ Activation function (which ones are common? which ones are more popular?).
 
 Matrix notation: how does matrix multiplication work mechanistically, and how to think of it (the idea of operators. E.g. how would a rotation operator look like?)
 
+How many parameters does this network have: 3 variables (inputs), projecting to a layer of 3 neurons, projecting to 2 outputs?
+
 Loss function. How to define them? For a classifier? For a predictor (say, if we want to guess how some signal will behave in the future? Or fix broken audio? Or interpolate between the frames?)
 
 How to find weights of a deep network in practice?
@@ -216,7 +218,42 @@ How to find weights of a deep network in practice?
   * Why the word "stochastic" is here?
 * If ANNs are like brains, then does SGD exist in the brain?
 
-How to understand what each of the units (neurons) in the middle of the network does? (brainstorm?)
+## 3. Intro to ML, take two
+
+The homework for this week is a **crash course in machine learning** from Google. Now, this is a course for managers, programmers, and other sorts of tech people, not for scientists, so it puts an emphasis on the practical, business use of deep learning, not the science aspect of it. But I think it's actually better. First, as the course doesn't assume that we are PhD students or something, it has all sorts of built-in quizzes, and an absolutely amazing "playground" that lets you play with an artificial neural network on your own computer without coding anything. And second, the field of deep learning has grown so much in last 6 years or so precisely because of its business applications. That's what's driving it, that's what's funding it, and that's also where machine learning goes awry every now and then, resulting in all sorts of hot ethical discussions. So I think it is very valuable to dive into this slightly different world, motivation, and terminology, before going back to neuroscience later.
+
+* Machine Learning Crash Course from Google: https://developers.google.com/machine-learning/crash-course/
+  * Watch the videos, do the quizzes, and make sure to work your way through the "playground" exercises (the ones that run in the browser). 
+  * Skip all exercises in Collab. Without coding, it will take you 3-4 hours for the part of the course that we need. Which is a sizeable chunk for one week, but it's a one-time effort.
+  * Sections you need to do: Framing, Descending, Reducing Loss, Testing and training sets, Validation set, **Neural Networks** (the playground exercise for this chapter is **the  main resource** for us in this course. You should spend a good hour playing with it, at the very least).
+  * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
+* For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
+
+### Class plan
+
+💡 We need to id groups of 3 students for presentations for next several weeks. Let's start with seniors?
+
+What's the difference between unsupervised, supervised, and reinforcement learning? (If you don't know; guess? Or ask each group member to google their term real fast, then compare?) Give an example? Are there other alternatives beyond these 3 categories?
+
+What class of functions is available with:
+
+* 1 input, 1 output, and 1 ReLu unit? (essentially, y=relu(ax+b))
+* 2 units: x→relu unit→linear unit? (each dense layer of connections is represented by an arrow "→", and includes weights and biases).
+  * How many parameters does this network have?
+  * Can we make a network that does "y=x for x<0, y=0 for x>0"?
+* What if we make it wider: x→2 relu→linear?
+  * Can we approximate a step with this network (const1 value until some x1, const2 value after it)?
+* What if we make it deeper: x→relu→relu→linear?
+  * Can we approximate a step with this one?
+* What would we need if we wanted a 2-step teracce? (0 until x1, then 1 between x1 and x2, then 2 after x2 until inf) What is the minimal network architecture here?
+* What would we need it we wanted to output 1 for a band (x1, x2),  and 0 outside of it? What is the minimal architecture here?
+* Let's now consider a 2D case: x,y → z. What do we get with a single linear unit?
+* Combining these 2 pieces of info, what will we get from x,y → 2 relu → linear → z?
+* Mentally extrapolate to wide and deep?
+* Using the playground: what is the minimal architecture that can solve XOR? What architecture can solve XOR reliably?
+  * The idea of lottery ticket.
+
+How to understand what each of the units (neurons) in the middle of the network does?
 
 * Does it resemble any concepts from neuroscience? (If you studied neuroscience, that is...)
 
@@ -225,98 +262,115 @@ For the MNIST (digits) example, the video shows that the "preferred" patterns fo
 * Do you think this network will generalize well, on digits met  "in the wild"? Say, on a random photo made by your phone? What problems would you expect?
 * Can we modify *the data* somehow, to force the network to learn something more generalizable, and also more interpretable?
   * (The idea of data augmentation)
-* Or, alternatively, how can we *change the network* to make it learn something more reasonable?
+* Or, alternatively, how can we *modify the network* to make it learn something more reasonable?
   * Convnets, or CNNs. Does it make the task of training easier or harder? (How does the number of parameters change?)
 
 Autoencoders. What are they?
 
-What class of functions is available with:
-
-* 1 input, 1 output, and 1 ReLu unit y=f(ax+b). 
-* 2 units: x→relu→linear? 
-* What if we make it wider: x→2 relu→linear?
-* Can we make a step? (2 solutions I think)
-* What would we need if we wanted a 2-step teracce? (0 until x0, then 1 until x1, then 2 until inf)
-* What would we need it we wanted to output 1 for a band (x1, x2),  and 0 outside of it? (2 solutions I think)
-* Let's now consider a 2D case: x,y → z. What do we get with a single linear unit?
-* Combining these 2 pieces of info, what will we get from x,y → 2 relu → linear → z?
-* Mentally extrapolate to wide and deep?
-
-Confusion matrix. Precision and recall. Accuracy.
+Other architectures (from the "neural networks Zoo"). 
 
 What is one potential problem with ReLUs, compared to, say, sigmoids, or leakyReLUs? What an happen to a ReLU neuron that will screw it over?
 
-## Week 3 - Intro to ML, take two
+Confusion matrix. Precision and recall. Accuracy.
 
-The homework for this week is a **crash course in machine learning** from Google. Now, this is a course for managers, programmers, and other sorts of tech people, not for scientists, so it puts an emphasis on the practical, business use of deep learning, not the science aspect of it. But I think it's actually better. First, because the course is great, has all sorts of built-in quizzes, and an absolutely amazing "playground" that lets you play with an artificial neural network on your own computer without coding anything. And second, the field of deep learning has grown so much in last 6 years or so because of its business applications. That's what's driving it, that's what's funding it, and that's also where machine learning goes awry every now and then, resulting in all sorts of hot ethical discussions. So I think it is very valuable to dive into this slightly different world, motivation, and terminology, before going back to neuroscience later.
+## 4. DL❤️Neuro success story: convolutional networks
 
-* Machine Learning Crash Course from Google: https://developers.google.com/machine-learning/crash-course/
-  * Watch the videos, do the quizzes, and make sure to try "playground" exercises (the ones that run in the browser). 
-  * Skip all exercises in Collab. Without coding, it will take you 3-4 hours for the part of the course that we need. Which is a sizeable chunk for one week, but it's a one-time effort.
-  * Sections you need to do: Framing, Descending, Reducing Loss, Testing and training sets, Validation set, **Neural Networks** (the playground exercise for this chapter is **the  main resource** for us in this course. You should spend a good hour playing with it, at the very least).
-  * All other sections are optional, in the sense that I don't expect you to go through them, but of course feel free to if you are interested. It's a good course; very surface-level, but it gives a very good overview of this trade.
-* For our review in class, we'll use this [direct link to the full version of the network playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). But don't try it before taking the crash course, you'll probably just get overwhelmed by the options, while the crash course adds them gradually, and provides good guidance in terms of what to do at each step.
+Videos and readings:
 
-# Tentative plans for the rest of the semester
+* A short intro reading with nice animated gifs: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+* Lecture from Brandon Rohrer (I watched it at 1.5x, but paused sometimes): https://www.youtube.com/watch?v=JB8T_zN7ZC0
 
-## DL❤️Neuro success story: convolutional networks
+* 🟢 Some slightly more involved reading: https://cs231n.github.io/convolutional-networks/
 
-perhaps 2 papers: associated breakthrough, and parallels with Neuro
+## 5. Convolutional networks and the brain
 
-## Ways in which current DL differs from Neuro
+Possible papers:
+
+🟢 Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature neuroscience, 19(3), 356-365. http://brainmind.umin.jp/PDF/wt17/Yamins3.pdf
+
+🟢 Bashivan, P., Kar, K., & DiCarlo, J. J. (2019). Neural population control via deep image synthesis. Science, 364(6439). https://www.gwern.net/docs/ai/2019-bashivan.pdf
+
+🟢 Zhang, R., Isola, P., Efros, A. A., Shechtman, E., & Wang, O. (2018). The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 586-595). https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf 1k+ citations in 2 years!
+
+🟢 Khaligh-Razavi, S. M., & Kriegeskorte, N. (2014). Deep supervised, but not unsupervised, models may explain IT cortical representation. PLoS computational biology, 10(11), e1003915. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4222664/
+
+🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4. Not too wildly cited tho.
+
+## 6. How DL is no like Neuro
 
 Possible papers:
 
 Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
 
-Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156.
-https://arxiv.org/pdf/1502.04156.pdf
-Mathy, then mnist
+Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156. https://arxiv.org/pdf/1502.04156.pdf
+Mathy, then mnist. 🟢
 
 Dropout?
 
-?
+## 7. How Neuro is not like DL: Gradient Descent and Credit Assignment
 
-## Ways in which Neuro differs from DL
-
-A bit older review?
-
-Gradient descent in the brain? (critique)
-
-Credit assignment?
+Looking for gradient descent in the brain.
 
 Possible papers:
 
-* Backpropagation and the brain
-  Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
+* Backpropagation and the brain. Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
   https://www.nature.com/articles/s41583-020-0277-3
+* https://psychology.stackexchange.com/questions/16269/is-back-prop-biologically-plausible
 
-## Attempts of modern synthesis: DL as a model for Neuro
+## 8. Modern synthesis: DL as a model for Neuro
 
-* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA
-  * (this lecture comes from a cool open project called "Neuromatch academy"; for now I'm not necessarily assigning other videos from this project, but it's a cool project!): http://www.neuromatchacademy.org/syllabus/
+* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . 
+  * This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
 
-Main paper:
+Papers (decide which ones to read):
 
 * Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
 
-Optional materials:
+* 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
+  https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
+  Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?Options for the rest of the semester
+* 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
+  Quite popular.
 
-* ?
+## 9.Intrepretability in DL and Neuro
 
-## Intrepretability in DL and Neuro
-
-Some stuff on core ML intrerpretability #todo
+Some stuff on core ML interpretability #todo
 
 Distill simulations on interpretability #todo
 
 Maybe in ethics intro as well, if there's a short one? tbc.
 
-Optional:
+Other options: 🟢
 
 * Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
   https://arxiv.org/abs/1907.06374 - an opinion piece, half-practical guidance, half philosophy
+* 🔥 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
+  A series of short papers trying to understand and describe how a DLL vision model works, by looking at its tuning, neuron by neuron. (Would it make a good paper for a neuro class?)
+
+## Vision and convnets revisited
+
+Check these: 🟢
+
+* Yaoda Xu, Maryam Vaziri-Pashkam (2020) Limited correspondence in visual representation between the human brain and convolutional neural networks
+  https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1.full
+  Essentially, some critique of deepneuro!
+* Geiger, F., Schrimpf, M., Marques, T., & DiCarlo, J. (2020). Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream. bioRxiv.
+  https://www.biorxiv.org/content/10.1101/2020.06.08.140111v1
+  Protoid: Geiger2020ventralstream
+
+* Alan L. Yuille & Chenxi Liu, "Limitations of Deep Learning for Vision, and How We Might Fix Them", The Gradient, 2019. https://thegradient.pub/the-limitations-of-visual-deep-learning-and-how-we-might-fix-them/ Describes limitations of modern computer vision, but points at something like symbolic reasoning as a potential answer, so may actually be a different topic entirely.
+
+However, also some positive spins:
+
+* Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
+
+## Curricula and dataset
+
+Some basic info on curricula?
+
+🔥 An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
+Twitprint: https://twitter.com/TimKietzmann/status/1362056712711254017
 
 ## Single neurons as Deep Networks
 
@@ -325,48 +379,19 @@ David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as De
 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
 https://arxiv.org/abs/2009.01269
 
-## Vision and convnets revisited
-
-Check these:
-
-* Geiger, F., Schrimpf, M., Marques, T., & DiCarlo, J. (2020). Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream. bioRxiv.
-  https://www.biorxiv.org/content/10.1101/2020.06.08.140111v1
-  Protoid: Geiger2020ventralstream
-
-* Yaoda Xu, Maryam Vaziri-Pashkam (2020) Limited correspondence in visual representation between the human brain and convolutional neural networks
-  https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1 
-  Essentially, some critique of deepneuro!
-
-## Replication of grid cells?
-
-Some basic info on grid cells?
-
-Sorscher, B., Mel, G., Ganguli, S., & Ocko, S. (2019). A unified theory for the origin of grid cells through the lens of pattern formation. In Advances in Neural Information Processing Systems (pp. 10003-10013).
-https://papers.nips.cc/paper/9191-a-unified-theory-for-the-origin-of-grid-cells-through-the-lens-of-pattern-formation
-Supposedly, explains the development of grid cells, synthesizing two existing theories (recurrent with lateral inhibition and spontaneous development during navigation?)
-
 ## Transformers, and comparison with brain activation?
 
 ?
 
-## Replication of motor control?
-
-Michaels, J. A., Schaffelhofer, S., Agudelo-Toro, A., & Scherberger, H. (2019). A neural network model of flexible grasp movement generation. bioRxiv, 742189.
-https://www.biorxiv.org/content/10.1101/742189v1
-
 # Other Potential papers
 
-🔥 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258.
-https://www.sciencedirect.com/science/article/pii/S0896627317305093
-Quite popular.
-
-Perez-Nieves, N., Leung, V. C., Dragotti, P. L., & Goodman, D. F. (2020). Neural heterogeneity promotes robust learning. bioRxiv.
-https://www.biorxiv.org/content/10.1101/2020.12.18.423468v1
-
-Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
+🔥  Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
 https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1 
 Tweetstorm: https://twitter.com/colleenjgillon/status/1351557910439059457
 Unsupervised novelty detection in the visual cortex; a convergence of top-down and bottom-up signaling on 2 different sets of dendrites.
+
+Perez-Nieves, N., Leung, V. C., Dragotti, P. L., & Goodman, D. F. (2020). Neural heterogeneity promotes robust learning. bioRxiv.
+https://www.biorxiv.org/content/10.1101/2020.12.18.423468v1
 
 Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks. Neuron, 105(3), 416-434.
 https://www.cell.com/neuron/pdf/S0896-6273(19)31044-X.pdf
@@ -377,7 +402,7 @@ https://www.pnas.org/content/116/21/10537.short
 
 Hassan, B. A., & Hiesinger, P. R. (2015). Beyond molecular codes: simple rules to wire complex brains. Cell, 163(2), 285-291.
 https://www.cell.com/cell/fulltext/S0092-8674(15)01193-9
-💎 Developmental biology bordering fractals and graphs (maybe? not sure, but judging from the pics) - a nice review-like paper (perspective); worth a priority read :)
+💎 Developmental biology bordering fractals and graphs (maybe? not sure, but judging from the pics) - a nice review-like paper (perspective); vet
 
 Richards, B. A., Xia, F., Santoro, A., Husse, J., Woodin, M. A., Josselyn, S. A., & Frankland, P. W. (2014). Patterns across multiple memories are identified over time. Nature neuroscience, 17(7), 981.
 https://www.nature.com/articles/nn.3736
@@ -393,5 +418,4 @@ Apparently create a vidrual 3D rodent (like, with muscles, joints and what not),
 Li, Z., Brendel, W., Walker, E., Cobos, E., Muhammad, T., Reimer, J., ... & Tolias, A. (2019). Learning from brains how to regularize machines. In Advances in Neural Information Processing Systems (pp. 9525-9535).
 https://arxiv.org/abs/1911.05072
 
-Merel, J., Botvinick, M., & Wayne, G. (2019). Hierarchical motor control in mammals and machines. Nature Communications, 10(1), 1-12.
-https://www.nature.com/articles/s41467-019-13239-6
+Merel, J., Botvinick, M., & Wayne, G. (2019). Hierarchical motor control in mammals and machines. Nature Communications, 10(1), 1-12. https://www.nature.com/articles/s41467-019-13239-6
