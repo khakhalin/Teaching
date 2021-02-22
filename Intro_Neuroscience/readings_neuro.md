@@ -1,6 +1,6 @@
-# Intro Neuro - Full list of Readings, Videos, and Extra Materials
+# Intro Neuro - Full list of Readings, Videos, and Other Materials
 
-*Version: 31 Jan 2021*
+*Version: Feb 21, 2021*
 
 # Intro & Resting membrane potential
 
@@ -102,13 +102,25 @@ Maybe:
 
 * Smith, K. (2011). Neuroscience vs philosophy: Taking aim at free will. Nature News, 477(7362), 23-25. https://www.nature.com/articles/477023a.pdf - human oriented
 
-Lab:
-
-* Eyewire virtual lab
-  Description: https://blog.eyewire.org/about/ 
-  Login: https://eyewire.org/signup (create an account, login, go through the tutorial, analyze at least one real cube, post your result)
-
 As usual, once you have read the materials, and watched all the videos, as a follow-up to this post (below, in the "follow-up" section), submit a **good honest question** you have about these topics. Something that you did not quite completely understand yet, but that you thought was interesting, and that you would honestly like to potentially discuss in class. 2-3 sentences would do (but feel free to write 5-6 sentences if it helps to explain your point!)
+
+## Lab: Eyewire (virtual)
+
+Dears, this week the lab is virtual and self-guided: there's no required zoom call (although you are welcome to join me for officer hours; see below!). For the lab, you will go through it at your own pace. It's a really nice project, and if you have any questions about it as you go through it, please post them here, or email me, or find me on Zoom, or let me know in any other way!
+
+So here's the plan:
+
+1. First read the description: https://blog.eyewire.org/about/ 
+2. Then create an account ( https://eyewire.org/signup ), log in.
+3. Carefully go through the tutorial and the practice cubes. Make sure to get the controls right, especially how to switch the projections:
+   https://blog.eyewire.org/getting-started-eyewire-keyboard-and-mouse-commands/  
+4. Once you are fully done with the tutorial, analyze at least three real cubes.
+
+Before submitting your last cube to Eyewire, make a screenshot of your screen, and post it below, in the thread. This will count towards your participation in this lab. You don't have to write a lab report, but I want to see a cube that is done well, with some effort 🙂
+
+And honestly, it's a fun project. When I tried it the first time, I got carried away, and edited about 20 cubes or so, before I remembered to stop :) It gets addictive if you are into this sort of brainy things :)
+
+The deadline to finish this lab and submit the results is Friday this week. But I suggest you try to do on Tuesday, because you have this time scheduled in your calendars, so you could as well use it :) It should take you slightly more than an hour to go through all exercises.
 
 # Ethology. Inhibition. Integration
 
@@ -136,11 +148,49 @@ Advanced, optional:
 
 As usual, once you have read the texts, and watched the videos, post below, in the thread, a good honest questions about something you would actually want to understand (and/or discuss in class), about any of these topics. If the question feels vague, or hard to formulate, please give me 1-2 sentences of background info, so that I could follow your logic :)
 
-### Labs
+## Lab: Venus fly trap
 
 Venus fly trap lab
 
 - Video: https://www.youtube.com/watch?v=45v5L2u0Nj8
+
+## Lab: Animal behavior (virtual)
+
+Dears, this week we have a self-guided virtual lab again. The lab will consist of 3 parts: one about mice, and one about birds, and then the third one about the animal of your choice. In total, it will probably take about 60 minutes of your time. The goal for this exercise is to learn more about how animals behave, and also about how we can study these behaviors.
+
+### 1. Rodent behavior
+
+1. Click this link: https://www.zooniverse.org/projects/r-dot-bains/rodent-little-brother-secret-lives-of-mice . Create an account and sign in (the link is in the top right corner).
+2. Read all materials in `Tutorial` section. This "tutorial" is not nearly as involved as the one for our previous lab, so mostly - just read carefully, and think about it.
+   * (As of Feb 2021 there's a disclaimer on top saying that they basically reached their targets on cross-classifying the videos, as I am guessing they probably voted a certain number of independent assessments from different people on each mouse... But let's ignore it; after all, we are doing this exercise to learn how mice behave, and how classification and quantification of behaviors is performed in practice. And we can still do that!)
+3. Then click `Classify`, and process (answer all questions about) about 20 real videos. I cannot check that, but it's like 10 minutes of work really, especially considering that in some videos the mouse of interest is either not visible, or is asleep, so you have nothing to do for these ones.
+
+### 2. Bird nesting
+
+1. Click this link: https://www.zooniverse.org/projects/spotteron/nestcams
+2. Read all materials about the project, and the description of what they expect from us. Do the `Tutorial` part (there's a link near every video).
+   * As you can see, this project is actively running right now (as of Jan 2021), so in this case we're not only learning new things, but contributing to actual research :)
+3. Process at least 20 real videos. The interface in this project is a bit different, but you get to identify whether it's 1 bird or 2, and whether they are sitting or standing, and what do they do in this short video.
+
+### 3. Free observation
+
+1. Pick **one** of those videos (any species you like):
+   1. 3 hours of Bees in a hive: https://www.youtube.com/watch?v=jpZR1xDsQiw
+   2. 1 hour of ants on an anthill: https://www.youtube.com/watch?v=CrBD-XpHm1o
+   3. 1 hour of ants leaving and entering an underground colony: https://www.youtube.com/watch?v=O0MGSbZoVfs
+   4. 12 hours of birds coming to a feeder: https://www.youtube.com/watch?v=foJ9L3Dsrpk
+   5. 30 minutes of a penguin colony: https://www.youtube.com/watch?v=6It83thrsQ0
+   6. 11 hours video of a seagull colony: https://www.youtube.com/watch?v=d4N4PyXioKs
+   7. 3 hours of some random fish tank: https://www.youtube.com/watch?v=KLMhVJlOb3E
+   8. You can also find any similar video on Youtube - a long stable shot of a bunch of animals just doing their animal thing, in which case please post a link together with your writeup; I'll happily add more good videos to this list! But it shouldn't be a documentary, and it shouldn't be a CGI fish tank lol! (It's weird, but Youtube seems to have hundreds of videos that pretend to be fish tanks, but are actually obviously CGI screensavers. Don't fall for this; it is a trap!) Ideally, we want a long (>30 min) uncut single-shot video of animals just being themselves.
+2. Pick a video, scroll to some random point, and observe for at least 5 minutes. Try to see whether this video can be used to ask a scientific question. Try to follow one animal. Try to note what the behavior of this animal consists of. If you were to quantify it, similarly to how it was done for birds and mice in two first exercises, what would your categories be? Which behaviors are frequent, which ones are infrequent?
+
+### Write-up
+
+1. Reflect on **what** you observed. Did this experience of looking at animal freely behaving change the way you imagine their life, so to say? Anything new that you learned about behavior of any animal in particular?
+2. Reflect on **how** you observed. Did you learn anything new about how people study animal behavior? Was it easy to classify mice and bird videos? Was it easy to make some sense of "long-shots of animals just being there" videos? How did it go? What do you think?
+3. As a follow-up to this post, below, write and post one short paragraph with any thoughts and responses to those 2 prompts above. 3-4 sentences would do. It's a loosely defined target, but I want some honest reflection and engagement. You don't need to sound smart, or write something profound, but I want some evidence of your actually honestly thinking about these questions.
+4. On the odd chance that you interacted closely with both mice, birds, ants, and penguins before, and none of these videos taught you anything new, please just write about that. Describe something about relevant animal behavior that is important, but that these videos did not represent well.
 
 # Simple motor systems. Escape in fish. Reflexes. CPGs
 

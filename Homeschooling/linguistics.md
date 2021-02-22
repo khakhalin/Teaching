@@ -49,9 +49,9 @@ Hidden rules of conversation (TLF): https://www.youtube.com/watch?v=IJEaMtNN_dM&
 
 Expletive infixation (TLF): https://www.youtube.com/watch?v=dt22yWYX64w
 
-Acjectival order: https://www.youtube.com/watch?v=mTm1tJYr5_M
+Adjectival order: https://www.youtube.com/watch?v=mTm1tJYr5_M
 
-Sentences comps can't understand but humans can: https://www.youtube.com/watch?v=m3vIEKWrP9Q
+Sentences computers can't understand but humans can: https://www.youtube.com/watch?v=m3vIEKWrP9Q
 
 What counts as a word: https://www.youtube.com/watch?v=m8niIHChc1Y
 
@@ -125,7 +125,15 @@ History of Russian in 18 minutes (well produced): https://www.youtube.com/watch?
 
 Playlist, deconstruct 🔴 https://www.youtube.com/playlist?list=PLeNbGOow-rne9KWobLdUu2VrOeuxRFTey
 
+A whole playlist of ~20 videos (from the same whiskered dude) on nuances of Russian: https://www.youtube.com/playlist?list=PL_Ti2DFiE_m74lvoVaSqalkl-YQITz8Of
+
 Древнерусский язык: https://www.youtube.com/watch?v=TNn-or7jjVY
+
+Church Slavonic in modern Russian: https://www.youtube.com/watch?v=Tf6mRLuq2hE
+
+Curious comparison of cases, RU vs CS: https://www.youtube.com/watch?v=U-hFYwJ-At4
+
+Russian compared to Ukrainian (eng): https://www.youtube.com/watch?v=CQLM62r5nLI
 
 Russian dialects (podcast): https://www.youtube.com/watch?v=N9pODcaQGD4
 
@@ -133,17 +141,13 @@ Uncool cases: https://www.youtube.com/watch?v=CplcKi5Ma8s
 
 Cool cases: https://www.youtube.com/watch?v=4B3dxC8WY6M
 
-Curious comparison of cases, RU vs CS: https://www.youtube.com/watch?v=U-hFYwJ-At4
-
 Old Believers dialect from Brasil (30 min): https://www.youtube.com/watch?v=474h9S6sT6E
 
 * Full (>1h, too long) video: https://www.youtube.com/watch?v=17-3EGQ1aAw
 
-A whole playlist of ~20 videos (from the same whiskered dude) on nuances of Russian: https://www.youtube.com/playlist?list=PL_Ti2DFiE_m74lvoVaSqalkl-YQITz8Of
+Russian dialectal examples:
 
-Church Slavonic in modern Russian: https://www.youtube.com/watch?v=Tf6mRLuq2hE
-
-Russian compared to Ukrainian (eng): https://www.youtube.com/watch?v=CQLM62r5nLI
+* Tver: https://www.youtube.com/watch?v=lE_fbn2FqBU
 
 ## Origins of language
 
@@ -162,10 +166,6 @@ Plattdeutsch revival attempts: https://www.youtube.com/watch?v=pr4l-osIuyg
 Swiss German (aus Zürich): https://www.youtube.com/watch?v=89adaKKIkUw
 
 Even more swiss German dialects, direct comparison: https://www.youtube.com/watch?v=nEAcepckl5U
-
-Some Russian dialectal examples
-
-* Tver: https://www.youtube.com/watch?v=lE_fbn2FqBU
 
 ## Translation
 

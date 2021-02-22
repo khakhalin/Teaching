@@ -36,7 +36,7 @@ As we are still in a pandemic, with new strains emerging, the course is online-o
 
 * We will use **Piazza** for offline work (see more info below). I will post assignments there, and collect your responses (typically, questions you had, that you would like to discuss in class). But we can also use it as a Q&A, or even a discussion forum.
 * We'll have **weekly Zoom calls**, discussing papers. Generally, we'll try to have **one paper a week**, unless there's some background that needs to be taken from a different paper, or a review on a topic.
-* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting a paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for ~7-8 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 30 minute for the presentation, we'll have ~45 minutes for asking questions and figuring things out together.)
+* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting a paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for 5-7 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 20 minute for the presentation, we'll have ~50 minutes for asking questions and figuring things out together.)
 
 > 💡 **On time commitment:** You might have heard from me before that, in my opinion, a full 4-credits course should take about 10 hours of work a week for one full course. The logic is simple: full-time learning should be equivalent to full-time work; both because a full-time working week is known to be doable (not too long, not too short), and because it gives people enough spare time to  care about their family, side job, hobbies, social life, or whatever. A full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, therefore 1 full course should take about 10 hours a week, total.
 >
@@ -77,7 +77,7 @@ The most regular and predictable assignment for this course will be the **weekly
 
 ## Presentations
 
-As described above, papers will be presented by triads of people. I will assign these groups of 3, for every week, and you will need to decide who presents the background, who does the methods, and who does the results.
+As described above, papers will be presented by triads of people. I will assign these groups of 3, for every week, and you will need to decide who presents the **background**, who does the **methods**, and who does the **results**. Each presenter should talk for no more than 5-7 min, so that the entire presentation would last for about 20 minutes. Then we'll have a discussion.
 
 With ~18 students and 3 students per group, it will take 6 weeks to give everyone a chance to present. We however will have only 10 weeks with presentations. Which means that most people will present twice, but some of you will only present once. Unless we do more than one paper on some days; say, a review / background paper, and a main paper. We'll see!
 
@@ -128,8 +128,8 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Feb 05   | Intro to neuro                                               | none       |
 | Feb 12   | Theoretical Intro to deep learning                           | none       |
 | Feb 19   | Practical intro to machine learning from Google              | none       |
-| Feb 26   | DL + Neuro success story: convolutional networks and biological vision | 1          |
-| Mar 05   | Convolutional networks vs the brain                          | 2          |
+| Feb 26   | DL + Neuro success story: convolutional networks             | 1          |
+| Mar 05   | Convolutional networks vs biological vision                  | 2          |
 | Mar 12   | How DL is not Neuro (differences in the nature of training)  | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
 | Mar 26   | How Neuro is not DL (gradient descent in the brain)          | 4          |
@@ -137,9 +137,9 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Apr 09   | ? Interpretability in DL and Neuro                           | 6          |
 | Apr 16   | ? Single neurons as Deep Networks                            | 7          |
 | Apr 23   | ? Vision and convnets revisited (recent disagreements?)      | 8          |
-| Apr 30   | ?                                                            | 9          |
+| Apr 30   | ? That paper about error signal in the cortex?               | 9          |
 | May 07   | *Advising week, we probably don't meet - TBC*                |            |
-| May 14   |                                                              | 10         |
+| May 14   | ???                                                          | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
 # Detailed Weekly Schedule
@@ -250,12 +250,28 @@ What class of functions is available with:
 * Let's now consider a 2D case: x,y → z. What do we get with a single linear unit?
 * Combining these 2 pieces of info, what will we get from x,y → 2 relu → linear → z?
 * Mentally extrapolate to wide and deep?
-* Using the playground: what is the minimal architecture that can solve XOR? What architecture can solve XOR reliably?
-  * The idea of lottery ticket.
 
-How to understand what each of the units (neurons) in the middle of the network does?
+🔥 For the [playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56380&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) exercise, what is the minimal set of neurons that can solve the XOR task? What set of neurons solves it reliably?
 
-* Does it resemble any concepts from neuroscience? (If you studied neuroscience, that is...)
+* What are the differences between making a model deeper, and making a model wider?
+* The idea of lottery ticket.
+* Question (kinda asked by Hadley a week ago, and Max this week): can there be too many neurons in a network?
+
+**Regularization**:
+
+* What problem does it try to solve? Where is this problem coming from?
+  * *As a hint: if some weights in the network, especially in the later layers, are insanely big, what could it mean?*
+* How to tell that the model is overfitting?
+* How regularization is implemented in practice?
+  * Also, as a reminder, how is loss calculated?
+* What's the difference between L2 and L1 regularizations? Why do they act differently? When would we like one, or another?
+* What about dropout? How does it work? What problem does it seem to be fighting?
+  * *Tell about the ensemble idea.*
+* What is curse of dimensionality? Where does it come from?
+
+How to understand what each of the units (neurons) in the middle of the network does? In the playground, as there are only 2 inputs (x and y), we can just visualize responses to all possible inputs. But what if the input is high-dimensional (say, an image, or a description of a house?)
+
+* Does it resemble any concepts from neuroscience? (This question obviously only applies if you studied some neuroscience :)
 
 For the MNIST (digits) example, the video shows that the "preferred" patterns for each neuron in the 1st layer are nonsensical (look nothing like what a human would expect). 
 
@@ -265,9 +281,12 @@ For the MNIST (digits) example, the video shows that the "preferred" patterns fo
 * Or, alternatively, how can we *modify the network* to make it learn something more reasonable?
   * Convnets, or CNNs. Does it make the task of training easier or harder? (How does the number of parameters change?)
 
-Autoencoders. What are they?
+Architectures
 
-Other architectures (from the "neural networks Zoo"). 
+* Autoencoders. What are they?
+
+* Other architectures (from the "neural networks Zoo"). 
+* How to understand which architecture to use? (It's a trick question)
 
 What is one potential problem with ReLUs, compared to, say, sigmoids, or leakyReLUs? What an happen to a ReLU neuron that will screw it over?
 
@@ -278,11 +297,11 @@ Confusion matrix. Precision and recall. Accuracy.
 Videos and readings:
 
 * A short intro reading with nice animated gifs: https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
-* Lecture from Brandon Rohrer (I watched it at 1.5x, but paused sometimes): https://www.youtube.com/watch?v=JB8T_zN7ZC0
+* Lecture from Brandon Rohrer (I watched it at 1.5x, or even 2x for some parts, but paused sometimes. He really starts from the basics, but I'm sure it will be quite helpful for us to get a bit of review of how deep learning works in general): https://www.youtube.com/watch?v=JB8T_zN7ZC0
 
-* 🟢 Some slightly more involved reading: https://cs231n.github.io/convolutional-networks/
+* Some slightly more involved reading: https://cs231n.github.io/convolutional-networks/
 
-## 5. Convolutional networks and the brain
+## 5. Convolutional networks vs biological vision
 
 Possible papers:
 
@@ -296,7 +315,7 @@ Possible papers:
 
 🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4. Not too wildly cited tho.
 
-## 6. How DL is no like Neuro
+## 6. How DL is not like Neuro
 
 Possible papers:
 
@@ -305,16 +324,14 @@ Zador, A. M. (2019). A critique of pure learning and what artificial neural netw
 Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156. https://arxiv.org/pdf/1502.04156.pdf
 Mathy, then mnist. 🟢
 
-Dropout?
-
 ## 7. How Neuro is not like DL: Gradient Descent and Credit Assignment
 
 Looking for gradient descent in the brain.
 
 Possible papers:
 
-* Backpropagation and the brain. Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020)
-  https://www.nature.com/articles/s41583-020-0277-3
+* 🟢 Backpropagation and the brain. Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020) https://www.nature.com/articles/s41583-020-0277-3
+* 🔴 Paper from Richards?
 * https://psychology.stackexchange.com/questions/16269/is-back-prop-biologically-plausible
 
 ## 8. Modern synthesis: DL as a model for Neuro
@@ -333,7 +350,7 @@ Papers (decide which ones to read):
 * 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
   Quite popular.
 
-## 9.Intrepretability in DL and Neuro
+## 9. Intrepretability in DL and Neuro
 
 Some stuff on core ML interpretability #todo
 
@@ -365,7 +382,7 @@ However, also some positive spins:
 
 * Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
 
-## Curricula and dataset
+## Curriculum learning and dataset uptimization
 
 Some basic info on curricula?
 
@@ -381,14 +398,14 @@ https://arxiv.org/abs/2009.01269
 
 ## Transformers, and comparison with brain activation?
 
-?
+??? Is it a viable option ???
 
 # Other Potential papers
 
 🔥  Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
 https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1 
 Tweetstorm: https://twitter.com/colleenjgillon/status/1351557910439059457
-Unsupervised novelty detection in the visual cortex; a convergence of top-down and bottom-up signaling on 2 different sets of dendrites.
+Unsupervised novelty detection in the visual cortex; a convergence of top-down and bottom-up signaling on 2 different sets of dendrites. May be a cool example of a research paper that's immediately relevant.
 
 Perez-Nieves, N., Leung, V. C., Dragotti, P. L., & Goodman, D. F. (2020). Neural heterogeneity promotes robust learning. bioRxiv.
 https://www.biorxiv.org/content/10.1101/2020.12.18.423468v1
@@ -400,9 +417,9 @@ An opinion (perspective) on how we could, and should, use deep models to underst
 Raman, D. V., Rotondo, A. P., & O’Leary, T. (2019). Fundamental bounds on learning performance in neural circuits. Proceedings of the National Academy of Sciences, 116(21), 10537-10546.
 https://www.pnas.org/content/116/21/10537.short
 
-Hassan, B. A., & Hiesinger, P. R. (2015). Beyond molecular codes: simple rules to wire complex brains. Cell, 163(2), 285-291.
+💎 Hassan, B. A., & Hiesinger, P. R. (2015). Beyond molecular codes: simple rules to wire complex brains. Cell, 163(2), 285-291.
 https://www.cell.com/cell/fulltext/S0092-8674(15)01193-9
-💎 Developmental biology bordering fractals and graphs (maybe? not sure, but judging from the pics) - a nice review-like paper (perspective); vet
+Developmental biology bordering fractals and graphs (maybe? not sure, but judging from the pics) - a nice review-like paper (perspective); vet
 
 Richards, B. A., Xia, F., Santoro, A., Husse, J., Woodin, M. A., Josselyn, S. A., & Frankland, P. W. (2014). Patterns across multiple memories are identified over time. Nature neuroscience, 17(7), 981.
 https://www.nature.com/articles/nn.3736
@@ -414,6 +431,14 @@ Deep neuroethology of a virtual rodent
 Josh Merel, Diego Aldarondo, Jesse Marshall, Yuval Tassa, Greg Wayne, Bence Ölveczky
 https://arxiv.org/abs/1911.09451
 Apparently create a vidrual 3D rodent (like, with muscles, joints and what not), make it move in virtual environment, learn to move, then study its network using neuro methods.
+
+Yujin Tang, Duong Nguyen, David Ha (2020). Neuroevolution of Self-Interpretable Agents
+https://attentionagent.github.io/
+https://arxiv.org/abs/2003.08165
+Limiting attention of agents helps them to learn to play (bottlenecking of sorts?). Google Brain + Mind.
+
+Introducing Dreamer: Scalable Reinforcement Learning Using World Models (2020)
+https://ai.googleblog.com/2020/03/introducing-dreamer-scalable.html
 
 Li, Z., Brendel, W., Walker, E., Cobos, E., Muhammad, T., Reimer, J., ... & Tolias, A. (2019). Learning from brains how to regularize machines. In Advances in Neural Information Processing Systems (pp. 9525-9535).
 https://arxiv.org/abs/1911.05072

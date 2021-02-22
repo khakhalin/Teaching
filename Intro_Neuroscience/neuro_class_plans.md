@@ -111,31 +111,13 @@ Say, you want to record from a brain of a live pigeon, using electrodes. I'll gi
 
 # Synapse, Terminology, Free Will
 
-### Pep talk
+## Session 1
 
-> Hey people, so I'd like to start with some general remarks. Thank for to everyone who voted in the poll about the state of the course! As you may have noticed, there's a bit of bimodal distribution with two peaks; many people seem to like the course, but many people feel a bit confused. Now in 2-3 weeks I can run another poll, and see how the level of confusion changed :)
->
-> But that said, I framed the poll as if being confused about something is the opposite of liking something, but of course it doesn't actually apply to learning. In general, being confused is fine. Like, look, *of course* if you never really read and thought about ions or lipids or what not before, of course it will be confusing! It's like a whole new world. It's like as if I told you your first sentence in Hungarian, or started talking about the differences between the black hats and yellow hats schools of Lamaism. Of course it's confusing! You never heard about it before! It's normal! The question is what do we do with it. Do we figure things out? Or do we give up?
->
-> And because this course is optional, and passing it depends on your interest and honest work, and not on meeting some arbitrary proficiency criteria, all I ask from you is essentially some goodwill. Some interest, and enthusiasm. Some optimism. If you remember, I even sent you this letter back in December, trying to make you commit to trying things out! If you want to understand something, please help me to hep you! If you don't get something, if you are confused, ask questions! Come to office hours! Post questions on Piazza! Ask follow-ups! Engage with these topics!
->
-> And I thought I grew out of it, but it looks like I totally keep overreacting and taking it unnecessarily personally when people tell me that they watched my lecture several times and didn't understand anything at all, but then *don't ask any questions about the topics of the lecture*. Like, this just makes my brain short-circuit. If you don't want to deal some particular topic, by all means skip it, concentrate on something else. But please, don't spread this negativity around, this passive attitude of "I didn't get it, but I'm not gonna ask questions about it, I'll just gonna be bitter", you know? It's not helpful, to you, and to others, and it's not kind to your peers. I accepted everyone who applied for this course, instead of only accepting graduating seniors, as the administration requested, because I thought it's an online course, so it may be my only chance to get in all people who are actually enthusiastic, and want to think about the weirdness of this world in safety, without the pressure of a grade. And the majority of people, if I look through the questions that you post, and if I look at your faces on Zoom, are really great, and enthusiastic, and are obviously treating these topics the same way as I hoped you would: as a confusing weird world of cells and neurotransmitters and spikes and what not! In which you are dropped, as it happens in the beginning of a fantasy book, you know? Where for the first few chapters you don't even know for sure whether these guys are human or not, and whether there's magic, and whether dragons exist in this world, and like who the heck is Yennifer. But gradually we figure things out. *That's* the spirit I hope to have here!
->
-> And don't get me wrong; I'm not saying that you should just read the textbook and stay happy all the time. Please speak up, please ask questions! I'm always grateful for feedback, and I'm always trying to improve! But please make a few steps in my direction ok? Meet me half-way, or at least quarter-way, tenth of a way, but help me to help you! You are in this course by your own choice, and you know for sure that hundreds of students who took my classes before learned something from them, and were mostly on the happy side, or I would have been fired by now, which implies that a) it is possible to learn this stuff, it's not magic, it's actually learnable; and b) there's some logic to my method. These assignments, these questions, and even these tangents aren't random. They are all hints to something. Not all things are easy to explain. Some just need to get used to. So please try to get from this course what you can, and what you need! And help me to help you! OK?
->
-> And as one practical learning point for myself, based on your feedback, in the homework, I will now post readings before videos. I think it was tempting to assume before that if you just watch the lecture, it will be enough somehow, but my lectures mostly complement dry explanations from the textbook and other readings; provide some metaphors, some imagery, shortcuts. But I'm not actually sure they work on their own necessarily, if you try to use them as a single source of info. Maybe they do, at least for some topics, but maybe they don't. What I do know, is that they definitely work if you first read the textbook (or chapters, papers, wikipedia, or whatever the readings for the week werek). If you do the readings, and *then* watch the lectures, trying to relate what I say to what you have read, and learned, honestly pausing when I ask questions, taking notes in your notebooks, and then at the very end asking me questions on Piazza, or in office hours. This approach definitely works; it's like, a proven fact, from years of experience :)
->
-> So thanks again for voting in the poll, and let's revisit this question in about 2-3 weeks, and see whether things start to click by then, and combine into one picture. OK?
-
-### Session 1
-
-Pep talk
-
-Refresher QUIZ: "Simple action potential"
+refresher QUIZ: "Simple action potential"
 
 *A discussion about pain (above).*
 
-### Eyewire lab
+## Eyewire lab
 
 Dears, this week the lab is virtual and self-guided: we won't be sitting together on Zoom; you will go through it at your own pace. It's a really nice project, and if you have any questions about it as you go through it, please let me know, or post them here, or email me, or join the office hours Zoom to ask them!
 
@@ -151,7 +133,7 @@ Before submitting your last cube to eyewire, **make a screenshot of your screen,
 
 And honestly, it's a fun project. When I tried it the first time, I got carried away, and edited about 20 cubes or so, just because I forgot to stop :) It gets addictive if you are into this sort of brainy things :)
 
-### Session 2 - free will
+## Session 2 - free will
 
 QUIZ: Basic synapse
 
@@ -180,33 +162,66 @@ Let's briefly talk about free will now. Do these objects have free will?
 
 How do you know? How would you define free will? Does your definition match your intuitions? Is your definition falsifiable? (Do you have a procedure to "test" an active object for the presence of free will?)
 
-# Ethology
+# Ethology. Inhibition. Synaptic integration
 
-QUIZ: Locations
+## Pep talk
+
+> Hey people, so I'd like to start with some general remarks. Thank for to everyone who voted in the poll last week, about the state of the course! As you may have noticed, there's a bit of bimodal distribution with two peaks; 25 students seem to like the course either a lot, or somewhat, while 21 are still o the fence about it. Now in 2-3 weeks I can run another poll, and see how the level of confusion changed :)
+>
+> But that said, I framed the poll as if being confused about something is the opposite of liking something, but of course it doesn't actually apply to learning. In general, being confused is fine. Like, look, *of course* if you never really read and thought about ions or lipids or what not before, of course it will be confusing! It's like a whole new world. It's like as if I told you your first sentence in Hungarian, or started talking about the differences between the black hats and yellow hats schools of Lamaism. Of course it's confusing! You never heard about it before! It's normal! The question is what do we do with it. Do we figure things out? Or do we give up?
+>
+> And because this course is optional, and passing it depends on your interest and honest work, and not on meeting some arbitrary proficiency criteria, all I ask from you is essentially some goodwill. Some interest, and enthusiasm. Some optimism. If you remember, I even sent you this letter back in December, trying to make you commit to trying things out! If you want to understand something, please help me to hep you! If you don't get something, if you are confused, ask questions! Come to office hours! Post questions on Piazza! Ask follow-ups! Engage with these topics!
+>
+> There's only one thing really that makes me seriously upset about teaching, and that's when people say that they do understand anything at all, and then *don't ask any questions about the topics of the lecture*; either on Piazza, on Zoom, or during office hours. Like, this just makes my brain short-circuit. Like, I understand people who want to learn and work in this direction. I also understand people who don't want to learn, but are happy about it; it's their decision. But when people both don't do the work (and asking questions IS work!), but also are not dropping the class, that's just confuses the heck out of me.
+>
+> So let me say that. If you, if some of you, don't want to deal with some particular topic, by all means skip it, concentrate on something else that's available that week. But please, don't spread this negativity around, this passive attitude of "I didn't get it, but I'm not gonna ask questions about it, I'll just be bitter", you know? It's not helpful, to you, and to others, and it's not kind to your peers. I accepted everyone who applied for this course, instead of only accepting graduating seniors, as the administration requested, because I thought it's an online course, so it may be my only chance to get in all people who are actually enthusiastic, and want to think about the weirdness of this world in safety, without the pressure of a grade. And the majority of people, if I look through the questions that you post, and if I look at your faces on Zoom, are really great, and enthusiastic, and are obviously treating these topics the same way as I hoped you would: as a confusing weird world of cells and neurotransmitters and spikes and what not! In which we are dropped, as it happens in the beginning of a fantasy book, you know? Where for the first few chapters you don't even know for sure whether these guys that the book tells you about are human or not, and whether there's magic, and whether dragons exist in this world, and like who the heck is Yennifer. Stuff like that. But gradually we figure things out. *That's* the spirit I hope to have here!
+>
+> But when people complain that the videos they need to watch at home are too long, which had not happened in this class yet, but sometimes it does happen, all I can do when it happens is to remind of this basic calculation from the syllabus. A working week is 40 hours. Full load is 4 courses, meaning that you study 10 hours for a course. Some 4 hours on average we spend in class, which means that 6 hours you do at home. Two of them are videos. Yes! The remaining 4 are reading, labs, and writing. Are there classes at Bard that you can pass without any homework? Sure. Is it a good use of your time, and perhaps money? Nope. It the class doesn't make you work, it means that you're short-changed. It means the prof doesn't do their fair share of work. Maybe they are old. Maybe something else. But the normal speed of growth is the one you get with about 10 hours per class per week.
+>
+> (And by the way, do readings first, then watch the videos. It works better that way!) 
+>
+> And don't get me wrong; I'm not saying that you should just shut up, read the textbook, and stay happy all the time.  That's what happens in big state schools in Canada. Please speak up, please ask questions! I'm always grateful for feedback, and I'm always trying to improve! But please make a few steps in my direction ok? Meet me half-way, or at least quarter-way, tenth of a way, but help me to help you! You are in this course by your own choice, and you know that many students who took my classes before learned from them, and were mostly on the happy side, or I would have been fired by now, which implies that (first) it is possible to learn this stuff, it's not magic, it's actually learnable; and (second) there's some logic to my method. These assignments, questions, tangents, videos, labs aren't random. They are all hints to something. Not all things are easy to "explain"; some we just need to get used to. So please try to get from this course as much as you can, and as much as you need! And help me to help you! OK?
+>
+> So thanks again for voting in the poll, and let's revisit this question in about 2-3 weeks, and see whether things start to click by then, and combine into one picture. OK?
+
+## Session 1: Ethology
+
+💡 QUIZ: Locations (the one with 4 options)
 
 "Define Fixed Action Pattern"
-like, in practice, how would you know that something is a Fixed Action Pattern?
+like, in practice, how would you know that something is a Fixed Action Pattern? Imagine you're on an island. And there's a population of purple 6-legged lizards on this island. You have a year to study them. How will you know that something they do deserves to be called a Fixed Action Pattern?
 
-Imagine you're on an island. And there's a population of purple 6-legged lizards on this island. You have a year to study them. How will you know that something they do is a Fixed Action Pattern?
+Come up with a list of behaviors in that seem to satisfy the definition of a fixed action pattern:
 
-Come up with a list of behaviors that seem to satisfy the definition of a fixed action pattern
+* In squirrels (?)
+* In cats
+* In dogs (?)
 
 "This squid is scared"
-1) Can we say it?
-2) What would it mean if we agree that sometimes we can say it? Like what would it mean to claim that an animal is "scared"?
+1) Can we say it at all? Would this statement make any sense?
+2) What would it mean if we agree that sometimes we can say it? Like what would we mean when we say that an animal is scared?
 
-## CPGs class
+## Session 2: Synapse and integration
+
+💡 QUIZ: Transmitters
+
+💡 QUIZ: Inhibitory synapse (bubbles)
+
+💎 *Prepping for next week:*
+
+* Some fixed action patterns involve a periodic sequence of events, like a periodic motion, or a bunch of periodic motions. Next week we will talk about networks that can support these periodic motions; these networks even have a special name: Central Pattern Generators, as they generate a pattern (that is repeated again and again), and are controlling it centrally, from the nervous system. So, let's try to to list some stable behaviors, some fixed action patterns, that involve a very repetitive periodic motion?
+* *(first collect some in a large group, to set the tone, then maybe send to small groups)*
+
+# Small networks. CPGs. Escape in fish
+
+QUIZ: 
 
 If you watched a lecture about CPGs, I do this thing there where I ask you to think about all other behaviors that can be mediated by CPGs, and then I give some answers. So even tho I gave those answers, let's do it again here now. In groups, create a list of all behaviors that are mediated by a CPG (or at least look as if they could be mediated by one?) Try to come up with new examples!
 
-Try to list as many senses as you can. Both human senses, but also ones that other non-human animals use.
-You already mentioned: sight, taste, smell. hearing, and touch. Expand the list! :)
+💎 *Prepping for next week:*
 
-Student questions:
-
-* Can you explain how the fish escape is related to certain mental illness like schizophrenia in terms of pre-pulse inhibition in humans
-* The second lecture got me thinking about people who have phantom limbs and can feel their limbs even though they’ve lost them, because I started wondering  if their motor neurons are still trying to send the other limb signals. How do phantom limbs work? Why do we feel like we can still feel missing parts of our body?
-* I know that we were talking about Central Pattern Generators in terms of muscles, but am wondering if there is a similar process that can happen with thoughts. Are there certain neurological responses that can happen repetitively and unconsciously, but in the way that we think? Further, similar to the necessity of a reciprocal muscle relaxing when the muscle connected to the excitatory neuron is flexed, can there be a relationship in the brain in which one thought pattern causes another thought pattern to silence or "relax?"
+* Try to list as many senses as you can. Both human senses, but also ones that other non-human animals use.
+  You already mentioned: sight, taste, smell. hearing, and touch. Expand the list! :)
 
 # Neural Coding
 
@@ -387,6 +402,8 @@ https://michaelbach.de/ot/mot-flashLag/
 
 # Methods
 
+QUIZ: Locations reminder (the one with goldfish, followed by ultrasound)
+
 Methods of research in the brain (brainstorm, follow with slides)
 
 Slides from the morphology lecture: 
@@ -456,6 +473,6 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, 
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced
 
-Future: peruvean, Gamelan, Hungarian roma-influenced, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
+Future: Gamelan, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
