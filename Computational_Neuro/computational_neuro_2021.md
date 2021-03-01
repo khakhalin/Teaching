@@ -128,18 +128,18 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Feb 05   | Intro to neuro                                               | none       |
 | Feb 12   | Theoretical Intro to deep learning                           | none       |
 | Feb 19   | Practical intro to machine learning from Google              | none       |
-| Feb 26   | DL + Neuro success story: convolutional networks             | 1          |
+| Feb 26   | DL ♥ Neuro success story: convolutional networks             | 1          |
 | Mar 05   | Convolutional networks vs biological vision                  | 2          |
 | Mar 12   | How DL is not Neuro (differences in the nature of training)  | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
 | Mar 26   | How Neuro is not DL (gradient descent in the brain)          | 4          |
 | Apr 02   | Modern synthesis: DL and Neuro informing each other          | 5          |
-| Apr 09   | ? Interpretability in DL and Neuro                           | 6          |
-| Apr 16   | ? Single neurons as Deep Networks                            | 7          |
-| Apr 23   | ? Vision and convnets revisited (recent disagreements?)      | 8          |
+| Apr 09   | Neuromorphic engineering                                     | 6          |
+| Apr 16   | ? Interpretability in DL and Neuro                           | 7          |
+| Apr 23   | ? Single neurons as Deep Networks                            | 8          |
 | Apr 30   | ? That paper about error signal in the cortex?               | 9          |
-| May 07   | *Advising week, we probably don't meet - TBC*                |            |
-| May 14   | ???                                                          | 10         |
+| May 07   | **Advising week** (we don't meet)                            |            |
+| May 14   | ? Vision and convnets revisited (recent disagreements?)      | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
 # Detailed Weekly Schedule
@@ -303,54 +303,69 @@ Videos and readings:
 
 ## 5. Convolutional networks vs biological vision
 
-Possible papers:
+Main paper:
 
-🟢 Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature neuroscience, 19(3), 356-365. http://brainmind.umin.jp/PDF/wt17/Yamins3.pdf
+* 🟢 Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature neuroscience, 19(3), 356-365. http://brainmind.umin.jp/PDF/wt17/Yamins3.pdf
 
-🟢 Bashivan, P., Kar, K., & DiCarlo, J. J. (2019). Neural population control via deep image synthesis. Science, 364(6439). https://www.gwern.net/docs/ai/2019-bashivan.pdf
+Two more papers to quickly look though (abstract, figures, maybe a quick glance through the text):
 
-🟢 Zhang, R., Isola, P., Efros, A. A., Shechtman, E., & Wang, O. (2018). The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 586-595). https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf 1k+ citations in 2 years!
+* 🟢 Zhang, R., Isola, P., Efros, A. A., Shechtman, E., & Wang, O. (2018). The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 586-595). https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf 1k+ citations in 2 years!
+* 🟢 Bashivan, P., Kar, K., & DiCarlo, J. J. (2019). Neural population control via deep image synthesis. Science, 364(6439). https://www.gwern.net/docs/ai/2019-bashivan.pdf
 
-🟢 Khaligh-Razavi, S. M., & Kriegeskorte, N. (2014). Deep supervised, but not unsupervised, models may explain IT cortical representation. PLoS computational biology, 10(11), e1003915. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4222664/
+Decided against:
 
-🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4. Not too wildly cited tho.
+* Khaligh-Razavi, S. M., & Kriegeskorte, N. (2014). Deep supervised, but not unsupervised, models may explain IT cortical representation. PLoS computational biology, 10(11), e1003915. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4222664/
 
-## 6. How DL is not like Neuro
+* Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology' reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4.
+* Yamins, D. L. K. et al. Performance-optimized hierarchical models predict neural responses in higher visual cortex. Proceedings of the National Academy of Sciences 111, 8619–8624 (2014). http://www.pnas.org/content/111/23/8619.full.pdf.
+
+## 6. How modern DL is not like Neuro
 
 Possible papers:
 
 Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
 
 Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156. https://arxiv.org/pdf/1502.04156.pdf
-Mathy, then mnist. 🟢
+Mathy, then mnist. Note that it is a bit dated at this point. 🟢
 
-## 7. How Neuro is not like DL: Gradient Descent and Credit Assignment
+## 7. How Neuro is not like DL (backprop, credit)
 
-Looking for gradient descent in the brain.
+Is there "Deep learning" in the brain?
 
-Possible papers:
+* 🟢  Guerguiev, J., Lillicrap, T. P., & Richards, B. A. (2017). Towards deep learning with segregated dendrites. ELife, 6, e22901. https://elifesciences.org/articles/22901.pdf
 
 * 🟢 Backpropagation and the brain. Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020) https://www.nature.com/articles/s41583-020-0277-3
-* 🔴 Paper from Richards?
 * https://psychology.stackexchange.com/questions/16269/is-back-prop-biologically-plausible
 
-## 8. Modern synthesis: DL as a model for Neuro
+## 8. Attempts of synthesis: DL as a model for Neuro
 
-* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . 
-  * This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
-
-Papers (decide which ones to read):
+For sure:
 
 * Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
 
+Related:
+
+* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
+
+Probably / Maybe:
+
+* 🟢 Marblestone, A. H., Wayne, G., & Kording, K. P. (2016). Toward an integration of deep learning and neuroscience. Frontiers in computational neuroscience, 10, 94. https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
+
+* 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
+  Quite popular.
 * 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
   https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
   Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?Options for the rest of the semester
-* 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
-  Quite popular.
 
-## 9. Intrepretability in DL and Neuro
+## 9. Neuromorphic engineering
+
+Possibly / Maybe:
+
+* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020
+  https://www.sciencedirect.com/science/article/pii/S089662732100009X?dgcid=coauthor
+
+## Intrepretability in DL and Neuro
 
 Some stuff on core ML interpretability #todo
 
@@ -358,42 +373,46 @@ Distill simulations on interpretability #todo
 
 Maybe in ethics intro as well, if there's a short one? tbc.
 
-Other options: 🟢
+Other options:
 
-* Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
+* 🟢 Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
   https://arxiv.org/abs/1907.06374 - an opinion piece, half-practical guidance, half philosophy
-* 🔥 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
+* 🟢 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
   A series of short papers trying to understand and describe how a DLL vision model works, by looking at its tuning, neuron by neuron. (Would it make a good paper for a neuro class?)
+
+## Representation and autoencoders
+
+A lecture on representation from Neuromatch academy: https://www.youtube.com/watch?v=VwSnDJZekQ4
 
 ## Vision and convnets revisited
 
 Check these: 🟢
 
-* Yaoda Xu, Maryam Vaziri-Pashkam (2020) Limited correspondence in visual representation between the human brain and convolutional neural networks
+* 🔥 Geiger, F., Schrimpf, M., Marques, T., & DiCarlo, J. (2020). Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream. bioRxiv.
+  https://www.biorxiv.org/content/10.1101/2020.06.08.140111v1
+
+* 🟢 Yaoda Xu, Maryam Vaziri-Pashkam (2020) Limited correspondence in visual representation between the human brain and convolutional neural networks
   https://www.biorxiv.org/content/10.1101/2020.03.12.989376v1.full
   Essentially, some critique of deepneuro!
-* Geiger, F., Schrimpf, M., Marques, T., & DiCarlo, J. (2020). Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream. bioRxiv.
-  https://www.biorxiv.org/content/10.1101/2020.06.08.140111v1
-  Protoid: Geiger2020ventralstream
-
-* Alan L. Yuille & Chenxi Liu, "Limitations of Deep Learning for Vision, and How We Might Fix Them", The Gradient, 2019. https://thegradient.pub/the-limitations-of-visual-deep-learning-and-how-we-might-fix-them/ Describes limitations of modern computer vision, but points at something like symbolic reasoning as a potential answer, so may actually be a different topic entirely.
+* 🟢 Alan L. Yuille & Chenxi Liu, "Limitations of Deep Learning for Vision, and How We Might Fix Them", The Gradient, 2019. https://thegradient.pub/the-limitations-of-visual-deep-learning-and-how-we-might-fix-them/ Describes limitations of modern computer vision, but points at something like symbolic reasoning as a potential answer, so may actually be a different topic entirely.
+* 🟢 Nayebi, A., Sagastuy-Brena, J., Bear, D. M., Kar, K., Kubilius, J., Ganguli, S., ... & Yamins, D. L. (2021). Goal-Driven Recurrent Neural Network Models of the Ventral Visual Stream. bioRxiv. https://www.biorxiv.org/content/biorxiv/early/2021/02/18/2021.02.17.431717.full.pdf
 
 However, also some positive spins:
 
-* Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
+* 🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
 
 ## Curriculum learning and dataset uptimization
 
 Some basic info on curricula?
 
-🔥 An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
+🟢  An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
 Twitprint: https://twitter.com/TimKietzmann/status/1362056712711254017
 
 ## Single neurons as Deep Networks
 
-David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
 
-Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
+🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
 https://arxiv.org/abs/2009.01269
 
 ## Transformers, and comparison with brain activation?

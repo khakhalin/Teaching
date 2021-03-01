@@ -177,7 +177,7 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 | Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world) | Language in the brain. Lefties and righties. Debunking some myths about the brain. |
 | May 3    | **Advising week (we don't meet)**                            |                                             |                                                              |
 | May 10   | Decision making. Frontal patients. Agency. Morality. Creativity.  *If you submit your final paper, you get one round of feedback* | Final paper peer-review.                    | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
-| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. *Final papers due.* | Probably a normal class (lass class).       | Consciousness.  Self.                                        |
+| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. *Final papers due.* | Probably a normal class (last class).       | Consciousness.  Self.                                        |
 
 # Final paper
 

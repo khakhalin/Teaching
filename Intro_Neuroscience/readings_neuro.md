@@ -161,9 +161,8 @@ Dears, this week we have a self-guided virtual lab again. The lab will consist o
 ### 1. Rodent behavior
 
 1. Click this link: https://www.zooniverse.org/projects/r-dot-bains/rodent-little-brother-secret-lives-of-mice . Create an account and sign in (the link is in the top right corner).
-2. Read all materials in `Tutorial` section. This "tutorial" is not nearly as involved as the one for our previous lab, so mostly - just read carefully, and think about it.
-   * (As of Feb 2021 there's a disclaimer on top saying that they basically reached their targets on cross-classifying the videos, as I am guessing they probably voted a certain number of independent assessments from different people on each mouse... But let's ignore it; after all, we are doing this exercise to learn how mice behave, and how classification and quantification of behaviors is performed in practice. And we can still do that!)
-3. Then click `Classify`, and process (answer all questions about) about 20 real videos. I cannot check that, but it's like 10 minutes of work really, especially considering that in some videos the mouse of interest is either not visible, or is asleep, so you have nothing to do for these ones.
+2. Read the `Learn more` page about the project, then go through the training videos in the `Get started` section. In this section you can get through the "morning routines" of 3 mice: red, green, and blue. Click the first button (`Morning routine of Red Mouse`), read the tutorial (a tab `Tutorial` becomes available on the right, once you are on the page with the videos). Then go through each of the videos, answering questions in the form (is the mouse visible, is it asleep, what is it doing, etc.). Once done, return to the main page, and click on the similar tab for the `Green mouse`, and then for the `Blue`.
+3. As of now (Feb 2021) the project is out of data, so you cannot actually go beyond the tutorial. I am guessing they probably got a certain number of independent assessments from different people on each mouse... So once you are done with the practice data, just go to the next exercise (Birds Nesting).
 
 ### 2. Bird nesting
 
@@ -194,39 +193,51 @@ Dears, this week we have a self-guided virtual lab again. The lab will consist o
 
 # Simple motor systems. Escape in fish. Reflexes. CPGs
 
+Required readings:
+
+* Understand the general idea behind these terms (not necessarily the details, but the general idea) behind these terms:
+  * Central Pattern Generator (CPG): https://en.wikipedia.org/wiki/Central_pattern_generator
+  * Reflex (https://en.wikipedia.org/wiki/Reflex), including the famous knee-jerk reflex: https://en.wikipedia.org/wiki/Patellar_reflex
+  * Mauthner cell (again, try to get the main idea: what is this cell, where it sits, what does it do in real animals, and why would we care): https://en.wikipedia.org/wiki/Mauthner_cell
+* Read this really short piece at the intersection of neuroscience, genetics, animal husbandry, and fantasy literature, about high-end horses that fancy knights would buy for their posh ladies (like a Porsche of 1500 or something like that). Because said horses would have had a mutation in one of its CPGs that would make them special!
+  - The reading (also make sure to watch the video at the end of the article): https://amyraby.wordpress.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/ 
+  - Another 2-min-long video to explain why they were so valuable (it is well-known that a video is worth a thousand words a second): https://www.youtube.com/watch?v=-7rWeWymJDw 
+  - A bit more info: https://www.horsetalk.co.nz/2019/05/30/pacers-trotters-genetic-differences-researchers/
+
 Videos:
 
-* My lectures:
+* **My lectures**:
   * Small networks (40 min): https://www.youtube.com/watch?v=RZ9RYaKYWC4
-  * Central Pattern Generators and motion (46 min): https://www.youtube.com/watch?v=8r4ag458wvw
+  * Central Pattern Generators and locomotion (46 min): https://www.youtube.com/watch?v=8r4ag458wvw
 
 - https://www.youtube.com/watch?v=7pzMnuvKK7A - Zebrafish larva c-start (M-cell -mediated, slow-mo)
+- Patellar reflex (In a normal video we'd done it in class, but oh well, not this year 😞)
+  - Watch this video of a patellar reflex lab (1 minute): https://www.youtube.com/watch?v=qpw31bvoLpg
+  - and this video of patellar reflex exam (1 minute): https://www.youtube.com/watch?v=jK0JS2OsvKA
 - Reflective walking in human newborns: https://www.youtube.com/watch?v=-ih_pCBo70o 
-- Decerebrate cat on a treadmill, BW video from 1960s: https://www.youtube.com/watch?v=wPiLLplofYw 
 - Robots
   - Honda Asimo: https://www.youtube.com/watch?v=YruAOxWG5uU  
   - Boston Dynamics 10 years ago: https://www.youtube.com/watch?v=rVlhMGQgDkY 
   - Boston dynamics now: https://www.youtube.com/watch?v=fn3KWM1kuAw
-  - JK, those videos above are partially pre-recorded, which makes them look smoother than they really are. Here's Boston dynamics now. Still super-impressive, but not yet as graceful as a deer or a corgi: https://www.youtube.com/watch?v=6Zbhvaac68Y
-
-Fun reading, highly recommended. It's about high-end horses that fancy knights would buy for their posh ladies (like a BMW of 1500 or whatever), as said horses would have had a mutation in one of its CPGs!
-
-- https://amyraby.wordpress.com/2012/09/26/history-for-the-fantasy-buff-the-palfrey/ 
-- A video to explain why they were so valuable (it is well-known that a video is worth a thousand words a second):
-  https://www.youtube.com/watch?v=-7rWeWymJDw 
-- http://blogs.discovermagazine.com/notrocketscience/2012/08/29/one-gait-keeper-gene-allows-horses-to-move-in-unusual-ways/#.XX6ekC5KjIV
-- https://www.horsetalk.co.nz/2019/05/30/pacers-trotters-genetic-differences-researchers/
+  - jk, those videos above are partially pre-recorded, which makes them look way smoother than they really are. Here's Boston dynamics now. Still super-impressive, but not yet as graceful as a deer or a corgi: https://www.youtube.com/watch?v=6Zbhvaac68Y
 
 Advanced reading:
 
-- UT chapter 0: https://nba.uth.tmc.edu/neuroscience/s1/introduction.html
+- UT chapter 0 (it starts with some basic info about neurons, but then goes to network motifs and CPGs, which is what we'll be talking about this week): https://nba.uth.tmc.edu/neuroscience/s1/introduction.html
 - Review on Central Pattern Generators: [https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf](https://www.cell.com/current-biology/pdf/S0960-9822(01)00581-4.pdf)
 - Review about M-cells: https://core.ac.uk/download/pdf/82507508.pdf
 
-Labs
+Videos that I opted not to post:
 
-* Being random is hard: https://www.expunctis.com/2019/03/07/Not-so-random.html
-  Try different strategies. Describe what worked better, and what worked worse.
+* Decerebrate cat on a treadmill, BW video from 1960s: https://www.youtube.com/watch?v=wPiLLplofYw 
+
+
+
+As usual, once you are ready, please post your questions (honest questions, with enough info for me to undestand your thinking) as a follow-up for this post. Please make them "Unresolved"; I'll "Resolve" them as I read / answer them. Ideally, do it by Sunday 11 pm, but if it's impossible, then do it by Wednesday 11 pm. 
+
+## Labs: Motor control and Being random
+
+.
 
 # Senses. Touch. Neural coding
 

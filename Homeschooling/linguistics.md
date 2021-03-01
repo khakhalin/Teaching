@@ -105,6 +105,8 @@ How many languages are there: https://www.youtube.com/watch?v=qYlmFfsyLMo&ab_cha
 
 Language typology (tlf): https://www.youtube.com/watch?v=bxARj07jFp0
 
+
+
 Georgian: https://www.youtube.com/watch?v=RqynXNBiwGo
 
 Colors (across languages): https://www.youtube.com/watch?v=2TtnD4jmCDQ

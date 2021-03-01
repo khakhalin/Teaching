@@ -2,11 +2,11 @@
 
 # Intro & Resting membrane potential
 
-### Session 1
+## Class 1
 
 syllabus + basic neuronal shape
 
-### Session 2
+## Class 2
 
 Cell: what are DNA, RNA, proteins, lipids. What do these terms mean? What is the relationship between them? If you ever learned that, try to recall what you learned; if you never learned that, Google together as a team, and try to come up with a rough description of what's going on.
 
@@ -14,7 +14,7 @@ Cell: what are DNA, RNA, proteins, lipids. What do these terms mean? What is the
 
 More keywords (as a group, figure out what they mean): charge, ion, concentration, membrane, channel, potential.
 
-### Session 3
+## Class 3
 
 💡 Quiz: Parts of a neuron + what neuron
 
@@ -26,13 +26,13 @@ Q: So where this voltage across the membrane is coming from? What equilibrium ar
 
 Pivoting to questions
 
-> 🟢 If you want to learn, read my answers to other questions as well, not only to yours! As we go further, there will be cool tangents there, I'm sure!
+> 👉 If you want to learn, read my answers to other questions as well, not only to yours! As we go further, there will be cool tangents there, I'm sure!
 
 # Action potential and Pain
 
-### Session 1
+## Class 1
 
->  🟢 A side-comment: I sensed some confusion in some of the faces last time, as ... but we need to strike a balance between talking about lofty topics and some nuts-and bolts. As if we abandon the hard mechanistic science altogether, and jump to the philosophy of mind, or so, we will loose all rooting, and I won't be able to even hint at one certain things are true, or not true, or possible, or impossible. So we have to juggle these two aspects of the course - the "facts and their understanding" (like, how things work), with "what it all means", and "what the implications are".  We'll keep doing that! And if you have any feedback or concerns at any point, please reach out and let me know!
+>  👉 A side-comment: I sensed some confusion in some of the faces last time, as ... but we need to strike a balance between talking about lofty topics and some nuts-and bolts. As if we abandon the hard mechanistic science altogether, and jump to the philosophy of mind, or so, we will loose all rooting, and I won't be able to even hint at one certain things are true, or not true, or possible, or impossible. So we have to juggle these two aspects of the course - the "facts and their understanding" (like, how things work), with "what it all means", and "what the implications are".  We'll keep doing that! And if you have any feedback or concerns at any point, please reach out and let me know!
 
 Assignment about the permeable membrane (KCl on one side, NaCl on the other...)
 
@@ -40,9 +40,9 @@ Live drawing on the whiteboard of where K wants to go (as an answer for Quiz 1).
 
 Quiz about ions
 
-### Session 2
+## Class 2
 
->  🟢 I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it. A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer. A warning side is however a warning that questions like that won't count in the future. You don't need to write a lot, but you need to write well enough for me to understand you.
+>  👉  I use some emojis when responding to questions. Fire and Gem are basically the same, for cool questions. Lightbulb is for myself, to remember to address it. A warning sign will appear when I didn't like the question very much. Note that neither fire nor gem is a real "grade", as some questions just happen to be about topics that are exciting, or relevant for the course. So it's a combination of the quality of a question, and a lottery, about which questions I can actually answer. A warning side is however a warning that questions like that won't count in the future. You don't need to write a lot, but you need to write well enough for me to understand you.
 
 Follow-ups on water video (start with questions that were asked): 
 
@@ -59,7 +59,7 @@ Follow-ups on water video (start with questions that were asked):
 
 Quiz about AP
 
-### AP lab
+## Lab: AP
 
 https://ilearn.med.monash.edu.au/physiology/action-potentials
 
@@ -70,7 +70,7 @@ It has several sub-labs (click through the menu on top, then pick "Simulation"):
 3. **Stimulus strength** - how does the number of spikes change, as the current injected into the neuron increases? Can we say something else? How does is change, what would be the shape of this curve if you were to plot it? As we keep increasing the current, how does the number of APs change? Why? 
 4. **Adaptation** - just try it, and try go guess, what the word "Adaptation" mean?  What could be the mechanism? Now, is it because neurons are weak? Or could it actually be useful one way or another?
 
-### Session 3 - Pain
+## Class 3: Pain
 
 💎 Why pain exists? What does it signal?
 
@@ -111,29 +111,13 @@ Say, you want to record from a brain of a live pigeon, using electrodes. I'll gi
 
 # Synapse, Terminology, Free Will
 
-## Session 1
+## Class 1
 
 refresher QUIZ: "Simple action potential"
 
 *A discussion about pain (above).*
 
-## Eyewire lab
-
-Dears, this week the lab is virtual and self-guided: we won't be sitting together on Zoom; you will go through it at your own pace. It's a really nice project, and if you have any questions about it as you go through it, please let me know, or post them here, or email me, or join the office hours Zoom to ask them!
-
-So here's the plan:
-
-1. First read the description: [https://blog.eyewire.org/about/ ](https://blog.eyewire.org/about/)
-2. Then create an account, log in.
-3. Carefully go through the tutorial. Make sure to get the controls right, especially how to switch the projections:
-   https://blog.eyewire.org/getting-started-eyewire-keyboard-and-mouse-commands/ 
-4. Once you are fully done with the tutorial, analyze **at least three real cubes**.
-
-Before submitting your last cube to eyewire, **make a screenshot of your screen, and post it below, in the thread**. This will count towards your participation in this lab. You don't have to write a lab report, but I want to see a cube that is done well, with some effort 🙂
-
-And honestly, it's a fun project. When I tried it the first time, I got carried away, and edited about 20 cubes or so, just because I forgot to stop :) It gets addictive if you are into this sort of brainy things :)
-
-## Session 2 - free will
+## Class 2: free will
 
 QUIZ: Basic synapse
 
@@ -162,34 +146,32 @@ Let's briefly talk about free will now. Do these objects have free will?
 
 How do you know? How would you define free will? Does your definition match your intuitions? Is your definition falsifiable? (Do you have a procedure to "test" an active object for the presence of free will?)
 
+## Lab: Eyewire
+
+Dears, this week the lab is virtual and self-guided: we won't be sitting together on Zoom; you will go through it at your own pace. It's a really nice project, and if you have any questions about it as you go through it, please let me know, or post them here, or email me, or join the office hours Zoom to ask them!
+
+So here's the plan:
+
+1. First read the description: [https://blog.eyewire.org/about/ ](https://blog.eyewire.org/about/)
+2. Then create an account, log in.
+3. Carefully go through the tutorial. Make sure to get the controls right, especially how to switch the projections:
+   https://blog.eyewire.org/getting-started-eyewire-keyboard-and-mouse-commands/ 
+4. Once you are fully done with the tutorial, analyze **at least three real cubes**.
+
+Before submitting your last cube to eyewire, **make a screenshot of your screen, and post it below, in the thread**. This will count towards your participation in this lab. You don't have to write a lab report, but I want to see a cube that is done well, with some effort 🙂
+
+And honestly, it's a fun project. When I tried it the first time, I got carried away, and edited about 20 cubes or so, just because I forgot to stop :) It gets addictive if you are into this sort of brainy things :)
+
 # Ethology. Inhibition. Synaptic integration
 
-## Pep talk
+## Class1: Ethology
 
-> Hey people, so I'd like to start with some general remarks. Thank for to everyone who voted in the poll last week, about the state of the course! As you may have noticed, there's a bit of bimodal distribution with two peaks; 25 students seem to like the course either a lot, or somewhat, while 21 are still o the fence about it. Now in 2-3 weeks I can run another poll, and see how the level of confusion changed :)
->
-> But that said, I framed the poll as if being confused about something is the opposite of liking something, but of course it doesn't actually apply to learning. In general, being confused is fine. Like, look, *of course* if you never really read and thought about ions or lipids or what not before, of course it will be confusing! It's like a whole new world. It's like as if I told you your first sentence in Hungarian, or started talking about the differences between the black hats and yellow hats schools of Lamaism. Of course it's confusing! You never heard about it before! It's normal! The question is what do we do with it. Do we figure things out? Or do we give up?
->
-> And because this course is optional, and passing it depends on your interest and honest work, and not on meeting some arbitrary proficiency criteria, all I ask from you is essentially some goodwill. Some interest, and enthusiasm. Some optimism. If you remember, I even sent you this letter back in December, trying to make you commit to trying things out! If you want to understand something, please help me to hep you! If you don't get something, if you are confused, ask questions! Come to office hours! Post questions on Piazza! Ask follow-ups! Engage with these topics!
->
-> There's only one thing really that makes me seriously upset about teaching, and that's when people say that they do understand anything at all, and then *don't ask any questions about the topics of the lecture*; either on Piazza, on Zoom, or during office hours. Like, this just makes my brain short-circuit. Like, I understand people who want to learn and work in this direction. I also understand people who don't want to learn, but are happy about it; it's their decision. But when people both don't do the work (and asking questions IS work!), but also are not dropping the class, that's just confuses the heck out of me.
->
-> So let me say that. If you, if some of you, don't want to deal with some particular topic, by all means skip it, concentrate on something else that's available that week. But please, don't spread this negativity around, this passive attitude of "I didn't get it, but I'm not gonna ask questions about it, I'll just be bitter", you know? It's not helpful, to you, and to others, and it's not kind to your peers. I accepted everyone who applied for this course, instead of only accepting graduating seniors, as the administration requested, because I thought it's an online course, so it may be my only chance to get in all people who are actually enthusiastic, and want to think about the weirdness of this world in safety, without the pressure of a grade. And the majority of people, if I look through the questions that you post, and if I look at your faces on Zoom, are really great, and enthusiastic, and are obviously treating these topics the same way as I hoped you would: as a confusing weird world of cells and neurotransmitters and spikes and what not! In which we are dropped, as it happens in the beginning of a fantasy book, you know? Where for the first few chapters you don't even know for sure whether these guys that the book tells you about are human or not, and whether there's magic, and whether dragons exist in this world, and like who the heck is Yennifer. Stuff like that. But gradually we figure things out. *That's* the spirit I hope to have here!
->
-> But when people complain that the videos they need to watch at home are too long, which had not happened in this class yet, but sometimes it does happen, all I can do when it happens is to remind of this basic calculation from the syllabus. A working week is 40 hours. Full load is 4 courses, meaning that you study 10 hours for a course. Some 4 hours on average we spend in class, which means that 6 hours you do at home. Two of them are videos. Yes! The remaining 4 are reading, labs, and writing. Are there classes at Bard that you can pass without any homework? Sure. Is it a good use of your time, and perhaps money? Nope. It the class doesn't make you work, it means that you're short-changed. It means the prof doesn't do their fair share of work. Maybe they are old. Maybe something else. But the normal speed of growth is the one you get with about 10 hours per class per week.
->
-> (And by the way, do readings first, then watch the videos. It works better that way!) 
->
-> And don't get me wrong; I'm not saying that you should just shut up, read the textbook, and stay happy all the time.  That's what happens in big state schools in Canada. Please speak up, please ask questions! I'm always grateful for feedback, and I'm always trying to improve! But please make a few steps in my direction ok? Meet me half-way, or at least quarter-way, tenth of a way, but help me to help you! You are in this course by your own choice, and you know that many students who took my classes before learned from them, and were mostly on the happy side, or I would have been fired by now, which implies that (first) it is possible to learn this stuff, it's not magic, it's actually learnable; and (second) there's some logic to my method. These assignments, questions, tangents, videos, labs aren't random. They are all hints to something. Not all things are easy to "explain"; some we just need to get used to. So please try to get from this course as much as you can, and as much as you need! And help me to help you! OK?
->
-> So thanks again for voting in the poll, and let's revisit this question in about 2-3 weeks, and see whether things start to click by then, and combine into one picture. OK?
-
-## Session 1: Ethology
+*Pep talk on how it is OK to be confused (class on a new topic like a fantasy book where for the first several pages you aren't even sure if the hero is human, and whether there are any dragons in this world, and who the hell is Yennifer.*
 
 💡 QUIZ: Locations (the one with 4 options)
 
 "Define Fixed Action Pattern"
-like, in practice, how would you know that something is a Fixed Action Pattern? Imagine you're on an island. And there's a population of purple 6-legged lizards on this island. You have a year to study them. How will you know that something they do deserves to be called a Fixed Action Pattern?
+like, in practice, how would you know that something is a Fixed Action Pattern? Imagine that you're on an island. And there's a population of purple 6-legged lizards on this island. You have a year to study them. How will you know that something they do deserves to be called a Fixed Action Pattern?
 
 Come up with a list of behaviors in that seem to satisfy the definition of a fixed action pattern:
 
@@ -201,11 +183,24 @@ Come up with a list of behaviors in that seem to satisfy the definition of a fix
 1) Can we say it at all? Would this statement make any sense?
 2) What would it mean if we agree that sometimes we can say it? Like what would we mean when we say that an animal is scared?
 
-## Session 2: Synapse and integration
+## Class 2: Synapse and integration
+
+Logistic note: when posting questions, please post them as "Unresolved". As I answer them, or read them, I'll mark them "resolved". Same if you respond to my response! As everyone can flip this switch, this feature is not very reliable, but it will be easier for me to spot new questions if they are marked that way, you know? Otherwise it may be a while till I go on a quest of revisiting every thread, and checking the thread of it.
+
+And I'm a bit behind with answering the questions, but I'll do all the responses tomorrow, and then I'll try to set some time on Sunday or Monday to answer the next portion, for next week.
 
 💡 QUIZ: Transmitters
 
-💡 QUIZ: Inhibitory synapse (bubbles)
+Selected student questions:
+
+* You mention in your first lecture that the method of classical reduction (correlation, sufficiency, necessity) is only useful for more simple behaviors. What methods are used for more complex ones? What would be an example of a behavior that cannot be understood through classical reduction? are there any behaviors that are deemed impossible to understand through current scientific procedures?
+* In the second lecture you mentioned that sleep, while complex, is on the 'more inhibition' side of things. I'm curious about this because I wonder what our brain is doing when we are trying to fall asleep. Are more inhibitory neurotransmitters being used to "shut us down" and allow ourselves to become unconscious? Also I've heard that our brains are very active while we are asleep, how are we able to stay asleep while many neurons are still firing? Do we have a specific part of our brain that isn't spiking, which allows us to sleep?
+* For the article on dendritic computations, The argument presented single neurons and their dendrites as processors within processors. Apparently dendrites have their own activation thresholds, have localized spikes, and can act as AND gates. Given that neurons were considered as simple switches, could this effect neuroscience further than incorrect models? Wouldn't there be computational or functional assumptions that rely on the basis of "dumb neurons"?
+* I'm curious as to how these excitatory and inhibitory synapses relate to energy levels, and being tired or more awake, and then how this relationship gets effected by addictions (if it is a more direct relationship). For example, in your second lecture, you explain how when there is no spiking (no excitatory actions) then people are pretty much in a coma, and when everything is spiking (no inhibitory actions) then people will be seizuring. Is the ratio or level of excitatory vs. inhibitory changing depending on how awake you are, like in the AM are less excitatory synapses firing than later in the day?  And also how do supplements effect this ratio? Like when you drink coffee and get the jitters, is this related to a higher level of excitatory synapses firing?
+* If some neurons shoulder more than others, could there be smarter clusters of neurons?
+* The two readings on ethology and neuroethology make me wonder about the specific relationship that psychology and modern psychoanalysis have with older fields of ethology and zoology. Does modern psychology come as a direct result of broad studies in behavioral patterns such as aggression/emotional regulation? Or, did this question of the mind come side by side ethology?
+* It seems like more often in neurology, neuroethology involves studying species that aren’t usually considered “lab species”. Consequently, are there more often ethical dilemmas that scientists face or critics raise? Does studying more “complex” species give rise to greater ethical questions? How could we not then question our study of “lower” life forms? 
+* Seeing the individual dendrite intelligence reminded me of mycelium hyphae (the tendrils). I wonder if mycelium also communicates using action potential. It would make sense given it is a living mass. I tried to google it and I couldn't find a good answer. We also have mostly been discussing the animal kingdom, so I wonder if plants and fungi store more information in the root systems.
 
 💎 *Prepping for next week:*
 
@@ -214,14 +209,71 @@ Come up with a list of behaviors in that seem to satisfy the definition of a fix
 
 # Small networks. CPGs. Escape in fish
 
-QUIZ: 
+## Class 1: CPG
 
-If you watched a lecture about CPGs, I do this thing there where I ask you to think about all other behaviors that can be mediated by CPGs, and then I give some answers. So even tho I gave those answers, let's do it again here now. In groups, create a list of all behaviors that are mediated by a CPG (or at least look as if they could be mediated by one?) Try to come up with new examples!
+What's a CPG?
+
+What's a Central Pattern Generator?
+
+How to ultimately prove that a circuit is a CPG?
+
+💡 QUIZ: If you watched a lecture about CPGs, I do this thing there where I ask you to think about all other behaviors that can be mediated by CPGs, and then I give some answers. So even tho I gave those answers, let's do it again here now. In groups, create a list of all behaviors that are mediated by a CPG (or at least look as if they could be mediated by one?) Try to come up with new examples!
+
+Questions from last week?
+
+Selected student questions:
+
+* In your second lecture on CPGs, when you were discussing other possible CPGs that humans have, I was curious about where habits come in, or in other words, actions that seem sub-conscious but are not inherent, and are repeated. For example, when people are biting their nails, or tapping their foot, or twirling their hair/beard, they are most of the time not conscious of the fact that they are doing it. Are these formed habits making connections with the spinal chord without going to the brain? Or are they simply so frequent that our brain makes the decision to do it and its just like not a big deal. I'm really just curious as to where we can start to draw a line between human actions that do not involve the brain, and are also not innate actions for every human. 
+* The readings and the first lecture make me think about complex vs simple organisms and the various behaviors that get more complicated as the organism's makeup is more complicated. Do we, as humans, have any complex reflex/CPG that mirrors the Mauthner Cell? We obviously don't have a built-in escape behavior but does say, the hair standing on the back of your neck, "the gut feeling", show a complicated, more refined incarnation of the Mauthner Cell? 
+* If fish only a few hours old is able to escape danger quickly depending on having large neuron that functions at the same level as the adult fish, my question then is what about the human babies that make them so slow and unable to react to danger, even at a year old their reaction to pain seems to be delayed, should I assume that a larger multicellular brain is responsible. Also, is the inhibitor neurons more active in a human baby? 
+* While fish cannot be schizophrenic, they still clearly experience frightening situations, and respond to them in a similar way to humans; also, by using certain medications we can simulate how, if a fish had schizophrenia, its PPI would lessen. Just like in humans, they require an inhibitory mechanism to stop an overly strong reaction to a situation that is not actually scary, or else they would be too overwhelmed to function. So, to what extent does the drug-induced state in fish resemble schizophrenia? Is the fish's baseline "anxiety" higher with this drug than it would normally be? I'm wondering how fish experience fear.
+*  I think I've heard of reflective walking behavior in newborns where they are held about a projection of moving dots to simulate the visuals of walking and their limbs responded in a walking sort-of motion? This video said there wasn't any physical stimuli needed, just visual (From a netflix series about babies). I'm curious about other reflexes that are observed in infants that disappear in adults- why do they disappear? Developmentally it makes sense that eventually babies don't need to grasp/suck on everything because they learn, but what happens neurologically that results in these reflexes going away?
+* Another question about motion but not locomotion- I like to sew while listening to video lectures sometimes. That is a learned skill not as innate as walking (probably) but it follows a similar pattern of looping and cyclical changes, and you can move faster/slower and begin to run on "autopilot" after a while. Is the regulation of this kind of rhythm the related to the regulation of walking/breathing/etc?
+
+## Class 2
+
+Maybe?: 💡 QUIZ: Inhibitory synapse (bubbles)
 
 💎 *Prepping for next week:*
 
 * Try to list as many senses as you can. Both human senses, but also ones that other non-human animals use.
   You already mentioned: sight, taste, smell. hearing, and touch. Expand the list! :)
+
+## Lab: Randomness and Locomotion
+
+this week's labs are both virtual, and will take about an hour of your time. It's two simple games that both are almost impossible to win (sorry for that :)
+
+**Part 1: Try to be random**
+
+Please visit this link: https://www.expunctis.com/2019/03/07/Not-so-random.html
+
+Read the description, and play the game several times (every time just reload the page).
+
+In short, if you manage to be unpredictable, you win. But if you behave similarly to how you have behaved in the past, you lose. Use arrow keys for "left" and "right", and watch the plot to track your "money". Play the game, and count how many clicks it takes you to lose your first 60 bucks (the moment when the balance of 940 becomes visible on the Y-axis for the first time as you start with 1000 virtual dollars in your pocket).
+
+Try at least 2 different strategies. Which strategy worked better?
+
+Fig 1. It took your instructor 267 steps to lose their first $60.
+
+**Part 2: Try to be a CPG**
+
+Visit this link: http://www.foddy.net/Athletics.html
+
+Read the description. Then play the game.
+
+Your goal for this lab it pass the 5 meters mark. (Not even 100 meters. Not even "run"). Just, in any way, dead or alive, pass the 5 meters mark :)
+
+Suffer for at least 10 full minutes. Try different techniques. Then if everything fails, watch some youtube tutorials (easily findable). Then suffer some more. Try again and again, exploring different strategies, until you cross the 5 meters mark, or you have worked on it for 30 minutes straight, whichever comes first :)
+
+Fig 2. As you can see from this figure, your instructor hates this game with passion, but this should neither bias not discourage you! :))
+
+**Writing response**
+
+For each lab, write a paragraph, describing at least two different strategies that you tried in this lab, and how productive they were. Then meditate for 10 minutes, and add one more sentence, describing how it relates to our understanding of the brain, life, and ourselves ;)
+
+Feel free to post screenshots to document your success (or the lack thereof haha, it's also fun :)
+
+The due date for this lab is the end of this week. Best of luck, and may the games begin!
 
 # Neural Coding
 
@@ -467,12 +519,10 @@ Cortex:
 
 What have you ever heard about the differences between the left and right hemispheres, and what's your opinion about these statements? (Which sound like true, and which ones are fishy?)
 
-
-
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan
 
-Future: Gamelan, ethiopian, Thai, Armenian, Jan Johanson, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
+Future: Thai, ethiopian, Jan Johanson, Armenian, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
