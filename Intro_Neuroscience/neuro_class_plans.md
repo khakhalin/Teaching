@@ -164,7 +164,7 @@ And honestly, it's a fun project. When I tried it the first time, I got carried 
 
 # Ethology. Inhibition. Synaptic integration
 
-## Class1: Ethology
+## Class 1: Ethology
 
 *Pep talk on how it is OK to be confused (class on a new topic like a fantasy book where for the first several pages you aren't even sure if the hero is human, and whether there are any dragons in this world, and who the hell is Yennifer.*
 
@@ -193,10 +193,8 @@ And I'm a bit behind with answering the questions, but I'll do all the responses
 
 Selected student questions:
 
-* You mention in your first lecture that the method of classical reduction (correlation, sufficiency, necessity) is only useful for more simple behaviors. What methods are used for more complex ones? What would be an example of a behavior that cannot be understood through classical reduction? are there any behaviors that are deemed impossible to understand through current scientific procedures?
 * In the second lecture you mentioned that sleep, while complex, is on the 'more inhibition' side of things. I'm curious about this because I wonder what our brain is doing when we are trying to fall asleep. Are more inhibitory neurotransmitters being used to "shut us down" and allow ourselves to become unconscious? Also I've heard that our brains are very active while we are asleep, how are we able to stay asleep while many neurons are still firing? Do we have a specific part of our brain that isn't spiking, which allows us to sleep?
 * For the article on dendritic computations, The argument presented single neurons and their dendrites as processors within processors. Apparently dendrites have their own activation thresholds, have localized spikes, and can act as AND gates. Given that neurons were considered as simple switches, could this effect neuroscience further than incorrect models? Wouldn't there be computational or functional assumptions that rely on the basis of "dumb neurons"?
-* I'm curious as to how these excitatory and inhibitory synapses relate to energy levels, and being tired or more awake, and then how this relationship gets effected by addictions (if it is a more direct relationship). For example, in your second lecture, you explain how when there is no spiking (no excitatory actions) then people are pretty much in a coma, and when everything is spiking (no inhibitory actions) then people will be seizuring. Is the ratio or level of excitatory vs. inhibitory changing depending on how awake you are, like in the AM are less excitatory synapses firing than later in the day?  And also how do supplements effect this ratio? Like when you drink coffee and get the jitters, is this related to a higher level of excitatory synapses firing?
 * If some neurons shoulder more than others, could there be smarter clusters of neurons?
 * The two readings on ethology and neuroethology make me wonder about the specific relationship that psychology and modern psychoanalysis have with older fields of ethology and zoology. Does modern psychology come as a direct result of broad studies in behavioral patterns such as aggression/emotional regulation? Or, did this question of the mind come side by side ethology?
 * It seems like more often in neurology, neuroethology involves studying species that aren’t usually considered “lab species”. Consequently, are there more often ethical dilemmas that scientists face or critics raise? Does studying more “complex” species give rise to greater ethical questions? How could we not then question our study of “lower” life forms? 
@@ -223,16 +221,31 @@ Questions from last week?
 
 Selected student questions:
 
-* In your second lecture on CPGs, when you were discussing other possible CPGs that humans have, I was curious about where habits come in, or in other words, actions that seem sub-conscious but are not inherent, and are repeated. For example, when people are biting their nails, or tapping their foot, or twirling their hair/beard, they are most of the time not conscious of the fact that they are doing it. Are these formed habits making connections with the spinal chord without going to the brain? Or are they simply so frequent that our brain makes the decision to do it and its just like not a big deal. I'm really just curious as to where we can start to draw a line between human actions that do not involve the brain, and are also not innate actions for every human. 
-* The readings and the first lecture make me think about complex vs simple organisms and the various behaviors that get more complicated as the organism's makeup is more complicated. Do we, as humans, have any complex reflex/CPG that mirrors the Mauthner Cell? We obviously don't have a built-in escape behavior but does say, the hair standing on the back of your neck, "the gut feeling", show a complicated, more refined incarnation of the Mauthner Cell? 
 * If fish only a few hours old is able to escape danger quickly depending on having large neuron that functions at the same level as the adult fish, my question then is what about the human babies that make them so slow and unable to react to danger, even at a year old their reaction to pain seems to be delayed, should I assume that a larger multicellular brain is responsible. Also, is the inhibitor neurons more active in a human baby? 
 * While fish cannot be schizophrenic, they still clearly experience frightening situations, and respond to them in a similar way to humans; also, by using certain medications we can simulate how, if a fish had schizophrenia, its PPI would lessen. Just like in humans, they require an inhibitory mechanism to stop an overly strong reaction to a situation that is not actually scary, or else they would be too overwhelmed to function. So, to what extent does the drug-induced state in fish resemble schizophrenia? Is the fish's baseline "anxiety" higher with this drug than it would normally be? I'm wondering how fish experience fear.
-*  I think I've heard of reflective walking behavior in newborns where they are held about a projection of moving dots to simulate the visuals of walking and their limbs responded in a walking sort-of motion? This video said there wasn't any physical stimuli needed, just visual (From a netflix series about babies). I'm curious about other reflexes that are observed in infants that disappear in adults- why do they disappear? Developmentally it makes sense that eventually babies don't need to grasp/suck on everything because they learn, but what happens neurologically that results in these reflexes going away?
-* Another question about motion but not locomotion- I like to sew while listening to video lectures sometimes. That is a learned skill not as innate as walking (probably) but it follows a similar pattern of looping and cyclical changes, and you can move faster/slower and begin to run on "autopilot" after a while. Is the regulation of this kind of rhythm the related to the regulation of walking/breathing/etc?
 
 ## Class 2
 
-Maybe?: 💡 QUIZ: Inhibitory synapse (bubbles)
+💡 QUIZ: Inhibitory synapse (bubbles)
+
+Discuss together:
+
+* I think I've heard of reflective walking behavior in newborns where they are held about a projection of moving dots to simulate the visuals of walking and their limbs responded in a walking sort-of motion? I'm curious about other reflexes that are observed in infants that disappear in adults- why do they disappear? Developmentally it makes sense that eventually babies don't need to grasp/suck on everything because they learn, but what happens neurologically that results in these reflexes going away?
+* Another question about motion but not locomotion- I like to sew while listening to video lectures sometimes. That is a learned skill not as innate as walking (probably) but it follows a similar pattern of looping and cyclical changes, and you can move faster/slower and begin to run on "autopilot" after a while. Is the regulation of this kind of rhythm the related to the regulation of walking/breathing/etc?
+* To what degree can CPG's function like "clocks?" Are they only useful for short-term rhythmic signaling like walking? I'm thinking of the circadian rhythm, and especially sleep cycles. I've read that brain activity normally follows a kind of sleep pattern, where different brainwaves are more prevalent at different times after falling asleep, and how this is related to REM sleep. Does something like a CPG govern how long the brain stays in each stage of sleep? Or am I totally off the mark, and sleep is way more complicated than CPGs can handle? 	
+* Also a somewhat related question from last week:
+  * I'm curious as to how these excitatory and inhibitory synapses relate to energy levels, and being tired or more awake, and then how this relationship gets effected by addictions (if it is a more direct relationship). For example, in your second lecture, you explain how when there is no spiking (no excitatory actions) then people are pretty much in a coma, and when everything is spiking (no inhibitory actions) then people will be seizuring. Is the ratio or level of excitatory vs. inhibitory changing depending on how awake you are, like in the AM are less excitatory synapses firing than later in the day?  And also how do supplements effect this ratio? Like when you drink coffee and get the jitters, is this related to a higher level of excitatory synapses firing?
+  * Do we have less spiking in the brain when we study for Neuro class, as opposed to being idle, or watching Netflix?
+* Also:
+  * When watching your lecture, after reading the wiki articles and the various videos on the patellar reflex, I was reminded of and thought of a strange sensation that I sometimes experience, which is when I am on the edge of sleep and something, maybe a reflex (?) jolts my body. This jolt brings me out of sleep and wakes me a bit. I have heard of other people experiencing this phenomenon as well. Is this connected to a neurological reflex, or would this be connected to a spinal signal? Is the Mauthner cell involved in this? 
+  * https://en.wikipedia.org/wiki/Hypnic_jerk
+
+Comment on:
+
+* what makes me still uneasy is that unpredictability only exists because of the danger of predictability. it seems more to be a codependence and is still very reactionary…
+* Also:
+  * In your lecture on small networks, you talked about the tentacled snake, that tricks fish into escaping into its mouth.  How did this species evolve neurologically?  Was the escape pattern of the fish so predictable that the species "observed" how the fish could easily be caught?  And are fish in the Southeast Asian seas better at escaping because their predators are smarter than in other parts of the world?  You said that randomness can be generated through neurons being developed that create noise.  How would this look in the neurological development of fish who were preyed upon by tentacled snakes?
+*  If humans come from a fish, does the fast escape response in fish equate to our reflexes as humans now? did we once have this reflex/did it just change or disappear through evolution?
 
 💎 *Prepping for next week:*
 
@@ -277,24 +290,19 @@ The due date for this lab is the end of this week. Best of luck, and may the gam
 
 # Neural Coding
 
-1) Match the names to the codes
-2) So, what would be the upsides and downsides of each coding system? When (where?) would you expect to find them in the brain?
+💡 Quiz: Match the names to the codes
+
+(now as we know which coding system is which:) 
+
+* So, what would be the upsides and downsides of each coding system? 
+* Where would you expect to find each of them in the brain?
+* Which one (or ones?) are most common (guess!), which ones are less common? Why?
 
 Make wild guesses about what systems in the brain could be most likely to use temporal and phase codes
 
 # Chemical Senses
 
-> Given that different sensations can signify danger why have we come to enjoy sensations that previously could indicate something that could kill us like tasting bitterness for instance?
-
-Also briefly comment that it's dangerously short.
-
-> After watching last two lectures, I am thinking about how our senses "decay" after repeated long-term stimulation. For example, when we get into a room that stinks, in the beginning we might feel disgusted. But, after a while, we won't notice this smell anymore. So, is it our neurons that gradually get tired to transfer this information to the brain? Or does the threshold for detecting the smell increase? Or do we somehow "get used to the smell"?
-
-> You also discussed how when a receptor is used it gets stronger, like strengthening a muscle, over time and reversely when a receptor isn’t utilized it weakens and eventually dies out. 
-
-This statement above is only half-true. Please discuss, 1) what is true in it, 2) what is not, 3) how to fix it? How to change it, to make it better reflect the reality of how our brains work?
-
-> As for reasons to why we have a second nostril, could another reason be that we have a second nostril as backup for if the other nostril is clogged? Personally, when I am sick only one nostril gets stuffy and I'm able to catch a little breath through the other nostril that's not clogged and my mouth, so I don't know I was just curious if that could be another reason for why we have pairs of body parts.
+💡 Quiz: coronal saggital etc.
 
 **End:** be ready for the lab, have a ruler and some two-pointy device (like a compass, a well-controlled clip, or something like that)
 

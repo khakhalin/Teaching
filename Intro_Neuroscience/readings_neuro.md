@@ -260,6 +260,10 @@ Readings:
   * https://www.youtube.com/watch?v=UuRcQygrs0E
   * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
+A bit tangential, but vaguely related: do we have an "internal sense" for measuring the level of oxygenation in our blood? Dolphins can do that apparently. Can we? Watch this video and make a guess:
+
+* A VIDEO OF HYPOXIA
+
 # Hearing week 1: The Ear
 
 Videos:

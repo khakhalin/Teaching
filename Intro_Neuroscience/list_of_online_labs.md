@@ -158,6 +158,29 @@ http://www.foddy.net/Athletics.html
 
 Post your personal record, and the reflection on your strategy. Was it hard? Was it easy? How come you can walk at all if controlling flexors and extensors is that hard?
 
+# Animal Behavior
+
+## Zooniverse projects
+
+* Bird nesting:  https://www.zooniverse.org/projects/spotteron/nestcams
+* Identify dolphin sounds: https://www.zooniverse.org/projects/cetalingua/dolphin-chat (really high-frequency, so may be impossible to do even with a mild hearing impairment)
+* Whale sounds: https://www.zooniverse.org/projects/cetalingua/whale-chat/about/research (much lower frequency, so easier to do)
+* Rodent behavior: : https://www.zooniverse.org/projects/r-dot-bains/rodent-little-brother-secret-lives-of-mice (as of spring 2021 is out of data, so you can only do the tutorial)
+
+## Free observation
+
+One can build a behavioral lab around any long video of animal behavior. Try students to develop an ethogram? Identify what behaviors are even there? Actually quantify something? Ask a sort of a tiny research question?
+
+Some sample videos: 
+
+1. 3 hours of Bees in a hive: https://www.youtube.com/watch?v=jpZR1xDsQiw
+2. 1 hour of ants on an anthill: https://www.youtube.com/watch?v=CrBD-XpHm1o
+3. 1 hour of ants leaving and entering an underground colony: https://www.youtube.com/watch?v=O0MGSbZoVfs
+4. 12 hours of birds coming to a feeder: https://www.youtube.com/watch?v=foJ9L3Dsrpk
+5. 30 minutes of a penguin colony: https://www.youtube.com/watch?v=6It83thrsQ0
+6. 11 hours video of a seagull colony: https://www.youtube.com/watch?v=d4N4PyXioKs
+7. 3 hours of some random fish tank: https://www.youtube.com/watch?v=KLMhVJlOb3E
+
 # Perception
 
 ## Face attractiveness

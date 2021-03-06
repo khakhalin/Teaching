@@ -130,16 +130,16 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Feb 19   | Practical intro to machine learning from Google              | none       |
 | Feb 26   | DL ♥ Neuro success story: convolutional networks             | 1          |
 | Mar 05   | Convolutional networks vs biological vision                  | 2          |
-| Mar 12   | How DL is not Neuro (differences in the nature of training)  | 3          |
+| Mar 12   | DL from the Neuro point of view (what brains can do that DL struggles with) | 3          |
 | Mar 19   | **Respite** (we don't meet)                                  |            |
-| Mar 26   | How Neuro is not DL (gradient descent in the brain)          | 4          |
+| Mar 26   | Neuro from the DL point of view (what DL can do what brains struggle with) | 4          |
 | Apr 02   | Modern synthesis: DL and Neuro informing each other          | 5          |
-| Apr 09   | Neuromorphic engineering                                     | 6          |
-| Apr 16   | ? Interpretability in DL and Neuro                           | 7          |
-| Apr 23   | ? Single neurons as Deep Networks                            | 8          |
-| Apr 30   | ? That paper about error signal in the cortex?               | 9          |
+| Apr 09   | Single neurons as Deep Networks                              | 6          |
+| Apr 16   | Neuromorphic engineering                                     | 7          |
+| Apr 23   | ? That paper about error signal in the cortex? (Gillon 2021) | 8          |
+| Apr 30   | ? Interpretability in DL and in the brain?                   | 9          |
 | May 07   | **Advising week** (we don't meet)                            |            |
-| May 14   | ? Vision and convnets revisited (recent disagreements?)      | 10         |
+| May 14   | ?                                                            | 10         |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
 
 # Detailed Weekly Schedule
@@ -319,16 +319,17 @@ Decided against:
 * Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology' reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4.
 * Yamins, D. L. K. et al. Performance-optimized hierarchical models predict neural responses in higher visual cortex. Proceedings of the National Academy of Sciences 111, 8619–8624 (2014). http://www.pnas.org/content/111/23/8619.full.pdf.
 
-## 6. How modern DL is not like Neuro
+### Class plan
 
-Possible papers:
+Start with a reminder that it's a low-stakes 2-credits event outside of our comfort zone, so the expectations should be set accordingly :)
 
-Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7.
+## 6. What brains can do that DL struggles with
 
-Bengio, Y., Lee, D. H., Bornschein, J., Mesnard, T., & Lin, Z. (2015). Towards biologically plausible deep learning. arXiv preprint arXiv:1502.04156. https://arxiv.org/pdf/1502.04156.pdf
-Mathy, then mnist. Note that it is a bit dated at this point. 🟢
+Zador, A. M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. Nature communications, 10(1), 1-7. https://www.nature.com/articles/s41467-019-11786-6
 
-## 7. How Neuro is not like DL (backprop, credit)
+Sinz, F. H., Pitkow, X., Reimer, J., Bethge, M., & Tolias, A. S. (2019). Engineering a less artificial intelligence. Neuron, 103(6), 967-979. http://xaqlab.com/wp-content/uploads/2019/09/LessArtificialIntelligence.pdf
+
+## 7. What DL can do that Neuro struggles with
 
 Is there "Deep learning" in the brain?
 
@@ -356,20 +357,34 @@ Probably / Maybe:
   Quite popular.
 * 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
   https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
-  Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?Options for the rest of the semester
+  Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?
 
-## 9. Neuromorphic engineering
+## 9. Single neurons as Deep Networks
 
-Possibly / Maybe:
+🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
 
-* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020
-  https://www.sciencedirect.com/science/article/pii/S089662732100009X?dgcid=coauthor
+🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
+https://arxiv.org/abs/2009.01269
+
+## 10. Neuromorphic engineering
+
+🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020
+https://www.sciencedirect.com/science/article/pii/S089662732100009X?dgcid=coauthor
+
+Also some intro to neuromorphic stuff, or a simple demo paper?
+
+## Self-supervised learning
+
+Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
+https://arxiv.org/abs/1803.10122
 
 ## Intrepretability in DL and Neuro
 
 Some stuff on core ML interpretability #todo
 
 Distill simulations on interpretability #todo
+
+Also this: https://distill.pub/2021/multimodal-neurons/
 
 Maybe in ethics intro as well, if there's a short one? tbc.
 
@@ -401,19 +416,12 @@ However, also some positive spins:
 
 * 🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
 
-## Curriculum learning and dataset uptimization
+## Curriculum learning and dataset optimization
 
 Some basic info on curricula?
 
 🟢  An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
 Twitprint: https://twitter.com/TimKietzmann/status/1362056712711254017
-
-## Single neurons as Deep Networks
-
-🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
-
-🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
-https://arxiv.org/abs/2009.01269
 
 ## Transformers, and comparison with brain activation?
 
@@ -449,7 +457,7 @@ https://www.sciencedirect.com/science/article/pii/S0896627312009920
 Deep neuroethology of a virtual rodent
 Josh Merel, Diego Aldarondo, Jesse Marshall, Yuval Tassa, Greg Wayne, Bence Ölveczky
 https://arxiv.org/abs/1911.09451
-Apparently create a vidrual 3D rodent (like, with muscles, joints and what not), make it move in virtual environment, learn to move, then study its network using neuro methods.
+Apparently create a virtual 3D rodent (like, with muscles, joints and what not), make it move in virtual environment, learn to move, then study its network using neuro methods.
 
 Yujin Tang, Duong Nguyen, David Ha (2020). Neuroevolution of Self-Interpretable Agents
 https://attentionagent.github.io/
