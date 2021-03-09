@@ -35,8 +35,8 @@ In this course we will:
 As we are still in a pandemic, with new strains emerging, the course is online-only. 
 
 * We will use **Piazza** for offline work (see more info below). I will post assignments there, and collect your responses (typically, questions you had, that you would like to discuss in class). But we can also use it as a Q&A, or even a discussion forum.
-* We'll have **weekly Zoom calls**, discussing papers. Generally, we'll try to have **one paper a week**, unless there's some background that needs to be taken from a different paper, or a review on a topic.
-* Except for the first 3 classes, **every week we'll have 3 people responsible for presenting a paper**. One person to provide the background, one person to describe the methods, and the third one to explain the results. Each of these three presentations should last for 5-7 minutes, so that we had time for questions (It's 1:20 total, so with ~5 minutes lost, and 20 minute for the presentation, we'll have ~50 minutes for asking questions and figuring things out together.)
+* We'll have **weekly Zoom calls**, discussing papers. Generally, we'll try to have **1-2 papers a week**, and maybe some background materials to look through, but not necessarily read in detail.
+* Except for the first 3 classes, **every week we'll have 3 people responsible for guiding us through a paper**. See below for details.
 
 > 💡 **On time commitment:** You might have heard from me before that, in my opinion, a full 4-credits course should take about 10 hours of work a week for one full course. The logic is simple: full-time learning should be equivalent to full-time work; both because a full-time working week is known to be doable (not too long, not too short), and because it gives people enough spare time to  care about their family, side job, hobbies, social life, or whatever. A full-time job is 40 hours a week, and a "full load" in college is 4 full courses per semester, therefore 1 full course should take about 10 hours a week, total.
 >
@@ -75,11 +75,20 @@ If Piazza is down, send me an email. We'll switch to emails temporarily, until i
 
 The most regular and predictable assignment for this course will be the **weekly reading reflection**, or **weekly question**. Every week, as you read the paper(s), I will ask you to write down the questions that you have. Then try to answer some of these questions yourself, using Googling and common sense. But once the time is up, and you cannot struggle any more, or if you feel that you really hit a wall, post the remaining questions on Piazza. We'll try to tackle them in class together!
 
-## Presentations
+## Presentations (guiding through a paper)
 
-As described above, papers will be presented by triads of people. I will assign these groups of 3, for every week, and you will need to decide who presents the **background**, who does the **methods**, and who does the **results**. Each presenter should talk for no more than 5-7 min, so that the entire presentation would last for about 20 minutes. Then we'll have a discussion.
+When guiding the class through a paper, **let's assume that everyone in class have read them**. Which means that you don't need to present papers as you typically present things in most other classes. No need to do an introduction, no need to cover every detail. This topic is a not new for the room; everyone have read the same paper! So your role is more of a facilitator than of a presenter.
 
-With ~18 students and 3 students per group, it will take 6 weeks to give everyone a chance to present. We however will have only 10 weeks with presentations. Which means that most people will present twice, but some of you will only present once. Unless we do more than one paper on some days; say, a review / background paper, and a main paper. We'll see!
+Do the following instead:
+
+1. Give a **very brief overview**. Very brief. More like a reminder. Literally 1-2 minutes, not more. Main point of the paper. Main take-home message, or main weird quality of it.
+2. Then go through the paper, but **only cover things that are** either
+   - really **cool**, and thus HAVE to be mentioned
+   - really **confusing**, and you got them, and are proud of that, and want to share
+   - really confusing, and you are still confused, and want to discuss it as a group
+3. That's it. Only these parts! **Skip everything that is boring, irrelevant, or feels like a repetition.** We dont' have that much time in class, so let's concentrate on things that are important! Don't try to discuss every paragraph, every idea, and every figure. (But maybe mention why you are skipping this or that - is it because it feels like a tangent? Or is it because it's boring? Both are valid reasons to skip a segment, but it's cool for us to know :)
+4. If you want to show external images, feel free ot make a presentation. If not, **just show the paper**, maybe marked-up with yellow (it's possible to use highligher in most pdf readers). And let's talk about it. If you are confused, try to formulate what is it that makes this part confusing. If you have some ideas, but are not sure if they are right, deascribe these ideas, before asking the room four their inputs :)
+5. Before class, consider reading questions on Piazza, and use them to guide your presentation. It may be super-hepful!
 
 # Grading
 
@@ -123,24 +132,24 @@ I will continue to improve this syllabus during the semester, to make the course
 
 Please see a list of detailed week-by-week readings below, but ultimately the most recent correct version will always be posted on Piazza, with a `homework` tag.
 
-| **Week** | Topics / Papers                                              | Presenters |
-| -------- | ------------------------------------------------------------ | ---------- |
-| Feb 05   | Intro to neuro                                               | none       |
-| Feb 12   | Theoretical Intro to deep learning                           | none       |
-| Feb 19   | Practical intro to machine learning from Google              | none       |
-| Feb 26   | DL ♥ Neuro success story: convolutional networks             | 1          |
-| Mar 05   | Convolutional networks vs biological vision                  | 2          |
-| Mar 12   | DL from the Neuro point of view (what brains can do that DL struggles with) | 3          |
-| Mar 19   | **Respite** (we don't meet)                                  |            |
-| Mar 26   | Neuro from the DL point of view (what DL can do what brains struggle with) | 4          |
-| Apr 02   | Modern synthesis: DL and Neuro informing each other          | 5          |
-| Apr 09   | Single neurons as Deep Networks                              | 6          |
-| Apr 16   | Neuromorphic engineering                                     | 7          |
-| Apr 23   | ? That paper about error signal in the cortex? (Gillon 2021) | 8          |
-| Apr 30   | ? Interpretability in DL and in the brain?                   | 9          |
-| May 07   | **Advising week** (we don't meet)                            |            |
-| May 14   | ?                                                            | 10         |
-| May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |            |
+| **Week** | Topics / Papers                                              |
+| -------- | ------------------------------------------------------------ |
+| Feb 05   | Intro to neuro                                               |
+| Feb 12   | Theoretical Intro to deep learning                           |
+| Feb 19   | Practical intro to machine learning from Google              |
+| Feb 26   | DL ♥ Neuro success story: convolutional networks             |
+| Mar 05   | Convolutional networks vs biological vision                  |
+| Mar 12   | DL from the Neuro point of view (what brains can do that DL struggles with) |
+| Mar 19   | **Respite** (we don't meet)                                  |
+| Mar 26   | Neuro from the DL point of view (what DL can do what brains struggle with) |
+| Apr 02   | Modern synthesis: DL and Neuro informing each other          |
+| Apr 09   | Single neurons as Deep Networks                              |
+| Apr 16   | Neuromorphic engineering                                     |
+| Apr 23   | ? That paper about error signal in the cortex? (Gillon 2021) |
+| Apr 30   | ? Interpretability in DL and in the brain?                   |
+| May 07   | **Advising week** (we don't meet)                            |
+| May 14   | ?                                                            |
+| May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |
 
 # Detailed Weekly Schedule
 
@@ -150,7 +159,7 @@ Crash course Neuroscience. **Terms you need to know and vaguely understand** (at
 
 Main resource: Wikipedia + Google image search 😉
 
-Optional extra materials:
+Optional extra materials:	
 
 * My "Introduction to Neuroscience course" (video lectures): https://www.youtube.com/playlist?list=PLOdJKIwLQzBeTkMxjpFq5Ytzn89t0VayG
 * U Texas free neuroscience textbook: https://nba.uth.tmc.edu/neuroscience/
@@ -382,9 +391,12 @@ https://arxiv.org/abs/1803.10122
 
 Some stuff on core ML interpretability #todo
 
-Distill simulations on interpretability #todo
+Distill simulations on interpretability:
 
-Also this: https://distill.pub/2021/multimodal-neurons/
+* https://distill.pub/2017/feature-visualization/
+* https://distill.pub/2018/building-blocks/
+* https://distill.pub/2020/circuits/curve-detectors/
+* https://distill.pub/2021/multimodal-neurons/
 
 Maybe in ethics intro as well, if there's a short one? tbc.
 

@@ -227,42 +227,68 @@ Advanced reading:
 - Review on Central Pattern Generators: [https://www.cell.com/current-biology/pdf/S0960-9822%2801%2900581-4.pdf](https://www.cell.com/current-biology/pdf/S0960-9822(01)00581-4.pdf)
 - Review about M-cells: https://core.ac.uk/download/pdf/82507508.pdf
 
-Videos that I opted not to post:
+*Videos that I opted not to post:*
 
 * Decerebrate cat on a treadmill, BW video from 1960s: https://www.youtube.com/watch?v=wPiLLplofYw 
-
-
 
 As usual, once you are ready, please post your questions (honest questions, with enough info for me to undestand your thinking) as a follow-up for this post. Please make them "Unresolved"; I'll "Resolve" them as I read / answer them. Ideally, do it by Sunday 11 pm, but if it's impossible, then do it by Wednesday 11 pm. 
 
 ## Labs: Motor control and Being random
 
-.
+Dears, this week's labs are both virtual, and will take about an hour of your time. It's two simple games that both are almost impossible to win (sorry for that :)
+
+**Part 1: Try to be random**
+
+Please visit this link: https://www.expunctis.com/2019/03/07/Not-so-random.html 
+
+Read the description, and play the game several times (every time just reload the page).
+
+In short, if you manage to be unpredictable, you win. But if you behave similarly to how you have behaved in the past, you lose. Use arrow keys for "left" and "right", and watch the plot to track your "money". Play the game, and count how many clicks it takes you to lose your first 60 bucks (the moment when the balance of 940 becomes visible on the Y-axis for the first time as you start with 1000 virtual dollars in your pocket).
+
+Try at least 2 different strategies. Which strategy worked better?
+
+**Part 2: Try to be a CPG**
+
+Visit this link: http://www.foddy.net/Athletics.html 
+
+Read the description. Then play the game.
+
+Your goal for this lab it pass the 5 meters mark. (Not even 100 meters. Not even "run"). Just, in any way, dead or alive, pass the 5 meters mark :)
+
+Suffer for at least 10 full minutes. Try different techniques. Then if everything fails, watch some youtube tutorials (easily findable). Then suffer some more. Try again and again, exploring different strategies, until you cross the 5 meters mark, or you have worked on it for 30 minutes straight, whichever comes first :)
+
+**Writing response**
+
+For each lab, write a paragraph, describing at least two different strategies that you tried in this lab, and how productive they were. Then meditate for 10 minutes, and add one more sentence, describing how it relates to our understanding of the brain, life, and ourselves ;)
+
+Feel free to post screenshots to document your success (or the lack thereof haha, it's also fun :)
 
 # Senses. Touch. Neural coding
 
-Videos:
-
-* My lectures:
-  * Sensory systems and coding (50 min): https://www.youtube.com/watch?v=gIfzuS3Ish8
-  * Taste, Smell, Touch, and non-human senses (1 h 20 min): https://www.youtube.com/watch?v=dn_MgCFzCQA
-
-* True facts about the Star-Nosed mole: https://www.youtube.com/watch?v=fio1NUxszhY
-* Whisking behavior: https://www.youtube.com/watch?v=Sf9ej0LBn9g
-
-Readings:
+Textbook-like readings:
 
 * https://en.wikipedia.org/wiki/Sense
 * https://en.wikipedia.org/wiki/Neural_coding
+
+Videos:
+
+* **My lectures:**
+  * Sensory systems and coding (50 min): https://www.youtube.com/watch?v=gIfzuS3Ish8
+  * Taste, Smell, Touch, and non-human senses (1 h 20 min): https://www.youtube.com/watch?v=dn_MgCFzCQA
+
+* True facts about the Star-Nosed mole (3 min): https://www.youtube.com/watch?v=fio1NUxszhY
+* Whisking behavior (<1 min): https://www.youtube.com/watch?v=Sf9ej0LBn9g
+
 * Living without proprioception, including touch (!), relying only on vision, and performing every movement consciously (Ian Waterman):
-  * https://www.youtube.com/watch?v=pMEROPOK6v8
-  * https://www.youtube.com/watch?v=5_4wxtSmIvI
-  * https://www.youtube.com/watch?v=UuRcQygrs0E
-  * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video, but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
+  * https://www.youtube.com/watch?v=pMEROPOK6v8 (4 min)
+  * https://www.youtube.com/watch?v=5_4wxtSmIvI (2 min)
+  * https://www.youtube.com/watch?v=UuRcQygrs0E (2 min)
+  * https://www.youtube.com/watch?v=UWKaTNYnwAI - a longer video (50 min), but also telling a more complete story, including Ian Waterman's recollection of how he approached the project of relearning to use his own body
 
-A bit tangential, but vaguely related: do we have an "internal sense" for measuring the level of oxygenation in our blood? Dolphins can do that apparently. Can we? Watch this video and make a guess:
+A bit tangential, but vaguely related: do we have an "internal sense" for measuring the level of oxygenation in our blood? Dolphins can do that apparently. Can we? Watch these videos, and make a guess:
 
-* A VIDEO OF HYPOXIA
+* One version of this experiment (5 min): https://www.youtube.com/watch?v=n_MI9UiYwJA
+* Smarter Every Day, better quality, but less dramatic, and with a longer intro (10 min): https://www.youtube.com/watch?v=kUfF2MTnqAw
 
 # Hearing week 1: The Ear
 
