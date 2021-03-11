@@ -338,6 +338,10 @@ Zador, A. M. (2019). A critique of pure learning and what artificial neural netw
 
 Sinz, F. H., Pitkow, X., Reimer, J., Bethge, M., & Tolias, A. S. (2019). Engineering a less artificial intelligence. Neuron, 103(6), 967-979. http://xaqlab.com/wp-content/uploads/2019/09/LessArtificialIntelligence.pdf
 
+### Class plan
+
+Should we talk about data augmentation?
+
 ## 7. What DL can do that Neuro struggles with
 
 Is there "Deep learning" in the brain?
