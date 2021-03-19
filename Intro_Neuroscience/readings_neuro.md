@@ -294,13 +294,13 @@ A bit tangential, but vaguely related: do we have an "internal sense" for measur
 
 Videos:
 
+* Main video (Auditory transduction); short (6 min), but critical; watch it 2 times maybe? One time before anything else, and then once again after!: https://www.youtube.com/watch?v=PeTriGTENoc
 * My lecture (1h 10 min): https://www.youtube.com/watch?v=Q6b9k8DitHM
 
-- Main video (Auditory transduction): https://www.youtube.com/watch?v=PeTriGTENoc
 - Dancing hair cell (electromechanical transformation): https://www.youtube.com/watch?v=Xo9bwQuYrRo 
 - A video on cochlear implants: https://www.youtube.com/watch?v=icPsm9RnO2E
 - Hearing loss simulator: http://auditoryneuroscience.com/prosthetics/hearing-loss-simulator
-- Shepard's tone: https://www.youtube.com/watch?v=BzNzgsAE4F0
+- Shepard's tone. Can you figure out how it works?: https://www.youtube.com/watch?v=BzNzgsAE4F0
 
 Advanced
 

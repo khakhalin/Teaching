@@ -145,11 +145,13 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Apr 02   | Modern synthesis: DL and Neuro informing each other          |
 | Apr 09   | Single neurons as Deep Networks                              |
 | Apr 16   | Neuromorphic engineering                                     |
-| Apr 23   | ? That paper about error signal in the cortex? (Gillon 2021) |
-| Apr 30   | ? Interpretability in DL and in the brain?                   |
+| Apr 23   | Interpretability in DL and in the brain                      |
+| Apr 30   | GPT and the criteria for "understanding" (Gary Marcus)       |
 | May 07   | **Advising week** (we don't meet)                            |
-| May 14   | ?                                                            |
+| May 14   | Ethics in AI                                                 |
 | May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |
+
+? That paper about error signal in the cortex? (Gillon 2021)
 
 # Detailed Weekly Schedule
 
@@ -344,14 +346,25 @@ Should we talk about data augmentation?
 
 ## 7. What DL can do that Neuro struggles with
 
-Is there "Deep learning" in the brain?
+Main question: Is there "Deep learning" in the brain? In the sense of "Backpropagation-driven modern deep learning"?
 
-* 🟢  Guerguiev, J., Lillicrap, T. P., & Richards, B. A. (2017). Towards deep learning with segregated dendrites. ELife, 6, e22901. https://elifesciences.org/articles/22901.pdf
+A review to read:
 
-* 🟢 Backpropagation and the brain. Timothy P. Lillicrap, Adam Santoro, Luke Marris, Colin J. Akerman & Geoffrey Hinton (2020) https://www.nature.com/articles/s41583-020-0277-3
+* Lillicrap, T. P., Santoro, A., Marris, L., Akerman, C. J., & Hinton, G. (2020). Backpropagation and the brain. Nature Reviews Neuroscience, 21(6), 335-346. https://brainscan.uwo.ca/research/cores/computational_core/uploads/11May2020-Lillicrap_NatNeuroRev_2020.pdf
+
+An experimental paper on this topic. Get the gist of it: read the abstract, understand the figures, the key method they used, the take-home message, and the applications for the topic of this class (Brains vs Deep Learning).
+
+* Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
+  https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1 
+  Tweetstorm: https://twitter.com/colleenjgillon/status/1351557910439059457 (it's like an abstract, but for normal humans, and with an occasional meme every now and then :)
+
+Also, give this online discussion a look (especially the 1st answer, summarizing the problems that backprop would face in the brain), but of course don't feel obliged to read any of the studies they cited:
+
 * https://psychology.stackexchange.com/questions/16269/is-back-prop-biologically-plausible
 
 ## 8. Attempts of synthesis: DL as a model for Neuro
+
+As both papers for this week are reviews, and as much of what is written in these reviews is a repetition of ideas and concerns that we were talking for about a month now, please, try to distill from these papers everything that is new. All ideas that we haven't discussed before, and need to discuss now. Also, put a bit more attention to technical details; maybe even try to look into 1-2 key results that these papers describe. Hunt for new facts and ideas, and for your attitude towards these facts and ideas! :)
 
 For sure:
 
@@ -362,15 +375,18 @@ Related:
 
 * "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
 
-Probably / Maybe:
+Probably also:
+
+* 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
+  https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
+  Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?
+
+Maybe:
 
 * 🟢 Marblestone, A. H., Wayne, G., & Kording, K. P. (2016). Toward an integration of deep learning and neuroscience. Frontiers in computational neuroscience, 10, 94. https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
 
 * 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
   Quite popular.
-* 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
-  https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
-  Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?
 
 ## 9. Single neurons as Deep Networks
 
@@ -386,12 +402,7 @@ https://www.sciencedirect.com/science/article/pii/S089662732100009X?dgcid=coauth
 
 Also some intro to neuromorphic stuff, or a simple demo paper?
 
-## Self-supervised learning
-
-Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
-https://arxiv.org/abs/1803.10122
-
-## Intrepretability in DL and Neuro
+## 11. Intrepretability in DL and Neuro
 
 Some stuff on core ML interpretability #todo
 
@@ -411,9 +422,37 @@ Other options:
 * 🟢 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
   A series of short papers trying to understand and describe how a DLL vision model works, by looking at its tuning, neuron by neuron. (Would it make a good paper for a neuro class?)
 
+## 12. Large language models
+
+.
+
+## 13. Ethics in AI
+
+We may for example have 1 review, and then several micro-topics
+
+* language models (from the previous class)
+* routine data science (finances, insurance, predictive policing)
+* AI in social networks, political effects
+* Medical AI
+* Self-driving cars (computer vision)
+
+# Topics that were considered, but didn't make it
+
+## Self-supervised learning
+
+Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
+https://arxiv.org/abs/1803.10122
+
 ## Representation and autoencoders
 
 A lecture on representation from Neuromatch academy: https://www.youtube.com/watch?v=VwSnDJZekQ4
+
+## Curriculum learning and dataset optimization
+
+Some basic info on curricula?
+
+🟢  An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
+Twitprint: https://twitter.com/TimKietzmann/status/1362056712711254017
 
 ## Vision and convnets revisited
 
@@ -432,23 +471,9 @@ However, also some positive spins:
 
 * 🟢 Pospisil, D. A., Pasupathy, A., & Bair, W. (2018). 'Artiphysiology'reveals V4-like shape tuning in a deep network trained for image classification. Elife, 7, e38242. https://elifesciences.org/articles/38242 - They seem to claim that CNN deep layer neurons selectivity is actually similar to primate V4... Only 30 citations tho...
 
-## Curriculum learning and dataset optimization
+# Other Cool papers
 
-Some basic info on curricula?
-
-🟢  An ecologically motivated image dataset for deep learning yields better models of human vision https://www.pnas.org/content/118/8/e2011417118
-Twitprint: https://twitter.com/TimKietzmann/status/1362056712711254017
-
-## Transformers, and comparison with brain activation?
-
-??? Is it a viable option ???
-
-# Other Potential papers
-
-🔥  Gillon, C.J., Pina, J.E., Lecoq, J.A., Ahmed, R., Billeh, Y., Caldejon, S., Groblewski, P., Henley, T.M., Lee, E., Luviano, J. and Mace, K., 2021. Learning from unexpected events in the neocortical microcircuit. bioRxiv.
-https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1 
-Tweetstorm: https://twitter.com/colleenjgillon/status/1351557910439059457
-Unsupervised novelty detection in the visual cortex; a convergence of top-down and bottom-up signaling on 2 different sets of dendrites. May be a cool example of a research paper that's immediately relevant.
+Guerguiev, J., Lillicrap, T. P., & Richards, B. A. (2017). Towards deep learning with segregated dendrites. ELife, 6, e22901. https://elifesciences.org/articles/22901.pdf
 
 Perez-Nieves, N., Leung, V. C., Dragotti, P. L., & Goodman, D. F. (2020). Neural heterogeneity promotes robust learning. bioRxiv.
 https://www.biorxiv.org/content/10.1101/2020.12.18.423468v1

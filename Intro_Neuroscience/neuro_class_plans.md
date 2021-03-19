@@ -290,6 +290,28 @@ The due date for this lab is the end of this week. Best of luck, and may the gam
 
 # Neural Coding
 
+## Class 1: Senses
+
+Questions:
+
+* Do senses develop/grow as animals age? For example, what's the difference between a baby versus an adult in how well they're able to use their senses. I assume as we run into specific stimuli (prick of needles, the smell of something burning, the sound of a dog barking) our brain learns what these things mean and we can use that to our advantage; but what about the actual ability to sense stimuli? Are babies more sensitive to stimuli and can smell or taste better than an adult can? Do our brains help us tune our senses as we grow?
+* In the second lecture, you talked about how our sensing of bitterness in taste is sort of similar to our perception of pain–– in that both signal that an external stimulus is hurtful. This idea of distinguishing whether things that you put in your mouth are chemically harmful or not made me think of supertasters. Supertasters are people who experience taste with more intensity than an average person. Wikipedia related this supertasting to a heightened sensitivity to PROP, and while unknown, it is thought to be caused by a genetic mutation. 
+* Are there reasons why supertasting would be advantageous outside of avoiding toxic foods? Or in contrast, could this be a genetic disadvantage, due to the fact that supertasters often have a more limited diet, lacking in important food groups such as vegetables? 
+* The way the reading talked about how vision and hearing sense is somewhat uniform across people and how taste is much more subjective made me critically think about the odd nature of taste. Are these taste preferences all genetic? Are they based on environment? Is there a deeper reason why taste is more subjective than some of the other Aristotelian senses? 
+* 📗  I am extremely fascinated by the idea that our receptors can be "tricked" specifically our hot and cold receptors. I assume these receptors have a function- to tell us if we are too cold or too hot and urge us to take the necessary precaution to fix the situation. 
+  * A general discussion (may be a repetition, but it's an important one). Imagine that we have some thing X in our bodies, and you wonder what purpose it has. Is it a valid question? And what are the possible answers?
+    * (Three options that we have here)
+* Sense of balance, vertigo, and sea-sick-ness. Why do people get sick if you sway them back and forth again and again, or rotate them for a while?
+* While watching your lecture about taste, smell, and non-human senses, a few questions came to my mind. Considering the fact that humans can basically taste five types of flavors (sweet, salty, bitter, sour, and umami), I am wondering if there are any types of food or flavors that cannot be categorized into one of those types. I am also wondering about the idea of receptors and what happens when one is blocked. For example, when someone has to eat or drink something that they do not like the flavor of, they will often pinch their nose when swallowing the food to lessen the flavor. I know that not being able to smell something may make some of the flavor go away, but I am wondering why exactly this happens beyond just not being able to smell it. I know that you said that most of what we perceive as taste is actually just smell, but I’m still a bit confused on the idea that taste buds aren’t very powerful at all without smell involved. Since you said that food is mainly about texture and smell, I am curious to know if there are people that cannot differentiate textures from one another and what exactly would cause that. Would that be caused by the brain or within the mouth itself?
+* In your lecture on Sensory Modalities, you discuss how plants have evolved to have a defense mechanism of capsaicin or menthol, and how humans enjoy eating these plants even though these traits aren't meant to be enjoyed. My question is have we evolved to become a kind of masochists when we eat peppers, horseradish, mustard, etc. or is this somehow an unintentional behavior we possess?
+* My question might be too simple it has to do with taste but could apply to smell in certain cases. You said that things like hot pepper has chemicals that cause or mimic the reaction to heat in our neurons, does that mean when one person gets used to ever increasing levels of spicy are they causing damage to the neurons on the mouth?
+* In your lecture on Taste, Smell, and non-human senses, I was thinking about Human evolution and wondering if the size of your brain has to do anything with the experience of your senses? For example, neanderthals, although a distant relative to the human, supposedly had larger skulls and brain sizes compared to the modern human. Would the size change the way senses were perceived for the neanderthals? 
+* The idea of having receptors for different smells feels like having recepetors for specific wavelength in one's eye. Which clearly is not the case
+* While watching the lectures and videos what I kept thinking about is how humans, especially in the west have modified food so much that we are now used to eating heightened levels of sugar, salt and acidity.
+* I was wondering what the neural process looks like for humans when a sense is lost. Do other senses actually get stronger? 
+
+## Class 2: Coding
+
 💡 Quiz: Match the names to the codes
 
 (now as we know which coding system is which:) 
@@ -300,13 +322,17 @@ The due date for this lab is the end of this week. Best of luck, and may the gam
 
 Make wild guesses about what systems in the brain could be most likely to use temporal and phase codes
 
-# Chemical Senses
+# Hearing
+
+## Class 1: Ear, not everyone is prepared
+
+Finish coding quiz: Where would you expect to find each coding type in the bran (or in the body outside of the brain)? What would be "good use cases" for each of them?
 
 💡 Quiz: coronal saggital etc.
 
-**End:** be ready for the lab, have a ruler and some two-pointy device (like a compass, a well-controlled clip, or something like that)
+## Class 2: Ear, more serious
 
-# Hearing
+### Questions from the olden class
 
 * Why do we have earwax?
 * Why with hearing loss, the sensitivity to higher frequencies is lost first? (Believe me, you can answer this one using your common sense)
@@ -531,6 +557,6 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna
 
-Future: Thai, ethiopian, Jan Johanson, Armenian, Kajun, Georgian, Moroccan, Romanian, Mexican, Breton, Gagaku, Tekbilek, Ghana drummers, Corsican, Evora, Mustafa-Zadeh, Vartinna, Baobab
+Future: Armenian, Mustafa-Zadeh, Kajun, Gagaku, Moroccan, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna
