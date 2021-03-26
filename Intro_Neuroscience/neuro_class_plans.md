@@ -322,15 +322,44 @@ Questions:
 
 Make wild guesses about what systems in the brain could be most likely to use temporal and phase codes
 
-# Hearing
+# Sound and Hearing
 
-## Class 1: Ear, not everyone is prepared
+## Class 1: Ear, where not everyone is prepared
 
 Finish coding quiz: Where would you expect to find each coding type in the bran (or in the body outside of the brain)? What would be "good use cases" for each of them?
 
-💡 Quiz: coronal saggital etc.
+Draw the ear together?
+
+Questions:
+
+* How would an eardrum burst without tangible force, like shoving a cotton swab into your era? I know it’s possible for eardrums to burst upon hearing really loud noises, so how does that occur? Hearing loud noises for a long time, according to the reading, can lead to hearing loss when you’re older, but that happens through tearing of the hair fibers on hair cells, not rupturing of the eardrum. Does it have to do with pressure, or too much stimulus/vibration?
+* In your lecture you talked about how our ears can adjust how sensitive we are to noise based on our environments by either stretching or shortening the tensor tympanic muscle. For people that are hypersensitive to certain sounds, I think this is called hyperacusis, does their tensor tympanic muscle not stretch? A short google search of hyperacusis said it normally develops after being exposed to too many loud noises at a young age, does this mean that the muscle can wear out over time? 
+
+My question
+
+* So, why do we have cochlea at all? Why wouldn't we put a bunch of  hair cells right next to the membrane, and be done with it?
+* How does cochlea work? You have a long thingie, you'll place hair cells there, but how to separate a complex vibration into frequencies?
+* What makes different parts of it sensitive to different frequencies?
+
+Again student's question:
+
+* The cochlea's shape stood out to me as a human part, even though there are plenty examples of spirals in nature. I was looking up the evolution of the cochlea in early humans and it seems that our cochlea began shorter and smaller. Was the evolutionary reason in part because of speech? Or was this just because one the spiral was sent into motion it would only make sense to continue? Assuming humans could have more time to evolve, would our ear design become more geared for durability given speakers and increased noise? 
+* Rephrased: 1. Why is cochlea spiral? 2. And why is it "more spiral" in humans than in most other animals (including many mammals)?
 
 ## Class 2: Ear, more serious
+
+That's where we need to discuss how cochlea works.
+
+Questions:
+
+* Do new hair cells grow back when old ones die?
+* Why when our hearing degrades over time, higher frequencies are the first to be lost?
+
+* Helen heard distorted versions of the world. Can cochlear implants be tuned in order to hear noises and speech clearly? Can people with these devices still engage in a cocktail party effect naturally?
+  * That said, are there ways to make tis electrical process more accurate? Would Helen's hearing be more sensitive if there were more electrodes in the cochlea? Or alternatively, is there a way to simulate, or to rework hair cells? 
+  * **My question here:** so what is the limitation here?
+* How do our ears hear sounds differently than, say, birds? I always hear birds singing and wonder if they are hearing pitches that we can't. is our hearing a spectrum like color in that there are sounds that are just impossible to comprehend with the human ear? And not just extremely high or low frequencies. are there frequencies BETWEEN the frequencies? Like a green between yellow and blue, but instead it's between a G and an G#?
+* Cephalopods are completely deaf while snakes have no visible ears. They are able to feel vibrations through their jawbones. Why would it be an evolutionary advantage for some animals to be deaf or nearly deaf when it is so important to other species? It seems that some species depend on their ability to hear while others comfortably live without it.
 
 ### Questions from the olden class
 
@@ -348,6 +377,12 @@ Finish coding quiz: Where would you expect to find each coding type in the bran 
 * How des tinnitus work?
 * Also when I think of ears I think of acupuncture and how certain parts of the ear connect to certain parts of the body. 
 * I also think because I blast music and attended many concerts with loud music that I have probably damaged my hearing. Could one undo this damage?  
+
+## Class 3: Music 1
+
+Questions:
+
+* I understand that higher and lower frequencies interact differently with the varying stiffness of the basilar membrane as the cochlea winds but how do the different frequencies interact with our nervous systems?  Do higher or lower frequency sounds put us more "on guard?" 
 
 # Scientific ecosystem workshop
 
@@ -488,7 +523,7 @@ https://michaelbach.de/ot/mot-flashLag/
 
 # Methods
 
-QUIZ: Locations reminder (the one with goldfish, followed by ultrasound)
+💡 Quiz: Fish + coronal saggital etc.
 
 Methods of research in the brain (brainstorm, follow with slides)
 
@@ -557,6 +592,8 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku
 
-Future: Armenian, Mustafa-Zadeh, Kajun, Gagaku, Moroccan, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna
+MORE ASIS
+
+Future: Mustafa-Zadeh, Kajun, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna

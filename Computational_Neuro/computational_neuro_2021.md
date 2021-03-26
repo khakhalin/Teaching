@@ -143,7 +143,7 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Mar 19   | **Respite** (we don't meet)                                  |
 | Mar 26   | Neuro from the DL point of view (what DL can do what brains struggle with) |
 | Apr 02   | Modern synthesis: DL and Neuro informing each other          |
-| Apr 09   | Single neurons as Deep Networks                              |
+| Apr 09   | Single neurons as Deep Networks. **Or do we want self-supervised learning instead?** |
 | Apr 16   | Neuromorphic engineering                                     |
 | Apr 23   | Interpretability in DL and in the brain                      |
 | Apr 30   | GPT and the criteria for "understanding" (Gary Marcus)       |
@@ -316,12 +316,12 @@ Videos and readings:
 
 Main paper:
 
-* 🟢 Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature neuroscience, 19(3), 356-365. http://brainmind.umin.jp/PDF/wt17/Yamins3.pdf
+* Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature neuroscience, 19(3), 356-365. http://brainmind.umin.jp/PDF/wt17/Yamins3.pdf
 
 Two more papers to quickly look though (abstract, figures, maybe a quick glance through the text):
 
-* 🟢 Zhang, R., Isola, P., Efros, A. A., Shechtman, E., & Wang, O. (2018). The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 586-595). https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf 1k+ citations in 2 years!
-* 🟢 Bashivan, P., Kar, K., & DiCarlo, J. J. (2019). Neural population control via deep image synthesis. Science, 364(6439). https://www.gwern.net/docs/ai/2019-bashivan.pdf
+* Zhang, R., Isola, P., Efros, A. A., Shechtman, E., & Wang, O. (2018). The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 586-595). https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf 1k+ citations in 2 years!
+* Bashivan, P., Kar, K., & DiCarlo, J. J. (2019). Neural population control via deep image synthesis. Science, 364(6439). https://www.gwern.net/docs/ai/2019-bashivan.pdf
 
 Decided against:
 
@@ -388,19 +388,24 @@ Maybe:
 * 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
   Quite popular.
 
-## 9. Single neurons as Deep Networks
+## 9. Neuromorphic engineering
 
-🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+Review: 
 
-🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269.
-https://arxiv.org/abs/2009.01269
+* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020. https://igi-web.tugraz.at/PDF/258.pdf
 
-## 10. Neuromorphic engineering
+Get the idea of these papers (not the details, only the idea):
 
-🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020
-https://www.sciencedirect.com/science/article/pii/S089662732100009X?dgcid=coauthor
+* 🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269. https://arxiv.org/abs/2009.01269
 
-Also some intro to neuromorphic stuff, or a simple demo paper?
+* 🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+
+## 10. Self-supervised learning
+
+https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence
+
+Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
+https://arxiv.org/abs/1803.10122 
 
 ## 11. Intrepretability in DL and Neuro
 
@@ -424,7 +429,16 @@ Other options:
 
 ## 12. Large language models
 
-.
+Some popular links (supposedly, in-depth, but not technical), yet unsorted:
+
+* https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/
+* https://paperswithcode.com/task/language-modelling
+* https://www.topbots.com/leading-nlp-language-models-2020/
+* https://web.stanford.edu/~jurafsky/slp3/
+* https://raohacker.com/why-the-new-ai-nlp-language-model-gpt-3-is-a-big-deal/
+* https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+* https://jalammar.github.io/illustrated-bert/
+* https://cacm.acm.org/magazines/2020/6/245162-contextual-word-representations/fulltext
 
 ## 13. Ethics in AI
 
@@ -436,12 +450,12 @@ We may for example have 1 review, and then several micro-topics
 * Medical AI
 * Self-driving cars (computer vision)
 
+Some extra materials:
+
+* A video of Tesla driving: https://www.youtube.com/watch?v=antLneVlxcs , and a commentary (not sure if good, haven't read it yet, but saving just in case): https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/
+* Automatic translation from Hungarian to English: https://twitter.com/DoraVargha/status/1373211762108076034
+
 # Topics that were considered, but didn't make it
-
-## Self-supervised learning
-
-Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
-https://arxiv.org/abs/1803.10122
 
 ## Representation and autoencoders
 

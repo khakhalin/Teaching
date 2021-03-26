@@ -52,20 +52,20 @@ In practice, 80% of 13 seminars = 10, which means that you can miss up to 3 talk
 
 ## Schedule (in process)
 
-| Date   | Guest                                                   | Topic                           |
-| ------ | ------------------------------------------------------- | ------------------------------- |
-| Feb 04 | Intro, syllabus, testing everything                     |                                 |
-| Feb 11 | Audrey Russel, Isa Jones                                | Sprojes from 2020               |
-| Feb 18 | Tom Cech (Nobel Laureate!)                              | Catalytic RNA                   |
-| Feb 25 | Molly McQuillan (alum, PhD student at Brown)            | Lamprey neuroscience            |
-| Mar 04 | Min Kyung Shinn (alum, postdoc at WUSTL)                | Protein interactions            |
-| Mar 11 | *Respite day, no seminar*                               |                                 |
-| Mar 18 | Caroline Bartman (postdoc at Princeton)                 | Whole-body metabolism in cancer |
-| Mar 25 | Shailab Shrestha (alum, PhD student at Tufts)           | Spore formation in C. defficile |
-| Apr 01 | Marta Shocket (postdoc at UCLA, alum, CitSci prof)      | Ecology of disease, crustaceans |
-| Apr 08 |                                                         |                                 |
-| Apr 15 | Carlita Favero (associate professor at Ursinus College) | Fetal alcohol syndrome          |
-| Apr 22 |                                                         |                                 |
-| Apr 29 | Liz Miller (alum, PhD student at U Hawaii)              | Oceanology, marine biology      |
-| May 06 | *Advising week, no seminar*                             |                                 |
-| May 13 | 2020/2021 sprojers (names tbc)                          |                                 |
+| Date   | Guest                                                        | Topic                           |
+| ------ | ------------------------------------------------------------ | ------------------------------- |
+| Feb 04 | Intro, syllabus, testing everything                          |                                 |
+| Feb 11 | Audrey Russel, Isa Jones                                     | Sprojes from 2020               |
+| Feb 18 | Tom Cech (Nobel Laureate!)                                   | Catalytic RNA                   |
+| Feb 25 | Molly McQuillan (alum, PhD student at Brown)                 | Lamprey neuroscience            |
+| Mar 04 | Min Kyung Shinn (alum, postdoc at WUSTL)                     | Protein interactions            |
+| Mar 11 | *Respite day, no seminar*                                    |                                 |
+| Mar 18 | Caroline Bartman (postdoc at Princeton)                      | Whole-body metabolism in cancer |
+| Mar 25 | Shailab Shrestha (alum, PhD student at Tufts)                | Spore formation in C. defficile |
+| Apr 01 | Marta Shocket (postdoc at UCLA, alum, CitSci prof)           | Ecology of disease, crustaceans |
+| Apr 08 | Dr. David George Haskell, author of “The Forest Unseen”; Sewanee University | trees, ecology, and art         |
+| Apr 15 | Carlita Favero (associate professor at Ursinus College)      | Fetal alcohol syndrome          |
+| Apr 22 | Dr. Sully Fernandez, The Janssen Pharmaceutical Company      | industry                        |
+| Apr 29 | Liz Miller (alum, PhD student at U Hawaii)                   | Oceanology, marine biology      |
+| May 06 | *Advising week, no seminar*                                  |                                 |
+| May 13 | 2020/2021 sprojers (names tbc)                               |                                 |

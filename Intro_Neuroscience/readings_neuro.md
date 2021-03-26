@@ -339,13 +339,15 @@ Resources:
 
 ### Subtopic 2 - Speech and Music
 
-Videos:
+Lecture:
 
 * My lecture on Speech and Music (1 h 20 min): https://www.youtube.com/watch?v=v_ZH3g5K1wg
+
+Resources:
+
 * Talking pianos  (a really cool illustration of how sound synthesis works):
   -  https://www.youtube.com/watch?v=muCPjK4nGY4
   -  https://www.youtube.com/watch?v=-6e2c0v4sBM
-
 * A somewhat cringy, but very informative 11-minutes video about sound harmonics: https://www.youtube.com/watch?v=a6ZJOBIlO-E
 * Tuvan throat singing. 
   - Demo of several styles: https://www.youtube.com/watch?v=7zZainT9v6Q
