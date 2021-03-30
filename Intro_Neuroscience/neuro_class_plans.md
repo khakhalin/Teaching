@@ -375,28 +375,79 @@ Questions:
   * https://auditoryneuroscience.com/prosthetics/music
 * Some people are very sensitive to loud noises. While others may be fine in a loud room or with music turned up high, this actually hurts their ears. What do you think could be the mechanism here?
 * How des tinnitus work?
-* Also when I think of ears I think of acupuncture and how certain parts of the ear connect to certain parts of the body. 
 * I also think because I blast music and attended many concerts with loud music that I have probably damaged my hearing. Could one undo this damage?  
 
-## Class 3: Music 1
+## Class 3: Sound localization
+
+Questions we talked about last class:
+
+*  Why is it that when we hit a certain age, we may not be able to hear some of the sounds that babies are able to hear?
+* I am also wondering if there are any sounds so powerful that they can destroy your eardrum?
+
+Also a question from last week we haven't discussed yet:
+
+* Tinnitus - where does it come from?
+
+Now, how can one figure out where the sound is coming from? (There are 3 ways)
+
+Hard question: how can the our brain detect interaural phase difference?
+
+* Subquestion: what type of coding should the spiral ganglion use to make it possible?
+* Now let's say we have a nucleus that receives phase-locked spikes from both ears. How can neurons in this nucleus calculate the position of the source of this sound?
+
+New questions:
+
+* After watching the documentary on Ben Underwood, I have a similar question to someone else: did he learn how to use echolocation on his own or did he start using the technique after learning about this concept? Would echolocation be a faster method for sound identification and localization than using a walking stick? What made him different than the rest when adjusting to his loss of sight? Why did he develop this echolocation behavior and not others who have lost their eyesight? Was it something different in the shape of his pinna or cochlear that allowed him to develop this skill? Is it possible to use echolocation for fine motor skills, such as writing, painting, or fastening buttons?  
+* I remember when I was in middle school, I did an experiment. When I close my eyes and someone claps his hand around me, I can easily know the direction of the sound source. But in daily life, sometimes I hear the sound of an alarm or the ringing of my cell phone (especially when I can't find my phone), it is difficult for me to find the source of the sound or even looked in the opposite direction. Why sometimes people can't tell the direction of the sound?
+* In the video about Hearing New York in 3D, the guy talks about how there are videos on the internet that play certain frequencies that could potentially stimulate parts of the brain that make you more concentrated, or tired, or creativity. Obviously, this stuff is totally not real, but in a more professional lab scenario, are there things you could potentially do to stimulate these types of responses? For example, is there some connection between the ear and the part of your brain that controls how focused or non-focused you are, like how axons from the inner ear lead to the cortex? Or are the claims those people are making just absolutely not based in any science at all?
+
+## Class 4: Music 1
 
 Questions:
+
+* For musicians, some have absolute pitch and some have relative pitch. If the brain has the ability to remember sound waves, that is not a good thing for people with absolute pitch. When the pitch tune to different Hz, the pitch sounds different so is relative pitch and absolute pitch born, or is it possible to achieve it through training the day after? I am a musician with relative pitch and I often practice myself to have absolute pitches at the same time but I haven't succeeded yet.
+* One more question: when thinking about music, why do certain tones trigger our nervous system in different ways? Why does a major scale create different sorts of emotions compared to sounds coming from a minor scale? What is this process neurologically? 
+
+* I really enjoyed the video about soundwaves and harmonics. I knew what harmonics were prior to watching the video, but I did not realize how they were created. If I understood correctly, multiplying the frequency of a note introduces more harmonics. Moreover, harmonics are created by multiplying the frequency of the fundamental note. This made me think about my choir days in high school. Occasionally, when we weren't too pitchy, we would hear an overtone. Overtones are notes that you can hear but are not being sung. Is this the same thing as harmonics? How are overtones created in terms of soundwaves and frequency? Are the notes being heard but unsung the result of the increased frequency of the fundamental note?
+
+* I've heard this before, but the second lecture confirms the fact that babies/young kids learn different languages easier than an adult. Hearing you talk about the different tones in different languages clarified this, but at what age do kids start differentiating these tones? Is there an ideal age to learn a language or a maximum amount of languages that a baby can be learning at once?
 
 * I understand that higher and lower frequencies interact differently with the varying stiffness of the basilar membrane as the cochlea winds but how do the different frequencies interact with our nervous systems?  Do higher or lower frequency sounds put us more "on guard?" 
 
 # Scientific ecosystem workshop
 
-tbc
+Questions:
 
-write info
+* How can octopuses and cuttlefish live while completely deaf?
+* How can snakes live while completely deaf? Why did they loose hearing?
+* Why some sounds (like chalk against the board, or metal on asphalt) are so unpleasant?
 
 write workshop:
 
-* How does peer-review work?
 * Find a good paper (GoogleScholar)
-* Anatomy of a paper
-* The financial side (Publishers, OpenAccess, SciHub)
-* Scientific hierarchies
+* Anatomy of a paper (sections)
+* Why some papers are not in public access? Who gets the money?
+  * Publishers, OpenAccess, SciHub
+* What the difference between blog posts and scientific papers? 
+  * How does peer-review work?
+  * elife - find a paper on hearing and work with it
+* Are all journals about equally good?
+  * What defines a good journal?
+  * Which journals are good?
+  * Which journals are more reliable?
+* Who actually wrote the paper? (Authorship)
+* Where does the money for research come from?
+* 🔥 How to find other papers on a similar topic?
+  * Past (citations)
+  * Future (forward citations)
+  * Semantic Scholar
+
+Final test task:
+
+* Let's figure out why different music triggers different emotions. Or maybe more general, how does music trigger emotions overall? What do we know about it? Or maybe more narrow, what about major chords and minor chords? Is one of them happy, and another one sad? What do we know about it?
+* Strategies: how to make sure we don't read pure musicology and art history, but actually look at something in the realm of psychology, cognitive science, and neuroscience?
+  * Which words would you add?
+* Now working in groups, try to answer the question, then we get together and share.
 
 # Vision 1
 
@@ -557,6 +608,12 @@ But in V1 (primary visual cortex) we have this: (pic)
 
 Q: I know we have been talking a lot about illusions that people have made to trick our sight, but what examples are there of illusions occurring in the natural world? We discussed how trains make you see movement even after you’re done traveling, but what about animals or plants or any naturally occurring illusions? Are there any creatures that have evolved to create illusions to help themselves? 
 
+# Morphology
+
+Student questions:
+
+* I was thinking about Human evolution and wondering if the size of your brain has to do anything with the experience of your senses? For example, neanderthals, although a distant relative to the human, supposedly had larger skulls and brain sizes compared to the modern human. Would the size change the way senses were perceived for the neanderthals?
+
 # Cortex
 
 Quiz on brain regions (7-8 min, not 5 - it takes them some time)
@@ -592,8 +649,8 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku
+Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Kajun
 
 MORE ASIS
 
-Future: Mustafa-Zadeh, Kajun, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna
+Future: Mustafa-Zadeh, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna

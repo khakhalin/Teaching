@@ -362,6 +362,22 @@ Also, give this online discussion a look (especially the 1st answer, summarizing
 
 * https://psychology.stackexchange.com/questions/16269/is-back-prop-biologically-plausible
 
+### Class plan
+
+Update on logistics:
+
+* Last topics
+* A vote on "Single neurons" vs "self-supervised learning"
+
+Topics we may consider:
+
+* feedback aligned
+* signed info in the brain (and the exception that Cerebellum is), and how it is "seemingly one-layer", but not really
+* hierarchical inference in the brain
+  * deep belief networks - maybe mention?
+* Boltzmann machine (not necessary, but may try to discuss)
+* Difference target propagation - how it works?
+
 ## 8. Attempts of synthesis: DL as a model for Neuro
 
 As both papers for this week are reviews, and as much of what is written in these reviews is a repetition of ideas and concerns that we were talking for about a month now, please, try to distill from these papers everything that is new. All ideas that we haven't discussed before, and need to discuss now. Also, put a bit more attention to technical details; maybe even try to look into 1-2 key results that these papers describe. Hunt for new facts and ideas, and for your attitude towards these facts and ideas! :)
@@ -371,22 +387,19 @@ For sure:
 * Richards, B. A., Lillicrap, T. P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., ... & Gillon, C. J. (2019). A deep learning framework for neuroscience. Nature neuroscience, 22(11), 1761-1770. - a 8-page review about how bottom-up DL modeling can help to reverse-engineer the brain. Perspective.
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115933/
 
-Related:
-
-* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
-
-Probably also:
-
 * 🟢 Deep Neural Networks as Scientific Models (2020). Radoslaw M. Cichy, Daniel Kaiser. Trends in Cognitive Sciences.
   https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8
   Seem to suggest that for some types of tasks data it may be easier to model a process with a DL and interpret a DL, instead of directly interpreting the data?
 
-Maybe:
+Related:
+
+* "**What is a model?**" video lecture, by Gunnar Blohm (27 min), from a course on computational neuroscience: https://www.youtube.com/watch?v=KxldhMR5PxA . This lecture comes from a cool open project called "Neuromatch academy": http://www.neuromatchacademy.org/syllabus/  - you may want to give it a look, or at least remember the name, as that's one of the best ways to learn more computational neuroscience on your own terms, when you have time.
+
+Two more papers that I considered, but demoted to "of possible interest"; also they are a bit older:
 
 * 🟢 Marblestone, A. H., Wayne, G., & Kording, K. P. (2016). Toward an integration of deep learning and neuroscience. Frontiers in computational neuroscience, 10, 94. https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
 
 * 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
-  Quite popular.
 
 ## 9. Neuromorphic engineering
 
