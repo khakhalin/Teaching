@@ -160,24 +160,24 @@ The changes will never be retroactive though! If a rule changes, it will only ap
 
 > 💡 Note that I intentionally make first ~4 weeks of this course a bit intense, to have a bit more relaxed life in Apr-May.
 
-| **Week** | Nuts and bolts                                               | Labs and fancy assignments                                   | Where it connects                                            |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Feb 1    | Syllabus. Intro (cells, neurons, ions). Resting membrane potential. *Classes all three days.* | Neurotic neurons.                                            | Death by coconut. Water. Scientific lies.                    |
-| Feb 8    | Action  potential. AP propagation.                           | Action potential demo (zoom)                                 | Pain. Why pain exists? How to define pain? Pain scale        |
-| Feb 15   | Synaptic transmission (excitatory). Connectomics. Escape in shrimp. | Eyewire (self-guided)                                        | Free will. IRL zombies.                                      |
-| Feb 22   | Inhibition. Synaptic Integration. Neurotransmitters. Ethology (fixed action patterns, supernormal stimuli) | Zooniverse mice (self-guided).                               | Noticing patterns in behaviors.                              |
-| Mar 1    | Escape in fish. Central pattern generators. STG. Reflexes. Locomotion. | be_random lab + QWOP (probably zoom)                         | Randomness, exploration, self-driven behaviors, free will revisited. |
-| Mar 8    | *Respite (we don't meet this week)*                          |                                                              |                                                              |
-| Mar 15   | Senses. Types of neural coding. Touch. Chemical senses.      | *no lab (respite)*                                           | What is a sense? How parts of our brain talk to each other?  |
-| Mar 22   | Ear and auditory processing.                                 | 2-point discrimination (zoom)                                | How we hear. Limitations of human hardware. Sociology of science. |
-| Mar 29   | Hearing in the brain: Speech recognition.                    | Working with literature                                      | Where music comes from.                                      |
-| Apr 05   | Vision: eye and retina. Saccades. Color vision.              | Vision labs, blind spot (self-guided). Simplewriter          | How we see. Counter-intuitive aspects of evolution. Subjective perception. |
-| Apr 12   | On/off cells, lateral inhibition, motion detection. Vision in the cortex | Visual illusions 1 (low-level)                               | The crooked evolutionary path towards humanity.              |
-| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. *Proposals for final papers due* | **tbc** (reaction times? visual lag?) or a Sci ecosystem workshop | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
-| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world)                  | Language in the brain. Lefties and righties. Debunking some myths about the brain. |
-| May 3    | **Advising week (we don't meet)**                            |                                                              |                                                              |
-| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity.  *If you submit your final paper, you get one round of feedback* | Final paper peer-review.                                     | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
-| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. *Final papers are due.* | Probably a class on Tue instead of a lab (our last class).   | Consciousness.  Self.                                        |
+| **Week** | Nuts and bolts                                               | Labs and fancy assignments                                 | Where it connects                                            |
+| -------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| Feb 1    | Syllabus. Intro (cells, neurons, ions). Resting membrane potential. *Classes all three days.* | Neurotic neurons.                                          | Death by coconut. Water. Scientific lies.                    |
+| Feb 8    | Action  potential. AP propagation.                           | Action potential demo (zoom)                               | Pain. Why pain exists? How to define pain? Pain scale        |
+| Feb 15   | Synaptic transmission (excitatory). Connectomics. Escape in shrimp. | Eyewire (self-guided)                                      | Free will. IRL zombies.                                      |
+| Feb 22   | Inhibition. Synaptic Integration. Neurotransmitters. Ethology (fixed action patterns, supernormal stimuli) | Zooniverse mice (self-guided).                             | Noticing patterns in behaviors.                              |
+| Mar 1    | Escape in fish. Central pattern generators. STG. Reflexes. Locomotion. | be_random lab + QWOP (probably zoom)                       | Randomness, exploration, self-driven behaviors, free will revisited. |
+| Mar 8    | *Respite (we don't meet this week)*                          |                                                            |                                                              |
+| Mar 15   | Senses. Types of neural coding. Touch. Chemical senses.      | *no lab (respite)*                                         | What is a sense? How parts of our brain talk to each other?  |
+| Mar 22   | Ear and auditory processing.                                 | 2-point discrimination (zoom)                              | How we hear. Limitations of human hardware. Sociology of science. |
+| Mar 29   | Hearing in the brain: Speech recognition.                    | Working with literature                                    | Where music comes from.                                      |
+| Apr 05   | Vision: eye and retina. Saccades. Color vision.              | Vision labs, blind spot (self-guided). Simplewriter        | How we see. Counter-intuitive aspects of evolution. Subjective perception. |
+| Apr 12   | On/off cells, lateral inhibition, motion detection. Vision in the cortex | Visual illusions 1 (low-level)                             | The crooked evolutionary path towards humanity.              |
+| Apr 19   | Brain morphology. Methods of  research. Brain evolution. Emotions. *Proposals for final papers due* | **tbc** (reaction times? visual lag?)                      | Thanks evolution (/s). Modularity of mind. Emotions: what are they, why they exist, and are they evil? |
+| Apr 26   | Cortex. Higher associative regions. Language areas. Aphasias. Left and right brains. Sex differences in the brain (very briefly!) | Visual illusions 2 (synthesizing the world)                | Language in the brain. Lefties and righties. Debunking some myths about the brain. |
+| May 3    | **Advising week (we don't meet)**                            |                                                            |                                                              |
+| May 10   | Decision making. Frontal patients. Agency. Morality. Creativity.  *If you submit your final paper, you get one round of feedback* | Final paper peer-review.                                   | Origins of morality, and morality in the brain. Agency. Personality. Creativity. |
+| May 17   | We have 2 classes (Mon and Tue). Integrity of perception. Schizophrenia. Consciousness. Then **Completion Week** starts and classes are over. *Final papers are due.* | Probably a class on Tue instead of a lab (our last class). | Consciousness.  Self.                                        |
 
 # Final paper
 

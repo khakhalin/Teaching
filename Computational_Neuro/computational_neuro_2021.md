@@ -87,7 +87,7 @@ Do the following instead:
    - really **confusing**, and you got them, and are proud of that, and want to share
    - really confusing, and you are still confused, and want to discuss it as a group
 3. That's it. Only these parts! **Skip everything that is boring, irrelevant, or feels like a repetition.** We dont' have that much time in class, so let's concentrate on things that are important! Don't try to discuss every paragraph, every idea, and every figure. (But maybe mention why you are skipping this or that - is it because it feels like a tangent? Or is it because it's boring? Both are valid reasons to skip a segment, but it's cool for us to know :)
-4. If you want to show external images, feel free ot make a presentation. If not, **just show the paper**, maybe marked-up with yellow (it's possible to use highligher in most pdf readers). And let's talk about it. If you are confused, try to formulate what is it that makes this part confusing. If you have some ideas, but are not sure if they are right, deascribe these ideas, before asking the room four their inputs :)
+4. If you want to show external images, feel free to make a presentation. If not, **just show the paper**, maybe marked-up with yellow (it's possible to use highligher in most pdf readers). And let's talk about it. If you are confused, try to formulate what is it that makes this part confusing. If you have some ideas, but are not sure if they are right, deascribe these ideas, before asking the room four their inputs :)
 5. Before class, consider reading questions on Piazza, and use them to guide your presentation. It may be super-hepful!
 
 # Grading
@@ -143,13 +143,13 @@ Please see a list of detailed week-by-week readings below, but ultimately the mo
 | Mar 19   | **Respite** (we don't meet)                                  |
 | Mar 26   | Neuro from the DL point of view (what DL can do what brains struggle with) |
 | Apr 02   | Modern synthesis: DL and Neuro informing each other          |
-| Apr 09   | Single neurons as Deep Networks. **Or do we want self-supervised learning instead?** |
+| Apr 09   | Single neurons as Deep Networks                              |
 | Apr 16   | Neuromorphic engineering                                     |
 | Apr 23   | Interpretability in DL and in the brain                      |
 | Apr 30   | GPT and the criteria for "understanding" (Gary Marcus)       |
 | May 07   | **Advising week** (we don't meet)                            |
 | May 14   | Ethics in AI                                                 |
-| May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings) |
+| May 20   | **Completion week** (no regular class, but we can use this time for 1:1 meetings if needed) |
 
 ? That paper about error signal in the cortex? (Gillon 2021)
 
@@ -401,24 +401,37 @@ Two more papers that I considered, but demoted to "of possible interest"; also t
 
 * 🟢 Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258. https://www.sciencedirect.com/science/article/pii/S0896627317305093
 
-## 9. Neuromorphic engineering
+### Class plans
 
-Review: 
+On laws of Neuro (on having )
 
-* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020. https://igi-web.tugraz.at/PDF/258.pdf
+On trivializing the idea of "ANNs are complex"; that the question is not whether they are useful, or whether they are complex, or whether (or how) they explain anything.
 
-Get the idea of these papers (not the details, only the idea):
+* Another paper I should have assigned, maybe: Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374. https://arxiv.org/abs/1907.06374
+
+* We can have a discussion about it? What does it mean to "understand" something?
+* Name one thing you understand? (make it narrow and practical, without going all philosophical just yet :)
+* Do you understand the relative position of Bard and Kingston? What about why and how a knife can cut bread? What about riding a bicycle?
+
+When talking about "ready-made-s" (kinda like oldschool large-scale kitbashing) in art, and how the use of ANN models is a bit like that, describe the idea of "Hardware Lottery". https://hardwarelottery.github.io/
+
+We are about a year (maybe half a year) behind! On transformers that work better than convnets, but apparently resemble the brain LESS than convnets, despite using metaphors like "attention" (that are obviously also cognitive since-inspired): https://twitter.com/pfau/status/1377655611765186562
+
+## 09. Single neurons as deep networks
 
 * 🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269. https://arxiv.org/abs/2009.01269
 
 * 🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+* Also, if you have few more minutes for your general education:
+  * Can a single neuron solve XOR? (Discussion on twitter) https://twitter.com/KordingLab/status/1121405248315318272
+  * Why this is important: because the first ANN (perceptron from late 1950s) famously could not solve XOR: https://en.wikipedia.org/wiki/Perceptrons_(book)#The_XOR_affair
 
-## 10. Self-supervised learning
+## 10. Neuromorphic engineering
 
-https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence
+Review: 
 
-Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
-https://arxiv.org/abs/1803.10122 
+* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020. https://igi-web.tugraz.at/PDF/258.pdf
+* ANOTHER PAPER WILL BE HERE
 
 ## 11. Intrepretability in DL and Neuro
 
@@ -469,6 +482,13 @@ Some extra materials:
 * Automatic translation from Hungarian to English: https://twitter.com/DoraVargha/status/1373211762108076034
 
 # Topics that were considered, but didn't make it
+
+## Self-supervised learning
+
+https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence
+
+Ha, D., & Schmidhuber, J. (2018). World models. arXiv preprint arXiv:1803.10122.
+https://arxiv.org/abs/1803.10122 
 
 ## Representation and autoencoders
 

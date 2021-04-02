@@ -405,14 +405,19 @@ New questions:
 
 Questions:
 
+* So the inferior colliculus responds for finding where the sound is whilst the auditory cortex is responsible for determining what the sound was. This makes me wonder what would happen if the inferior colliculus is damaged for example. Would the person be able to identify the sound but not be able to tell where it’s coming from or does damage of one of these two parts implies losing hearing completely? Could infections or daily loud noises impact the ability of the cortex and colliculus of identifying the sounds and its location? In other words, is damage preventable?
 * For musicians, some have absolute pitch and some have relative pitch. If the brain has the ability to remember sound waves, that is not a good thing for people with absolute pitch. When the pitch tune to different Hz, the pitch sounds different so is relative pitch and absolute pitch born, or is it possible to achieve it through training the day after? I am a musician with relative pitch and I often practice myself to have absolute pitches at the same time but I haven't succeeded yet.
-* One more question: when thinking about music, why do certain tones trigger our nervous system in different ways? Why does a major scale create different sorts of emotions compared to sounds coming from a minor scale? What is this process neurologically? 
-
+* In your first lecture, you talk about how the vocal cords vibrate at different frequencies to create certain sounds. How do vocal cords in people develop differently? How do people develop accents (ex; British). I know people who sound exactly like their parents/ someone from their family. How does someone's voice get passed down genetically
 * I really enjoyed the video about soundwaves and harmonics. I knew what harmonics were prior to watching the video, but I did not realize how they were created. If I understood correctly, multiplying the frequency of a note introduces more harmonics. Moreover, harmonics are created by multiplying the frequency of the fundamental note. This made me think about my choir days in high school. Occasionally, when we weren't too pitchy, we would hear an overtone. Overtones are notes that you can hear but are not being sung. Is this the same thing as harmonics? How are overtones created in terms of soundwaves and frequency? Are the notes being heard but unsung the result of the increased frequency of the fundamental note?
+* I understand that higher and lower frequencies interact differently with the varying stiffness of the basilar membrane as the cochlea winds but how do the different frequencies interact with our nervous systems?  Do higher or lower frequency sounds put us more "on guard?" 
+* One more question: when thinking about music, why do certain tones trigger our nervous system in different ways? Why does a major scale create different sorts of emotions compared to sounds coming from a minor scale? What is this process neurologically? 
+* Is there any reason why sometimes we like sounds and sometimes we don't? Such as with music tastes. Does it have anything to do with which of our hair cells have died or is more of a mental thing and personal taste?
+  * Here on origins of music (presentation)
+  * Two examples to guess what's happening:
+  * https://www.youtube.com/watch?v=M1vPn5KTTT4
+  * https://www.youtube.com/watch?v=FEigxkAYj0I&t=5m36s 
 
 * I've heard this before, but the second lecture confirms the fact that babies/young kids learn different languages easier than an adult. Hearing you talk about the different tones in different languages clarified this, but at what age do kids start differentiating these tones? Is there an ideal age to learn a language or a maximum amount of languages that a baby can be learning at once?
-
-* I understand that higher and lower frequencies interact differently with the varying stiffness of the basilar membrane as the cochlea winds but how do the different frequencies interact with our nervous systems?  Do higher or lower frequency sounds put us more "on guard?" 
 
 # Scientific ecosystem workshop
 
@@ -649,8 +654,9 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Kajun
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora
 
-MORE ASIS
+Future: Klezmer, Sainkho, Ali Farka Toure & Toumani Diabate (Mali), Corsican, Laos, Milladoiro (Galicia), Baobab, Greek, Iren Lovac, Nusrat Fateh Ali Khan & Michael Brook, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
-Future: Mustafa-Zadeh, Romanian, Mexican, Georgian, Breton, Ghana drummers, Corsican, Evora, Baobab, Jan Johanson, Vartinna
+Vartinna, Mustafa-Zadeh, 
+
