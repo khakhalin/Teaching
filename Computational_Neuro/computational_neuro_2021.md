@@ -403,8 +403,6 @@ Two more papers that I considered, but demoted to "of possible interest"; also t
 
 ### Class plans
 
-On laws of Neuro (on having )
-
 On trivializing the idea of "ANNs are complex"; that the question is not whether they are useful, or whether they are complex, or whether (or how) they explain anything.
 
 * Another paper I should have assigned, maybe: Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374. https://arxiv.org/abs/1907.06374
@@ -412,10 +410,6 @@ On trivializing the idea of "ANNs are complex"; that the question is not whether
 * We can have a discussion about it? What does it mean to "understand" something?
 * Name one thing you understand? (make it narrow and practical, without going all philosophical just yet :)
 * Do you understand the relative position of Bard and Kingston? What about why and how a knife can cut bread? What about riding a bicycle?
-
-When talking about "ready-made-s" (kinda like oldschool large-scale kitbashing) in art, and how the use of ANN models is a bit like that, describe the idea of "Hardware Lottery". https://hardwarelottery.github.io/
-
-We are about a year (maybe half a year) behind! On transformers that work better than convnets, but apparently resemble the brain LESS than convnets, despite using metaphors like "attention" (that are obviously also cognitive since-inspired): https://twitter.com/pfau/status/1377655611765186562
 
 ## 09. Single neurons as deep networks
 
@@ -433,7 +427,7 @@ Review:
 * 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020. https://igi-web.tugraz.at/PDF/258.pdf
 * ANOTHER PAPER WILL BE HERE
 
-## 11. Intrepretability in DL and Neuro
+## 11. Interpretability in DL and Neuro
 
 Some stuff on core ML interpretability #todo
 
@@ -444,16 +438,29 @@ Distill simulations on interpretability:
 * https://distill.pub/2020/circuits/curve-detectors/
 * https://distill.pub/2021/multimodal-neurons/
 
-Maybe in ethics intro as well, if there's a short one? tbc.
-
-Other options:
+Papers to consider:
 
 * 🟢 Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
   https://arxiv.org/abs/1907.06374 - an opinion piece, half-practical guidance, half philosophy
 * 🟢 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
   A series of short papers trying to understand and describe how a DLL vision model works, by looking at its tuning, neuron by neuron. (Would it make a good paper for a neuro class?)
 
+### Class plans
+
+On laws of ANNs (on having no laws for now): The "Unreasonable Effectiveness" meme.
+
+The idea of "Hardware Lottery". https://hardwarelottery.github.io/
+
+We are about a year (maybe half a year) behind! On transformers that work better than convnets, but apparently resemble the brain LESS than convnets, despite using metaphors like "attention" (that are obviously also cognitive since-inspired): https://twitter.com/pfau/status/1377655611765186562
+
 ## 12. Large language models
+
+Desired readings: (actual links tbc)
+
+* 📗 We need a simplified description of transformers
+* 📗 We need an overview of GPT results
+* 📗 (Is there a link that is at least borderline GPT-like?)
+* 📗 We need some good GPT critique
 
 Some popular links (supposedly, in-depth, but not technical), yet unsorted:
 

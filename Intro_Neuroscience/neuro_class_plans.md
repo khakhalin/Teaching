@@ -454,7 +454,9 @@ Final test task:
   * Which words would you add?
 * Now working in groups, try to answer the question, then we get together and share.
 
-# Vision 1
+# Vision 1 - the eye
+
+## Class 1
 
 * Draw an eye, what's in the eye - discuss
 * Draw together, discuss
@@ -465,13 +467,7 @@ Final test task:
   * What are peak sensitivities for cones? What colors are each of the cones most sensitive for?
   * Why? What does it mean? Come up with some hypotheses, from the common sense pov.
 
-# Vision 2
-
-* A comment on the methodology of questions
-* Next Wednesday, if there's civil unrest, we may use the class as a therapy session - we'll see, and play it by ear. I'll keep you posted; please check Piazza for updates.
-* Postpone one topic? (Shift everything by a week?)
-* Self-labs this Friday
-* paper
+## Class 2
 
 You might have heard that the image in the eye is upside down somehow, and that the brain (that's what they say) needs to "learn" to turn it rightside-up...
 Is it hard for the brain to learn that the image on the retina is flipped, and how would it look like of somebody's brain failed to "learn it"?
@@ -513,42 +509,48 @@ In class, we were talking about how in old age people's vision often gets worse 
 
 The frogs were able to detect prey depending on the shape, movement, and number of a figure(s). Obviously these shapes weren't actually food, but the mere suggestion of it being prey because of the factors just mentioned, made the frogs think potential food was around. So I wonder what is the threshold or breaking point before the frogs no longer perceive the figures as food...But I am more curious about this in humans. In one of the attached videos a man showed different images that weren't the actual figure but provided enough essential elements, such as color and vague dimension, that we could perceive them as we know typically of them: for example the legos as different characters such as teenage mutant ninja turtles. What is our threshold before something is no longer perceptible? Is there even a way to measure such a response?
 
-## Vision 2
+## Self-guided vision lab
 
-Motion aftereffect:
+Dears, our labs this week are self-guided. Here they are!
 
-* Weaker but easier to understand: https://www.youtube.com/watch?v=dupz1mmwpQU
-* Stronger, but harder to tease apart: https://www.youtube.com/watch?v=GkRHN0rnfME&t=20s
+Make sure to do all of these exercises below. (each exercise is only about 1-2 minutes long, except for the last one that is like 5 minutes long). In total, it should take only about an hour of your time, or maybe 1:15 tops, with the videos, but it is really, really worth it! 
 
-Your goal is to watch the video, then discuss with other people what happened, they discuss how the video probably worked, then discuss what could it mean for how our brain work. Like, what had happened?
+1. Watch this video, and do everything they recommend (you'll need a piece of paper, a pencil, and a wall. You can also use a computer screen if you make it uniformly white, like by maximizing a white GoogleDoc document or something like that): https://www.youtube.com/watch?v=L_W-IXqoxHA 
 
-The other way around: 
+2. Watch this video, and do everything they recommend (you'll have to go outside and stare at the sky at some point): https://www.youtube.com/watch?v=WKQT1MXfasM
 
-* https://desktopdressedup.files.wordpress.com/2013/11/ill_29.png
+3. Watch this video, think about it, and do the exercises (you'll need a mirror): https://vimeo.com/54546597 
 
-* https://i.imgur.com/h9okP.jpg
+4. Blind spot mapping:
 
-1) Share what you see, try to find the logic
-2) What could it mean? A hint: it's a consequence of a cool process that's "running in the background" when you see, but in this case it's getting a bit faulty. What could it be about?
+* Read this description: https://coglab.cengage.com/labs/blind_spot.shtml 
 
-https://www.biomotionlab.ca/html5-bml-walker/
+* Then this page: http://nivea.psycho.univ-paris5.fr/FeelingSupplements/BlindSpotFillingInExperiments.htm
 
-## Vision 3
+* Finally, ran this lab: http://avtanski.net/projects/blindspot/ 
 
-On papers and final projects:
+(Ironically, the program uses a green/red color scheme, so it is invisible to red/green colorblind people. Yep. If you are colorblind, I'm sorry, you cannot use this app. It's so weird that somebody who cares about vision would make a program that doesn't work on ~5% of population for vision reasons, isn't it?)
 
-* Sometimes I approve letters with reservations (like, it's technical, but if you like it - feel free to write about it). These are also "confirmations" that this paper is OK, so if you want to write about it, feel free to. Just be careful. However, if after some more deliberation, you decide to change the paper of your choice, that's also fine. Just respond to my response with a new idea, and mark this conversation as "unresolved" again, so that I would come back to it.
-* When working with papers, make sure to read the correspondence between the author and the reviewers. Read what the reviewers disliked, and how the author responded. This is a unique thing about elife journal (no other journal publishes reviews, which is really a shame). So please read them: it will tell you a lot about the paper; it will make it easier to write a good overview of it, but also you'll learn a lot about how science works!
-* The principle of self-calibration: I don't want you to reach the same level of proficiency with each of these papers; I want you to put a similar amount of effort, and learn a similar amount of stuff. So if a paper is long and super-weird, it is OK to understand the gist of it, and then understand one figure / method / approach / section in detail. If the paper is short however, or feels particularly accessible, I'll expect you to understand it better. So it's not about picking a harder paper or a simpler paper; strategically. It doesn't matter, ultimately. What matters is that you learn something new, and then tell me about it in a meaningful form ;)
+As a write-up for this set of exercises, pick the exercise that you liked the most (that you found most interesting, most fun, or most informative), and write either a haiku, a limerick, or a sonnet about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
-**Rotating square illusion:**
+# Vision 2 - in the brain
+
+## Class 1
+
+Quizzes on vision
+
+How does this illusion happen?
+
+http://stripgenerator.com/strip/625726/optical-illusion-gradient/
+
+
+
+Rotating square illusion:**
 
 https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BJQE7DA74YSDKUF75ZYUT73FQ.gif
 1) Introspect what's going on, and if there's anything funny, what is it?
 verbalize it
 2) What does it tell us about how our visual system works?
-
-
 
 Rotating circles illusion (two slightly different versions):
 
@@ -569,13 +571,49 @@ https://michaelbach.de/ot/mot-flashLag/
 3) Are these behaviors, and this type of perception, innate or learned, in frogs?
 4) Do humans have anything similar? Obviously, we learn to recognize our family, squirrels, and letters. But is there anything that may be at least somewhat remotely related to these behaviors in toads? Think about humans, and make a guess!!
 
-## Vision 4
 
-* When astronauts are in space and they go to sleep, many of them experience seeing sparks when their eyes are closed. I've heard this is from the amount of radiation in space, but how does the eye actually see these sparks if their eyes are closed. Astronauts always say its because of "radiation" but I'd love to know if you have any knowledge on this topic as well.
-* We talked about green/m cones being what we use to determine shadows. Do we have an evolutionary explanation for this? Why green cones? And does this vary between different species? Are there other species that use different cones to best recognize shadow?
-* I am interested in what you mentioned about how we can record activation directly from a retina if it is removed from an animal, and spread on a dish. What are some of the benefits and negatives of this approach? It seems like you can get a more focused result because you've eliminated all outside functions of the animal that might interfere with your recordings. I also assume this is a fairly difficult procedure to accomplish, with many areas of possible mistake. Do we lose any important information about the functioning of the retina when we view it in this way?
-* In the first lecture it was mentioned that men tend to, overall, have a greater percentage of color blindness compared to women. You also said that the most common color blindness in men is red and green. Later in the lecture it was mentioned that specific species have more red cones in order to see berries. So my question is, evolutionarily speaking, is it possible that women have less color blindness because they were gathers while the men were hunters? Women had to use their detailed vision to locate vibrant berries (red and green in color) while the men needed vision for shapes of moving animals rather than small berries. Perhaps this is also why women tend to have better memory; having to remember where the most fruitful bushels were located.
-* Are there people born without specific ganglion cells/can ganglion cells be injured? I would assume so. What affect does that have on the person or creature and can GC be repaired? What happens if you don’t have the coordinate ones for instance? 
+
+
+
+
+
+Remember the videos you watched, and the stuff you read, about how orientation-selective cells in the primary visual cortex work.
+
+In the retina we have this: (pic)
+
+But in V1 (primary visual cortex) we have this: (pic)
+
+**THE QUESTION:** How to get from cells with receptive fields like in the retina (top pic) to those like in the cortex (bottom pic)? How do you connect stuff to get orientation selective cells?
+
+Q: I know we have been talking a lot about illusions that people have made to trick our sight, but what examples are there of illusions occurring in the natural world? We discussed how trains make you see movement even after you’re done traveling, but what about animals or plants or any naturally occurring illusions? Are there any creatures that have evolved to create illusions to help themselves? 
+
+## Class 2
+
+Motion aftereffect:
+
+* Weaker but easier to understand: https://www.youtube.com/watch?v=dupz1mmwpQU
+* Stronger, but harder to tease apart: https://www.youtube.com/watch?v=GkRHN0rnfME&t=20s
+
+Your goal is to watch the video, then discuss with other people what happened, they discuss how the video probably worked, then discuss what could it mean for how our brain work. Like, what had happened?
+
+The other way around: 
+
+* https://desktopdressedup.files.wordpress.com/2013/11/ill_29.png
+
+* https://i.imgur.com/h9okP.jpg
+
+1) Share what you see, try to find the logic
+2) What could it mean? A hint: it's a consequence of a cool process that's "running in the background" when you see, but in this case it's getting a bit faulty. What could it be about?
+
+https://www.biomotionlab.ca/html5-bml-walker/
+
+## Comment on final paper process
+
+On papers and final projects:
+
+* Sometimes I approve letters with reservations (like, it's technical, but if you like it - feel free to write about it). These are also "confirmations" that this paper is OK, so if you want to write about it, feel free to. Just be careful. However, if after some more deliberation, you decide to change the paper of your choice, that's also fine. Just respond to my response with a new idea, and mark this conversation as "unresolved" again, so that I would come back to it.
+* When working with papers, make sure to read the correspondence between the author and the reviewers. Read what the reviewers disliked, and how the author responded. This is a unique thing about elife journal (no other journal publishes reviews, which is really a shame). So please read them: it will tell you a lot about the paper; it will make it easier to write a good overview of it, but also you'll learn a lot about how science works!
+* The principle of self-calibration: I don't want you to reach the same level of proficiency with each of these papers; I want you to put a similar amount of effort, and learn a similar amount of stuff. So if a paper is long and super-weird, it is OK to understand the gist of it, and then understand one figure / method / approach / section in detail. If the paper is short however, or feels particularly accessible, I'll expect you to understand it better. So it's not about picking a harder paper or a simpler paper; strategically. It doesn't matter, ultimately. What matters is that you learn something new, and then tell me about it in a meaningful form ;)
 
 # Methods
 
@@ -590,28 +628,6 @@ Slides from the morphology lecture:
 * discuss what they do (quick and dirty associations)
 
 Why fore-mid-and-hindbrain regions are called that way? What's the secret here?
-
-# Vision
-
-Quizzes on vision
-
-How does this illusion happen?
-
-http://stripgenerator.com/strip/625726/optical-illusion-gradient/
-
-
-
-Remember the videos you watched, and the stuff you read, about how orientation-selective cells in the primary visual cortex work.
-
-In the retina we have this: (pic)
-
-But in V1 (primary visual cortex) we have this: (pic)
-
-**THE QUESTION:** How to get from cells with receptive fields like in the retina (top pic) to those like in the cortex (bottom pic)? How do you connect stuff to get orientation selective cells?
-
-
-
-Q: I know we have been talking a lot about illusions that people have made to trick our sight, but what examples are there of illusions occurring in the natural world? We discussed how trains make you see movement even after you’re done traveling, but what about animals or plants or any naturally occurring illusions? Are there any creatures that have evolved to create illusions to help themselves? 
 
 # Morphology
 
@@ -654,9 +670,9 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, 
 
-Future: Klezmer, Sainkho, Ali Farka Toure & Toumani Diabate (Mali), Corsican, Laos, Milladoiro (Galicia), Baobab, Greek, Iren Lovac, Nusrat Fateh Ali Khan & Michael Brook, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
+Future: Sainkho, Corsican, Laos, Milladoiro (Galicia), Ali Farka Toure & Toumani Diabate (Mali), Greek, Nusrat Fateh Ali Khan & Michael Brook, Iren Lovac, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
 Vartinna, Mustafa-Zadeh, 
 

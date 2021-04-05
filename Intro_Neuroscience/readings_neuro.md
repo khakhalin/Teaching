@@ -432,23 +432,26 @@ Videos:
   -  https://www.youtube.com/watch?v=ITY9luBw3_I
   -  https://www.youtube.com/watch?v=PoDJZ4Ln9Rw
   -  Why this is important (a toad playing on an ipad): https://www.youtube.com/watch?v=AbKGrtpgBtA
+-  Tracking of saccades during hiking (: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 - Eye evolution:
   -  Animal vs human vision (from Nat Geograhic; 2 min): https://www.youtube.com/watch?v=6HWVgQdSTDQ
   -  TED on eye evolution (4 min): https://www.youtube.com/watch?v=qrKZBh8BL_U
 
 Readings:
 
-- Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
 - Human tetrachromats:
   - https://www.discovermagazine.com/mind/the-humans-with-super-human-vision
   - https://www.bbc.com/future/article/20140905-the-women-with-super-human-vision
-- Tracking of saccades during hiking: https://www.reddit.com/r/dataisbeautiful/comments/j214ja/retinal_optic_flow_during_natural_locomotion_oc/
 
-Readings:
+Advanced Readings for bio majors:
 
 - Main reading: https://nba.uth.tmc.edu/neuroscience/s2/chapter14.html
 - Extra page from McGill; make sure to click through all three levels (Beginner, Intermediate, Advanced): http://thebrain.mcgill.ca/flash/i/i_02/i_02_cl/i_02_cl_vis/i_02_cl_vis.html
 - Bird vision: https://en.wikipedia.org/wiki/Bird_vision - our goal for this one is basically to figure out how bird vision is different from human vision
+
+Not posted this year:
+
+- Dalton paper: Dalton, J. (1798). Extraordinary facts relating to the vision of colours: with observations. Memoirs of the Literary and Philosophical Society of Manchester,5, 28-45.
 
 ### Visual labs to run at home
 
