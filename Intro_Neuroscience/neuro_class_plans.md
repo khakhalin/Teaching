@@ -324,7 +324,7 @@ Make wild guesses about what systems in the brain could be most likely to use te
 
 # Sound and Hearing
 
-## Class 1: Ear, where not everyone is prepared
+## Class 1: Ear, preliminary
 
 Finish coding quiz: Where would you expect to find each coding type in the bran (or in the body outside of the brain)? What would be "good use cases" for each of them?
 
@@ -469,45 +469,21 @@ Final test task:
 
 ## Class 2
 
-You might have heard that the image in the eye is upside down somehow, and that the brain (that's what they say) needs to "learn" to turn it rightside-up...
-Is it hard for the brain to learn that the image on the retina is flipped, and how would it look like of somebody's brain failed to "learn it"?
-And I guess how do you feel about this statement in general?
+You might have heard that the image in the eye is upside-down somehow, and that the brain (that's what they say) needs to "learn" to turn it upside-up...
 
-My question is about night vision- why does it take your eyes time to react to the dark? Why do people say that dusk is the most dangerous time to drive in terms of your vision being impaired? why are cats able to see in the dark so much better than other animals?
+* Is it hard for the brain to learn that the image on the retina is flipped? Would it be easier if it weren't flipped?
+* How would it look like of somebody's brain failed to "learn it"?
+* How do you feel about this statement in general?
 
-1) What do we know about dark vision?
-2) Why doesn't kick in instantaneously?
-3) How long does it take?
-4) What ruins it / preserves it? Why?
-5) Guess why some animals (cats, owls?) have better night vision?
+So, are there entirely different colors that birds can see, but we can't? How does it work?
 
+How does night vision work?
 
-
-I understand to a degree how sight works when our eyes are open, but I am wondering why we see flashes of color when we close our eyes?
-
-
-
-Also when we dream, what we see has nothing to do with what our eyes are doing right? I know once in REM our eyes move to follow our actions, but where are the images coming from?
-
-As light gets brighter we are pulled out of sleep, so are we still processing everything around us while we are sleeping?
-
-
-
-Also for people with Synesthesia, are their eyes telling them that they are seeing something that they’re not or does it skip the eyes and only happen in the brain? Would their eyes dilate if they see something in their mind that would normally make eyes dilate?
-
-
-
-Though it's not yet possible, what would happen to the processing of color if someone had an eye transplant? Since we seem to all see colors in slightly different shades, would the person receiving the eye transplant notice a slight difference in the shades of colors (of an object they're familiar with)? I guess this comes down to exactly where these differences in perception come from. 
-
-
-
-I have a question about laser eye surgery. By my understanding LASIK is pretty much reshaping the cornea using a laser. However, I'm wondering if "reshaping" the cornea has any harmful effects. The main article quotes "laser surgery is the most common treatment for the wet form but has the disadvantage of destroying normal retinal cells. It also may not be effective in preventing cell proliferation following treatment". So does this mean LASIK doesn't last forever and someone will eventually have to get it again? What happens if normal retinal cells are destroyed through LASIK?
-
-In class, we were talking about how in old age people's vision often gets worse because their lens gets less flexible so it is harder for them to see objects closer up, but why do some people have a far-sighted vision? Is it most common to have issues with the lens or are there other factors?
-
-
-
-The frogs were able to detect prey depending on the shape, movement, and number of a figure(s). Obviously these shapes weren't actually food, but the mere suggestion of it being prey because of the factors just mentioned, made the frogs think potential food was around. So I wonder what is the threshold or breaking point before the frogs no longer perceive the figures as food...But I am more curious about this in humans. In one of the attached videos a man showed different images that weren't the actual figure but provided enough essential elements, such as color and vague dimension, that we could perceive them as we know typically of them: for example the legos as different characters such as teenage mutant ninja turtles. What is our threshold before something is no longer perceptible? Is there even a way to measure such a response?
+1. What do we know about dark vision?
+2. Why doesn't kick in instantaneously?
+3. How long does it take?
+4. What ruins it / preserves it? Why?
+5. Guess why some animals (cats, owls?) have better night vision?
 
 ## Self-guided vision lab
 
@@ -535,17 +511,14 @@ As a write-up for this set of exercises, pick the exercise that you liked the mo
 
 # Vision 2 - in the brain
 
-## Class 1
+## Class 1 - Motion detection
 
-Quizzes on vision
+⭐ Quizzes:
 
-How does this illusion happen?
+* Types of retinal cells
+* Overall morphology of the eye
 
-http://stripgenerator.com/strip/625726/optical-illusion-gradient/
-
-
-
-Rotating square illusion:**
+**On motion detection**
 
 https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BJQE7DA74YSDKUF75ZYUT73FQ.gif
 1) Introspect what's going on, and if there's anything funny, what is it?
@@ -554,49 +527,25 @@ verbalize it
 
 Rotating circles illusion (two slightly different versions):
 
-https://i.imgur.com/xwC0ZEM.gif
+* https://i.imgur.com/xwC0ZEM.gif
+* https://i.imgur.com/zoopK6j.gif
 
-https://i.imgur.com/zoopK6j.gif
-
-
-
-The kitten: https://www.youtube.com/watch?v=CcXXQ6GCUb8
-
-https://michaelbach.de/ot/mot-flashLag/
-
-
-
-1) Within your group, summarize the toad vision experiments (from those videos you watched). How does this whole worm / antiworm thing works?
-2) If you were to summarize the results of this study to a philosophy student, what would you say? What is one take-home message from these experiments, in terms of "how the brain (or world) work"?
-3) Are these behaviors, and this type of perception, innate or learned, in frogs?
-4) Do humans have anything similar? Obviously, we learn to recognize our family, squirrels, and letters. But is there anything that may be at least somewhat remotely related to these behaviors in toads? Think about humans, and make a guess!!
-
-
-
-
-
-
-
-Remember the videos you watched, and the stuff you read, about how orientation-selective cells in the primary visual cortex work.
-
-In the retina we have this: (pic)
-
-But in V1 (primary visual cortex) we have this: (pic)
-
-**THE QUESTION:** How to get from cells with receptive fields like in the retina (top pic) to those like in the cortex (bottom pic)? How do you connect stuff to get orientation selective cells?
-
-Q: I know we have been talking a lot about illusions that people have made to trick our sight, but what examples are there of illusions occurring in the natural world? We discussed how trains make you see movement even after you’re done traveling, but what about animals or plants or any naturally occurring illusions? Are there any creatures that have evolved to create illusions to help themselves? 
-
-## Class 2
-
-Motion aftereffect:
+**Motion aftereffect:**
 
 * Weaker but easier to understand: https://www.youtube.com/watch?v=dupz1mmwpQU
 * Stronger, but harder to tease apart: https://www.youtube.com/watch?v=GkRHN0rnfME&t=20s
 
 Your goal is to watch the video, then discuss with other people what happened, they discuss how the video probably worked, then discuss what could it mean for how our brain work. Like, what had happened?
 
-The other way around: 
+Flash-lag effect:
+
+* https://michaelbach.de/ot/mot-flashLag/
+
+⭐ Quiz about inhibition?
+
+Then: **how can motion detection be organized?**
+
+**The other way around:**  (illusions of motion)
 
 * https://desktopdressedup.files.wordpress.com/2013/11/ill_29.png
 
@@ -605,19 +554,47 @@ The other way around:
 1) Share what you see, try to find the logic
 2) What could it mean? A hint: it's a consequence of a cool process that's "running in the background" when you see, but in this case it's getting a bit faulty. What could it be about?
 
-https://www.biomotionlab.ca/html5-bml-walker/
+### Information
 
-## Comment on final paper process
+1. No lab on Tuesday
+2. A short fun writing assignment (will be posted today)
+3. The final paper is now shorter than it was originally described in the syllabus (only 2 pages, and based on only 2 papers + review, not 2 papers and 2 reviews)
+4. I will post a topic-collecting note on Piazza today
 
-On papers and final projects:
+## Class 2 - Cortical processing
 
-* Sometimes I approve letters with reservations (like, it's technical, but if you like it - feel free to write about it). These are also "confirmations" that this paper is OK, so if you want to write about it, feel free to. Just be careful. However, if after some more deliberation, you decide to change the paper of your choice, that's also fine. Just respond to my response with a new idea, and mark this conversation as "unresolved" again, so that I would come back to it.
-* When working with papers, make sure to read the correspondence between the author and the reviewers. Read what the reviewers disliked, and how the author responded. This is a unique thing about elife journal (no other journal publishes reviews, which is really a shame). So please read them: it will tell you a lot about the paper; it will make it easier to write a good overview of it, but also you'll learn a lot about how science works!
-* The principle of self-calibration: I don't want you to reach the same level of proficiency with each of these papers; I want you to put a similar amount of effort, and learn a similar amount of stuff. So if a paper is long and super-weird, it is OK to understand the gist of it, and then understand one figure / method / approach / section in detail. If the paper is short however, or feels particularly accessible, I'll expect you to understand it better. So it's not about picking a harder paper or a simpler paper; strategically. It doesn't matter, ultimately. What matters is that you learn something new, and then tell me about it in a meaningful form ;)
+⭐ Quizzes:
+
+* Clever sensory-related words
+* Simple saccades
+
+* inhibition (as a prep for next topic)
+
+**Towards line detection**
+
+Then:
+
+* Remember the videos you watched, and the stuff you read, about how orientation-selective cells in the primary visual cortex work.
+* In the retina we have this: (draw center-surround inhibition on a whiteboard)
+* But in V1 (primary visual cortex) we have this: (pic of line detection)
+* **THE QUESTION:** How to get from cells with receptive fields like in the retina (top pic) to those like in the cortex (bottom pic)? How do you connect stuff to get orientation selective cells?
+
+**Toads**
+
+1) Within your group, summarize the toad vision experiments (from those videos you watched). How does this whole worm / antiworm thing works?
+2) If you were to summarize the results of this study to a philosophy student, what would you say? What is one take-home message from these experiments, in terms of "how the brain (or world) work"?
+3) Are these behaviors, and this type of perception, innate or learned, in frogs?
+4) Do humans have anything similar? Obviously, we learn to recognize our family, squirrels, and letters. But are there things that we recognize in a hardwired way?
+
+QUESTIONS FROM PIAZZA
 
 # Methods
 
-💡 Quiz: Fish + coronal saggital etc.
+⭐ Quizzes:
+
+* Gollum and friends (on saccades)
+
+* Fish + coronal saggital etc.
 
 Methods of research in the brain (brainstorm, follow with slides)
 
@@ -670,9 +647,9 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, 
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia)
 
-Future: Sainkho, Corsican, Laos, Milladoiro (Galicia), Ali Farka Toure & Toumani Diabate (Mali), Greek, Nusrat Fateh Ali Khan & Michael Brook, Iren Lovac, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
+Future: Laos, Corsican, Ali Farka Toure & Toumani Diabate (Mali), Greek, Nusrat Fateh Ali Khan & Michael Brook, Iren Lovac, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
 Vartinna, Mustafa-Zadeh, 
 

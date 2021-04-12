@@ -366,7 +366,7 @@ Also, give this online discussion a look (especially the 1st answer, summarizing
 
 Update on logistics:
 
-* Last topics
+* Last topics	
 * A vote on "Single neurons" vs "self-supervised learning"
 
 Topics we may consider:
@@ -422,10 +422,17 @@ On trivializing the idea of "ANNs are complex"; that the question is not whether
 
 ## 10. Neuromorphic engineering
 
-Review: 
+Main paper:
 
-* 🔥 Zenke … Goodman. Visualizing a joint future of neuroscience and neuromorphic engineering. 2020. https://igi-web.tugraz.at/PDF/258.pdf
-* ANOTHER PAPER WILL BE HERE
+* Zenke, F., Bohté, S. M., Clopath, C., Comşa, I. M., Göltz, J., Maass, W., ... & Goodman, D. F. (2021). Visualizing a joint future of neuroscience and neuromorphic engineering. Neuron, 109(4), 571-575. https://igi-web.tugraz.at/PDF/258.pdf
+
+Context paper:
+
+* Nawrocki, R. A., Voyles, R. M., & Shaheen, S. E. (2016). A mini review of neuromorphic architectures and implementations. IEEE Transactions on Electron Devices, 63(10), 3819-3829. https://www.academia.edu/download/55043930/IEEE_TED2016_Neuromorphic_Review.pdf 
+
+And just in case, a longer review. It is way too detailed for us (it methodically goes through every competing solution that was available in 2016), but it has funny images of various circuits, which helps to imagine it, I think.
+
+* Furber, S. (2016). Large-scale neuromorphic computing systems. Journal of neural engineering, 13(5), 051001. https://iopscience.iop.org/article/10.1088/1741-2560/13/5/051001/pdf
 
 ## 11. Interpretability in DL and Neuro
 

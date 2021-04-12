@@ -474,7 +474,7 @@ Make sure to do all of these exercises below. It should take about an hour, mayb
 
 As a write-up for this lab, pick the exercise that you liked the most (that you found most interesting and informative), and write either a haiku, a sonnet, or a limerick about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
-# Visual processing (cortical, subcortical), Critical Periods
+# Visual processing (cortical, subcortical)
 
 Videos:
 
@@ -482,9 +482,9 @@ Videos:
   * Retinal processing (45 min): https://www.youtube.com/watch?v=BcFG0gvHug8
 
 - Hubel and Wiesel:
-  - about them: https://www.youtube.com/watch?v=4nwpU7GFYe8
-  - experiment 1: https://www.youtube.com/watch?v=jIevCFZixIg
-  - experiment 2: https://www.youtube.com/watch?v=8VdFf3egwfg
+  - About them: https://www.youtube.com/watch?v=4nwpU7GFYe8
+  - Experiment 1: https://www.youtube.com/watch?v=jIevCFZixIg
+  - Experiment 2: https://www.youtube.com/watch?v=8VdFf3egwfg
 - A video about blindsight in humans: https://www.youtube.com/watch?v=9ABQ-U6V0tY
 - Illusions
   - Some visual illusions, with some comments: https://visme.co/blog/best-optical-illusions/
@@ -501,7 +501,6 @@ Advanced
 
 - Orientation selectivity in a cat: https://www.youtube.com/watch?v=QzkMo45pcUo
 - A short story that describes how it works (critical periods in development): https://www.youtube.com/watch?v=iRinGqREd4A
-- Do animals fall for human-made visual illusions? : 
 
 # Emotions. Limbic system
 
@@ -550,7 +549,7 @@ Virtual lab:
 * QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
   Post your personal record + your strategy.
 
-# Cortex: associative regions, language, lateralization
+# Cortical regions, language, lateralization
 
 - Language and two types of aphasias (from Khan academy): https://www.youtube.com/watch?v=lBqShvm4QRA
 - Aphasia case presentations:
@@ -566,7 +565,7 @@ Advanced
 
 - Higher cortical regions: https://nba.uth.tmc.edu/neuroscience/s4/chapter09.html
 
-# Left and right brains
+## Left and right brains
 
 - Real patients with hemilateral neglect: https://www.youtube.com/watch?v=d4FhZs-m7hA
 - Living with half a brain. There are several videos on youtube about patients like that. 
@@ -599,17 +598,6 @@ Advanced
   https://www.youtube.com/watch?v=m1Y5ugEWF00
 - Recursive drawing (as a metaphor for complex systems):
   http://recursivedrawing.com/draw.html
-
-# Visual illusions
-
-- McGurk effect: https://www.youtube.com/watch?v=G-lN8vWm3m0
-- On multisensory integration (this entire channel is gold):
-  https://www.youtube.com/watch?v=_zCDvOsdL9Q
-- After-motion effect: https://www.youtube.com/watch?v=GkRHN0rnfME
-
-Cortex. Higher associative regions. Language areas. Left and right brains.
-
-- Language in the cortex: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
 
 # Beauty and Creativity
 
