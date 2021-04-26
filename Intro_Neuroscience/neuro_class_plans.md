@@ -509,6 +509,22 @@ Make sure to do all of these exercises below. (each exercise is only about 1-2 m
 
 As a write-up for this set of exercises, pick the exercise that you liked the most (that you found most interesting, most fun, or most informative), and write either a haiku, a limerick, or a sonnet about it. (Use Wikipedia to learn the rules of each genre, if unsure). Post it below!
 
+# Lab-like-assignment: Simple Writer
+
+Dears, as announced, we don't have a lab this time around, but we have a short writing assignment instead.
+
+Here are the rules:
+
+- Very carefully read this comic: https://xkcd.com/1133/
+- Then watch this youtube video: https://www.youtube.com/watch?v=2p_8gx-XHJo
+- Very carefully study this page from the book "Things explainer": http://i.cbc.ca/1.3390492.1452021709!/fileImage/httpImage/thing-explainer.jpg
+- Then use this link to access the simple writer: https://xkcd.com/simplewriter/
+- Now, **pick any smart term or clever concept that we studied in this course** so far. Anything, starting from ions and channels, and to sensory systems, or brain regions – anything that we studied. Pick one term or concept. Then **try to write an encyclopedia entry for it using only simple words**! Describe the meaning of it, add some details, tell a story. The SimpleWriter will alert you if your words are not simple enough. So please only use simple words. **Write a paragraph of text** (at least 150 words, but the more, the better, as it's freaking hard!!). Make sure it provides a good, detailed description. Go on tiny tangents if you want to (like they did in that youtube video). It may help to set the picture right (and may actually be easier to write!)
+- Post your paragraph below!
+- **Don't tell anyone what you were trying to describe!** It goes without saying that you cannot use the word that you are describing. Make all readers (including your instructor) try to guess what you meant!
+- Try to describe something unique; don't do terms that are already taken by other people! Granted, some description may be obscure, so you won't be sure what they describe... Or maybe you find a much better way to describe a term. But try to pick something original. It means that the first few participants will have an easier time (they can pick simple things like "brain" or "neuron"), while later contributors will have to be more creative. But we studied LOTS of fancy terms and concepts in this course, so it should not be a problem to find something for everyone ;)
+- Good luck! And let me know if you have any questions!
+
 # Vision 2 - in the brain
 
 ## Class 1 - Motion detection
@@ -568,11 +584,20 @@ Then: **how can motion detection be organized?**
 * Clever sensory-related words
 * Simple saccades
 
+💡 Two announcements:
+
+* About mid-term grades
+* Reminder of the logic (that B to A estimations are mostly guesses at this point)
+
+* Reminder about final papers; how to find stuff on Google scholar, and SciHub.
+
+⭐ Anoter quiz:
+
 * inhibition (as a prep for next topic)
 
-**Towards line detection**
+**Motion detection - how does it work**?
 
-Then:
+**Towards line detection**
 
 * Remember the videos you watched, and the stuff you read, about how orientation-selective cells in the primary visual cortex work.
 * In the retina we have this: (draw center-surround inhibition on a whiteboard)
@@ -586,35 +611,63 @@ Then:
 3) Are these behaviors, and this type of perception, innate or learned, in frogs?
 4) Do humans have anything similar? Obviously, we learn to recognize our family, squirrels, and letters. But are there things that we recognize in a hardwired way?
 
-QUESTIONS FROM PIAZZA
+💎 QUESTIONS FROM PIAZZA:
 
-# Methods
+* Since the many different parts of vision occur in different parts of the brain, how common is it for someone to be only able to have some parts of a complete vision? (Ex: the part of the brain that does color doesn't work but the part that does shape works)
+
+# Morphology, Methods
 
 ⭐ Quizzes:
 
-* Gollum and friends (on saccades)
-
-* Fish + coronal saggital etc.
+* Fish + coronal sagittal etc.
 
 Methods of research in the brain (brainstorm, follow with slides)
+
+* How can we (humans) learn what brain region does what? How we probably learned it originally, and what fancy methods can we use for it now? Brainstorm about 10 very different methods, if you can, from very simple, to very fancy!
 
 Slides from the morphology lecture: 
 
 * look at some pics, 
 * recognize and name areas, 
-* discuss what they do (quick and dirty associations)
+* discuss what they do (quick and dirty labels)
 
 Why fore-mid-and-hindbrain regions are called that way? What's the secret here?
 
-# Morphology
+# Illusions
 
-Student questions:
+Quizzes
 
-* I was thinking about Human evolution and wondering if the size of your brain has to do anything with the experience of your senses? For example, neanderthals, although a distant relative to the human, supposedly had larger skulls and brain sizes compared to the modern human. Would the size change the way senses were perceived for the neanderthals?
+* Gollum and friends (on saccades)
+
+# Emotions
+
+Reminder:
+
+* that answered topics
+* Try to use post-2010, or at least post-2000 papers
+* please avoid speculative psychology (not experiment-based, but poetry-based), as well as general cultural commentary. You can include these papers in your story once you have 2 hard science  
+* 3 pages max, normal-spaced; so not more than 1500 words (a change again, but 2 pages wasn't doable)
+* that sci-hub exists
+
+What is an emotion? Define an emotion?
+
+* Two definitions that are somewhat related, but not really
+
+Why do we have emotional states?
+
+Why do we have emotional responses?
+
+* "Two systems"
+
+How to tell whether a dog, a bird, or a snake has emotions?
+
+* Bees example
+
+Can a robot have emotions?
+
+* That I have a cognitive dissonance here myself
 
 # Cortex
-
-Quiz on brain regions (7-8 min, not 5 - it takes them some time)
 
 Cortex:
 
@@ -637,6 +690,16 @@ Cortex:
 
 # Language
 
+
+
+Quizzes:
+
+* brain regions again (7-8 min, not 5 - it takes them some time)
+
+* Draco's spell
+
+Aphasias:
+
 1. How is Wernicke's aphasia different from Broca's?
 2. Where are the Wernicke's and Broca's areas in the brain?
 3. Can we see any logic in where they are located, that could help us to remember their role?
@@ -647,9 +710,12 @@ Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia)
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia), Laos, Ali Farka Toure & Toumani Diabate (Mali), Corsican
 
-Future: Laos, Corsican, Ali Farka Toure & Toumani Diabate (Mali), Greek, Nusrat Fateh Ali Khan & Michael Brook, Iren Lovac, Cuba, Burma, Georgian, Nepal, Nigeria and Ghana, Sinavi, Jan Johanson, Kazakh, Cumbia, Evenk, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
+Future: Nusrat Fateh Ali Khan & Michael Brook, Cuba (Ibragim  Frerrer), Iren Lovac, Greek, Nepal, Argentina, Iraq, Jan Johanson, Georgian, Evenk, Nigeria and Ghana, Sogdiana (Uzbek), Burma, Cumbia, Sinavi, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
 Vartinna, Mustafa-Zadeh, 
 
+For last claseses, whatever they are:
+
+Habib Koite - Afriki

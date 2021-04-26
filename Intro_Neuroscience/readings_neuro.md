@@ -556,8 +556,8 @@ Virtual lab:
   - https://www.youtube.com/watch?v=f2IiMEbMnPM - Broca's aphasia, old video
   - https://www.youtube.com/watch?v=1aplTvEQ6ew - Broca's aphasia, teenage stoke
   - https://www.youtube.com/watch?v=a9z6eX85Zn4 - same person 6 years later (on her channel you can find some more in-between videos if you want to)
-  - https://www.youtube.com/watch?v=aVhYN7NTIKU - Wernike's aphasia, old video
-  - https://www.youtube.com/watch?v=3oef68YabD0 - Wernike's aphasia, a better (more recent) video
+  - https://www.youtube.com/watch?v=aVhYN7NTIKU - Wernicke's aphasia, old video
+  - https://www.youtube.com/watch?v=3oef68YabD0 - Wernicke's aphasia, a better (more recent) video
 
 Advanced
 

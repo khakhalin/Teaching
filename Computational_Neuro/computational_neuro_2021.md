@@ -303,7 +303,7 @@ What is one potential problem with ReLUs, compared to, say, sigmoids, or leakyRe
 
 Confusion matrix. Precision and recall. Accuracy.
 
-## 4. DL❤️Neuro success story: convolutional networks
+## 4. DL-Neuro success story: convolutional networks
 
 Videos and readings:
 
@@ -413,9 +413,9 @@ On trivializing the idea of "ANNs are complex"; that the question is not whether
 
 ## 09. Single neurons as deep networks
 
-* 🟢 Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269. https://arxiv.org/abs/2009.01269
+* Jones, I. S., & Kording, K. P. (2020). Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees. arXiv preprint arXiv:2009.01269. https://arxiv.org/abs/2009.01269
 
-* 🟢 David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
+* David, Beniaguev, Segev Idan, and London Michael. "Single Cortical Neurons as Deep Artificial Neural Networks." bioRxiv (2019): 613141. https://www.biorxiv.org/content/10.1101/613141v1.full.pdf
 * Also, if you have few more minutes for your general education:
   * Can a single neuron solve XOR? (Discussion on twitter) https://twitter.com/KordingLab/status/1121405248315318272
   * Why this is important: because the first ANN (perceptron from late 1950s) famously could not solve XOR: https://en.wikipedia.org/wiki/Perceptrons_(book)#The_XOR_affair
@@ -434,31 +434,49 @@ And just in case, a longer review. It is way too detailed for us (it methodicall
 
 * Furber, S. (2016). Large-scale neuromorphic computing systems. Journal of neural engineering, 13(5), 051001. https://iopscience.iop.org/article/10.1088/1741-2560/13/5/051001/pdf
 
+### Class notes
+
+* On validity of questions
+* On nature of the paper
+* What's the main driving force behind Neuromorphic engineering?
+  * ...dispense with energetically costly floating-point multiplications, making them particularly advantageous for low-power applications compared to neural networks executed on conventional hardware.
+* Ngrams and Trends
+
+2nd half:
+
+* Great job!
+* 3 weeks and what they are
+* Grading and mid-term-grades
+
 ## 11. Interpretability in DL and Neuro
 
-Some stuff on core ML interpretability #todo
+Papers:
 
-Distill simulations on interpretability:
-
-* https://distill.pub/2017/feature-visualization/
-* https://distill.pub/2018/building-blocks/
-* https://distill.pub/2020/circuits/curve-detectors/
-* https://distill.pub/2021/multimodal-neurons/
-
-Papers to consider:
-
-* 🟢 Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
+* Lillicrap, T. P., & Kording, K. P. (2019). What does it mean to understand a neural network?. arXiv preprint arXiv:1907.06374.
   https://arxiv.org/abs/1907.06374 - an opinion piece, half-practical guidance, half philosophy
-* 🟢 Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
+* Cammarata, et al., "Thread: Circuits", Distill, 2020. https://distill.pub/2020/circuits/
   A series of short papers trying to understand and describe how a DLL vision model works, by looking at its tuning, neuron by neuron. (Would it make a good paper for a neuro class?)
+  * For example:
+  * https://distill.pub/2017/feature-visualization/
+  * https://distill.pub/2018/building-blocks/
+  * https://distill.pub/2020/circuits/curve-detectors/
+  * https://distill.pub/2021/multimodal-neurons/
 
 ### Class plans
+
+Questions from students:
+
+* How can we possibly understand networks through focusing on its learning principles, if both learning rules and architectures are still ad-hoc?
+  * Meta-learning, evolution as another type of learning, architecture searches, ticket hypothesis and distillation (including death of neurons in a human brain), generative models for networks, the idea of evolvability
+* Do polysemantic neurons exist in human brains?
+
+### Other possible options
 
 On laws of ANNs (on having no laws for now): The "Unreasonable Effectiveness" meme.
 
 The idea of "Hardware Lottery". https://hardwarelottery.github.io/
 
-We are about a year (maybe half a year) behind! On transformers that work better than convnets, but apparently resemble the brain LESS than convnets, despite using metaphors like "attention" (that are obviously also cognitive since-inspired): https://twitter.com/pfau/status/1377655611765186562
+We are about a year behind. On transformers that work better than convnets, but apparently resemble the brain LESS than convnets, despite using metaphors like "attention" (that are obviously also cognitive since-inspired): https://twitter.com/pfau/status/1377655611765186562
 
 ## 12. Large language models
 
@@ -490,10 +508,22 @@ We may for example have 1 review, and then several micro-topics
 * Medical AI
 * Self-driving cars (computer vision)
 
-Some extra materials:
+Materials:
 
-* A video of Tesla driving: https://www.youtube.com/watch?v=antLneVlxcs , and a commentary (not sure if good, haven't read it yet, but saving just in case): https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/
+* Automating racism (a really well-made 20 min video): https://www.youtube.com/watch?v=Ok5sKLXqynQ
+
+* EU proposal on AI regulation: https://www.politico.eu/wp-content/uploads/2021/04/14/AI-Draft.pdf
+* An ongoing controversy of whether it is ML algorithms that are biased, or whether algorithms are agnostic, and it is the data that is suboptimal, and if training on a different "better" data, you would have
+* 🔥 Very recent influential paper on this topic: 
+  * Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem”. Patterns, 2(4), 100241. https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1
+  * Another take (video, 12 minutes): https://www.youtube.com/watch?v=J7CrtblmMnU
+
+Some practical examples:
+
 * Automatic translation from Hungarian to English: https://twitter.com/DoraVargha/status/1373211762108076034
+* Algorithmic upsampling: https://twitter.com/Chicken3gg/status/1274314622447820801
+* Oldschool portrait generator: https://twitter.com/kuangrf/status/1368928416662163459
+* A video of Tesla driving: https://www.youtube.com/watch?v=antLneVlxcs , and a commentary (not sure if good, haven't read it yet, but saving just in case): https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/
 
 # Topics that were considered, but didn't make it
 
