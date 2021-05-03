@@ -480,23 +480,45 @@ We are about a year behind. On transformers that work better than convnets, but 
 
 ## 12. Large language models
 
-Desired readings: (actual links tbc)
+First, on some terms. **Probabilistic language models** are models that work with text: they can understand it, generate, translate, simplify, etc. A few years ago they were mostly used on recurrent neural networks (RNN), using LSTMs, but in 2018 there was a huge breakthrough named **transformers**. Transformers is a weird name for a network architecture that uses a trick called **attention**. 
 
-* 📗 We need a simplified description of transformers
-* 📗 We need an overview of GPT results
-* 📗 (Is there a link that is at least borderline GPT-like?)
-* 📗 We need some good GPT critique
+Here's my attempt to describe the idea of attention (in *this context*, which is very different from a human / psychology / neuroscience context). Instead of a simple feedforward architecture, where one vector is transformed again and again by different weight matrices, here we have 3 different vectors: **key**, **query**, and **values**. **Queries** are generated from the text that was outputted so far, and they represent the semantics of words we are looking for. **Keys** are also semantic embeddings of words, but they represent the words that could in principle be used in this situation (ultimately, they are also computed based on the words generated so far). A special operation ensures that we pay more attention (that's where this word comes from!) to those keys that are aligned with the query (that is, at every step we invest in types of words that are related to the topic, and also match the structure of the sentence). And **values** are the representation of actual words. So keys and queries encode abstarct concepts, like "an action verb", or "a name of an animal", and values encode actual verbs, or actual animals. (Now, if this sounds confusing, that's because I'm still struggling with it myself, but I'll try to read more by Friday!!)
 
-Some popular links (supposedly, in-depth, but not technical), yet unsorted:
+And then, in the case of text generation, the model looks at the text it produced previously, and uses transformers to generate the best next word. And it goes like that, word by word.
 
-* https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/
-* https://paperswithcode.com/task/language-modelling
-* https://www.topbots.com/leading-nlp-language-models-2020/
-* https://web.stanford.edu/~jurafsky/slp3/
-* https://raohacker.com/why-the-new-ai-nlp-language-model-gpt-3-is-a-big-deal/
-* https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
-* https://jalammar.github.io/illustrated-bert/
-* https://cacm.acm.org/magazines/2020/6/245162-contextual-word-representations/fulltext
+Finally, since 2018 there are several iterations of this model, produced by different companies, that are all slightly different from each other, and are also steadily getting better. These include ELMO, GPT, BERT, GPT2, GPT3, GROVER, and Huggingface Distilbert.
+
+Readings:
+
+* 🔵 An overview of GPT results
+  * An article completely written by GPT (but a human generated variations of every paragraph 8 times, and picked the best result): https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+  * GPT being interviewed by Finnish parliament live: https://twitter.com/teemu_roos/status/1380882630258921473
+  * Overview of why GPT is a big deal nevertheless: https://raohacker.com/why-the-new-ai-nlp-language-model-gpt-3-is-a-big-deal/
+
+* ⚪ How transformers work? (This is important, but also kinda fancy, so if you get overwhelmed, it's OK to skip this part. It's nice if you can develop at least a rough intuition for what is the difference from classic feed-forward deep networks though):
+  * How GPT works: https://jalammar.github.io/illustrated-gpt2/
+  * How transformers (attention) work, in general: https://jalammar.github.io/illustrated-transformer/
+  * Visualizing BERT word embeddings (one of the differences of BERT, compared to GPT, is that it also disassembles words into roots and suffixes): https://home.ttic.edu/~kgimpel/viz-bert/viz-bert.html
+  * I also find this lecture rather palatable relatable (it's 50 minutes, but nice, and not too mathy): https://www.youtube.com/watch?v=rBCqOTEfxvg 
+* 🔴 Try it for yourself:
+  * **Talk to transformer** (it continues your prompt :) Keep in mind that you have a limit of 10000 output characters a week to try, which is about 20 prompts or so. Which is enough to get a good sense of how it works, but not infinite. https://app.inferkit.com/demo
+* ⚫ GPT reviews and critiques:
+  * Marcus, GPT and the nature of intelligence: https://thegradient.pub/gpt2-and-the-nature-of-intelligence/
+  * Marcus, GPT3 the Bloviator: https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/
+  * If you prefer listening to stuff, this is such a big deal that this 4-hours stream with detailed analysis of GPT got 42 thousands views: https://youtu.be/iccd86vOz3w?t=3768
+
+Other materials (not required, but just in case):
+
+* The original paper that introduced attention (Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. arXiv preprint arXiv:1706.03762., 20k citations in 4 years): https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+  * Analysis of this paper on youtube: https://www.youtube.com/watch?v=iDulhoQ2pro
+* Visual comparison of several leading transformers-based models (GPT, BERT, ELMO etc): https://www.topbots.com/leading-nlp-language-models-2020/
+* Some general background on probabilistic language models (about 2017, so pre-GPT)
+  https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/
+* Next steps: Visual guide to BERT: https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+* Illustrated BERT. https://jalammar.github.io/illustrated-bert/
+* A whole textbook on the topic (the chapters that'd be most relevant to us are 22-24: coherency, question answering, and chatbots): https://web.stanford.edu/~jurafsky/slp3/
+* On word embeddings: https://cacm.acm.org/magazines/2020/6/245162-contextual-word-representations/fulltext
+* The original GPT-2 paper: https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
 
 ## 13. Ethics in AI
 

@@ -643,15 +643,26 @@ Quizzes
 
 Reminder:
 
-* that answered topics
-* Try to use post-2010, or at least post-2000 papers
-* please avoid speculative psychology (not experiment-based, but poetry-based), as well as general cultural commentary. You can include these papers in your story once you have 2 hard science  
+* Answered all topics
+* Some people posted their topics anonymously, so now I can only hope that you either recognize your submission, or got a response for me. I'm particularly worried about 2 students towards the end, where one of the students responded to another student instead of posting a new entry. I hope both of you got my response, but I can't be sure...
+* If you really hate your topic, or if you are confused about it, write me an email.
 * 3 pages max, normal-spaced; so not more than 1500 words (a change again, but 2 pages wasn't doable)
-* that sci-hub exists
+* Reminder: 3 papers, 2 primary (describing a study, ideally an experiment), and 1 review. A "primary" paper is one that presents new data; typically you can tell that that's the case because it has all the required sections: "introduction, methods, results, and discussion". Super-short and punchy papers, like those published in Nature and Science, may sometimes lack these subtitles, but even then, they still have these sections "in spirit", just shorter. But still, there's a description of what the researchers did, and where they got the data from, and how they processed these data, and what the results are. Often also a table or a figure. That's how you tell it's a research paper, and not a review or opinion.
+* So please try to find 2 primary papers (not reviews) on this topic. They may be a bit less interesting to read than reviews, as ultimately they will report something like "we did this very specific thing, and observed this very specific result that is rather hard to understand", but in a way it's way easier to write about, and also it's much closer to what scientific journalists actually write about. Unless you are a specialist in the topic, you cannot possibly give an decent overview of an entire field in 3 pages!! But you can briefly explain 2 new results in 3 pages.
+* Try to use post-2010, or at least post-2000 papers
+* please avoid speculative psychology (not experiment-based, but poetry-based), as well as general cultural commentary. Avoid papers that are pure sociology or humanities. Also And avoid opinion papers, perspectives, editorials etc. - they are also in the database, and they are also cited, but we are not after them. You can include any these papers in your story once you have 2 hard science, but don't make them your primary sources, for this class.
+* reminder on how to search: google scholar, then if necessary go forward and backwards in time using citations. Also sci-hub exists
+* The final paper doesn't need to be perfect. We don't have time for perfection; perfection is boring. It needs to be an honest effort. Not a stylistic imitation (we don't care about style), but you need to read 2 empirical studies, and try to write about them, putting then into context, and actually trying to explain to the imaginary reader what happened.
 
-What is an emotion? Define an emotion?
+Define an emotion? What is an emotion?
 
-* Two definitions that are somewhat related, but not really
+Try to come up with a working definition of what an emotion is.
+
+There's of course a definition on Wikipedia, but it's not too helpful. And one of the reasons it's not that helpful is that, I think, there are at least 2 very different uses for this word in our common language / thinking. So if can sketch both, that would be ideal. (But even if you only do one, as we have different groups, probably together well find both)
+
+And let's give a scientific, not a poetic definition, where "scientific" doesn't mean "smart-sounding", but rather "actionable". We want to be able to use this definition in the future, and tackle various questions, For example we can ask: "Do cats have emotions? Do goldfish have emotions?" Try to define emotions in ways that are actually useful.
+
+
 
 Why do we have emotional states?
 
@@ -669,6 +680,8 @@ Can a robot have emotions?
 
 # Cortex
 
+Start with an announcement of no classes next week
+
 Cortex:
 
 * draw a brain
@@ -678,19 +691,15 @@ Cortex:
   * the spatial one
   * the language one
 * Explain memory
+* Two visual streams: define, guess which one is which
 * Language areas
   * Draw a typical path of connections for listening
   * For responding an email
 * What about the right hemisphere?
   * prosody music
   * you caught a human in whom both hemispheres are heavily involved in language processing. What can you guess about him? (5 min)
-* Differences between hemispheres
-  * ask them to list what they heard, but also sort it into 3 buckets: seems right; probably an exaggeration; probably a myth (5 min)
-  * debrief
 
 # Language
-
-
 
 Quizzes:
 
@@ -704,15 +713,19 @@ Aphasias:
 2. Where are the Wernicke's and Broca's areas in the brain?
 3. Can we see any logic in where they are located, that could help us to remember their role?
 
-What have you ever heard about the differences between the left and right hemispheres, and what's your opinion about these statements? (Which sound like true, and which ones are fishy?)
+Differences between hemispheres
+
+* What have you ever heard about the differences between the left and right hemispheres, and what's your opinion about these statements? (Which sound like true, and which ones are fishy?)
+* ask them to list what they heard, but also sort it into 3 buckets: seems right; probably an exaggeration; probably a myth (5 min)
+* debrief
 
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
 
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia), Laos, Ali Farka Toure & Toumani Diabate (Mali), Corsican
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia), Laos, Ali Farka Toure & Toumani Diabate (Mali), Corsican, Nusrat Fateh Ali Khan & Michael Brook, Cuba (Ibragim  Frerrer), Greek, 
 
-Future: Nusrat Fateh Ali Khan & Michael Brook, Cuba (Ibragim  Frerrer), Iren Lovac, Greek, Nepal, Argentina, Iraq, Jan Johanson, Georgian, Evenk, Nigeria and Ghana, Sogdiana (Uzbek), Burma, Cumbia, Sinavi, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
+Future: Iren Lovac, Nepal, Argentina, Iraq, Jan Johanson, Georgian, Evenk, Nigeria and Ghana, Sogdiana (Uzbek), Burma, Cumbia, Sinavi, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
 Vartinna, Mustafa-Zadeh, 
 
