@@ -641,13 +641,13 @@ Quizzes
 
 # Emotions
 
-Reminder:
+Announcements:
 
 * Answered all topics
 * Some people posted their topics anonymously, so now I can only hope that you either recognize your submission, or got a response for me. I'm particularly worried about 2 students towards the end, where one of the students responded to another student instead of posting a new entry. I hope both of you got my response, but I can't be sure...
 * If you really hate your topic, or if you are confused about it, write me an email.
-* 3 pages max, normal-spaced; so not more than 1500 words (a change again, but 2 pages wasn't doable)
-* Reminder: 3 papers, 2 primary (describing a study, ideally an experiment), and 1 review. A "primary" paper is one that presents new data; typically you can tell that that's the case because it has all the required sections: "introduction, methods, results, and discussion". Super-short and punchy papers, like those published in Nature and Science, may sometimes lack these subtitles, but even then, they still have these sections "in spirit", just shorter. But still, there's a description of what the researchers did, and where they got the data from, and how they processed these data, and what the results are. Often also a table or a figure. That's how you tell it's a research paper, and not a review or opinion.
+* 3 pages max, normal-spaced; so not more than 1500 words (a change again, but 2 pages wasn't doable). More details in the syllabus: https://github.com/khakhalin/Teaching/blob/master/Intro_Neuroscience/neuro_syllabus_remote_2021.md
+* But here's a reminder for you: 3 papers, 2 primary (describing a study, ideally an experiment), and 1 review. A "primary" paper is one that presents new data; typically you can tell that that's the case because it has all the required sections: "introduction, methods, results, and discussion". Super-short and punchy papers, like those published in Nature and Science, may sometimes lack these subtitles, but even then, they still have these sections "in spirit", just shorter. But still, there's a description of what the researchers did, and where they got the data from, and how they processed these data, and what the results are. Often also a table or a figure. That's how you tell it's a research paper, and not a review or opinion.
 * So please try to find 2 primary papers (not reviews) on this topic. They may be a bit less interesting to read than reviews, as ultimately they will report something like "we did this very specific thing, and observed this very specific result that is rather hard to understand", but in a way it's way easier to write about, and also it's much closer to what scientific journalists actually write about. Unless you are a specialist in the topic, you cannot possibly give an decent overview of an entire field in 3 pages!! But you can briefly explain 2 new results in 3 pages.
 * Try to use post-2010, or at least post-2000 papers
 * please avoid speculative psychology (not experiment-based, but poetry-based), as well as general cultural commentary. Avoid papers that are pure sociology or humanities. Also And avoid opinion papers, perspectives, editorials etc. - they are also in the database, and they are also cited, but we are not after them. You can include any these papers in your story once you have 2 hard science, but don't make them your primary sources, for this class.
@@ -720,6 +720,14 @@ Differences between hemispheres
 * debrief
 
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
+
+# Morality and creativity
+
+Some questions to think about:
+
+- 1) Why would (or maybe "How could") a feeling of moral and immoral actions and behaviors develop evolutionary? Where did these concepts come from? What's the point of having them, in terms of survival?
+- 2) Overall are moral behaviors (broadly speaking) good for animals, in terms of helping their survival? Or is it more beneficial for animals to act "immorally"? (whatever it means?)
+- 3) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? How can they fail? And how can we live with it?
 
 # Intro Musics
 

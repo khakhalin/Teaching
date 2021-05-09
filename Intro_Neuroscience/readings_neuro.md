@@ -544,11 +544,6 @@ Risky links:
   - (Background: https://en.wikipedia.org/wiki/Deep_brain_stimulation )
 - Cerebellum: only read the overview, the chapter itself is wa-ay too detailed: https://nba.uth.tmc.edu/neuroscience/s3/chapter05.html
 
-Virtual lab:
-
-* QWOP game: try to get it to 10 m: http://www.foddy.net/Athletics.html
-  Post your personal record + your strategy.
-
 # Cortical regions, language, lateralization
 
 - Language and two types of aphasias (from Khan academy): https://www.youtube.com/watch?v=lBqShvm4QRA
@@ -564,15 +559,6 @@ Advanced
 * Language: https://nba.uth.tmc.edu/neuroscience/s4/chapter08.html
 
 - Higher cortical regions: https://nba.uth.tmc.edu/neuroscience/s4/chapter09.html
-
-## Left and right brains
-
-- Real patients with hemilateral neglect: https://www.youtube.com/watch?v=d4FhZs-m7hA
-- Living with half a brain. There are several videos on youtube about patients like that. 
-  - This one is a bit shorter: https://www.youtube.com/watch?v=f2fCY_M7Vms
-  - But I like this one better, even though it is a bit longer: https://www.youtube.com/watch?v=k1aiK1pocGU
-
-* Oliver Sacks (from the book “The man who mistook his wife for a hat”): Eyes right (very short story, on hemilateral neglect). https://drive.google.com/open?id=14p6s-vUBecrZ7YIc4ojdAgOzpW90EBp9
 
 # Memory
 
@@ -599,14 +585,44 @@ Advanced
 - Recursive drawing (as a metaphor for complex systems):
   http://recursivedrawing.com/draw.html
 
-# Beauty and Creativity
+# Executive control, Morality, and Creativity
+
+## Frontal regions
+
+Please start with these general readings:
+
+* First try to skim this (it's hard, so don't get discouraged, just read it for 10 minutes): https://en.wikipedia.org/wiki/Frontal_lobe
+* Then listen to this metaphorical explanation from Robert Sapolsky: https://www.youtube.com/watch?v=3RRtyV_UFJ8
+  * Except that the Marshmallow test he describes at the very end was actually debunked 2-3 years ago (we can talk about it in class if you remind me. And that's the overall problem with Sapolsky's courses - they are absolutely brilliant, but not entirely true, as quite a few of the most striking and imaginative experiments he describes failed to completely replicate)
+* Finally, read about lobotomies, and try to understand why they worked: https://en.wikipedia.org/wiki/Lobotomy
+
+## Morality
+
+Some questions to think about: 
+
+* 1) Why would (or maybe "How could") a feeling of moral and immoral actions and behaviors develop evolutionary? Where did these concepts come from? What's the point of having them, in terms of survival?
+* 2) Overall are moral behaviors (broadly speaking) good for animals, in terms of helping their survival? Or is it more beneficial for animals to act "immorally"? (whatever it means?)
+* 3) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? How can they fail? And how can we live with it?
+
+Now some videos and readings:
+
+- The evolution of trust: an amazing interactive (!) simulation that explains how moral behavior is beneficial, how it can evolve, but also how immoral behaviors may be beneficial as well, and what defines the balance between the two, within a society, or a population: https://ncase.me/trust/
+- A short 3 minute (for real!) video that describes how it applies to animal populations, and how (if you think of it) it is almost inevitable that a population would always have a sizable share (but always a minority!) of individuals who behave as assholes (sorry for a introducing this term here) https://www.youtube.com/watch?v=mUxt--mMjwA
+- "The final 5%": a rather heart-breaking story about a case of traumatic brain injury in which a person mostly recovered (something they called a 95% recovery): https://longreads.com/2019/10/22/the-final-five-percent/
+- Optional (but cool): a 15 min video on moral behaviors in animals: https://www.youtube.com/watch?v=GcJxRqTs5nk
+- And one more optional read: When your child is a psychopath (EDIT: I think it goes without saying, but this set of stories is also fascinating yet disturbing. If you are in a bad place right now, I will understand if you decide not to read it. But it not without hope, as you'll see if you read it till the end): https://www.theatlantic.com/magazine/archive/2017/06/when-your-child-is-a-psychopath/524502/
+
+## Beauty and Creativity
 
 - Bolero unraveling (about Anne Adams)
-  - https://www.nytimes.com/2008/04/08/health/08brai.html (paywall), http://www.radiantpics.com/creativity.pdf (same, free)
-  - Radiolab podcast, in case you like listening to podcasts: https://www.wnycstudios.org/podcasts/radiolab/articles/unraveling-bolero
+  - https://www.nytimes.com/2008/04/08/health/08brai.html (soft paywall), http://www.radiantpics.com/creativity.pdf (same text, free)
+  - Radiolab podcast, in case you prefer listening to podcasts: https://www.wnycstudios.org/podcasts/radiolab/articles/unraveling-bolero
   - A shorter article-like version that I personally prefer: https://www.newscientist.com/article/dn13599-bolero-beautiful-symptom-of-a-terrible-disease/
   - Scientific article about her: https://academic.oup.com/brain/article/131/1/39/346188
-  - Another article that claims that actually creativity, as measured objectively, is decreased in FTD patients (only skim through it, you don't have to read it in-depth): https://www.ncbi.nlm.nih.gov/pubmed/20868703
+  - Another article that claims that actually creativity, as measured objectively, is decreased in FTD patients (only read the abstract, you definitely don't have to read it in-depth): https://www.ncbi.nlm.nih.gov/pubmed/20868703
+
+And some optional readings. Only do them if you have time, and are interested in creativity, visual arts, etc:
+
 - The Visions of Hildegard - by Olver Sacks: https://drive.google.com/open?id=15R7D1Mc5n_BiUrF5kyqie-ViJCt0syyk
   - And also [this interview with him](https://skepticalinquirer.org/2013/05/oliver-sacks-on-hallucinations/) - it provides a bit more background, and also mentions synesthesia, which is another interesting phenomenon (look it up if you haven’t heard about it!). 
   - You may also want to glance through this wiki article: https://en.wikipedia.org/wiki/Aura_(symptom)
@@ -616,18 +632,30 @@ Advanced
   - https://www.reddit.com/r/Aphantasia/comments/aioyga/simple_aphantasia_test/
   - Can a person with aphantasia be a visual artist? It appears there’s no correlation whatsoever: https://twitter.com/ianmcque/status/1226246492148715520
 
-- Practical assignment:
-  - Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
-    Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
+Potential practical assignment:
+
+- Geometrize: http://www.samcodes.co.uk/project/geometrize-haxe-web/
+  Upload a picture; see it gradually appear on the screen. Every few seconds (use a timer?) note how pretty the picture is, on a 1-10 scale. Repeat with several pictures. Try to figure out, when the picture looks the prettiest: in the beginning, in the middle, or at the end? Why? If possible, find a friend and subject them to the same procedure; will their curve differ from yours?
 
 # Modularity of mind
 
-- Brain split
-  - What happens when cerebral hemispheres are separated (5 min): https://www.youtube.com/watch?v=zx53Zj7EKQE 
-  - A video about split brains: https://www.youtube.com/watch?v=wfYbgdo8e-8 (note: this one is both simplifying things, and exaggerating things a lot)
-  - Split-brain patient:
+## Left and right brains
+
+* Hemilateral neglect
+  * Explanation, and real patients: https://www.youtube.com/watch?v=d4FhZs-m7hA
+  * Oliver Sacks (from the book “The man who mistook his wife for a hat”): Eyes right (very short story, on hemilateral neglect). https://drive.google.com/open?id=14p6s-vUBecrZ7YIc4ojdAgOzpW90EBp9
+
+- What happens when cerebral hemispheres are separated 
+  - A video about split brains (5 min) that is easy to watch, but it also both simplifies, and exaggerates things a lot. Still a decent entry point: https://www.youtube.com/watch?v=wfYbgdo8e-8 
+  - A slightly more grounded video (also 5 min) that also introduces some real patients: 
     - part 1: https://www.youtube.com/watch?v=zx53Zj7EKQE
     - part 2: https://www.youtube.com/watch?v=u9u6cQYcOHw
+  - Living with half a brain. There are several videos on youtube about patients like that. 
+    - This one is a bit shorter: https://www.youtube.com/watch?v=f2fCY_M7Vms
+    - But I like this one better, even though it is a bit longer: https://www.youtube.com/watch?v=k1aiK1pocGU
+
+## Problems with mind modularity
+
 - Scizophrenia
   - Four patients with schizophrenia: https://www.youtube.com/watch?v=bWaFqw8XnpA&t=4m37s
   - A really wholesome interview (Cecilia's life with scizophrenia): https://www.youtube.com/watch?v=7csXfSRXmZ0
@@ -638,15 +666,3 @@ Advanced
   - The Americanization of Mental Illness
     http://www.brainm.com/software/pubs/brain/Americanization_of_Mental_Illness.pdf
     (Note that I don't necessarily fully agree with everything in this article, but it offers an important perspective)
-
-# Morality
-
-- The evolution of trust: an amazing interactive (!) simulation that explains how moral behavior is beneficial, how it can evolve, but also how immoral behaviors may be beneficial as well, and what defines the balance between the two, within a society, or a population: https://ncase.me/trust/
-- A short 3 minute (for real!) video that describes how it applies to animal populations, and how (if you think of it) it is almost inevitable that a population would always have a sizable share (but always a minority!) of individuals who behave as assholes (sorry for a introducing this term here) https://www.youtube.com/watch?v=mUxt--mMjwA
-- Optional (but cool): a 15 min video on moral behaviors in animals: https://www.youtube.com/watch?v=GcJxRqTs5nk
-- "The final 5%": a rather heart-breaking story about a case of traumatic brain injury in which a person mostly recovered (something they called a 95% recovery): https://longreads.com/2019/10/22/the-final-five-percent/
-- And one more optional read: When your child is a psychopath (EDIT: I think it goes without saying, but this set of stories is also fascinating yet disturbing. If you are in a bad place right now, I will understand if you decide not to read it. But it not without hope, as you'll see if you read it till the end): https://www.theatlantic.com/magazine/archive/2017/06/when-your-child-is-a-psychopath/524502/
-
-1) Why some behaviors that we perceive as potentially moral or immoral can even develop evolutionary. Or maybe, a more pointed question would be, how could a feeling of moral and immoral develop evolutionary? Where did these concepts come from?
-
-2) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? For example, how do they fail sometimes? Why do they fail? And how can we live with it?
