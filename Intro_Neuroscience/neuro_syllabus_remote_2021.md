@@ -192,7 +192,7 @@ Note that you only need to do this assignment if you're getting a B through hone
 5. Write a short essay (**3 pages max, normal-spaced; so not more than 1500 words**), in a reasonable literary language (modern journalism; so not exactly a diary, but also not a dry dead technical writing), describing what you learned from these papers, and what it all could mean. Don't just summarize the papers!! (that's boring!!). Sure, write a bit about them, but put them in some context. Compare them to each other. White how what you learned from them relates to the bigger picture. Try to relate it to what we learned in this course. Relate it to bigger societal issues, or your personal interests, if you want to. Try to write a good short punchy informative essay. Maybe almost like **something that could be published in a popular magazine about science** (see some examples below). That's our target genre.
 6. At the very end, add a "References" section, and cite all 3 papers, as well as any other sources, if you choose to use any. (In Google Scholar, find this article, click on the "quotation mark" symbol, copy the citation in APA format). 
 7. Don't worry about a specific citation style; you may use end-notes, footnotes, or even just hope that I'll figure out which one is which, if it's clear from the text somehow. Don't do "scientific references" for the sake of making your text look "sciency". Stylization is not our goal here. Popular piece about science, ok?
-8. Deadline for the final version: 4th day of completion week. Submissions will happen on Piazza.
+8. Deadline for the final version: 3d day of completion week. Submissions will happen on Piazza.
 
 ## Inspirational links, to get the genre right
 

@@ -695,9 +695,6 @@ Cortex:
 * Language areas
   * Draw a typical path of connections for listening
   * For responding an email
-* What about the right hemisphere?
-  * prosody music
-  * you caught a human in whom both hemispheres are heavily involved in language processing. What can you guess about him? (5 min)
 
 # Language
 
@@ -713,6 +710,37 @@ Aphasias:
 2. Where are the Wernicke's and Broca's areas in the brain?
 3. Can we see any logic in where they are located, that could help us to remember their role?
 
+# Frontal regions
+
+Reminders:
+
+* Show pictures for language-related connections. What is happening here?
+
+Then a lecture on frontal regions
+
+💡 Reminder that we have a peer-review session for those who are writing papers. Plus I can answer any questions about papers.
+
+## Morality, creativity
+
+* Talk about the Marshmallow test
+
+Some questions to think about:
+
+- 1) Why would (or maybe "How could") a feeling of moral and immoral actions and behaviors develop evolutionary? Where did these concepts come from? What's the point of having them, in terms of survival?
+- 2) Overall are moral behaviors (broadly speaking) good for animals, in terms of helping their survival? Or is it more beneficial for animals to act "immorally"? (whatever it means?)
+- 3) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? How can they fail? And how can we live with it?
+
+## Second class
+
+* Quizz about elves and brain regions
+
+# Laterality
+
+Remember language areas? So, what about the right hemisphere?
+
+* prosody music
+* you caught a human in whom both hemispheres are heavily involved in language processing. What can you guess about them? (5 min)
+
 Differences between hemispheres
 
 * What have you ever heard about the differences between the left and right hemispheres, and what's your opinion about these statements? (Which sound like true, and which ones are fishy?)
@@ -721,22 +749,12 @@ Differences between hemispheres
 
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
 
-# Morality and creativity
-
-Some questions to think about:
-
-- 1) Why would (or maybe "How could") a feeling of moral and immoral actions and behaviors develop evolutionary? Where did these concepts come from? What's the point of having them, in terms of survival?
-- 2) Overall are moral behaviors (broadly speaking) good for animals, in terms of helping their survival? Or is it more beneficial for animals to act "immorally"? (whatever it means?)
-- 3) What are the mechanisms (brain regions, cognitive mechanisms etc.) behind the moral intuitions in humans? How can they fail? And how can we live with it?
-
 # Intro Musics
 
-Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia), Laos, Ali Farka Toure & Toumani Diabate (Mali), Corsican, Nusrat Fateh Ali Khan & Michael Brook, Cuba (Ibragim  Frerrer), Greek, 
+Used: Forro, JPP, Yulduz, Vietnam, Bulgarian (kaval from plovdiv), Carlos Nakai, peruvean, Hungarian roma-influenced, Gamelan, Thai, ethiopian, Tekbilek, Hedningarna, Armenian, Moroccan, Gagaku, Cajun, Evora, Klezmer, Baobab, Sainkho, Milladoiro (Galicia), Laos, Ali Farka Toure & Toumani Diabate (Mali), Corsican, Nusrat Fateh Ali Khan & Michael Brook, Cuba (Ibragim  Frerrer), Greek, Iren Lovac, Nepal
 
-Future: Iren Lovac, Nepal, Argentina, Iraq, Jan Johanson, Georgian, Evenk, Nigeria and Ghana, Sogdiana (Uzbek), Burma, Cumbia, Sinavi, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
+Future: Argentina, Iraq, Jan Johanson, Georgian, Evenk, Nigeria and Ghana, Sogdiana (Uzbek), Burma, Cumbia, Sinavi, Ilgi (Latvian), Romanian, Gbaya - Centrafrique (from Central African Republic), Uygur, Drummers Of The Societe Absolument Guini (Haiti)
 
 Vartinna, Mustafa-Zadeh, 
 
-For last claseses, whatever they are:
-
-Habib Koite - Afriki
+For last claseses, whatever they are: Habib Koite - Afriki

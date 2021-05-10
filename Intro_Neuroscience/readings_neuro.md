@@ -592,7 +592,7 @@ Advanced
 Please start with these general readings:
 
 * First try to skim this (it's hard, so don't get discouraged, just read it for 10 minutes): https://en.wikipedia.org/wiki/Frontal_lobe
-* Then listen to this metaphorical explanation from Robert Sapolsky: https://www.youtube.com/watch?v=3RRtyV_UFJ8
+* Then listen to this metaphorical explanation from Robert Sapolsky (4 minutes): https://www.youtube.com/watch?v=3RRtyV_UFJ8
   * Except that the Marshmallow test he describes at the very end was actually debunked 2-3 years ago (we can talk about it in class if you remind me. And that's the overall problem with Sapolsky's courses - they are absolutely brilliant, but not entirely true, as quite a few of the most striking and imaginative experiments he describes failed to completely replicate)
 * Finally, read about lobotomies, and try to understand why they worked: https://en.wikipedia.org/wiki/Lobotomy
 
