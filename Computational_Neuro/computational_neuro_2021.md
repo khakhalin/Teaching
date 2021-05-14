@@ -522,22 +522,13 @@ Other materials (not required, but just in case):
 
 ## 13. Ethics in AI
 
-We may for example have 1 review, and then several micro-topics
-
-* language models (from the previous class)
-* routine data science (finances, insurance, predictive policing)
-* AI in social networks, political effects
-* Medical AI
-* Self-driving cars (computer vision)
-
-Materials:
+Dears, for our last topic this semester, please look through these materials:
 
 * Automating racism (a really well-made 20 min video): https://www.youtube.com/watch?v=Ok5sKLXqynQ
 
 * EU proposal on AI regulation: https://www.politico.eu/wp-content/uploads/2021/04/14/AI-Draft.pdf
 * An ongoing controversy of whether it is ML algorithms that are biased, or whether algorithms are agnostic, and it is the data that is suboptimal, and if training on a different "better" data, you would have
-* 🔥 Very recent influential paper on this topic: 
-  * Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem”. Patterns, 2(4), 100241. https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1
+  * 🔥 Very recent influential paper on this topic: Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem”. Patterns, 2(4), 100241. https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1
   * Another take (video, 12 minutes): https://www.youtube.com/watch?v=J7CrtblmMnU
 
 Some practical examples:
@@ -546,6 +537,31 @@ Some practical examples:
 * Algorithmic upsampling: https://twitter.com/Chicken3gg/status/1274314622447820801
 * Oldschool portrait generator: https://twitter.com/kuangrf/status/1368928416662163459
 * A video of Tesla driving: https://www.youtube.com/watch?v=antLneVlxcs , and a commentary (not sure if good, haven't read it yet, but saving just in case): https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/
+
+Finally, feel free to look for your own materials. Think of language models from the previous class; routine data science applications (finances, credit history, insurance, predictive policing, real estate, hiring and recruiting), AI in social networks (political effects? Facebook scandal?), Medical AI, etc.
+
+### Class notes
+
+* Background of the paper (The drama behind upsampling)
+* On cropping, why black faces were discriminated against?
+* Predictive policing - what are some of the possible problems with that? (two actualy)
+* Who is more biased, humans or AI? Say, in hiring?
+* Example with Hungarian
+  * What makes it so hard?
+  * https://en.wikipedia.org/wiki/Pragmatics
+    * Do you know where the store is? Could you open the door?
+      * Have you seen Tom? I have just woken up.
+      * Netflix anyone? I have an exam tomorrow.
+    * Ambiguity: this aged well, wet cat food, we saw her duck
+      https://en.wikipedia.org/wiki/Ambiguity
+    * sarcasm and understatement (quite good, not bad, "a bit of a sticky situation here")
+    * Kids are not good at it: "Oh, why is she wearing slippers?"
+  * Gender indicators:
+    * Japanese (Watashi, Atashi, Boku, Ore, Jibun, Ware etc.
+      https://cotoacademy.com/10-ways-how-say-i-me-japanese/
+    * Past tense in Russian, Polish etc. (poszla, poszedl)
+* Paper
+  * Pruning - what is it, and how does it relate to this topic?
 
 # Topics that were considered, but didn't make it
 

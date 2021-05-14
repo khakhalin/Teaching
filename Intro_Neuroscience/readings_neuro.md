@@ -656,10 +656,10 @@ Potential practical assignment:
 
 ## Problems with mind modularity
 
-- Scizophrenia
+- Schizophrenia
   - Four patients with schizophrenia: https://www.youtube.com/watch?v=bWaFqw8XnpA&t=4m37s
   - A really wholesome interview (Cecilia's life with scizophrenia): https://www.youtube.com/watch?v=7csXfSRXmZ0
-  - Paranoid schizophrenia simulation (a questionable attempt to make a training video. I'm not sure it's good, but I'm not sure it's bad either. It's definitely problematic (as in: there are good questions to be asked here), but it may still be somewhat useful): https://www.youtube.com/watch?v=LWYwckFrksg
+  - Paranoid schizophrenia simulation (a questionable attempt to make a training video. I'm not sure it's good, but I'm not sure it's bad either. It's definitely problematic (as in: there are valid critiques of this style of videos in general, and this rendition in particular), but it may still be somewhat useful): https://www.youtube.com/watch?v=LWYwckFrksg
 - Subvocalizations in schizophrenia: https://slate.com/technology/2016/03/schizophrenia-and-subvocal-speech-why-people-with-schizophrenia-hear-the-voices-of-god-spies-and-supernatural-entities.html
 - Schizophrenia in non-western societies:
   - https://news.stanford.edu/2014/07/16/voices-culture-luhrmann-071614/

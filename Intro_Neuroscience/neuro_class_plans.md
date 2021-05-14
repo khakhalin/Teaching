@@ -722,7 +722,9 @@ Then a lecture on frontal regions
 
 ## Morality, creativity
 
+* Question of frontal lobes developing until 30s
 * Talk about the Marshmallow test
+* About creativity 
 
 Some questions to think about:
 
@@ -748,6 +750,8 @@ Differences between hemispheres
 * debrief
 
 Imagine that you ran a person through an fMRI (or fancy EEG) study, and realized that BOTH sides of their brain are really involved with language. What guesses can you make about this person?
+
+Now off-topic (or rather an isolated topic): let's do a similar thing with difference between male and female brains. What have you  ever heard, or read, about this topic? First let's generate statements, and then later we'll try to sort them according to how likely they are to be true.
 
 # Intro Musics
 
