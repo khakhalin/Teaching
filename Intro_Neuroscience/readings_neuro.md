@@ -1,6 +1,6 @@
 # Intro Neuro - Full list of Readings, Videos, and Other Materials
 
-*Version: Feb 21, 2021*
+*Version: May 15, 2021*
 
 # Intro & Resting membrane potential
 
